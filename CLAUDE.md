@@ -5,7 +5,8 @@ This is a personal knowledge base maintained by an LLM. The human curates source
 ## Directory structure
 
 ```
-raw/            # Immutable source documents (articles, papers, notes, images)
+raw/inbox/      # New source documents waiting to be ingested
+raw/            # Ingested source documents (immutable after ingest)
 raw/assets/     # Downloaded images and attachments
 wiki/           # LLM-generated markdown pages (the wiki itself)
 wiki/index.md   # Content catalog — every page listed with summary and category
@@ -31,17 +32,19 @@ CLAUDE.md       # This file — schema and conventions
 
 ### Ingest
 
-When the user adds a source to `raw/` and asks to ingest it:
+New sources go in `raw/inbox/`. When the user asks to ingest (or specifies a file path directly):
 
-1. Read the source document fully.
-2. Discuss key takeaways with the user if they want interaction, or proceed if they say to just process it.
-3. Create a source summary page in `wiki/` with frontmatter, summary, key claims, and relevant quotes.
-4. Update or create entity pages for important people, organizations, tools, etc. mentioned in the source.
-5. Update or create concept pages for key ideas, methods, frameworks.
-6. Add `[[wikilinks]]` in all new and updated pages to connect them to existing pages.
-7. Update `wiki/index.md` with entries for all new pages.
-8. Append an entry to `wiki/log.md`.
-9. Report what was created and updated.
+1. If no path is given, scan `raw/inbox/` for files to ingest.
+2. Read the source document fully.
+3. Discuss key takeaways with the user if they want interaction, or proceed if they say to just process it.
+4. Create a source summary page in `wiki/` with frontmatter, summary, key claims, and relevant quotes.
+5. Update or create entity pages for important people, organizations, tools, etc. mentioned in the source.
+6. Update or create concept pages for key ideas, methods, frameworks.
+7. Add `[[wikilinks]]` in all new and updated pages to connect them to existing pages.
+8. Update `wiki/index.md` with entries for all new pages.
+9. Append an entry to `wiki/log.md`.
+10. Move the source file from `raw/inbox/` to `raw/` to mark it as ingested.
+11. Report what was created and updated.
 
 A single source typically touches 5-15 wiki pages.
 

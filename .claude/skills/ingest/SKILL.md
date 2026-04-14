@@ -9,15 +9,20 @@ effort: high
 
 # Ingest Source
 
-Ingest the source document at `$ARGUMENTS` into the wiki.
+Ingest source documents into the wiki.
 
 ## Steps
 
-1. **Read the source** at the provided path in full. If it's a PDF, read it page by page. If it's an image, view it.
+1. **Find sources to ingest:**
+   - If `$ARGUMENTS` contains a path, ingest that specific file.
+   - If `$ARGUMENTS` is empty or says "all", scan `raw/inbox/` for all files and ingest each one.
+   - If `raw/inbox/` is empty and no path was given, tell the user there's nothing to ingest.
 
-2. **Read the current state** of `wiki/index.md` to understand what pages already exist.
+2. **Read the source** in full. If it's a PDF, read it page by page. If it's an image, view it.
 
-3. **Create a source summary page** in `wiki/` with this structure:
+3. **Read the current state** of `wiki/index.md` to understand what pages already exist.
+
+4. **Create a source summary page** in `wiki/` with this structure:
    - Filename: `wiki/src-<kebab-case-title>.md`
    - Frontmatter: `title`, `type: source`, `source_file` (path to raw document), `author`, `date` (of original source if known), `created`, `updated`
    - Sections: Summary, Key Claims, Notable Quotes (if any), Related Pages (wikilinks)
@@ -46,7 +51,9 @@ Ingest the source document at `$ARGUMENTS` into the wiki.
    Updated: [[page3]], [[page4]], ...
    ```
 
-9. **Report** to the user: summarize what was created and updated, and mention anything interesting — contradictions with existing pages, surprising connections, gaps worth investigating.
+9. **Move ingested source:** If the source was in `raw/inbox/`, move it to `raw/` to mark it as ingested.
+
+10. **Report** to the user: summarize what was created and updated, and mention anything interesting — contradictions with existing pages, surprising connections, gaps worth investigating.
 
 ## Guidelines
 
