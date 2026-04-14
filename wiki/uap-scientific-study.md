@@ -27,17 +27,17 @@ updated: 2026-04-13
 
 ## Three Barriers
 
-According to [[src-ufo-research-2025-space-com]]:
+According to [[src-ufo-research-progress-2025]]:
 1. **Funding** -- Civilian research budgets far below what comprehensive sensor coverage requires
 2. **[[uap-stigma]]** -- Career risk deters scientists, especially early-career researchers
 3. **Military sensor access** -- Most capable sensors are military-operated and unavailable to civilian researchers
 
 ## Current Assessment
 
-As of late 2025, no definitive answers have been produced about what UAP phenomena are. According to [[src-ufo-research-2025-space-com]], the most important development was not any single sighting but the construction of institutional infrastructure that could eventually produce answers. This is treated as normal scientific progress for an emerging discipline.
+As of late 2025, no definitive answers have been produced about what UAP phenomena are. According to [[src-ufo-research-progress-2025]], the most important development was not any single sighting but the construction of institutional infrastructure that could eventually produce answers. This is treated as normal scientific progress for an emerging discipline.
 
 ## Sources
 
-- [[src-ufo-research-2025-space-com]] -- Most detailed assessment of scientific progress and barriers
-- [[src-uap-landscape-2025-aerospace-america]] -- Month-by-month institutional milestones
-- [[src-ufo-sightings-surge-2025-fox-news]] -- Palomar Observatory study
+- [[src-ufo-research-progress-2025]] -- Most detailed assessment of scientific progress and barriers
+- [[src-uap-landscape-2025]] -- Month-by-month institutional milestones
+- [[src-ufo-sightings-surge-2025]] -- Palomar Observatory study

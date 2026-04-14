@@ -10,21 +10,20 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 ## Sources
 
 - [[src-esa-enceladus-life-mission-2025]] — ESA proposes orbiter-lander mission to Saturn's moon Enceladus to search for life in its subsurface ocean
-- [[src-house-uap-hearing-september-2025]] — Military whistleblowers share new UAP evidence and engagement footage at September 2025 House hearing
 - [[src-immaculate-constellation-whistleblower-2025]] — Matthew Brown publicly confirms classified UAP surveillance program "Immaculate Constellation"
 - [[src-jwst-k2-18b-biosignature-2025]] — JWST detects dimethyl sulfide and dimethyl disulfide (potential biosignatures) in the atmosphere of exoplanet K2-18b
 - [[src-mars-perseverance-biosignature-2025]] — Perseverance rover discovers potential biosignature minerals in Cheyava Falls rock on Mars
 - [[src-seti-ai-breakthrough-listen-2025]] — Breakthrough Listen AI system achieves 600x speed improvement in detecting signals from space
 - [[src-uap-aaro-research-workshop-2025]] — Pentagon's AARO held an invite-only workshop in August 2025 to standardize UAP narrative data collection and research methodology
-- [[src-uap-landscape-2025-aerospace-america]] — AIAA year-in-review documenting the month-by-month institutionalization of UAP investigation in 2025
+- [[src-uap-landscape-2025]] — AIAA year-in-review documenting the month-by-month institutionalization of UAP investigation in 2025
 - [[src-uap-legislation-disclosure-efforts-2025]] — Overview of UAP disclosure legislation and congressional advocacy throughout 2025
 - [[src-uap-military-intercepts-ndaa-2026]] — DefenseScoop coverage of FY2026 NDAA provisions requiring Pentagon UAP intercept briefings since 2004
 - [[src-uap-ndaa-fy2026-intercept-provisions]] — FY2026 NDAA contains three provisions requiring AARO to brief Congress on UAP intercepts by NORAD and USNORTHCOM since 2004
 - [[src-uap-reverse-engineering-claims-overview-2025]] — Comprehensive overview of UAP reverse engineering and non-human technology claims as of 2025
-- [[src-uap-trump-disclosure-hegseth-feb-2026]] — Trump directs Pentagon to release UAP/alien files; Hegseth named point person; AARO caseload exceeds 2,000
-- [[src-uap-whistleblower-hearing-sep-2025]] — House hearing features military whistleblower testimony, video evidence of UAP engagement, and proposed whistleblower protections
-- [[src-ufo-research-2025-space-com]] — Space.com assessment of UAP research progress and barriers at the close of 2025
-- [[src-ufo-sightings-surge-2025-fox-news]] — Fox News year-end roundup of 2025 UAP developments including nuclear correlations, military encounters, and reporting surge
+- [[src-uap-trump-disclosure-2026]] — Trump directs Pentagon to release UAP/alien files; Hegseth named point person; AARO caseload exceeds 2,000
+- [[src-uap-whistleblower-hearing-2025]] — House hearing with military whistleblower testimony, video evidence of UAP engagement, and whistleblower protections
+- [[src-ufo-research-progress-2025]] — Space.com assessment of UAP research progress and barriers at the close of 2025
+- [[src-ufo-sightings-surge-2025]] — Fox News year-end roundup of 2025 UAP developments including nuclear correlations, military encounters, and reporting surge
 
 ## Entities
 

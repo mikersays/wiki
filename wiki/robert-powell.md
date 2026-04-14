@@ -21,5 +21,5 @@ The tension between government-held sensor data and civilian scientists' inabili
 
 ## Sources
 
-- [[src-uap-landscape-2025-aerospace-america]] -- Cost estimates and research vision
-- [[src-ufo-research-2025-space-com]] -- Detailed interview on barriers to progress
+- [[src-uap-landscape-2025]] -- Cost estimates and research vision
+- [[src-ufo-research-progress-2025]] -- Detailed interview on barriers to progress

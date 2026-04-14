@@ -18,7 +18,7 @@ updated: 2026-04-13
 ## Efforts to Reduce Stigma (2025)
 
 ### Reframing as Safety
-According to [[src-uap-landscape-2025-aerospace-america]], [[aaro]]'s May 2025 case-management architecture reframed UAP reports as **safety-of-flight concerns** rather than intelligence matters. This provides a non-stigmatized rationale for reporting. [[ryan-graves]] has been a key advocate of this approach.
+According to [[src-uap-landscape-2025]], [[aaro]]'s May 2025 case-management architecture reframed UAP reports as **safety-of-flight concerns** rather than intelligence matters. This provides a non-stigmatized rationale for reporting. [[ryan-graves]] has been a key advocate of this approach.
 
 ### Professional Society Endorsement
 [[aiaa]]'s endorsement of the Safe Airspace for Americans Act and its creation of a UAP Integration Committee legitimized the topic within the aerospace engineering establishment.
@@ -34,11 +34,11 @@ The [[sky-canada-project]] and Germany's AllSkyCAM development show internationa
 
 ## Persistence
 
-Despite progress, [[src-ufo-research-2025-space-com]] notes that stigma continues to deter some scientists from engaging. Career risk remains a real factor. Overclassification of UAP data, as highlighted in [[src-uap-military-intercepts-ndaa-2026]], may itself be motivated partly by stigma around the topic.
+Despite progress, [[src-ufo-research-progress-2025]] notes that stigma continues to deter some scientists from engaging. Career risk remains a real factor. Overclassification of UAP data, as highlighted in [[src-uap-military-intercepts-ndaa-2026]], may itself be motivated partly by stigma around the topic.
 
 ## Sources
 
-- [[src-ufo-research-2025-space-com]] -- Stigma identified as one of three key barriers
-- [[src-uap-landscape-2025-aerospace-america]] -- Institutional efforts to reduce stigma
+- [[src-ufo-research-progress-2025]] -- Stigma identified as one of three key barriers
+- [[src-uap-landscape-2025]] -- Institutional efforts to reduce stigma
 - [[src-uap-military-intercepts-ndaa-2026]] -- Whistleblower protections and overclassification
-- [[src-ufo-sightings-surge-2025-fox-news]] -- Growing mainstream coverage reflects shifting norms
+- [[src-ufo-sightings-surge-2025]] -- Growing mainstream coverage reflects shifting norms

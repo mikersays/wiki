@@ -31,7 +31,7 @@ updated: 2026-04-13
 
 ## Key Shift: Safety Framing
 
-A strategically significant development in 2025 was reframing UAP reports as **safety-of-flight concerns** rather than intelligence or defense matters. According to [[src-uap-landscape-2025-aerospace-america]], this provides a non-stigmatized rationale for reporting, potentially increasing data flow from commercial aviation. This approach, championed by [[ryan-graves]], sidesteps contentious questions about UAP origins to focus on practical airspace safety.
+A strategically significant development in 2025 was reframing UAP reports as **safety-of-flight concerns** rather than intelligence or defense matters. According to [[src-uap-landscape-2025]], this provides a non-stigmatized rationale for reporting, potentially increasing data flow from commercial aviation. This approach, championed by [[ryan-graves]], sidesteps contentious questions about UAP origins to focus on practical airspace safety.
 
 ## Barriers
 
@@ -42,7 +42,7 @@ A strategically significant development in 2025 was reframing UAP reports as **s
 
 ## Sources
 
-- [[src-uap-landscape-2025-aerospace-america]] -- FAA overhaul and AARO architecture
-- [[src-ufo-sightings-surge-2025-fox-news]] -- Enigma app and Americans for Safe Aerospace data
+- [[src-uap-landscape-2025]] -- FAA overhaul and AARO architecture
+- [[src-ufo-sightings-surge-2025]] -- Enigma app and Americans for Safe Aerospace data
 - [[src-uap-military-intercepts-ndaa-2026]] -- NDAA reporting consolidation provisions
-- [[src-ufo-research-2025-space-com]] -- Barriers to civilian infrastructure
+- [[src-ufo-research-progress-2025]] -- Barriers to civilian infrastructure

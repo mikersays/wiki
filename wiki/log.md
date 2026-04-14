@@ -16,9 +16,9 @@ Initialized the LLM Wiki vault with directory structure, schema, index, and log.
 Ingested 4 source documents by Brandi Vincent (DefenseScoop) covering UAP policy developments from September 2025 through March 2026.
 
 **Sources created (4):**
-- `src-uap-whistleblower-hearing-sep-2025` — September 2025 House hearing with military whistleblower testimony
+- `src-uap-whistleblower-hearing-2025` — September 2025 House hearing with military whistleblower testimony
 - `src-uap-ndaa-fy2026-intercept-provisions` — FY2026 NDAA UAP provisions (December 2025)
-- `src-uap-trump-disclosure-hegseth-feb-2026` — Trump disclosure directive and AARO caseload update (February 2026)
+- `src-uap-trump-disclosure-2026` — Trump disclosure directive and AARO caseload update (February 2026)
 - `src-uap-aaro-research-workshop-2025` — AARO invite-only research workshop (August 2025, reported March 2026)
 
 **Entity pages created (7):**
@@ -40,9 +40,9 @@ Ingested 4 source documents by Brandi Vincent (DefenseScoop) covering UAP policy
 Ingested 4 source documents covering UAP developments and research progress in 2025.
 
 **Sources created (4):**
-- `src-ufo-sightings-surge-2025-fox-news` — Fox News year-end roundup (nuclear correlations, military encounters, reporting surge)
-- `src-uap-landscape-2025-aerospace-america` — AIAA Aerospace America year-in-review (institutionalization of UAP investigation)
-- `src-ufo-research-2025-space-com` — Space.com assessment (scientific progress and barriers)
+- `src-ufo-sightings-surge-2025` — Fox News year-end roundup (nuclear correlations, military encounters, reporting surge)
+- `src-uap-landscape-2025` — AIAA Aerospace America year-in-review (institutionalization of UAP investigation)
+- `src-ufo-research-progress-2025` — Space.com assessment (scientific progress and barriers)
 - `src-uap-military-intercepts-ndaa-2026` — DefenseScoop FY2026 NDAA UAP intercept provisions
 
 **Entity pages created (6):**
@@ -93,7 +93,7 @@ Ingested 4 source documents covering UAP whistleblowers, congressional hearings,
 
 **Sources created (4):**
 - `src-immaculate-constellation-whistleblower-2025` — Matthew Brown confirms Immaculate Constellation program (April 2025)
-- `src-house-uap-hearing-september-2025` — House hearing with military whistleblower testimony and engagement footage (September 2025)
+- `src-uap-whistleblower-hearing-2025` — House hearing with military whistleblower testimony and engagement footage (September 2025)
 - `src-uap-legislation-disclosure-efforts-2025` — UAP disclosure legislation and congressional advocacy (March-December 2025)
 - `src-uap-reverse-engineering-claims-overview-2025` — Overview of reverse engineering and non-human technology claims (2025)
 

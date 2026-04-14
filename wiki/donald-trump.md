@@ -17,6 +17,6 @@ updated: 2026-04-13
 - A formal White House directive was to follow to compel transparency across the federal government
 - DOD to coordinate with ODNI, suggesting a whole-of-government approach
 
-See [[src-uap-trump-disclosure-hegseth-feb-2026]] for full details.
+See [[src-uap-trump-disclosure-2026]] for full details.
 
 See also: [[pete-hegseth]], [[aaro]], [[uap-disclosure]]

@@ -22,5 +22,5 @@ AIAA's endorsement of UAP-related legislation and its creation of a dedicated UA
 
 ## Sources
 
-- [[src-uap-landscape-2025-aerospace-america]] -- Published by AIAA's Aerospace America magazine
-- [[src-ufo-research-2025-space-com]] -- AIAA standards development referenced
+- [[src-uap-landscape-2025]] -- Published by AIAA's Aerospace America magazine
+- [[src-ufo-research-progress-2025]] -- AIAA standards development referenced

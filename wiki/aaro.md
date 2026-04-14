@@ -12,10 +12,10 @@ The **All-domain Anomaly Resolution Office (AARO)** is the U.S. Department of De
 ## Mission and Operations
 
 - Investigates UAP reports from military and other government sources
-- Manages a caseload exceeding **2,400 cases** as of early March 2026, with roughly 171 remaining officially unexplained ([[src-ufo-sightings-surge-2025-fox-news]])
-- Approximately **50% of cases lack sufficient data for analysis** and remain in the Active Archive ([[src-uap-trump-disclosure-hegseth-feb-2026]])
+- Manages a caseload exceeding **2,400 cases** as of early March 2026, with roughly 171 remaining officially unexplained ([[src-ufo-sightings-surge-2025]])
+- Approximately **50% of cases lack sufficient data for analysis** and remain in the Active Archive ([[src-uap-trump-disclosure-2026]])
 - Maintains that no evidence of extraterrestrial involvement has been found in any investigated case
-- In May 2025, developed a new case-management architecture integrating inputs from the [[faa]], civil aviation operators, and military sensors, reframing reports as safety-of-flight concerns ([[src-uap-landscape-2025-aerospace-america]])
+- In May 2025, developed a new case-management architecture integrating inputs from the [[faa]], civil aviation operators, and military sensors, reframing reports as safety-of-flight concerns ([[src-uap-landscape-2025]])
 
 ## Key Challenges
 
@@ -49,11 +49,11 @@ AARO is central to the [[uap-disclosure]] effort but has drawn criticism from tr
 
 ## Sources
 
-- [[src-uap-whistleblower-hearing-sep-2025]]
-- [[src-uap-trump-disclosure-hegseth-feb-2026]]
+- [[src-uap-whistleblower-hearing-2025]]
+- [[src-uap-trump-disclosure-2026]]
 - [[src-uap-ndaa-fy2026-intercept-provisions]]
 - [[src-uap-aaro-research-workshop-2025]]
-- [[src-ufo-sightings-surge-2025-fox-news]]
-- [[src-uap-landscape-2025-aerospace-america]]
-- [[src-ufo-research-2025-space-com]]
+- [[src-ufo-sightings-surge-2025]]
+- [[src-uap-landscape-2025]]
+- [[src-ufo-research-progress-2025]]
 - [[src-uap-military-intercepts-ndaa-2026]]

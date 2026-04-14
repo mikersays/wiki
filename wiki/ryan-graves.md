@@ -22,6 +22,6 @@ updated: 2026-04-13
 
 ## Sources
 
-- [[src-uap-landscape-2025-aerospace-america]] -- Profiled as key figure
-- [[src-ufo-research-2025-space-com]] -- Perspective on UAP as national security issue
+- [[src-uap-landscape-2025]] -- Profiled as key figure
+- [[src-ufo-research-progress-2025]] -- Perspective on UAP as national security issue
 - [[src-uap-military-intercepts-ndaa-2026]] -- Americans for Safe Aerospace referenced as advocacy organization

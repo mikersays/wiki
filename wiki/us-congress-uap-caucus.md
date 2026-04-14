@@ -13,7 +13,7 @@ Multiple members of the U.S. Congress have been actively involved in UAP oversig
 
 ### House
 
-- **Rep. Anna Paulina Luna (R-FL):** Chair of the Task Force on Declassification of Federal Secrets; co-sponsor of [[uap-whistleblower-protections|UAP Whistleblower Protection Act (H.R. 5060)]]; chaired the September 2025 UAP hearing ([[src-uap-whistleblower-hearing-sep-2025]])
+- **Rep. Anna Paulina Luna (R-FL):** Chair of the Task Force on Declassification of Federal Secrets; co-sponsor of [[uap-whistleblower-protections|UAP Whistleblower Protection Act (H.R. 5060)]]; chaired the September 2025 UAP hearing ([[src-uap-whistleblower-hearing-2025]])
 - **Rep. Eric Burlison (R-MO):** Leading House legislative efforts on UAP disclosure; introduced the UAP Disclosure Act of 2025 as NDAA amendment; presented video evidence at September 2025 hearing
 - **Rep. Tim Burchett:** Co-sponsor of H.R. 5060
 
@@ -29,6 +29,6 @@ Multiple members of the U.S. Congress have been actively involved in UAP oversig
 
 ## Task Force on Declassification of Federal Secrets
 
-The House Oversight and Government Reform Committee's Task Force held its first UAP-focused hearing on September 9, 2025 ([[src-uap-whistleblower-hearing-sep-2025]]). David Grusch serves as Special Advisor (appointed March 2025).
+The House Oversight and Government Reform Committee's Task Force held its first UAP-focused hearing on September 9, 2025 ([[src-uap-whistleblower-hearing-2025]]). David Grusch serves as Special Advisor (appointed March 2025).
 
 See also: [[uap-disclosure]], [[uap-whistleblower-protections]], [[ndaa-uap-provisions]], [[aaro]]

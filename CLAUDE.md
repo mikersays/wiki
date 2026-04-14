@@ -20,7 +20,12 @@ CLAUDE.md       # This file — schema and conventions
 - Every page gets YAML frontmatter with at least: `title`, `type` (source, entity, concept, analysis, comparison), `created`, `updated`.
 - Source pages additionally get: `source_file` (path to raw document), `author`, `date` (of the original source) when available.
 - Keep pages focused. One entity, concept, or source per page. Split rather than merge.
-- Use descriptive filenames in kebab-case: `wiki/reinforcement-learning.md`, `wiki/src-attention-is-all-you-need.md`.
+- Use descriptive filenames in kebab-case.
+- **Naming rules by page type:**
+  - **Source pages:** `src-[topic]-[yyyy].md` or `src-[topic]-[yyyy-mm].md` if month is needed to disambiguate. Topic is a brief descriptive slug. Never include outlet/publisher names or spelled-out month names in filenames. Examples: `src-attention-is-all-you-need-2017.md`, `src-uap-whistleblower-hearing-2025.md`.
+  - **Entity pages:** `[entity-name].md` — the entity's name in kebab-case. Examples: `david-grusch.md`, `nasa.md`.
+  - **Concept pages:** `[concept-name].md` — the concept in kebab-case. Examples: `reinforcement-learning.md`, `biosignatures.md`.
+  - **Analysis/comparison pages:** `[descriptive-title].md`. Examples: `uap-disclosure-timeline.md`.
 
 ## Workflows
 

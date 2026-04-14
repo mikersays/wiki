@@ -28,4 +28,4 @@ The FAA's May 2025 integration with [[aaro]]'s case-management architecture refr
 
 ## Sources
 
-- [[src-uap-landscape-2025-aerospace-america]] -- Detailed coverage of Notice JO 7110.800 and AARO integration
+- [[src-uap-landscape-2025]] -- Detailed coverage of Notice JO 7110.800 and AARO integration

@@ -25,5 +25,5 @@ SCU represents the civilian scientific community's effort to independently inves
 
 ## Sources
 
-- [[src-uap-landscape-2025-aerospace-america]] -- Powell's affiliation and cost estimates
-- [[src-ufo-research-2025-space-com]] -- Powell's detailed perspectives on barriers
+- [[src-uap-landscape-2025]] -- Powell's affiliation and cost estimates
+- [[src-ufo-research-progress-2025]] -- Powell's detailed perspectives on barriers

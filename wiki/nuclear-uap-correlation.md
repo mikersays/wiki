@@ -34,6 +34,6 @@ The nuclear-UAP correlation, if validated by further research, would suggest tha
 
 ## Sources
 
-- [[src-ufo-sightings-surge-2025-fox-news]] -- Palomar Observatory study details and Rubio quote
-- [[src-uap-landscape-2025-aerospace-america]] -- Nuclear facility sightings referenced
+- [[src-ufo-sightings-surge-2025]] -- Palomar Observatory study details and Rubio quote
+- [[src-uap-landscape-2025]] -- Nuclear facility sightings referenced
 - [[src-uap-military-intercepts-ndaa-2026]] -- Military installations as UAP hotspots

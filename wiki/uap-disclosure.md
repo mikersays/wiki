@@ -14,7 +14,7 @@ updated: 2026-04-13
 ### Congressional Hearings (2023-2025)
 
 - Multiple congressional hearings have featured testimony from military whistleblowers and intelligence officials
-- The September 2025 hearing ([[src-uap-whistleblower-hearing-sep-2025]]) was the first by the House Task Force on Declassification of Federal Secrets, featuring active-duty Navy testimony and video evidence of military engagement with a UAP
+- The September 2025 hearing ([[src-uap-whistleblower-hearing-2025]]) was the first by the House Task Force on Declassification of Federal Secrets, featuring active-duty Navy testimony and video evidence of military engagement with a UAP
 
 ### FY2026 NDAA Provisions (December 2025)
 
@@ -27,7 +27,7 @@ updated: 2026-04-13
 - [[donald-trump|President Trump]] directed the Pentagon and agencies to identify and release government files related to alien/extraterrestrial life and UAP
 - [[pete-hegseth|Defense Secretary Hegseth]] named as point person
 - Represents the most significant executive action on UAP disclosure to date
-- See [[src-uap-trump-disclosure-hegseth-feb-2026]]
+- See [[src-uap-trump-disclosure-2026]]
 
 ### AARO Research Workshop (August 2025, reported March 2026)
 
@@ -51,7 +51,7 @@ See also: [[uap-whistleblower-protections]], [[ndaa-uap-provisions]]
 - **Executive vs. legislative branch:** Congress has expressed bipartisan frustration with the pace and depth of disclosure from executive agencies
 - **National security vs. transparency:** Classification concerns constrain what can be released publicly
 - **Overclassification concerns:** The FY2026 NDAA requires AARO to justify its classification practices, addressing suspicions that classification is used to limit disclosure rather than protect genuine security interests
-- **Data quality:** According to [[src-uap-trump-disclosure-hegseth-feb-2026]], approximately half of [[aaro]]'s 2,000+ cases lack sufficient data for analysis
+- **Data quality:** According to [[src-uap-trump-disclosure-2026]], approximately half of [[aaro]]'s 2,000+ cases lack sufficient data for analysis
 
 ## Key Organizations
 

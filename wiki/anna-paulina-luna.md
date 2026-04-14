@@ -12,7 +12,7 @@ updated: 2026-04-13
 ## Role in UAP Disclosure
 
 - Chairs the Task Force on the Declassification of Federal Secrets
-- Led the September 2025 UAP hearing (per [[src-house-uap-hearing-september-2025]])
+- Led the September 2025 UAP hearing (per [[src-uap-whistleblower-hearing-2025]])
 - Met with [[lue-elizondo]] and [[chris-mellon]] in closed-door sessions (March 2025)
 - Co-drafted bipartisan, bicameral UAP legislation with [[tim-burchett]] and Eric Burlison
 
@@ -29,5 +29,5 @@ Luna has emerged as one of the most active congressional advocates for UAP trans
 
 ## Sources
 
-- [[src-house-uap-hearing-september-2025]]
+- [[src-uap-whistleblower-hearing-2025]]
 - [[src-uap-legislation-disclosure-efforts-2025]]

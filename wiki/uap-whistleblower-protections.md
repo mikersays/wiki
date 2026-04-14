@@ -11,7 +11,7 @@ updated: 2026-04-13
 
 ## Why Distinct Protections Are Needed
 
-According to [[src-uap-whistleblower-hearing-sep-2025]], Rep. Anna Paulina Luna argued that UAP whistleblowers require "different" safeguards from standard frameworks because:
+According to [[src-uap-whistleblower-hearing-2025]], Rep. Anna Paulina Luna argued that UAP whistleblowers require "different" safeguards from standard frameworks because:
 
 - UAP-related programs often involve extremely high classification levels
 - Standard whistleblower channels may not be equipped to handle the specific classification and compartmentalization structures of UAP programs
@@ -19,7 +19,7 @@ According to [[src-uap-whistleblower-hearing-sep-2025]], Rep. Anna Paulina Luna 
 
 ## Case Study: Dylan Borland
 
-Dylan Borland's testimony at the September 2025 hearing ([[src-uap-whistleblower-hearing-sep-2025]]) illustrates the risks whistleblowers face:
+Dylan Borland's testimony at the September 2025 hearing ([[src-uap-whistleblower-hearing-2025]]) illustrates the risks whistleblowers face:
 - Alleged sustained retaliation after reporting a 2012 UAP incident at Langley AFB
 - Stated "my professional career was deliberately obstructed"
 - Experienced workplace harassment and undermining of classified work eligibility
@@ -48,4 +48,4 @@ Whistleblower protections are a critical enabler of [[uap-disclosure]]. Without 
 - **David Grusch:** Former intelligence official, Special Advisor to the task force
 - **Joe Spielberger:** Project on Government Oversight
 
-See also: [[uap-disclosure]], [[ndaa-uap-provisions]], [[aaro]], [[src-uap-whistleblower-hearing-sep-2025]]
+See also: [[uap-disclosure]], [[ndaa-uap-provisions]], [[aaro]], [[src-uap-whistleblower-hearing-2025]]

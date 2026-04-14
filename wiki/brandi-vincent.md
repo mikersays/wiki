@@ -13,9 +13,9 @@ updated: 2026-04-13
 
 Vincent is the author of all four source documents ingested from DefenseScoop:
 
-- [[src-uap-whistleblower-hearing-sep-2025]] — September 2025 congressional UAP hearing
+- [[src-uap-whistleblower-hearing-2025]] — September 2025 congressional UAP hearing
 - [[src-uap-ndaa-fy2026-intercept-provisions]] — FY2026 NDAA UAP provisions (December 2025)
-- [[src-uap-trump-disclosure-hegseth-feb-2026]] — Trump disclosure directive (February 2026)
+- [[src-uap-trump-disclosure-2026]] — Trump disclosure directive (February 2026)
 - [[src-uap-aaro-research-workshop-2025]] — AARO research workshop (reported March 2026)
 
 She broke the story of [[aaro]]'s invite-only research workshop in August 2025 ([[src-uap-aaro-research-workshop-2025]]).

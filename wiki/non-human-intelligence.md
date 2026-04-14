@@ -19,7 +19,7 @@ updated: 2026-04-13
 
 Observations consistent across multiple witnesses and incidents suggest technology beyond known human capability:
 
-- **Trans-medium travel** (water to air, per the 2023 USS Jackson incident described in [[src-house-uap-hearing-september-2025]])
+- **Trans-medium travel** (water to air, per the 2023 USS Jackson incident described in [[src-uap-whistleblower-hearing-2025]])
 - **Near-instantaneous acceleration** with no sonic boom
 - **No conventional propulsion signatures**
 - **Self-luminous** characteristics
@@ -43,5 +43,5 @@ Observations consistent across multiple witnesses and incidents suggest technolo
 ## Sources
 
 - [[src-uap-reverse-engineering-claims-overview-2025]]
-- [[src-house-uap-hearing-september-2025]]
+- [[src-uap-whistleblower-hearing-2025]]
 - [[src-immaculate-constellation-whistleblower-2025]]

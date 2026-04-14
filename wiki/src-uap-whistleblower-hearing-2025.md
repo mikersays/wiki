@@ -37,10 +37,11 @@ On September 9, 2025, the House Oversight and Government Reform Committee's Task
 ### Senior Chief Petty Officer Alexandro Wiggins (U.S. Navy, Active Duty)
 
 - First active-duty Navy official to testify publicly about a UAP incident before [[us-congress-uap-caucus|Congress]]
+- 23 years of active service
 - Reported a 2023 incident aboard the **USS Jackson**: "a self-luminous Tic Tac-shaped [object] emerged from the ocean"
-- Object linked with three similar objects; all four disappeared with "near-instantaneous acceleration"
-- Observations "not consistent with conventional aircraft or drones"
-- Detected on multiple sensor systems including radar; no sonic boom recorded
+- Object linked with three similar objects; all four disappeared with "high, synchronized, near-instantaneous acceleration"
+- Key observables: multiple sensor detection (including radar), no sonic boom, no conventional propulsion signatures, self-luminous, **trans-medium travel**
+- The "Tic Tac" description echoes the famous 2004 USS Nimitz encounter
 
 ## Video Evidence
 
@@ -50,11 +51,17 @@ Rep. Eric Burlison (R-MO) unveiled previously unseen footage of a U.S. military 
 
 The hearing advanced the **UAP Whistleblower Protection Act (H.R. 5060)**, introduced by Reps. Tim Burchett and Anna Paulina Luna. The bill would codify distinct protections for individuals disclosing information about government-funded UAP research programs to Congress. Joe Spielberger of the Project on Government Oversight testified that whistleblower protections are essential because "misdeeds that they expose can often have a direct impact on public safety, civil liberties and the security of our country." See [[uap-whistleblower-protections]] and [[ndaa-uap-provisions]].
 
+## Supporting Testimony
+
+- **George Knapp** provided historical context on government UAP secrecy
+- **Joe Spielberger** from the **Project on Government Oversight (POGO)** addressed institutional barriers to transparency
+
 ## Institutional Context
 
 - [[aaro]] achieved full operational capacity in 2024 and manages dozens of open investigations
 - Government officials maintain secrecy regarding specific projects, caseloads, and findings
 - The hearing reflected bipartisan congressional frustration with the pace of [[uap-disclosure]]
+- The hearing demonstrated congressional UAP oversight survived the transition from the 118th to 119th Congress
 
 ## Key Participants
 
@@ -67,3 +74,6 @@ The hearing advanced the **UAP Whistleblower Protection Act (H.R. 5060)**, intro
 | SCPO Alexandro Wiggins | Active-duty Navy, USS Jackson witness |
 | Joe Spielberger | Project on Government Oversight |
 | David Grusch | Former intelligence official, Special Advisor to the task force |
+| George Knapp | Investigative journalist, historical context witness |
+
+See also: [[uap-reverse-engineering]], [[non-human-intelligence]], [[immaculate-constellation]], [[crash-retrieval-programs]]

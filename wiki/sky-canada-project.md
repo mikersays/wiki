@@ -21,4 +21,4 @@ The project signals that UAP investigation is gaining international traction bey
 
 ## Sources
 
-- [[src-uap-landscape-2025-aerospace-america]] -- Detailed coverage of the project's release and recommendations
+- [[src-uap-landscape-2025]] -- Detailed coverage of the project's release and recommendations

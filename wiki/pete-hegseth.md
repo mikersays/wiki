@@ -11,7 +11,7 @@ updated: 2026-04-13
 
 ## Role in UAP Disclosure
 
-- Named by [[donald-trump|Trump]] as point person for identifying and releasing government files related to UAP and extraterrestrial life ([[src-uap-trump-disclosure-hegseth-feb-2026]])
+- Named by [[donald-trump|Trump]] as point person for identifying and releasing government files related to UAP and extraterrestrial life ([[src-uap-trump-disclosure-2026]])
 - Publicly committed to "full compliance" with the executive order
 - Stated the Pentagon is "digging in" on implementation
 - Cautioned it would take "a little time to make sure we assess what this should look like"
