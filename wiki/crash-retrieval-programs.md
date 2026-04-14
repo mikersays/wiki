@@ -1,0 +1,46 @@
+---
+title: Crash Retrieval Programs
+type: concept
+created: 2026-04-13
+updated: 2026-04-13
+---
+
+# Crash Retrieval Programs
+
+**Crash retrieval programs** are alleged classified U.S. government programs dedicated to recovering crashed or landed craft of [[non-human-intelligence]] origin.
+
+## Key Claims
+
+### David Grusch
+
+[[david-grusch]] described a **"multi-decade UAP crash retrieval and reverse engineering program"** that has:
+
+- Recovered **"non-human origin technical vehicles"** -- both intact and partially intact
+- Recovered **"non-human biologics"** from crash sites
+- Been deliberately hidden from congressional oversight
+- Recovered **"quite a number"** of craft spanning decades
+- Allegedly involves both the U.S. and other nations
+
+### Upcoming Testimony
+
+According to [[src-uap-legislation-disclosure-efforts-2025]], [[anna-paulina-luna]] announced a planned hearing featuring **"someone that wants to come forward in regards to a crash retrieval program"** -- suggesting a new whistleblower beyond [[david-grusch]] was prepared to testify.
+
+## Relationship to Other Programs
+
+- **[[immaculate-constellation]]** -- focuses on UAP surveillance and data collection rather than physical recovery
+- **[[kona-blue]]** -- a proposed (but never launched) program to reverse-engineer recovered materials
+- **[[uap-reverse-engineering]]** -- the broader effort to understand recovered technology
+
+## Official Denial
+
+[[aaro]] found no evidence of crash retrieval programs or recovered non-human materials. The Pentagon maintains its official denial. Critics argue the investigation was constrained by the secrecy mechanisms it was tasked with penetrating.
+
+## Legislative Response
+
+The FY2026 NDAA requires the Pentagon to brief lawmakers on all NORAD/NORTHCOM UAP intercepts since 2004, which transparency advocates view as a step toward uncovering the truth about alleged retrieval operations.
+
+## Sources
+
+- [[src-uap-reverse-engineering-claims-overview-2025]]
+- [[src-uap-legislation-disclosure-efforts-2025]]
+- [[src-immaculate-constellation-whistleblower-2025]]
