@@ -23,6 +23,12 @@ updated: 2026-04-13
 - **Declassification initiatives** for UAP-related data
 - Announced a hearing featuring a witness willing to come forward about [[crash-retrieval-programs]]
 
+## Criticism of AARO
+
+- Exited a classified [[aaro]] briefing in April 2024, calling it unsubstantial
+- By September 2025, publicly characterized former AARO director Sean Kirkpatrick as "a documented liar on the congressional record"
+- Championed the effort to shut down AARO, supporting [[tim-burchett]]'s H.R. 8197 ([[src-aaro-shutdown-bill-2026]])
+
 ## Significance
 
 Luna has emerged as one of the most active congressional advocates for UAP transparency, providing institutional continuity from the 118th to the 119th Congress.
@@ -31,3 +37,4 @@ Luna has emerged as one of the most active congressional advocates for UAP trans
 
 - [[src-uap-whistleblower-hearing-2025]]
 - [[src-uap-legislation-disclosure-efforts-2025]]
+- [[src-aaro-shutdown-bill-2026]]

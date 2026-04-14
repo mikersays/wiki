@@ -25,6 +25,10 @@ updated: 2026-04-13
 - Argued that secrecy around [[uap-reverse-engineering]] programs is driven by the **strategic value** of potential technological breakthroughs, not concern about public panic
 - Framed recovered UAP technology as fueling a **"secretive arms race"** among nations (per [[src-uap-reverse-engineering-claims-overview-2025]])
 
+## Criticism of AARO
+
+- Described [[aaro]]'s historical record report as "the most error-ridden government document he had encountered in decades of service" — cited in congressional record by [[anna-paulina-luna]] ([[src-aaro-shutdown-bill-2026]])
+
 ## Significance
 
 Mellon's former senior DoD position lends institutional credibility to disclosure efforts. He serves as a bridge between the intelligence community and Congress on UAP matters.
@@ -33,3 +37,4 @@ Mellon's former senior DoD position lends institutional credibility to disclosur
 
 - [[src-uap-legislation-disclosure-efforts-2025]]
 - [[src-uap-reverse-engineering-claims-overview-2025]]
+- [[src-aaro-shutdown-bill-2026]]

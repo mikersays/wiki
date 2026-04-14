@@ -1,11 +1,35 @@
 ---
 title: Log
-updated: 2026-04-13
+updated: 2026-04-14
 ---
 
 # Log
 
 Chronological record of wiki activity. Each entry uses the format `## [YYYY-MM-DD] action | description` for easy parsing.
+
+## [2026-04-14] ingest | Batch ingest of 5 AARO-focused articles
+
+Searched the web for articles about AARO (All-domain Anomaly Resolution Office) and its involvement with UFO/UAP investigations. Used parallel agent teams to find articles across multiple angles (investigations, leadership, Congress, case management, proposed termination), then fetched and ingested 5 articles.
+
+**Sources created (5):**
+- `src-aaro-kosloski-testimony-2024` — Kosloski acknowledges "very anomalous objects" in Senate testimony (The Debrief, Nov 2024)
+- `src-aaro-fy2024-annual-report-2024` — FY2024 annual report: 1,600+ cases, Gremlin sensor deployed (DefenseScoop, Nov 2024)
+- `src-aaro-full-operational-capability-2024` — AARO reaches FOC October 2024 (DefenseScoop, Dec 2024)
+- `src-aaro-case-management-system-2025` — First contractor solicitation for JWICS case management system (DefenseScoop, May 2025)
+- `src-aaro-shutdown-bill-2026` — H.R. 8197 to terminate AARO within 60 days (UFO News, Apr 2026)
+
+**Entity pages created (1):**
+- `jon-kosloski` — AARO director since 2024, former NSA physicist
+
+**Entity pages updated (4):**
+- `aaro` — Added leadership section (Kosloski/Kirkpatrick), operational milestones, proposed termination, 5 new source refs
+- `tim-burchett` — Added AARO shutdown bill section
+- `anna-paulina-luna` — Added AARO criticism section
+- `chris-mellon` — Added AARO criticism section
+
+**Concept pages updated (2):**
+- `uap-reporting-infrastructure` — Added AARO CMS, Gremlin sensor, public reporting mechanism sections
+- `uap-disclosure` — Added Kosloski leadership shift and AARO shutdown bill entries
 
 ## [2026-04-13] init | Wiki created
 

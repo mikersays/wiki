@@ -40,9 +40,24 @@ A strategically significant development in 2025 was reframing UAP reports as **s
 - Overclassification of existing data (addressed by NDAA classification review provisions)
 - Funding limitations for civilian sensor networks
 
+## AARO Case Management System (2025)
+
+In May 2025, [[aaro]] issued its first formal contractor solicitation for a classified case management system (CMS) on **JWICS**, the DoD's top secret/SCI network. The system would integrate AARO's existing ad hoc tools into a unified platform with automated data extraction, case categorization, and encrypted storage ([[src-aaro-case-management-system-2025]]).
+
+## Gremlin Sensor System
+
+AARO deployed the **Gremlin** prototype detection system for a 90-day baseline collection at an undisclosed national security site in 2024, with plans to expand to other U.S. regions ([[src-aaro-fy2024-annual-report-2024]]).
+
+## Public Reporting Mechanism
+
+[[jon-kosloski]] announced plans in November 2024 to launch a public reporting mechanism allowing civilians to submit UAP sighting reports through the AARO website ([[src-aaro-kosloski-testimony-2024]]).
+
 ## Sources
 
 - [[src-uap-landscape-2025]] -- FAA overhaul and AARO architecture
 - [[src-ufo-sightings-surge-2025]] -- Enigma app and Americans for Safe Aerospace data
 - [[src-uap-military-intercepts-ndaa-2026]] -- NDAA reporting consolidation provisions
 - [[src-ufo-research-progress-2025]] -- Barriers to civilian infrastructure
+- [[src-aaro-case-management-system-2025]] -- JWICS case management system solicitation
+- [[src-aaro-fy2024-annual-report-2024]] -- Gremlin sensor deployment
+- [[src-aaro-kosloski-testimony-2024]] -- Public reporting mechanism plans

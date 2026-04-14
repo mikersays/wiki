@@ -2,7 +2,7 @@
 title: All-domain Anomaly Resolution Office (AARO)
 type: entity
 created: 2026-04-13
-updated: 2026-04-13
+updated: 2026-04-14
 ---
 
 # All-domain Anomaly Resolution Office (AARO)
@@ -43,12 +43,30 @@ AARO is central to the [[uap-disclosure]] effort but has drawn criticism from tr
 - Failure to meet statutory reporting obligations
 - Maintaining a position of no ET evidence despite congressional skepticism
 
-## Key Personnel
+## Leadership
 
+- **[[jon-kosloski]]:** Current director (appointed 2024). Former NSA physicist. Acknowledged "very anomalous objects" under investigation while maintaining no evidence of extraterrestrial technology ([[src-aaro-kosloski-testimony-2024]]). Emphasized rebuilding trust with witnesses and the UAP community.
+- **Sean Kirkpatrick:** Former director (2022–2024). Took a firmer stance denying anomalous findings. Later characterized by [[anna-paulina-luna]] as "a documented liar on the congressional record" ([[src-aaro-shutdown-bill-2026]]).
 - **Sue Gough:** Pentagon spokesperson for AARO matters
+
+## Operational Milestones
+
+- **October 1, 2024:** Achieved full operational capability (FOC), possessing "the requisite personnel, expertise, facilities and tools to carry out its core mission" ([[src-aaro-full-operational-capability-2024]])
+- **November 2024:** Published FY2024 annual report; 1,600+ total cases, 757 new submissions, 900+ unresolved ([[src-aaro-fy2024-annual-report-2024]])
+- **2024–2025:** Deployed **Gremlin** prototype sensor system for 90-day baseline collection at an undisclosed national security site ([[src-aaro-fy2024-annual-report-2024]])
+- **May 2025:** Issued first contractor solicitation for classified case management system on JWICS network ([[src-aaro-case-management-system-2025]])
+
+## Proposed Termination (H.R. 8197)
+
+In April 2026, [[tim-burchett]] introduced H.R. 8197 to **terminate AARO within 60 days** and legally prohibit creating any replacement centralized office. The bill reflects deep congressional frustration with AARO's transparency record, including failure to publish a 2025 annual report and nearly a year without media briefings. [[chris-mellon]] described AARO's historical report as "the most error-ridden government document he had encountered in decades." ([[src-aaro-shutdown-bill-2026]])
 
 ## Sources
 
+- [[src-aaro-kosloski-testimony-2024]]
+- [[src-aaro-fy2024-annual-report-2024]]
+- [[src-aaro-full-operational-capability-2024]]
+- [[src-aaro-case-management-system-2025]]
+- [[src-aaro-shutdown-bill-2026]]
 - [[src-uap-whistleblower-hearing-2025]]
 - [[src-uap-trump-disclosure-2026]]
 - [[src-uap-ndaa-fy2026-intercept-provisions]]

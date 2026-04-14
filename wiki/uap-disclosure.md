@@ -29,6 +29,11 @@ updated: 2026-04-13
 - Represents the most significant executive action on UAP disclosure to date
 - See [[src-uap-trump-disclosure-2026]]
 
+### AARO Kosloski Leadership Shift (Late 2024)
+
+- New director [[jon-kosloski]] acknowledged "very anomalous objects" under investigation, a rhetorical departure from predecessor Kirkpatrick ([[src-aaro-kosloski-testimony-2024]])
+- AARO reached full operational capability October 2024 ([[src-aaro-full-operational-capability-2024]])
+
 ### AARO Research Workshop (August 2025, reported March 2026)
 
 - [[aaro]] held an invite-only workshop to standardize UAP data collection and analysis
@@ -45,6 +50,11 @@ updated: 2026-04-13
 | FY2026 NDAA provisions | Enacted | AARO briefings, classification accountability, streamlined reporting |
 
 See also: [[uap-whistleblower-protections]], [[ndaa-uap-provisions]]
+
+### AARO Shutdown Bill (April 2026)
+
+- [[tim-burchett]] introduced H.R. 8197 to terminate [[aaro]] within 60 days and ban any replacement centralized office
+- Reflects culmination of congressional frustration with AARO's transparency record ([[src-aaro-shutdown-bill-2026]])
 
 ## Key Tensions
 

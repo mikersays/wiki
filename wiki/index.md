@@ -1,6 +1,6 @@
 ---
 title: Index
-updated: 2026-04-13
+updated: 2026-04-14
 ---
 
 # Wiki Index
@@ -9,6 +9,11 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 
 ## Sources
 
+- [[src-aaro-case-management-system-2025]] — AARO issues first contractor solicitation for classified case management system on JWICS
+- [[src-aaro-full-operational-capability-2024]] — AARO reaches full operational capability as of October 2024; classified congressional briefing planned
+- [[src-aaro-fy2024-annual-report-2024]] — AARO FY2024 annual report: 1,600+ total cases, Gremlin sensor deployed, no ET evidence found
+- [[src-aaro-kosloski-testimony-2024]] — New AARO director Kosloski acknowledges "very anomalous objects" in Senate testimony
+- [[src-aaro-shutdown-bill-2026]] — Rep. Burchett introduces H.R. 8197 to terminate AARO within 60 days
 - [[src-esa-enceladus-life-mission-2025]] — ESA proposes orbiter-lander mission to Saturn's moon Enceladus to search for life in its subsurface ocean
 - [[src-immaculate-constellation-whistleblower-2025]] — Matthew Brown publicly confirms classified UAP surveillance program "Immaculate Constellation"
 - [[src-jwst-k2-18b-biosignature-2025]] — JWST detects dimethyl sulfide and dimethyl disulfide (potential biosignatures) in the atmosphere of exoplanet K2-18b
@@ -29,6 +34,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 
 - [[aaro]] — All-domain Anomaly Resolution Office, the Pentagon's UAP investigation body established in 2022
 - [[aiaa]] — American Institute of Aeronautics and Astronautics, aerospace engineering society backing UAP research standards
+- [[jon-kosloski]] — AARO director since 2024; former NSA physicist who acknowledged "very anomalous objects" under investigation
 - [[anna-paulina-luna]] — Rep. (R-FL), chairs the Task Force on Declassification of Federal Secrets; leading congressional UAP transparency advocate
 - [[bob-lazar]] — Controversial figure who made the earliest prominent claims of UAP reverse engineering at S-4/Area 51 in 1989
 - [[brandi-vincent]] — DefenseScoop reporter covering UAP policy, Pentagon, and defense technology
