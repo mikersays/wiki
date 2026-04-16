@@ -5,7 +5,7 @@ source_file: raw/jwst-k2-18b-biosignature-2025.md
 author: Ashley Strickland, CNN
 date: 2025-04-17
 created: 2026-04-13
-updated: 2026-04-13
+updated: 2026-04-16
 ---
 
 # JWST Detects Potential Biosignature on K2-18b
@@ -52,9 +52,17 @@ The team used [[jwst]] instruments across multiple observation campaigns:
 
 > "A bigger question in my mind is whether we as a species are prepared to find life as we don't know it." — [[nikku-madhusudhan]]
 
+## Follow-up / Related Findings
+
+- **2026 radio technosignature null** — A VLA + MeerKAT 33-day search of K2-18 found no radio [[technosignatures]]; the paper itself describes the DMS/DMDS biosignature interpretation as "heavily disputed." See [[src-k2-18b-technosignature-null-2026]].
+- **2026 abiotic biosignature modeling** — Photochemical work refining abiotic O₂/O₃ ceilings is methodologically relevant to any future biosignature claim on M-dwarf rocky planets. See [[src-oxygen-false-positive-biosignatures-2026-03]] and [[false-positive-biosignatures]].
+
 ## See Also
 
 - [[biosignatures]]
 - [[exoplanet-habitability]]
 - [[astrobiology]]
 - [[jwst]]
+- [[k2-18b]]
+- [[hycean-worlds]]
+- [[technosignatures]]

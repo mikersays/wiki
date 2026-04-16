@@ -2,7 +2,7 @@
 title: Nikku Madhusudhan
 type: entity
 created: 2026-04-13
-updated: 2026-04-13
+updated: 2026-04-16
 ---
 
 # Nikku Madhusudhan
@@ -21,8 +21,15 @@ updated: 2026-04-13
 
 > "It's important that we're deeply skeptical of our own results, because it's only by testing and testing again that we will be able to reach the point where we're confident in them."
 
+## 2026 Status
+
+Per [[src-k2-18b-technosignature-null-2026]], the DMS/DMDS biosignature interpretation is now "heavily disputed" in the astrobiology community. A parallel radio [[technosignatures]] search (VLA + MeerKAT) on the same target returned a null result. Madhusudhan's [[hycean-worlds|hycean world]] framework nonetheless remains the dominant theoretical lens for interpreting [[k2-18b]].
+
 ## See Also
 
 - [[jwst]]
 - [[biosignatures]]
 - [[exoplanet-habitability]]
+- [[k2-18b]]
+- [[hycean-worlds]]
+- [[technosignatures]]

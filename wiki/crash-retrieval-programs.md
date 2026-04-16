@@ -2,7 +2,7 @@
 title: Crash Retrieval Programs
 type: concept
 created: 2026-04-13
-updated: 2026-04-13
+updated: 2026-04-16
 ---
 
 # Crash Retrieval Programs
@@ -39,8 +39,13 @@ According to [[src-uap-legislation-disclosure-efforts-2025]], [[anna-paulina-lun
 
 The FY2026 NDAA requires the Pentagon to brief lawmakers on all NORAD/NORTHCOM UAP intercepts since 2004, which transparency advocates view as a step toward uncovering the truth about alleged retrieval operations.
 
+## Alleged Physical Locus
+
+Per [[src-wright-patterson-general-missing-2026-03]], Marik Von Rennenkampff told CNN that [[nasic]] at [[wright-patterson-afb]] is "where those retrieved materials were ultimately taken for research and study." This echoes longstanding Roswell-lore claims (see [[roswell-incident]]) and remains unverified by [[aaro]]-confirmed evidence.
+
 ## Sources
 
 - [[src-uap-reverse-engineering-claims-overview-2025]]
 - [[src-uap-legislation-disclosure-efforts-2025]]
 - [[src-immaculate-constellation-whistleblower-2025]]
+- [[src-wright-patterson-general-missing-2026-03]]

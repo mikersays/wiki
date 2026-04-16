@@ -2,7 +2,7 @@
 title: NDAA UAP Provisions
 type: concept
 created: 2026-04-13
-updated: 2026-04-13
+updated: 2026-04-16
 ---
 
 # NDAA UAP Provisions
@@ -53,4 +53,4 @@ According to [[src-uap-ndaa-fy2026-intercept-provisions]], these provisions emer
 | UAP Disclosure Act of 2025 | Agency review within 300 days; disclosure within 25 years |
 | [[uap-whistleblower-protections|UAP Whistleblower Protection Act (H.R. 5060)]] | Legal protections for UAP program disclosures |
 
-See also: [[uap-disclosure]], [[aaro]], [[norad]], [[usnorthcom]], [[src-uap-ndaa-fy2026-intercept-provisions]]
+See also: [[uap-disclosure]], [[aaro]], [[norad]], [[usnorthcom]], [[drone-incursions]], [[src-uap-ndaa-fy2026-intercept-provisions]], [[src-northcom-drone-incursion-2026-03]]

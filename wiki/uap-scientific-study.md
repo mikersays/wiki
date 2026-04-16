@@ -2,7 +2,7 @@
 title: UAP Scientific Study
 type: concept
 created: 2026-04-13
-updated: 2026-04-13
+updated: 2026-04-16
 ---
 
 # UAP Scientific Study
@@ -14,6 +14,7 @@ updated: 2026-04-13
 - **January 2025**: Peer-reviewed paper "The New Science of Unidentified Aerospace-Undersea Phenomena (UAP)" published on arXiv, establishing a formal taxonomy and methodology for the field
 - **April 2025**: Rice University InterfaceRice conference brought together engineers, social scientists, historians, and defense experts
 - **October 2025**: Palomar Observatory study in Nature's Scientific Reports analyzing archival photographs for [[nuclear-uap-correlation]]
+- **August 2025 (publicly reported March 2026)**: [[aaro]] / [[aui]] invite-only UAP narrative-data workshop; AARO whitepaper formalizes the corpus-vs-narrative framing and IRB-governed civilian-government engagement ([[src-aaro-uap-data-collection-whitepaper-2026-03]])
 - [[aiaa]] established reporting standards and peer-reviewed research protocols
 - [[galileo-project]] at Harvard continued developing multi-spectral sensor arrays
 - University of Wurzburg developed AllSkyCAM automated monitoring systems
@@ -41,3 +42,4 @@ As of late 2025, no definitive answers have been produced about what UAP phenome
 - [[src-ufo-research-progress-2025]] -- Most detailed assessment of scientific progress and barriers
 - [[src-uap-landscape-2025]] -- Month-by-month institutional milestones
 - [[src-ufo-sightings-surge-2025]] -- Palomar Observatory study
+- [[src-aaro-uap-data-collection-whitepaper-2026-03]] -- AARO narrative-data whitepaper

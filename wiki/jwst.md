@@ -2,7 +2,7 @@
 title: James Webb Space Telescope (JWST)
 type: entity
 created: 2026-04-13
-updated: 2026-04-13
+updated: 2026-04-16
 ---
 
 # James Webb Space Telescope (JWST)
@@ -21,12 +21,25 @@ JWST has been systematically studying potentially habitable exoplanets through *
 
 ### K2-18b Observations
 
-According to [[src-jwst-k2-18b-biosignature-2025]], JWST detected potential [[biosignatures]] (dimethyl sulfide and dimethyl disulfide) in the atmosphere of exoplanet K2-18b, led by [[nikku-madhusudhan]]. The team used NIRISS and NIRSpec to detect methane and CO2, and later MIRI to detect DMS/DMDS — representing the strongest potential biosignature ever found on an exoplanet.
+According to [[src-jwst-k2-18b-biosignature-2025]], JWST detected potential [[biosignatures]] (dimethyl sulfide and dimethyl disulfide) in the atmosphere of exoplanet [[k2-18b]], led by [[nikku-madhusudhan]]. The team used NIRISS and NIRSpec to detect methane and CO2, and later MIRI to detect DMS/DMDS. The DMS biosignature interpretation remains **heavily disputed**; a parallel 2023 VLA + MeerKAT [[technosignatures|technosignature]] search on the same target returned a null result ([[src-k2-18b-technosignature-null-2026]]).
+
+### Alpha Centauri A Direct Imaging
+
+JWST's **MIRI coronagraph** at 15 microns detected a candidate Saturn-like gas giant around [[alpha-centauri-a]] at ~2 AU ([[src-alpha-centauri-a-exoplanet-2026]]). If confirmed, this would be the closest exoplanet to Earth in a Sun-like star's habitable zone. The detection appeared in only one of three observing epochs and remains unconfirmed. See [[direct-imaging]].
+
+### Biosignature Interpretation Caveat
+
+Per [[src-oxygen-false-positive-biosignatures-2026-03]], interpreting any JWST O₂/O₃ detection on M-dwarf rocky planets requires ruling out abiotic CO₂-photolysis + HOx-chemistry pathways. See [[false-positive-biosignatures]].
 
 ## See Also
 
 - [[biosignatures]]
 - [[exoplanet-habitability]]
 - [[astrobiology]]
+- [[k2-18b]]
+- [[alpha-centauri-a]]
+- [[direct-imaging]]
+- [[technosignatures]]
+- [[false-positive-biosignatures]]
 - [[nasa]]
 - [[esa]]

@@ -58,6 +58,20 @@ When the user asks a question:
 4. If the answer is substantial and worth preserving, offer to save it as a new wiki page (type: analysis or comparison).
 5. If saved, update the index and log.
 
+### Fetch news (`/ufo-news`)
+
+When the user asks to pull in fresh UFO/UAP/alien coverage from the web:
+
+- This workflow uses **parallel agent teams** (see `.claude/skills/ufo-news/SKILL.md` for the full protocol).
+- Phase 1: fan out `Agent` calls — one per search track — to collect candidate URLs.
+- Phase 2: main agent dedupes against `raw/` and `wiki/index.md`, presents candidates, waits for user pick.
+- Phase 3: fan out one fetch agent per chosen URL; each writes its own file to `raw/inbox/`.
+- Phase 4: fan out one analysis agent per saved file — read-only, returns structured output.
+- Phase 5: main agent serially merges into shared files (`index.md`, `log.md`, entity/concept pages).
+- Phase 6: report, including cross-connections between the new sources.
+
+Parallel agents must be dispatched in a **single message with multiple `Agent` tool calls**. Subagents have no shared memory — every prompt must be self-contained. Only the main agent writes to `index.md`, `log.md`, and existing entity/concept pages.
+
 ### Lint
 
 When the user asks to health-check the wiki:
@@ -102,3 +116,14 @@ Details of what happened.
 ```
 
 Actions: `ingest`, `query`, `lint`, `update`, `init`.
+
+## Skills
+
+User-invocable slash commands live in `.claude/skills/`:
+
+- `/ingest <path>` — full ingest workflow for one file (or all of `raw/inbox/`).
+- `/ufo-news [topic]` — parallel web search + ingest for fresh UFO/UAP/alien news.
+- `/query <question>` — answer a question from the wiki with citations.
+- `/save <title>` — save the last query answer as a permanent wiki page.
+- `/lint` — health-check the wiki.
+- `/wiki-help` — list commands and show architecture.

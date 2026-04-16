@@ -2,7 +2,7 @@
 title: Christopher Mellon
 type: entity
 created: 2026-04-13
-updated: 2026-04-13
+updated: 2026-04-16
 ---
 
 # Christopher Mellon
@@ -33,8 +33,13 @@ updated: 2026-04-13
 
 Mellon's former senior DoD position lends institutional credibility to disclosure efforts. He serves as a bridge between the intelligence community and Congress on UAP matters.
 
+## On the Trump Directive (March 2026)
+
+Per [[src-trump-uap-files-delay-2026-03]], Mellon confirmed to CNN that interagency meetings have begun to scope the release. He urged tempered expectations — the review is line-by-line, trained security officers are scarce, and the challenge is balancing transparency with protecting war-fighting capabilities.
+
 ## Sources
 
 - [[src-uap-legislation-disclosure-efforts-2025]]
 - [[src-uap-reverse-engineering-claims-overview-2025]]
 - [[src-aaro-shutdown-bill-2026]]
+- [[src-trump-uap-files-delay-2026-03]]

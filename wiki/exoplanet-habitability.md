@@ -2,7 +2,7 @@
 title: Exoplanet Habitability
 type: concept
 created: 2026-04-13
-updated: 2026-04-13
+updated: 2026-04-16
 ---
 
 # Exoplanet Habitability
@@ -15,7 +15,7 @@ updated: 2026-04-13
 The orbital region around a star where conditions permit liquid water on a planet's surface. K2-18b orbits within its star's habitable zone at 124 light-years from Earth ([[src-jwst-k2-18b-biosignature-2025]]).
 
 ### Hycean Worlds
-A class of habitable planet theorized by [[nikku-madhusudhan]] in 2021 — planets entirely covered in liquid water with hydrogen-rich atmospheres. K2-18b is the leading Hycean world candidate, with 8.6x Earth's mass and 2.6x Earth's diameter.
+A class of habitable planet theorized by [[nikku-madhusudhan]] in 2021 — planets entirely covered in liquid water with hydrogen-rich atmospheres. [[k2-18b]] is the leading [[hycean-worlds|hycean world]] candidate, with 8.6x Earth's mass and 2.6x Earth's diameter.
 
 However, independent teams interpret K2-18b differently:
 - **Hycean world** with liquid water oceans (Madhusudhan's team)
@@ -28,8 +28,8 @@ The [[jwst]] uses **transmission spectroscopy** to identify atmospheric gases du
 ## Detection Methods
 
 - **Transmission spectroscopy**: Analyzing starlight filtered through an exoplanet's atmosphere
-- **Direct imaging**: Blocking starlight to observe the planet directly (future telescopes)
-- **Atmospheric modeling**: Comparing observed spectra to predicted chemical compositions
+- **[[direct-imaging|Direct imaging]]**: Blocking starlight to observe the planet directly; used for the [[jwst]] MIRI coronagraph candidate at [[alpha-centauri-a]] ([[src-alpha-centauri-a-exoplanet-2026]])
+- **Atmospheric modeling**: Comparing observed spectra to predicted chemical compositions — essential for ruling out [[false-positive-biosignatures]]
 
 ## Open Questions
 
@@ -43,3 +43,9 @@ The [[jwst]] uses **transmission spectroscopy** to identify atmospheric gases du
 - [[astrobiology]]
 - [[jwst]]
 - [[nikku-madhusudhan]]
+- [[k2-18b]]
+- [[alpha-centauri-a]]
+- [[hycean-worlds]]
+- [[false-positive-biosignatures]]
+- [[direct-imaging]]
+- [[technosignatures]]

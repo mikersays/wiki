@@ -16,6 +16,7 @@ Display the following help text to the user. Do not modify it — print it as-is
 | Command | Description |
 |---------|-------------|
 | `/ingest <path>` | Process a source document into the wiki. Creates a summary page, entity/concept pages, cross-references, and updates the index and log. |
+| `/ufo-news [topic]` | Search the web for the latest UFO/UAP/alien news, save to `raw/inbox/`, and ingest into the wiki. Optional topic narrows the search. |
 | `/query <question>` | Ask a question against the wiki. Searches pages, synthesizes an answer with citations, and offers to save substantial answers. |
 | `/save <title>` | Save the last query answer or analysis as a permanent wiki page. |
 | `/lint` | Health-check the wiki. Finds contradictions, orphan pages, missing links, stale content, and gaps. |

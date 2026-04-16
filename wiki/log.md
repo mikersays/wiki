@@ -1,11 +1,63 @@
 ---
 title: Log
-updated: 2026-04-14
+updated: 2026-04-16
 ---
 
 # Log
 
 Chronological record of wiki activity. Each entry uses the format `## [YYYY-MM-DD] action | description` for easy parsing.
+
+## [2026-04-16] ingest | /ufo-news follow-ups — 3 additional sources (Luna letter primary, AARO whitepaper, Japan UAP)
+
+Follow-up pass on failures from the morning sweep. 5 parallel agents retried the four blocked primary sources and verified alien.gov's state.
+
+**Results:**
+- **SAVED (3)**: `src-luna-46-uap-videos-demand-2026-03` (reconstructed via Newsweek + BroBible + Liberation Times after oversight.house.gov 403), `src-aaro-uap-data-collection-whitepaper-2026-03` (reconstructed via DefenseScoop/The Debrief/NUFORC after aaro.mil 403), `src-japan-uap-strategy-proposal-2026-03` (Sentinel News, replacing paywalled Medium piece).
+- **FAILED (1)**: April 15 "Restoring Public Trust" hearing page — subagent correctly determined that oversight.house.gov URL refers to the **September 9, 2025 hearing already in the wiki** (`src-uap-whistleblower-hearing-2025`), not a distinct 2026 event. No duplicate created.
+- **NO-CHANGE (1)**: alien.gov / aliens.gov still return TLS cert-mismatch errors as of 2026-04-16; domains remain unconfigured. `alien-gov-portal` concept page updated with the verified empty-state note.
+
+**Entity pages created (8):** `aui`, `nuforc`, `uapx`, `japan`, `japan-uap-parliamentary-group`, `yoshiharu-asakawa`, `minoru-kihara`, `genkai-nuclear-uap-incident`
+
+**Concept pages created (2):** `uap-narrative-data`, `japan-uap-framework`
+
+**Pages updated (16):** `aaro`, `anna-paulina-luna`, `pete-hegseth`, `department-of-war`, `uap-disclosure`, `nuclear-uap-correlation`, `alien-gov-portal`, `sky-canada-project`, `uap-reporting-infrastructure`, `uap-scientific-study`, `jon-kosloski`, `robert-powell`, `scu`, `galileo-project`, `brandi-vincent`, `src-uap-aaro-research-workshop-2025`, `src-pentagon-uap-deadline-missed-2026-04`, `src-war-department-uap-release-2026-04`, `src-uap-whistleblower-hearing-2025`
+
+**Correction propagated to wiki:** The September 2025 hearing page now notes that its oversight.house.gov URL is not a separate 2026 hearing (preventing future re-ingest confusion).
+
+**Cross-connections observed:**
+- **Luna letter** is now wired as the *primary source* behind both April 2026 downstream stories (Newsweek + Liberation Times) — the wiki can now show the causal chain cleanly.
+- **AARO whitepaper** (companion to the March 2026 DefenseScoop reveal) adds IRB governance, the AUI organizer names, the full civilian-participant roster (NUFORC/SCU/Galileo/UAPx/National Archives), Powell's keynote, and the corpus-vs-narrative analytical framing.
+- **Japan / Canada parallel**: [[japan-uap-framework]] and [[sky-canada-project]] now form an allied-nations international cluster under [[uap-disclosure]] and [[uap-reporting-infrastructure]]. Japan's human-adversary framing is a notable divergence from the U.S. non-human-intelligence discourse.
+- **Genkai nuclear-plant UAP incident** extends the [[nuclear-uap-correlation]] pattern internationally.
+
+## [2026-04-16] ingest | /ufo-news sweep — 9 articles (UAP disclosure, drones, astrobiology)
+
+First full run of the `/ufo-news` parallel-agent skill. 7 search agents ran in parallel across tracks (congressional hearings, AARO, whistleblowers, Pentagon/DoD, primary sources, astrobiology, incidents/international). After triage and user approval of all 14 curated candidates, 14 fetch agents ran in parallel; 9 succeeded, 4 failed (2x oversight.house.gov 403, 1 SETI 403, 1 Medium paywall), 1 was skipped as duplicate of existing wiki source. 9 analysis agents then produced structured drafts read-only, and the main agent merged serially.
+
+**Sources created (9):**
+- `src-alien-gov-domains-2026-03` — WH registers alien.gov / aliens.gov (DefenseScoop, Mar 18)
+- `src-alpha-centauri-a-exoplanet-2026` — JWST MIRI candidate at Alpha Centauri A (SETI Institute)
+- `src-k2-18b-technosignature-null-2026` — VLA + MeerKAT radio null on K2-18b (Astronomy.com, Mar 10)
+- `src-northcom-drone-incursion-2026-03` — NORTHCOM FAK defeats drone during Operation Epic Fury (DefenseScoop, Mar 19)
+- `src-oxygen-false-positive-biosignatures-2026-03` — Abiotic O₂ modeling on Mars-like M-dwarf worlds (Astrobiology.com, Mar 14)
+- `src-pentagon-uap-deadline-missed-2026-04` — Pentagon misses Luna's 45-video deadline (Newsweek, Apr 15)
+- `src-trump-uap-files-delay-2026-03` — Why Trump's UAP files haven't been released (CNN, Mar 7)
+- `src-war-department-uap-release-2026-04` — DoW confirms WH coordination on UAP release (Liberation Times, Apr 14)
+- `src-wright-patterson-general-missing-2026-03` — Retired Maj. Gen. McCasland missing; CNN revisits base's UFO lore (Mar 15)
+
+**Entity pages created (23):**
+- `air-force-research-laboratory`, `alpha-centauri`, `alpha-centauri-a`, `anduril`, `avi-loeb`, `barack-obama`, `cisa`, `department-of-war`, `george-knapp`, `gregory-guillot`, `habitable-worlds-observatory`, `jeremy-corbell`, `k2-18b`, `liberation-times`, `minot-afb`, `nancy-grace-roman-space-telescope`, `nasic`, `odni`, `project-blue`, `seti-institute`, `us-stratcom`, `william-neil-mccasland`, `wright-patterson-afb`
+
+**Concept pages created (11):**
+- `alien-gov-portal`, `direct-imaging`, `drone-incursions`, `false-positive-biosignatures`, `flyaway-kit`, `hycean-worlds`, `operation-epic-fury`, `project-blue-book`, `roswell-incident`, `technosignatures`, `uss-nimitz-uap-incident`
+
+**Pages updated (18):** `aaro`, `donald-trump`, `pete-hegseth`, `uap-disclosure`, `anna-paulina-luna`, `tim-burchett`, `chris-mellon`, `brandi-vincent`, `lue-elizondo`, `david-grusch`, `crash-retrieval-programs`, `non-human-intelligence`, `usnorthcom`, `norad`, `ndaa-uap-provisions`, `nuclear-uap-correlation`, `jwst`, `biosignatures`, `astrobiology`, `exoplanet-habitability`, `seti`, `breakthrough-listen`, `nikku-madhusudhan`, `src-jwst-k2-18b-biosignature-2025`
+
+**Cross-connections observed:**
+- The **"46 UAP videos" thread** unifies three new sources (`src-war-department-uap-release-2026-04`, `src-pentagon-uap-deadline-missed-2026-04`, `src-trump-uap-files-delay-2026-03`) around Luna's March 31 letter to Hegseth and the missed April 14 deadline.
+- **K2-18b tension**: `src-k2-18b-technosignature-null-2026` notes the existing wiki source's DMS biosignature interpretation is "heavily disputed"; the 2025 biosignature source was back-linked to reflect this and to point to the new false-positive-biosignatures methodology.
+- **Nuclear + drone + UAP** overlap between `src-northcom-drone-incursion-2026-03` and the existing `nuclear-uap-correlation` and `ndaa-uap-provisions` pages.
+- New **Department of War** terminology from the Trump administration propagated through the AARO and Hegseth pages.
 
 ## [2026-04-14] ingest | Batch ingest of 5 AARO-focused articles
 

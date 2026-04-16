@@ -2,7 +2,7 @@
 title: Astrobiology
 type: concept
 created: 2026-04-13
-updated: 2026-04-13
+updated: 2026-04-16
 ---
 
 # Astrobiology
@@ -12,7 +12,7 @@ updated: 2026-04-13
 ## Current Research Frontiers
 
 ### Exoplanet Atmospheres
-The [[jwst]] is systematically characterizing exoplanet atmospheres through transmission spectroscopy. According to [[src-jwst-k2-18b-biosignature-2025]], the detection of DMS/DMDS on K2-18b represents the strongest potential atmospheric biosignature found on an exoplanet to date.
+The [[jwst]] is systematically characterizing exoplanet atmospheres through transmission spectroscopy. According to [[src-jwst-k2-18b-biosignature-2025]], the detection of DMS/DMDS on [[k2-18b]] was proposed as the strongest potential atmospheric biosignature found on an exoplanet to date — but the interpretation is heavily disputed, and a 2023 VLA+MeerKAT [[technosignatures|technosignature]] search on the same target returned a null result ([[src-k2-18b-technosignature-null-2026]]). Separately, [[jwst]]'s MIRI coronagraph detected a candidate gas giant around [[alpha-centauri-a]] ([[src-alpha-centauri-a-exoplanet-2026]]) — the closest exoplanet to Earth in a Sun-like star's habitable zone if confirmed. Interpreting future O₂/O₃ detections must rule out abiotic [[false-positive-biosignatures|false positives]] from CO₂ photolysis ([[src-oxygen-false-positive-biosignatures-2026-03]]).
 
 ### Mars Exploration
 [[nasa]]'s [[perseverance-rover]] discovered potential [[biosignatures]] in the Cheyava Falls rock formation ([[src-mars-perseverance-biosignature-2025]]), including minerals strongly associated with microbial activity on Earth.
@@ -40,3 +40,9 @@ All three conditions have been confirmed on Enceladus and are present or plausib
 - [[ocean-worlds]]
 - [[seti]]
 - [[mars-sample-return]]
+- [[hycean-worlds]]
+- [[technosignatures]]
+- [[false-positive-biosignatures]]
+- [[direct-imaging]]
+- [[alpha-centauri]]
+- [[k2-18b]]

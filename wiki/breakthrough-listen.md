@@ -2,7 +2,7 @@
 title: Breakthrough Listen
 type: entity
 created: 2026-04-13
-updated: 2026-04-13
+updated: 2026-04-16
 ---
 
 # Breakthrough Listen
@@ -37,7 +37,14 @@ This transforms [[seti]] from retrospective analysis into real-time monitoring.
 - **Dr. Andrew Siemion**: Principal Investigator, Oxford University
 - **Peter Ma**: Led the AI research (University of Toronto / UC Berkeley)
 
+## Parallel Efforts
+
+The 2023 VLA + MeerKAT deep-target search on [[k2-18b]] (reported 2026, [[src-k2-18b-technosignature-null-2026]]) is a parallel [[technosignatures]] campaign using different facilities. Its filtering pipeline is portable to Listen's hycean-world targets.
+
 ## See Also
 
 - [[seti]]
 - [[astrobiology]]
+- [[technosignatures]]
+- [[k2-18b]]
+- [[hycean-worlds]]

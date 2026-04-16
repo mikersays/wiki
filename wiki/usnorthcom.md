@@ -2,7 +2,7 @@
 title: U.S. Northern Command (USNORTHCOM)
 type: entity
 created: 2026-04-13
-updated: 2026-04-13
+updated: 2026-04-16
 ---
 
 # U.S. Northern Command (USNORTHCOM)
@@ -17,4 +17,8 @@ updated: 2026-04-13
 
 See [[src-uap-ndaa-fy2026-intercept-provisions]] for full legislative details.
 
-See also: [[norad]], [[aaro]], [[ndaa-uap-provisions]], [[uap-disclosure]]
+## March 2026 FAK Drone Defeat
+
+Per [[src-northcom-drone-incursion-2026-03]], [[gregory-guillot|Gen. Gregory Guillot]] disclosed in Senate posture testimony that NORTHCOM's [[flyaway-kit|Flyaway Kit]] detected and defeated a small drone over a "strategic" U.S. installation in the opening hours of [[operation-epic-fury]]. The FAK had been certified at [[minot-afb]] in October 2025 during [[us-stratcom]]'s Global Thunder exercise. See also [[drone-incursions]].
+
+See also: [[norad]], [[aaro]], [[ndaa-uap-provisions]], [[uap-disclosure]], [[gregory-guillot]], [[flyaway-kit]]

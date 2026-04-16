@@ -5,7 +5,7 @@ source_file: raw/uap-aaro-research-workshop-2025.md
 author: Brandi Vincent
 date: 2026-03-16
 created: 2026-04-13
-updated: 2026-04-13
+updated: 2026-04-16
 ---
 
 # Pentagon's AARO Quietly Held an Invite-Only Workshop to Help Shape the Future of UAP Research
@@ -14,6 +14,8 @@ updated: 2026-04-13
 **Author:** [[brandi-vincent]]
 
 ## Summary
+
+> **Deeper companion source:** [[src-aaro-uap-data-collection-whitepaper-2026-03]] — covers the AARO whitepaper directly, including IRB governance, the [[aui]] organizers (Stahlman, Souck), the full roster ([[nuforc]], [[scu]], [[galileo-project]], [[uapx]], National Archives), named speakers ([[jon-kosloski]], [[robert-powell]], Christian Stepien), the [[uap-narrative-data|corpus-vs-narrative]] analytical framing, and specific witness-report field recommendations.
 
 In early August 2025, [[aaro]] quietly sponsored an exclusive, invite-only workshop bringing together approximately 40 participants from government, academic, and independent research backgrounds. Hosted by **Associated Universities, Inc.** in the Washington, D.C. area, the two-day event focused on standardizing processes for capturing, sharing, and studying **narrative data** related to UAP. Details emerged only months later through DefenseScoop's reporting in March 2026.
 

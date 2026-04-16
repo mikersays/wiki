@@ -2,7 +2,7 @@
 title: UAP Reporting Infrastructure
 type: concept
 created: 2026-04-13
-updated: 2026-04-13
+updated: 2026-04-16
 ---
 
 # UAP Reporting Infrastructure
@@ -23,6 +23,7 @@ updated: 2026-04-13
 
 ### International
 - [[sky-canada-project]] -- Canada's comprehensive national framework including a bilingual public reporting app and standardized database
+- [[japan-uap-framework]] -- Japan's March 2026 parliamentary proposal for a specialized UAP body under the Cabinet Secretariat's Deputy Chief Cabinet Secretary for Crisis Management ([[src-japan-uap-strategy-proposal-2026-03]])
 - **University of Wurzburg AllSkyCAM** -- German automated camera systems developed with civil aviation authority
 
 ### Academic
@@ -48,6 +49,10 @@ In May 2025, [[aaro]] issued its first formal contractor solicitation for a clas
 
 AARO deployed the **Gremlin** prototype detection system for a 90-day baseline collection at an undisclosed national security site in 2024, with plans to expand to other U.S. regions ([[src-aaro-fy2024-annual-report-2024]]).
 
+## Narrative-Data Framework (2026 AARO Whitepaper)
+
+AARO's 2025 UAP Workshop whitepaper ([[src-aaro-uap-data-collection-whitepaper-2026-03]]) introduces the [[uap-narrative-data|corpus-vs-narrative]] framing for qualitative reports, and recommends specific field-level additions to witness-report forms: how the witness estimated size/distance/speed, recurrence of similar sightings, approximate witness counts, and whether the object reacted to observer presence. See [[uap-narrative-data]].
+
 ## Public Reporting Mechanism
 
 [[jon-kosloski]] announced plans in November 2024 to launch a public reporting mechanism allowing civilians to submit UAP sighting reports through the AARO website ([[src-aaro-kosloski-testimony-2024]]).
@@ -61,3 +66,5 @@ AARO deployed the **Gremlin** prototype detection system for a 90-day baseline c
 - [[src-aaro-case-management-system-2025]] -- JWICS case management system solicitation
 - [[src-aaro-fy2024-annual-report-2024]] -- Gremlin sensor deployment
 - [[src-aaro-kosloski-testimony-2024]] -- Public reporting mechanism plans
+- [[src-aaro-uap-data-collection-whitepaper-2026-03]] -- Narrative-data framework, field-level recommendations
+- [[src-japan-uap-strategy-proposal-2026-03]] -- Japan's proposed whole-of-government UAP body

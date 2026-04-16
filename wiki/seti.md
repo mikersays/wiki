@@ -2,7 +2,7 @@
 title: SETI (Search for Extraterrestrial Intelligence)
 type: concept
 created: 2026-04-13
-updated: 2026-04-13
+updated: 2026-04-16
 ---
 
 # SETI (Search for Extraterrestrial Intelligence)
@@ -41,8 +41,15 @@ This transforms SETI from retrospective analysis into real-time monitoring.
 
 The **International Academy of Astronautics (IAA) SETI Committee** maintains a **Declaration of Principles** governing how the scientific community should respond to a verified extraterrestrial signal. A revised draft was presented at the International Astronautical Congress 2024.
 
+## K2-18b Targeted Search (2026 Null Result)
+
+A VLA + MeerKAT search observed [[k2-18b]] for 33 days (one full orbit) across 544 MHz – 9.8 GHz — one of the broadest, most sensitive single-target searches ever. After filtering 20M+ candidates the team reported **no technosignatures** ([[src-k2-18b-technosignature-null-2026]]). The methodology framework is portable to any [[hycean-worlds|hycean world]] candidate as SKA and ngVLA come online. See [[technosignatures]].
+
 ## See Also
 
 - [[breakthrough-listen]]
 - [[astrobiology]]
 - [[biosignatures]]
+- [[technosignatures]]
+- [[k2-18b]]
+- [[seti-institute]]

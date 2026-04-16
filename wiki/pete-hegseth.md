@@ -2,7 +2,7 @@
 title: Pete Hegseth
 type: entity
 created: 2026-04-13
-updated: 2026-04-13
+updated: 2026-04-16
 ---
 
 # Pete Hegseth
@@ -21,4 +21,12 @@ updated: 2026-04-13
 
 Hegseth's role as point person places the Defense Secretary at the center of [[uap-disclosure]], making him the highest-ranking Pentagon official to publicly commit to UAP transparency efforts. His measured approach suggests the Pentagon is navigating classification concerns, interagency coordination, and national security sensitivities.
 
-See also: [[donald-trump]], [[aaro]], [[uap-disclosure]]
+## 2026 Timeline
+
+- **Feb 2026** — Named point person for Trump's UAP directive; alien emoji on Truth Social post ([[src-uap-trump-disclosure-2026]]).
+- **Mar 7, 2026** — Told reporters: "We'll see. I get to do the review and find out along with you." ([[src-trump-uap-files-delay-2026-03]])
+- **Under DoW rebrand** — Official title is now "Secretary of War" in [[department-of-war]] communications.
+- **Mar 31, 2026** — Recipient of Rep. [[anna-paulina-luna]]'s letter demanding 46+ specifically named UAP videos by April 14 ([[src-luna-46-uap-videos-demand-2026-03]]).
+- **Apr 14-15, 2026** — Deadline missed; Luna publicly rebukes the Pentagon with "How convenient." DoW spokesperson Susan Gough says the Department "will respond directly" ([[src-pentagon-uap-deadline-missed-2026-04]], [[src-war-department-uap-release-2026-04]]).
+
+See also: [[donald-trump]], [[aaro]], [[uap-disclosure]], [[department-of-war]], [[anna-paulina-luna]]

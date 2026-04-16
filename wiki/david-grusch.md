@@ -2,7 +2,7 @@
 title: David Grusch
 type: entity
 created: 2026-04-13
-updated: 2026-04-13
+updated: 2026-04-16
 ---
 
 # David Grusch
@@ -40,3 +40,4 @@ Grusch's testimony catalyzed the modern UAP disclosure movement and directly inf
 
 - [[src-uap-reverse-engineering-claims-overview-2025]]
 - [[src-immaculate-constellation-whistleblower-2025]]
+- [[src-wright-patterson-general-missing-2026-03]]

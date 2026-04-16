@@ -2,7 +2,7 @@
 title: Luis "Lue" Elizondo
 type: entity
 created: 2026-04-13
-updated: 2026-04-13
+updated: 2026-04-16
 ---
 
 # Luis "Lue" Elizondo
@@ -39,8 +39,13 @@ Publicly vouched for [[david-grusch]]: "a patriot... a damn fine human being."
 
 Elizondo's 2017 disclosure is widely regarded as the catalyst for the modern UAP transparency movement. His ongoing advocacy has been instrumental in shaping legislation and sustaining congressional attention on UAP issues.
 
+### On Wright-Patterson (2026)
+
+Per [[src-wright-patterson-general-missing-2026-03]], Elizondo told CNN that Wright-Patterson AFB is "the center of gravity for research and development and for all the spooky things that the U.S. government works on" — contextualizing the disappearance of retired Maj. Gen. [[william-neil-mccasland]].
+
 ## Sources
 
 - [[src-uap-legislation-disclosure-efforts-2025]]
 - [[src-immaculate-constellation-whistleblower-2025]]
 - [[src-uap-reverse-engineering-claims-overview-2025]]
+- [[src-wright-patterson-general-missing-2026-03]]

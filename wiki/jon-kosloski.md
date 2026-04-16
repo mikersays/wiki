@@ -2,7 +2,7 @@
 title: Jon Kosloski
 type: entity
 created: 2026-04-14
-updated: 2026-04-14
+updated: 2026-04-16
 ---
 
 # Jon Kosloski
@@ -37,3 +37,4 @@ Kosloski has taken a notably different approach from predecessor Sean Kirkpatric
 - [[src-aaro-kosloski-testimony-2024]]
 - [[src-aaro-fy2024-annual-report-2024]]
 - [[src-aaro-full-operational-capability-2024]]
+- [[src-aaro-uap-data-collection-whitepaper-2026-03]] — Delivered opening remarks at the Aug 2025 [[aui]] UAP narrative-data workshop

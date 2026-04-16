@@ -2,7 +2,7 @@
 title: All-domain Anomaly Resolution Office (AARO)
 type: entity
 created: 2026-04-13
-updated: 2026-04-14
+updated: 2026-04-16
 ---
 
 # All-domain Anomaly Resolution Office (AARO)
@@ -60,6 +60,10 @@ AARO is central to the [[uap-disclosure]] effort but has drawn criticism from tr
 
 In April 2026, [[tim-burchett]] introduced H.R. 8197 to **terminate AARO within 60 days** and legally prohibit creating any replacement centralized office. The bill reflects deep congressional frustration with AARO's transparency record, including failure to publish a 2025 annual report and nearly a year without media briefings. [[chris-mellon]] described AARO's historical report as "the most error-ridden government document he had encountered in decades." ([[src-aaro-shutdown-bill-2026]])
 
+## March-April 2026 Disclosure Execution
+
+Per [[src-war-department-uap-release-2026-04]], a [[department-of-war|Department of War]] official confirmed AARO is "working in close coordination with the White House and across federal agencies" to release never-before-seen UAP material and is transferring UAP records to the National Archives. Per [[src-trump-uap-files-delay-2026-03]], interagency meetings have begun under the Feb 2026 directive. Rep. [[anna-paulina-luna]]'s 31 March 2026 letter to SecWar Hegseth requested 46+ UAP videos by April 14; the deadline passed without substantive response ([[src-pentagon-uap-deadline-missed-2026-04]]).
+
 ## Sources
 
 - [[src-aaro-kosloski-testimony-2024]]
@@ -75,3 +79,10 @@ In April 2026, [[tim-burchett]] introduced H.R. 8197 to **terminate AARO within 
 - [[src-uap-landscape-2025]]
 - [[src-ufo-research-progress-2025]]
 - [[src-uap-military-intercepts-ndaa-2026]]
+- [[src-war-department-uap-release-2026-04]]
+- [[src-pentagon-uap-deadline-missed-2026-04]]
+- [[src-trump-uap-files-delay-2026-03]]
+- [[src-alien-gov-domains-2026-03]]
+- [[src-wright-patterson-general-missing-2026-03]]
+- [[src-luna-46-uap-videos-demand-2026-03]]
+- [[src-aaro-uap-data-collection-whitepaper-2026-03]]

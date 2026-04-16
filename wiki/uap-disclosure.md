@@ -2,7 +2,7 @@
 title: UAP Disclosure
 type: concept
 created: 2026-04-13
-updated: 2026-04-13
+updated: 2026-04-16
 ---
 
 # UAP Disclosure
@@ -55,6 +55,19 @@ See also: [[uap-whistleblower-protections]], [[ndaa-uap-provisions]]
 
 - [[tim-burchett]] introduced H.R. 8197 to terminate [[aaro]] within 60 days and ban any replacement centralized office
 - Reflects culmination of congressional frustration with AARO's transparency record ([[src-aaro-shutdown-bill-2026]])
+
+### March-April 2026 — Implementation Friction
+
+- **Mar 7, 2026** — CNN inventories expert caution: declassification will be slow, line-by-line, and mostly yield redacted administrative files ([[src-trump-uap-files-delay-2026-03]])
+- **Mar 17, 2026** — White House registers [[alien-gov-portal|alien.gov and aliens.gov]] domains ([[src-alien-gov-domains-2026-03]])
+- **Mar 31, 2026** — Rep. [[anna-paulina-luna]] letter to SecWar [[pete-hegseth]] demands 46 specific UAP videos by April 14 ([[src-luna-46-uap-videos-demand-2026-03]])
+- **Apr 14, 2026** — Deadline passes without delivery. Luna: "How convenient" ([[src-pentagon-uap-deadline-missed-2026-04]])
+- **Apr 15, 2026** — [[department-of-war|DoW]] says [[aaro]] is coordinating with the White House on record release; [[jeremy-corbell]] and [[george-knapp]] confirm they provided Congress with file names and locations ([[src-war-department-uap-release-2026-04]])
+
+### International Parallels
+
+- [[sky-canada-project]] — Canada (July 2025), science-advisor lead
+- [[japan-uap-framework]] — Japan (March 2026), Cabinet Secretariat / crisis-management lead, **human-adversary** working hypothesis ([[src-japan-uap-strategy-proposal-2026-03]])
 
 ## Key Tensions
 

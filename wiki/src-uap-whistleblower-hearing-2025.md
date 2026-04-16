@@ -5,7 +5,7 @@ source_file: raw/uap-whistleblower-hearing-sep-2025.md
 author: Brandi Vincent
 date: 2025-09-09
 created: 2026-04-13
-updated: 2026-04-13
+updated: 2026-04-16
 ---
 
 # Military Whistleblowers Share New Evidence of Alleged UAP at Transparency Hearing
@@ -14,6 +14,8 @@ updated: 2026-04-13
 **Author:** [[brandi-vincent]]
 
 ## Summary
+
+> **Follow-up impact:** This hearing's whistleblower testimony is the evidentiary basis [[anna-paulina-luna]] cites in her March 31, 2026 letter to SecWar [[pete-hegseth]] demanding 46 specifically named UAP videos ([[src-luna-46-uap-videos-demand-2026-03]]). The primary-source URL `oversight.house.gov/hearing/restoring-public-trust-through-uap-transparency-and-whistleblower-protection/` refers to **this September 2025 hearing**, not any separate 2026 event.
 
 On September 9, 2025, the House Oversight and Government Reform Committee's Task Force on the Declassification of Federal Secrets held its first UAP-focused hearing, titled "Restoring Public Trust Through UAP Transparency and Whistleblower Protection." Chaired by Rep. Anna Paulina Luna (R-FL), the hearing featured testimony from current and former military officials who described firsthand encounters with unidentified anomalous phenomena. The hearing also showcased previously unseen video evidence of a U.S. military engagement with an unidentified object and advanced proposed legislation for [[uap-whistleblower-protections]].
 

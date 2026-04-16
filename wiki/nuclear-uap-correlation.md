@@ -2,7 +2,7 @@
 title: Nuclear-UAP Correlation
 type: concept
 created: 2026-04-13
-updated: 2026-04-13
+updated: 2026-04-16
 ---
 
 # Nuclear-UAP Correlation
@@ -32,8 +32,14 @@ This study is significant because it provides the first peer-reviewed, quantitat
 
 The nuclear-UAP correlation, if validated by further research, would suggest that UAP phenomena are not random but respond to specific human activities. This has implications for both [[uap-scientific-study]] (guiding where to deploy sensors) and national security (nuclear facilities as potential targets of interest).
 
+## 2026 Update — Strategic Installation Drone Defeat
+
+Per [[src-northcom-drone-incursion-2026-03]], a NORTHCOM [[flyaway-kit|Flyaway Kit]] defeated a drone over an undisclosed "strategic" U.S. installation in the opening hours of [[operation-epic-fury]]. "Strategic" in military parlance often denotes nuclear-enterprise assets, though NORTHCOM declined to confirm a nuclear link. The FAK was certified at nuclear-bomber/ICBM base [[minot-afb]] in October 2025 during [[us-stratcom]]'s Global Thunder. See also [[drone-incursions]].
+
 ## Sources
 
 - [[src-ufo-sightings-surge-2025]] -- Palomar Observatory study details and Rubio quote
 - [[src-uap-landscape-2025]] -- Nuclear facility sightings referenced
 - [[src-uap-military-intercepts-ndaa-2026]] -- Military installations as UAP hotspots
+- [[src-northcom-drone-incursion-2026-03]] -- March 2026 "strategic installation" drone defeat
+- [[src-japan-uap-strategy-proposal-2026-03]] -- Japan's [[genkai-nuclear-uap-incident]] cited as rationale for a specialized UAP body

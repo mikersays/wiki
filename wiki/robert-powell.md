@@ -2,7 +2,7 @@
 title: Robert Powell
 type: entity
 created: 2026-04-13
-updated: 2026-04-13
+updated: 2026-04-16
 ---
 
 # Robert Powell
@@ -19,7 +19,12 @@ updated: 2026-04-13
 
 The tension between government-held sensor data and civilian scientists' inability to independently investigate UAP claims. Military sensors that could provide relevant data remain unavailable to civilian researchers.
 
+## AARO Workshop Keynote (Aug 2025)
+
+Per [[src-aaro-uap-data-collection-whitepaper-2026-03]], Powell delivered the keynote at [[aaro]]'s August 2025 UAP narrative-data workshop organized by [[aui]], emphasizing "the central role that standardized, verifiable data plays in advancing our collective understanding of UAP phenomena."
+
 ## Sources
 
 - [[src-uap-landscape-2025]] -- Cost estimates and research vision
 - [[src-ufo-research-progress-2025]] -- Detailed interview on barriers to progress
+- [[src-aaro-uap-data-collection-whitepaper-2026-03]] -- Keynote at the 2025 AARO workshop

@@ -2,7 +2,7 @@
 title: Non-Human Intelligence
 type: concept
 created: 2026-04-13
-updated: 2026-04-13
+updated: 2026-04-16
 ---
 
 # Non-Human Intelligence
@@ -45,3 +45,4 @@ Observations consistent across multiple witnesses and incidents suggest technolo
 - [[src-uap-reverse-engineering-claims-overview-2025]]
 - [[src-uap-whistleblower-hearing-2025]]
 - [[src-immaculate-constellation-whistleblower-2025]]
+- [[src-wright-patterson-general-missing-2026-03]]

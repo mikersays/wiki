@@ -2,7 +2,7 @@
 title: Tim Burchett
 type: entity
 created: 2026-04-13
-updated: 2026-04-13
+updated: 2026-04-16
 ---
 
 # Tim Burchett
@@ -27,3 +27,4 @@ Along with [[anna-paulina-luna]] and Eric Burlison, Burchett forms the core trio
 
 - [[src-uap-legislation-disclosure-efforts-2025]]
 - [[src-aaro-shutdown-bill-2026]]
+- [[src-war-department-uap-release-2026-04]]
