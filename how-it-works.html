@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>LLM Wiki — How It Works</title>
+<style>
+  :root {
+    --bg: #0f1114;
+    --panel: #171a1f;
+    --panel-2: #1e222a;
+    --ink: #e8e6e3;
+    --ink-dim: #9aa0a6;
+    --accent: #7cc4ff;
+    --accent-2: #c792ea;
+    --rule: #2a2f38;
+    --mono: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; }
+  body {
+    background: var(--bg);
+    color: var(--ink);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    line-height: 1.6;
+    font-size: 16px;
+  }
+  .wrap {
+    max-width: 880px;
+    margin: 0 auto;
+    padding: 3rem 1.5rem 6rem;
+  }
+  header {
+    border-bottom: 1px solid var(--rule);
+    padding-bottom: 2rem;
+    margin-bottom: 2.5rem;
+  }
+  .eyebrow {
+    font-family: var(--mono);
+    font-size: 0.8rem;
+    color: var(--accent);
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    margin: 0 0 0.5rem;
+  }
+  h1 {
+    font-size: 2.4rem;
+    margin: 0 0 0.75rem;
+    letter-spacing: -0.02em;
+  }
+  .tagline {
+    color: var(--ink-dim);
+    font-size: 1.1rem;
+    margin: 0;
+    max-width: 60ch;
+  }
+  h2 {
+    font-size: 1.5rem;
+    margin: 3rem 0 1rem;
+    letter-spacing: -0.01em;
+    border-bottom: 1px solid var(--rule);
+    padding-bottom: 0.4rem;
+  }
+  h3 {
+    font-size: 1.1rem;
+    margin: 1.8rem 0 0.6rem;
+    color: var(--accent-2);
+  }
+  p { margin: 0.75rem 0; }
+  code, kbd {
+    font-family: var(--mono);
+    background: var(--panel-2);
+    padding: 0.1rem 0.35rem;
+    border-radius: 4px;
+    font-size: 0.9em;
+    color: #ffd479;
+  }
+  pre {
+    background: var(--panel);
+    border: 1px solid var(--rule);
+    border-radius: 8px;
+    padding: 1rem 1.25rem;
+    overflow-x: auto;
+    font-family: var(--mono);
+    font-size: 0.88rem;
+    line-height: 1.5;
+    color: var(--ink);
+  }
+  pre code { background: transparent; padding: 0; color: inherit; }
+  a { color: var(--accent); text-decoration: none; border-bottom: 1px dashed rgba(124,196,255,0.4); }
+  a:hover { border-bottom-style: solid; }
+  ul, ol { padding-left: 1.4rem; }
+  li { margin: 0.3rem 0; }
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 0.75rem;
+    margin: 1rem 0;
+  }
+  .card {
+    background: var(--panel);
+    border: 1px solid var(--rule);
+    border-radius: 8px;
+    padding: 1rem;
+  }
+  .card h4 {
+    margin: 0 0 0.3rem;
+    font-family: var(--mono);
+    font-size: 0.95rem;
+    color: var(--accent);
+  }
+  .card p { margin: 0; color: var(--ink-dim); font-size: 0.92rem; }
+  .pipeline {
+    counter-reset: step;
+    list-style: none;
+    padding: 0;
+    margin: 1rem 0;
+  }
+  .pipeline li {
+    counter-increment: step;
+    background: var(--panel);
+    border: 1px solid var(--rule);
+    border-left: 3px solid var(--accent);
+    border-radius: 6px;
+    padding: 0.6rem 0.9rem 0.6rem 2.5rem;
+    margin: 0.4rem 0;
+    position: relative;
+  }
+  .pipeline li::before {
+    content: counter(step);
+    position: absolute;
+    left: 0.7rem;
+    top: 0.6rem;
+    font-family: var(--mono);
+    color: var(--accent);
+    font-weight: bold;
+  }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1rem 0;
+    font-size: 0.95rem;
+  }
+  th, td {
+    text-align: left;
+    padding: 0.5rem 0.75rem;
+    border-bottom: 1px solid var(--rule);
+  }
+  th { color: var(--accent-2); font-weight: 600; }
+  .stat-row {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+    margin: 1rem 0;
+  }
+  .stat {
+    background: var(--panel);
+    border: 1px solid var(--rule);
+    border-radius: 8px;
+    padding: 0.8rem 1.1rem;
+    flex: 1;
+    min-width: 140px;
+  }
+  .stat .num {
+    font-family: var(--mono);
+    font-size: 1.6rem;
+    color: var(--accent);
+  }
+  .stat .label {
+    display: block;
+    color: var(--ink-dim);
+    font-size: 0.85rem;
+    margin-top: 0.1rem;
+  }
+  footer {
+    margin-top: 4rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid var(--rule);
+    color: var(--ink-dim);
+    font-size: 0.9rem;
+  }
+  .callout {
+    background: linear-gradient(180deg, rgba(124,196,255,0.08), rgba(199,146,234,0.06));
+    border: 1px solid var(--rule);
+    border-left: 3px solid var(--accent-2);
+    border-radius: 6px;
+    padding: 0.9rem 1.1rem;
+    margin: 1.2rem 0;
+  }
+  .callout strong { color: var(--accent-2); }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header>
+  <p class="eyebrow">personal knowledge base</p>
+  <h1>LLM Wiki — How It Works</h1>
+  <p class="tagline">A densely-linked, LLM-maintained knowledge graph. The human curates sources and asks questions. The LLM does all the writing, cross-referencing, and maintenance.</p>
+</header>
+
+<div class="stat-row">
+  <div class="stat"><span class="num">125</span><span class="label">wiki pages</span></div>
+  <div class="stat"><span class="num">33</span><span class="label">ingested sources</span></div>
+  <div class="stat"><span class="num">6</span><span class="label">slash commands</span></div>
+  <div class="stat"><span class="num">∞</span><span class="label">wikilinks</span></div>
+</div>
+
+<h2>The core idea</h2>
+<p>Dump a source into an inbox. A slash command reads it, writes a summary page, spawns or updates entity and concept pages, and stitches everything together with <code>[[wikilinks]]</code>. Over time you get a graph: people link to organizations, organizations link to sources, sources link back to the concepts they discuss.</p>
+
+<div class="callout">
+  <strong>Division of labor.</strong> The human picks sources and directs exploration. The LLM does the reading, writing, linking, and health-checking. No manual markdown edits needed.
+</div>
+
+<h2>Directory layout</h2>
+<pre><code>raw/inbox/      New source documents waiting to be ingested
+raw/            Ingested sources (immutable after ingest)
+raw/assets/     Downloaded images and attachments
+wiki/           LLM-generated markdown pages
+wiki/index.md   Content catalog — every page with a one-line summary
+wiki/log.md     Chronological activity log
+CLAUDE.md       Schema and conventions (the LLM's rulebook)</code></pre>
+
+<h2>Page types</h2>
+<div class="grid">
+  <div class="card"><h4>source</h4><p>Summary of an ingested document. Claims, quotes, metadata. Named <code>src-topic-yyyy.md</code>.</p></div>
+  <div class="card"><h4>entity</h4><p>A person, org, tool, or place. Named after itself, kebab-case.</p></div>
+  <div class="card"><h4>concept</h4><p>An idea, method, or framework. Named after itself, kebab-case.</p></div>
+  <div class="card"><h4>analysis / comparison</h4><p>Synthesis across multiple sources. Descriptive title.</p></div>
+</div>
+<p>Every page gets YAML frontmatter: <code>title</code>, <code>type</code>, <code>created</code>, <code>updated</code>. Source pages also track <code>source_file</code>, <code>author</code>, and <code>date</code> of the original.</p>
+
+<h2>Workflows</h2>
+
+<h3>Ingest — turn a document into wiki pages</h3>
+<ol class="pipeline">
+  <li>Read the source in <code>raw/inbox/</code> fully.</li>
+  <li>Create a source summary page with claims and quotes.</li>
+  <li>Update or create entity pages for the people and orgs mentioned.</li>
+  <li>Update or create concept pages for the key ideas.</li>
+  <li>Add <code>[[wikilinks]]</code> everywhere, in both directions.</li>
+  <li>Update <code>wiki/index.md</code> and append to <code>wiki/log.md</code>.</li>
+  <li>Move the file from <code>raw/inbox/</code> to <code>raw/</code>.</li>
+</ol>
+<p>A single source typically touches 5–15 pages.</p>
+
+<h3>Query — ask a question</h3>
+<ol class="pipeline">
+  <li>Read <code>index.md</code> to find relevant pages.</li>
+  <li>Read those pages.</li>
+  <li>Synthesize an answer with <code>[[wikilinks]]</code> citations.</li>
+  <li>Offer to save substantial answers as a new analysis page via <code>/save</code>.</li>
+</ol>
+
+<h3>Fetch news — parallel agent teams</h3>
+<p>The <code>/ufo-news</code> command runs a six-phase protocol that parallelizes the expensive parts and serializes the dangerous parts:</p>
+<ol class="pipeline">
+  <li><strong>Fan out search agents</strong> — one per search track, collect candidate URLs.</li>
+  <li><strong>Dedupe</strong> against existing <code>raw/</code> and <code>index.md</code>. Present to user.</li>
+  <li><strong>Fan out fetch agents</strong> — each writes its own file to <code>raw/inbox/</code>.</li>
+  <li><strong>Fan out analysis agents</strong> — read-only, return structured output.</li>
+  <li><strong>Serial merge</strong> — only the main agent writes to shared files.</li>
+  <li><strong>Report</strong> — surface cross-connections between new sources.</li>
+</ol>
+<div class="callout"><strong>Why the split?</strong> Subagents have no shared memory and can race on shared files. Read and fetch in parallel, write serially.</div>
+
+<h3>Lint — health check</h3>
+<ul>
+  <li>Find contradictions between pages.</li>
+  <li>Flag stale claims superseded by newer sources.</li>
+  <li>Identify orphan pages (no inbound links).</li>
+  <li>Spot concepts mentioned but lacking their own page.</li>
+  <li>Suggest missing cross-references and follow-up questions.</li>
+</ul>
+
+<h2>Slash commands</h2>
+<table>
+  <thead><tr><th>Command</th><th>Purpose</th></tr></thead>
+  <tbody>
+    <tr><td><code>/ingest [path]</code></td><td>Ingest one file or everything in <code>raw/inbox/</code>.</td></tr>
+    <tr><td><code>/query &lt;question&gt;</code></td><td>Answer from the wiki with citations.</td></tr>
+    <tr><td><code>/save &lt;title&gt;</code></td><td>Preserve the last query answer as a new page.</td></tr>
+    <tr><td><code>/ufo-news [topic]</code></td><td>Parallel web search + ingest.</td></tr>
+    <tr><td><code>/lint</code></td><td>Health-check the wiki.</td></tr>
+    <tr><td><code>/wiki-help</code></td><td>List commands and show architecture.</td></tr>
+  </tbody>
+</table>
+
+<h2>Conventions worth knowing</h2>
+<ul>
+  <li><strong>One entity per page.</strong> Split rather than merge.</li>
+  <li><strong>Sources are immutable</strong> after ingest. New info means a new source page, not an edit.</li>
+  <li><strong>Claims are attributed inline:</strong> <code>According to [[src-paper-name]], ...</code></li>
+  <li><strong>Contradictions are recorded explicitly</strong>, not silently resolved.</li>
+  <li><strong>Bold key terms</strong> on first mention within a page.</li>
+  <li><strong>Every page earns its links</strong> — both inbound and outbound. Dense graph is the goal.</li>
+</ul>
+
+<h2>The log format</h2>
+<pre><code>## [YYYY-MM-DD] action | description
+
+Details of what happened.</code></pre>
+<p>Actions are one of: <code>ingest</code>, <code>query</code>, <code>lint</code>, <code>update</code>, <code>init</code>. The log is append-only and parseable.</p>
+
+<footer>
+  Built on Claude Code. Schema lives in <code>CLAUDE.md</code>. Skills live in <code>.claude/skills/</code>. The wiki is the truth; this page is just a guide to it.
+</footer>
+
+</div>
+</body>
+</html>
