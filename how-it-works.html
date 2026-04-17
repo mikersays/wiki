@@ -188,6 +188,51 @@
     margin: 1.2rem 0;
   }
   .callout strong { color: var(--accent-2); }
+
+  /* Diagram styles */
+  .diagram {
+    background: var(--panel);
+    border: 1px solid var(--rule);
+    border-radius: 10px;
+    padding: 1.25rem;
+    margin: 1.25rem 0;
+    overflow-x: auto;
+  }
+  .diagram-caption {
+    text-align: center;
+    color: var(--ink-dim);
+    font-size: 0.85rem;
+    font-family: var(--mono);
+    margin-top: 0.5rem;
+  }
+  svg { display: block; margin: 0 auto; max-width: 100%; height: auto; }
+  svg text { fill: var(--ink); font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, sans-serif; }
+  svg .mono { font-family: var(--mono); }
+  svg .dim { fill: var(--ink-dim); }
+  svg .accent { fill: var(--accent); }
+  svg .accent2 { fill: var(--accent-2); }
+  svg .node-bg { fill: var(--panel-2); stroke: var(--rule); stroke-width: 1; }
+  svg .node-source { fill: rgba(124,196,255,0.12); stroke: var(--accent); stroke-width: 1.5; }
+  svg .node-entity { fill: rgba(199,146,234,0.12); stroke: var(--accent-2); stroke-width: 1.5; }
+  svg .node-concept { fill: rgba(255,212,121,0.12); stroke: #ffd479; stroke-width: 1.5; }
+  svg .arrow { stroke: var(--ink-dim); stroke-width: 1.5; fill: none; }
+  svg .arrow-accent { stroke: var(--accent); stroke-width: 1.5; fill: none; }
+  svg .link-line { stroke: var(--rule); stroke-width: 1; fill: none; stroke-dasharray: 3 3; }
+
+  .legend {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 0.75rem;
+    font-size: 0.85rem;
+    color: var(--ink-dim);
+  }
+  .legend span { display: inline-flex; align-items: center; gap: 0.4rem; }
+  .swatch { display: inline-block; width: 14px; height: 14px; border-radius: 3px; border: 1.5px solid; }
+  .sw-source { background: rgba(124,196,255,0.12); border-color: var(--accent); }
+  .sw-entity { background: rgba(199,146,234,0.12); border-color: var(--accent-2); }
+  .sw-concept { background: rgba(255,212,121,0.12); border-color: #ffd479; }
 </style>
 </head>
 <body>
@@ -208,6 +253,55 @@
 
 <h2>The core idea</h2>
 <p>Dump a source into an inbox. A slash command reads it, writes a summary page, spawns or updates entity and concept pages, and stitches everything together with <code>[[wikilinks]]</code>. Over time you get a graph: people link to organizations, organizations link to sources, sources link back to the concepts they discuss.</p>
+
+<div class="diagram">
+  <svg viewBox="0 0 820 220" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <marker id="arr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+        <path d="M0,0 L10,5 L0,10 z" fill="#9aa0a6"/>
+      </marker>
+      <marker id="arrA" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+        <path d="M0,0 L10,5 L0,10 z" fill="#7cc4ff"/>
+      </marker>
+    </defs>
+
+    <!-- Stage 1: Source -->
+    <rect x="20" y="70" width="160" height="80" rx="8" class="node-bg"/>
+    <text x="100" y="100" text-anchor="middle" font-weight="600">Source document</text>
+    <text x="100" y="120" text-anchor="middle" class="dim mono" font-size="12">raw/inbox/paper.pdf</text>
+    <text x="100" y="50" text-anchor="middle" class="accent mono" font-size="11">INPUT</text>
+
+    <!-- Arrow -->
+    <path d="M185,110 L295,110" class="arrow-accent" marker-end="url(#arrA)"/>
+
+    <!-- Stage 2: LLM -->
+    <rect x="300" y="50" width="220" height="120" rx="10" class="node-source"/>
+    <text x="410" y="30" text-anchor="middle" class="accent mono" font-size="11">PROCESS</text>
+    <text x="410" y="80" text-anchor="middle" font-weight="600">LLM ingest workflow</text>
+    <text x="410" y="105" text-anchor="middle" class="dim" font-size="13">• read &amp; summarize</text>
+    <text x="410" y="124" text-anchor="middle" class="dim" font-size="13">• extract entities + concepts</text>
+    <text x="410" y="143" text-anchor="middle" class="dim" font-size="13">• wire up [[wikilinks]]</text>
+
+    <!-- Arrow -->
+    <path d="M525,110 L635,110" class="arrow-accent" marker-end="url(#arrA)"/>
+
+    <!-- Stage 3: Wiki -->
+    <rect x="640" y="40" width="160" height="140" rx="8" class="node-bg"/>
+    <text x="720" y="25" text-anchor="middle" class="accent mono" font-size="11">OUTPUT</text>
+    <rect x="655" y="55" width="130" height="22" rx="4" class="node-source"/>
+    <text x="720" y="71" text-anchor="middle" font-size="12">source page</text>
+    <rect x="655" y="85" width="130" height="22" rx="4" class="node-entity"/>
+    <text x="720" y="101" text-anchor="middle" font-size="12">entity pages</text>
+    <rect x="655" y="115" width="130" height="22" rx="4" class="node-concept"/>
+    <text x="720" y="131" text-anchor="middle" font-size="12">concept pages</text>
+    <rect x="655" y="145" width="130" height="22" rx="4" class="node-bg"/>
+    <text x="720" y="161" text-anchor="middle" font-size="12" class="dim">index + log</text>
+
+    <!-- Bottom label -->
+    <text x="410" y="205" text-anchor="middle" class="dim" font-size="12">one source → 5–15 linked pages</text>
+  </svg>
+  <div class="diagram-caption">the whole system in three stages</div>
+</div>
 
 <div class="callout">
   <strong>Division of labor.</strong> The human picks sources and directs exploration. The LLM does the reading, writing, linking, and health-checking. No manual markdown edits needed.
@@ -231,6 +325,61 @@ CLAUDE.md       Schema and conventions (the LLM's rulebook)</code></pre>
 </div>
 <p>Every page gets YAML frontmatter: <code>title</code>, <code>type</code>, <code>created</code>, <code>updated</code>. Source pages also track <code>source_file</code>, <code>author</code>, and <code>date</code> of the original.</p>
 
+<div class="diagram">
+  <svg viewBox="0 0 800 340" xmlns="http://www.w3.org/2000/svg">
+    <!-- Dashed links between nodes -->
+    <line x1="180" y1="80" x2="380" y2="160" class="link-line"/>
+    <line x1="180" y1="80" x2="400" y2="260" class="link-line"/>
+    <line x1="620" y1="80" x2="420" y2="160" class="link-line"/>
+    <line x1="620" y1="80" x2="440" y2="260" class="link-line"/>
+    <line x1="180" y1="280" x2="380" y2="170" class="link-line"/>
+    <line x1="620" y1="280" x2="440" y2="170" class="link-line"/>
+    <line x1="180" y1="280" x2="620" y2="280" class="link-line"/>
+    <line x1="180" y1="80" x2="620" y2="80" class="link-line"/>
+    <line x1="180" y1="80" x2="180" y2="280" class="link-line"/>
+    <line x1="620" y1="80" x2="620" y2="280" class="link-line"/>
+
+    <!-- Source node top-left -->
+    <rect x="100" y="50" width="160" height="60" rx="8" class="node-source"/>
+    <text x="180" y="75" text-anchor="middle" font-weight="600" font-size="13">src-grusch-hearing</text>
+    <text x="180" y="95" text-anchor="middle" class="dim mono" font-size="11">source</text>
+
+    <!-- Source node bottom-left -->
+    <rect x="100" y="250" width="160" height="60" rx="8" class="node-source"/>
+    <text x="180" y="275" text-anchor="middle" font-weight="600" font-size="13">src-aaro-report</text>
+    <text x="180" y="295" text-anchor="middle" class="dim mono" font-size="11">source</text>
+
+    <!-- Entity: David Grusch -->
+    <rect x="340" y="140" width="140" height="60" rx="8" class="node-entity"/>
+    <text x="410" y="165" text-anchor="middle" font-weight="600" font-size="13">david-grusch</text>
+    <text x="410" y="185" text-anchor="middle" class="dim mono" font-size="11">entity</text>
+
+    <!-- Entity: AARO -->
+    <rect x="340" y="240" width="140" height="60" rx="8" class="node-entity"/>
+    <text x="410" y="265" text-anchor="middle" font-weight="600" font-size="13">aaro</text>
+    <text x="410" y="285" text-anchor="middle" class="dim mono" font-size="11">entity</text>
+
+    <!-- Concept top-right -->
+    <rect x="540" y="50" width="160" height="60" rx="8" class="node-concept"/>
+    <text x="620" y="75" text-anchor="middle" font-weight="600" font-size="13">uap-disclosure</text>
+    <text x="620" y="95" text-anchor="middle" class="dim mono" font-size="11">concept</text>
+
+    <!-- Concept bottom-right -->
+    <rect x="540" y="250" width="160" height="60" rx="8" class="node-concept"/>
+    <text x="620" y="275" text-anchor="middle" font-weight="600" font-size="13">crash-retrieval</text>
+    <text x="620" y="295" text-anchor="middle" class="dim mono" font-size="11">concept</text>
+
+    <!-- Center label -->
+    <text x="400" y="30" text-anchor="middle" class="dim mono" font-size="11">dashed lines = [[wikilinks]]</text>
+  </svg>
+  <div class="diagram-caption">pages form a densely linked graph</div>
+  <div class="legend">
+    <span><span class="swatch sw-source"></span>source</span>
+    <span><span class="swatch sw-entity"></span>entity</span>
+    <span><span class="swatch sw-concept"></span>concept</span>
+  </div>
+</div>
+
 <h2>Workflows</h2>
 
 <h3>Ingest — turn a document into wiki pages</h3>
@@ -244,6 +393,69 @@ CLAUDE.md       Schema and conventions (the LLM's rulebook)</code></pre>
   <li>Move the file from <code>raw/inbox/</code> to <code>raw/</code>.</li>
 </ol>
 <p>A single source typically touches 5–15 pages.</p>
+
+<div class="diagram">
+  <svg viewBox="0 0 820 160" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <marker id="arr3" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse">
+        <path d="M0,0 L10,5 L0,10 z" fill="#7cc4ff"/>
+      </marker>
+    </defs>
+
+    <!-- Inbox -->
+    <rect x="10" y="55" width="90" height="50" rx="6" class="node-bg"/>
+    <text x="55" y="75" text-anchor="middle" font-size="12" font-weight="600">inbox</text>
+    <text x="55" y="92" text-anchor="middle" class="dim mono" font-size="10">raw/inbox/</text>
+
+    <path d="M105,80 L145,80" class="arrow-accent" marker-end="url(#arr3)"/>
+
+    <!-- Read -->
+    <rect x="150" y="55" width="90" height="50" rx="6" class="node-source"/>
+    <text x="195" y="78" text-anchor="middle" font-size="12" font-weight="600">read</text>
+    <text x="195" y="95" text-anchor="middle" class="dim" font-size="10">full text</text>
+
+    <path d="M245,80 L285,80" class="arrow-accent" marker-end="url(#arr3)"/>
+
+    <!-- Source page -->
+    <rect x="290" y="55" width="110" height="50" rx="6" class="node-source"/>
+    <text x="345" y="78" text-anchor="middle" font-size="12" font-weight="600">source page</text>
+    <text x="345" y="95" text-anchor="middle" class="dim" font-size="10">claims + quotes</text>
+
+    <path d="M405,80 L445,80" class="arrow-accent" marker-end="url(#arr3)"/>
+
+    <!-- Entity/concept -->
+    <rect x="450" y="30" width="130" height="40" rx="6" class="node-entity"/>
+    <text x="515" y="55" text-anchor="middle" font-size="12" font-weight="600">entities</text>
+    <rect x="450" y="90" width="130" height="40" rx="6" class="node-concept"/>
+    <text x="515" y="115" text-anchor="middle" font-size="12" font-weight="600">concepts</text>
+
+    <path d="M585,50 L625,70" class="arrow-accent" marker-end="url(#arr3)"/>
+    <path d="M585,110 L625,90" class="arrow-accent" marker-end="url(#arr3)"/>
+
+    <!-- Link -->
+    <rect x="630" y="55" width="90" height="50" rx="6" class="node-bg"/>
+    <text x="675" y="78" text-anchor="middle" font-size="12" font-weight="600">link</text>
+    <text x="675" y="95" text-anchor="middle" class="dim" font-size="10">[[wikilinks]]</text>
+
+    <path d="M725,80 L760,80" class="arrow-accent" marker-end="url(#arr3)"/>
+
+    <!-- Archive -->
+    <rect x="765" y="55" width="50" height="50" rx="6" class="node-bg"/>
+    <text x="790" y="78" text-anchor="middle" font-size="11" font-weight="600">raw/</text>
+    <text x="790" y="95" text-anchor="middle" class="dim" font-size="9">archive</text>
+
+    <!-- Step numbers -->
+    <text x="55" y="30" text-anchor="middle" class="accent mono" font-size="10">1</text>
+    <text x="195" y="30" text-anchor="middle" class="accent mono" font-size="10">2</text>
+    <text x="345" y="30" text-anchor="middle" class="accent mono" font-size="10">3</text>
+    <text x="515" y="15" text-anchor="middle" class="accent mono" font-size="10">4 · 5</text>
+    <text x="675" y="30" text-anchor="middle" class="accent mono" font-size="10">6</text>
+    <text x="790" y="30" text-anchor="middle" class="accent mono" font-size="10">7</text>
+
+    <text x="410" y="150" text-anchor="middle" class="dim" font-size="11">index.md + log.md updated along the way</text>
+  </svg>
+  <div class="diagram-caption">ingest pipeline · one source becomes a subgraph</div>
+</div>
 
 <h3>Query — ask a question</h3>
 <ol class="pipeline">
@@ -264,6 +476,62 @@ CLAUDE.md       Schema and conventions (the LLM's rulebook)</code></pre>
   <li><strong>Report</strong> — surface cross-connections between new sources.</li>
 </ol>
 <div class="callout"><strong>Why the split?</strong> Subagents have no shared memory and can race on shared files. Read and fetch in parallel, write serially.</div>
+
+<div class="diagram">
+  <svg viewBox="0 0 820 340" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <marker id="arr2" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+        <path d="M0,0 L10,5 L0,10 z" fill="#9aa0a6"/>
+      </marker>
+    </defs>
+
+    <!-- Main agent top -->
+    <rect x="330" y="20" width="160" height="48" rx="8" class="node-source"/>
+    <text x="410" y="40" text-anchor="middle" font-weight="600" font-size="13">main agent</text>
+    <text x="410" y="58" text-anchor="middle" class="dim mono" font-size="11">orchestrator</text>
+
+    <!-- Fan out lines -->
+    <path d="M360,68 L120,130" class="arrow" marker-end="url(#arr2)"/>
+    <path d="M390,68 L280,130" class="arrow" marker-end="url(#arr2)"/>
+    <path d="M430,68 L440,130" class="arrow" marker-end="url(#arr2)"/>
+    <path d="M460,68 L600,130" class="arrow" marker-end="url(#arr2)"/>
+    <path d="M480,68 L730,130" class="arrow" marker-end="url(#arr2)"/>
+
+    <!-- Parallel agents -->
+    <rect x="70" y="130" width="120" height="44" rx="6" class="node-bg"/>
+    <text x="130" y="156" text-anchor="middle" font-size="12">search: AARO</text>
+    <rect x="220" y="130" width="120" height="44" rx="6" class="node-bg"/>
+    <text x="280" y="156" text-anchor="middle" font-size="12">search: SETI</text>
+    <rect x="380" y="130" width="120" height="44" rx="6" class="node-bg"/>
+    <text x="440" y="156" text-anchor="middle" font-size="12">search: Congress</text>
+    <rect x="540" y="130" width="120" height="44" rx="6" class="node-bg"/>
+    <text x="600" y="156" text-anchor="middle" font-size="12">fetch: URL 1</text>
+    <rect x="670" y="130" width="120" height="44" rx="6" class="node-bg"/>
+    <text x="730" y="156" text-anchor="middle" font-size="12">fetch: URL 2</text>
+
+    <!-- Phase label -->
+    <text x="30" y="205" class="accent mono" font-size="11">PARALLEL</text>
+    <line x1="30" y1="210" x2="790" y2="210" stroke="#2a2f38" stroke-dasharray="4 3"/>
+    <text x="30" y="228" class="accent2 mono" font-size="11">SERIAL</text>
+
+    <!-- Fan in lines -->
+    <path d="M130,174 L400,240" class="arrow" marker-end="url(#arr2)"/>
+    <path d="M280,174 L410,240" class="arrow" marker-end="url(#arr2)"/>
+    <path d="M440,174 L420,240" class="arrow" marker-end="url(#arr2)"/>
+    <path d="M600,174 L430,240" class="arrow" marker-end="url(#arr2)"/>
+    <path d="M730,174 L440,240" class="arrow" marker-end="url(#arr2)"/>
+
+    <!-- Main agent returns (serial merge) -->
+    <rect x="320" y="240" width="180" height="48" rx="8" class="node-entity"/>
+    <text x="410" y="260" text-anchor="middle" font-weight="600" font-size="13">main agent</text>
+    <text x="410" y="278" text-anchor="middle" class="dim mono" font-size="11">merge → index + log</text>
+
+    <!-- Final writes -->
+    <path d="M410,290 L410,310" class="arrow-accent" marker-end="url(#arrA)"/>
+    <text x="410" y="328" text-anchor="middle" class="dim" font-size="12">writes shared files one-at-a-time (no races)</text>
+  </svg>
+  <div class="diagram-caption">fan-out for expensive work, fan-in for safe writes</div>
+</div>
 
 <h3>Lint — health check</h3>
 <ul>
