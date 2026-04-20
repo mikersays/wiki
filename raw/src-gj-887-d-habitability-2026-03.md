@@ -1,0 +1,25 @@
+---
+source_url: https://www.astronomy.com/science/astronomers-confirm-potentially-habitable-exoplanet-in-the-solar-neighborhood/
+outlet: Astronomy.com
+author: Brooks Mendenhall
+date: 2026-03-06
+fetched: 2026-04-19
+---
+
+# Astronomers confirm potentially habitable exoplanet in the solar neighborhood
+
+A team of scientists has confirmed that the nearby star GJ 887 hosts at least four planets, one of which could be a habitable world — the second closest to our own solar system.
+
+M dwarfs are the most prevalent stars in our galaxy and are some of the best targets for hunting exoplanets. Their low luminosity and small size mean orbiting planets can have shorter periods and are easier to detect. In a paper posted to the arXiv preprint server and accepted for publication in Astronomy & Astrophysics, a team of astronomers analyzed GJ 887, one of the brightest M dwarfs in the sky and one of the closest stars to our Sun at just 10.7 light-years away, in search of exoplanets. The star was already known to host two exoplanets but was suspected of hosting a third. Using high-precision spectrographs on the Very Large Telescope and La Silla Observatory, both in Chile, the team spotted not three but four, maybe five exoplanets — at least one of which sits in the star's habitable zone.
+
+The habitable zone, sometimes called the Goldilocks zone, is the distance from a host star at which a planet can sustain liquid water — a necessary ingredient for life. To be included in the Habitable Worlds Catalog (HWC) run by the University of Puerto Rico at Arecibo's Planetary Habitability Laboratory, a planet must exist within the habitable zone of its host star and meet certain mass and radius requirements. At present, of the over 5,000 known exoplanets, only 70 make the cut for the HWC. Adding new exoplanets to this list will help scientists know where to look when new observatories like the Habitable Worlds Observatory (HWO) or Large Interferometer For Exoplanets (LIFE) come online. (HWO is projected to launch in the 2040s; presently there is no projected launch date for LIFE.)
+
+The authors of the study believe that GJ 887 is one such planetary system worthy of further attention.
+
+A paper published in Science in 2020 reported two super-Earths orbiting GJ 887: GJ 887 b, about four times Earth's mass with an orbital period of around nine days, and GJ 887 c, roughly eight times Earth's mass orbiting about every 21 days. The team detected them with the European Southern Observatory's High Accuracy Radial velocity Planet Searcher (HARPS) using the radial velocity method. When a planet orbits a star, its gravity tugs on the star ever so slightly, causing the star to wobble. That wobble causes a Doppler shift in the host star's light — making it bluer as the star moves toward the observer and redder as it moves away. By measuring those tiny shifts, scientists can deduce a planet's minimum mass and orbital period. Along with GJ 887 b and GJ 887 c, the team also spotted a signal that came around every 50 days. It was unclear whether that was a third planet or just magnetic activity, like sunspots, from the host star.
+
+To find out, a new team took a closer look at GJ 887, gathering 101 additional HARPS observations and 12 measurements from ESPRESSO, a more precise spectrograph on the Very Large Telescope in Chile. In the 2020 study, GJ 887 had been inactive, so the team couldn't determine its rotation period — a useful bit of data for distinguishing planetary signals from stellar noise. Luckily, during the new observations, the star increased its magnetic activity. The new activity revealed a rotation period of about 39 days, which allowed the team to build a more sophisticated model of the star's behavior. Not only did the new model reveal the suspected third planet — now confirmed as GJ 887 d, a super-Earth orbiting every 51 days in the habitable zone — but also a previously hidden fourth planet. GJ 887 e is an Earth-mass world that orbits too close to its host star to be habitable, completing one orbit every 4.4 days.
+
+But with a minimum mass of about six times that of Earth and an orbit within the habitable zone, GJ 887 d meets the criteria for inclusion in the Habitable Worlds Catalog. It is only the second confirmed habitable zone planet within about 10 light-years of Earth, after Proxima Centauri b. The team also found a probable fifth planet, GJ 887 f, with a 2.2-day orbital period and roughly half the mass of Earth. However, the signal did not meet the statistical threshold required to claim a confirmed detection. Future observations could settle the question.
+
+GJ 887 d's proximity to Earth makes it a prime candidate for the next generation of space observatories. Both the HWO and LIFE are designed to directly image nearby exoplanets and analyze their atmospheres for signs of life — but they'll need to know where to point. At just 10.7 light-years away, GJ 887 d is one of the closest habitable zone planets to Earth, making it one of the most promising targets for future atmospheric characterization — and for answering the question of whether we're alone.

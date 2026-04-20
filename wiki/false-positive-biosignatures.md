@@ -18,8 +18,9 @@ A photochemical study in a Mars-like atmosphere found that **water-vapor-driven 
 
 ## Implication
 
-Detection of O₂ on an M-dwarf rocky planet cannot be interpreted as life without first ruling out CO₂-photolysis + HOx chemistry as the source. This is directly relevant to any future JWST or HWO biosignature claim, including the ongoing debate over [[src-jwst-k2-18b-biosignature-2025|K2-18b's DMS detection]].
+Detection of O₂ on an M-dwarf rocky planet cannot be interpreted as life without first ruling out CO₂-photolysis + HOx chemistry as the source. This is directly relevant to any future JWST or HWO biosignature claim, including the ongoing debate over [[src-jwst-k2-18b-biosignature-2025|K2-18b's DMS detection]]. [[sara-seager]] et al. (2025) treat false positives as a core reason single-gas detections on their own cannot confirm life — "parallel interpretations" will require next-gen facilities to resolve ([[src-jwst-biosignature-prospects-2025]]).
 
 ## Sources
 
 - [[src-oxygen-false-positive-biosignatures-2026-03]]
+- [[src-jwst-biosignature-prospects-2025]]

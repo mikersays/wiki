@@ -38,6 +38,10 @@ Indicators of technological activity by intelligent life:
 - **Abiotic mimics**: Many biosignature candidates can be produced by non-biological processes (volcanism, meteorite delivery, photochemistry).
 - **Extraordinary evidence**: As Katie Stack Morgan noted, "astrobiological claims... require extraordinary evidence."
 
+## The "Silver Bullet" Critique — Parallel Interpretations
+
+In a 2025 PNAS perspective ([[src-jwst-biosignature-prospects-2025]]), [[sara-seager]] et al. argue the single-gas "silver bullet" biosignature paradigm is not achievable with [[jwst]]. The same [[transmission-spectroscopy|transmission spectrum]] admits multiple valid atmospheric retrievals — "parallel interpretations" that may not resolve until next-gen observatories ([[habitable-worlds-observatory]], [[life-interferometer|LIFE]]) come online. Only a handful of habitable-zone atmospheres are accessible before JWST's noise floor, and transmission spectra are 1D averages of 3D atmospheric processes. Seager et al. also note that oxygen took billions of years to reach 20% on Earth even after oxygenic photosynthesis evolved — so for much of Earth's inhabited history, O₂ was only a trace gas, narrowing the temporal window during which Earth itself would have looked "biosignatured" from afar.
+
 ## Biosignature Survival
 
 Research by Alexander Pavlov (NASA Goddard, 2024) on [[ocean-worlds]]:

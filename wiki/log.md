@@ -1,6 +1,6 @@
 ---
 title: Log
-updated: 2026-04-16
+updated: 2026-04-19
 ---
 
 # Log
@@ -188,3 +188,22 @@ Ingested 4 source documents covering UAP whistleblowers, congressional hearings,
 - `non-human-intelligence` — Hypothesized NHI origin of UAP
 - `kona-blue` — Proposed DHS reverse engineering program
 - `crash-retrieval-programs` — Alleged crash recovery programs
+
+## [2026-04-19] ingest | /ufo-news sweep — 4 sources via parallel agent teams
+
+Fetched via /ufo-news. 6 parallel search agents returned candidates across congressional, AARO, whistleblowers, incidents, international, and astrobiology tracks. After dedupe against existing wiki, 7 candidates were presented; user approved all. 4 fetches succeeded (60 Minutes, The War Zone, PNAS/Seager, Astronomy.com/GJ 887 d); 3 failed (House Oversight page, NewsNation, Ask a Pol — all 403 or year-old content). Two of the successful saves proved to be earlier than initially dated (60 Minutes March 2025; PNAS Sept 2025) — filenames were corrected before analysis. 4 parallel analysis agents returned structured output, then main agent serially merged.
+
+**New sources (4):** [[src-60-minutes-drone-swarms-2025]], [[src-drone-incursions-epic-fury-2026-03]], [[src-jwst-biosignature-prospects-2025]], [[src-gj-887-d-habitability-2026-03]]
+
+**New entities (16):** [[langley-afb]], [[glen-vanherck]], [[roger-wicker]], [[picatinny-arsenal]], [[palo-verde-nuclear-plant]], [[barksdale-afb]], [[whiteman-afb]], [[eric-schmitt]], [[the-war-zone]], [[sara-seager]], [[gj-887]], [[gj-887-d]], [[harps]], [[espresso]], [[very-large-telescope]], [[life-interferometer]]
+
+**New concepts (5):** [[operation-spider-web]], [[transmission-spectroscopy]], [[radial-velocity]], [[m-dwarf-stars]], [[habitable-worlds-catalog]]
+
+**Pages updated (15):** [[drone-incursions]], [[flyaway-kit]], [[gregory-guillot]], [[usnorthcom]], [[norad]], [[anduril]], [[nuclear-uap-correlation]], [[operation-epic-fury]], [[jwst]], [[biosignatures]], [[k2-18b]], [[habitable-worlds-observatory]], [[exoplanet-habitability]], [[nikku-madhusudhan]], [[direct-imaging]], [[hycean-worlds]], [[astrobiology]], [[false-positive-biosignatures]]
+
+**Cross-connections observed:**
+- **Drone cluster now has a coherent 2019→2026 timeline.** The March 2025 60 Minutes piece is the foundational open-source backstory (Langley, Palo Verde, UK nuclear-storage base, Picatinny) feeding into the March 2026 Epic Fury wave (Barksdale multi-wave swarms) and the NORTHCOM FAK program. Guillot's public remarks are now traceable across two on-the-record moments (March 2025 60 Minutes → March 2026 SASC) showing a clear progression from "hair on fire" to "~25% defeat rate."
+- **Astrobiology cluster gained a methodological spine.** Seager et al. 2025 PNAS provides a theoretical critique that now cross-cuts [[k2-18b]] (canonical "parallel interpretations" case), [[jwst]], [[biosignatures]] (silver-bullet critique), [[hycean-worlds]] (one valid retrieval among many), and [[exoplanet-habitability]]. The new [[gj-887-d]] confirmation is the nearest new habitable-zone target motivating HWO/LIFE urgency.
+- **Nuclear-UAP correlation expanded** to include Palo Verde 2019, Barksdale 2026, UK nuclear-weapons-storage base Dec 2024 — all drone-incursion data points.
+
+**Failures:** oversight.house.gov/hearing page (HTTP 403), NewsNation marathon article (HTTP 403), Ask a Pol SCIF Watch (article was from March 2025 describing an April 2025 event — not fresh). None written.

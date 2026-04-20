@@ -15,7 +15,12 @@ Hycean worlds would be relatively easy to characterize atmospherically via [[jws
 
 The methodology developed for these hycean searches is portable to any future candidate as the SKA and ngVLA come online.
 
+## Competing interpretations
+
+[[sara-seager]] et al. (2025) treat the hycean reading of K2-18b's spectrum as *one of several* valid interpretations — alongside mini-Neptune and hot-magma-ocean retrievals — under their "parallel interpretations" framework ([[src-jwst-biosignature-prospects-2025]]). JWST alone cannot arbitrate between these; next-gen telescopes are needed.
+
 ## Sources
 
 - [[src-jwst-k2-18b-biosignature-2025]]
 - [[src-k2-18b-technosignature-null-2026]]
+- [[src-jwst-biosignature-prospects-2025]]

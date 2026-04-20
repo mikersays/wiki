@@ -12,7 +12,7 @@ updated: 2026-04-16
 ## Key Concepts
 
 ### Habitable Zone
-The orbital region around a star where conditions permit liquid water on a planet's surface. K2-18b orbits within its star's habitable zone at 124 light-years from Earth ([[src-jwst-k2-18b-biosignature-2025]]).
+The orbital region around a star where conditions permit liquid water on a planet's surface. K2-18b orbits within its star's habitable zone at 124 light-years from Earth ([[src-jwst-k2-18b-biosignature-2025]]). Nearby habitable-zone planets include [[gj-887-d]] at 10.7 ly (confirmed 2026) and Proxima Centauri b — the two closest confirmed examples ([[src-gj-887-d-habitability-2026-03]]). The Planetary Habitability Laboratory's [[habitable-worlds-catalog]] lists roughly 70 qualifying planets out of 5,000+ known exoplanets.
 
 ### Hycean Worlds
 A class of habitable planet theorized by [[nikku-madhusudhan]] in 2021 — planets entirely covered in liquid water with hydrogen-rich atmospheres. [[k2-18b]] is the leading [[hycean-worlds|hycean world]] candidate, with 8.6x Earth's mass and 2.6x Earth's diameter.
@@ -23,11 +23,12 @@ However, independent teams interpret K2-18b differently:
 - **Mini-Neptune** (gas-dominated, no surface)
 
 ### Atmospheric Characterization
-The [[jwst]] uses **transmission spectroscopy** to identify atmospheric gases during planetary transits. Key detections on K2-18b include methane, CO2, and potential [[biosignatures]] (DMS/DMDS).
+The [[jwst]] uses [[transmission-spectroscopy]] to identify atmospheric gases during planetary transits. Key detections on K2-18b include methane, CO2, and potential [[biosignatures]] (DMS/DMDS). A 2025 PNAS perspective by [[sara-seager]] et al. ([[src-jwst-biosignature-prospects-2025]]) argues JWST can only nominate biosignature candidates — not confirm them — because transmission spectra admit "parallel interpretations."
 
 ## Detection Methods
 
-- **Transmission spectroscopy**: Analyzing starlight filtered through an exoplanet's atmosphere
+- **[[transmission-spectroscopy|Transmission spectroscopy]]**: Analyzing starlight filtered through an exoplanet's atmosphere
+- **[[radial-velocity|Radial velocity]]**: Measuring stellar reflex motion (how GJ 887 d was confirmed)
 - **[[direct-imaging|Direct imaging]]**: Blocking starlight to observe the planet directly; used for the [[jwst]] MIRI coronagraph candidate at [[alpha-centauri-a]] ([[src-alpha-centauri-a-exoplanet-2026]])
 - **Atmospheric modeling**: Comparing observed spectra to predicted chemical compositions — essential for ruling out [[false-positive-biosignatures]]
 
@@ -42,10 +43,13 @@ The [[jwst]] uses **transmission spectroscopy** to identify atmospheric gases du
 - [[biosignatures]]
 - [[astrobiology]]
 - [[jwst]]
-- [[nikku-madhusudhan]]
+- [[nikku-madhusudhan]], [[sara-seager]]
 - [[k2-18b]]
-- [[alpha-centauri-a]]
+- [[alpha-centauri-a]], [[gj-887-d]]
 - [[hycean-worlds]]
+- [[habitable-worlds-catalog]]
+- [[m-dwarf-stars]]
 - [[false-positive-biosignatures]]
 - [[direct-imaging]]
+- [[transmission-spectroscopy]], [[radial-velocity]]
 - [[technosignatures]]

@@ -25,6 +25,8 @@ updated: 2026-04-16
 
 Per [[src-k2-18b-technosignature-null-2026]], the DMS/DMDS biosignature interpretation is now "heavily disputed" in the astrobiology community. A parallel radio [[technosignatures]] search (VLA + MeerKAT) on the same target returned a null result. Madhusudhan's [[hycean-worlds|hycean world]] framework nonetheless remains the dominant theoretical lens for interpreting [[k2-18b]].
 
+[[sara-seager]] et al.'s 2025 PNAS perspective ([[src-jwst-biosignature-prospects-2025]]) treats the K2-18b DMS claim as the canonical example of the "parallel interpretations" problem: the same [[transmission-spectroscopy|transmission spectrum]] admits hycean, mini-Neptune, and hot-magma-ocean retrievals, and JWST alone cannot arbitrate.
+
 ## See Also
 
 - [[jwst]]

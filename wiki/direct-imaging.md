@@ -20,9 +20,16 @@ updated: 2026-04-16
 - [[nancy-grace-roman-space-telescope]] coronagraph — launching 2027
 - [[project-blue]] — proposed dedicated Alpha Centauri imager
 - [[habitable-worlds-observatory]] — future NASA flagship designed for direct imaging of Earth-like planets
+- [[life-interferometer|LIFE]] — proposed mid-IR space interferometer; complements HWO
 
-Direct imaging is methodologically distinct from **transmission spectroscopy** (used for [[src-jwst-k2-18b-biosignature-2025|K2-18b]]'s [[biosignatures|biosignature]] claim) and from radio **[[technosignatures]]** searches (used for [[src-k2-18b-technosignature-null-2026|K2-18b's technosignature null result]]).
+## Priority targets
+
+[[radial-velocity|RV]]-confirmed nearby habitable-zone planets feed direct-imaging target lists. Priority examples: [[gj-887-d]] (10.7 ly, 2026 confirmation), Proxima Centauri b, and the [[alpha-centauri-a]] gas-giant candidate.
+
+Direct imaging is methodologically distinct from [[transmission-spectroscopy]] (used for [[src-jwst-k2-18b-biosignature-2025|K2-18b]]'s [[biosignatures|biosignature]] claim) and from radio [[technosignatures]] searches (used for [[src-k2-18b-technosignature-null-2026|K2-18b's technosignature null result]]).
 
 ## Sources
 
 - [[src-alpha-centauri-a-exoplanet-2026]]
+- [[src-gj-887-d-habitability-2026-03]]
+- [[src-jwst-biosignature-prospects-2025]]

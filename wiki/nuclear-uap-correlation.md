@@ -32,9 +32,17 @@ This study is significant because it provides the first peer-reviewed, quantitat
 
 The nuclear-UAP correlation, if validated by further research, would suggest that UAP phenomena are not random but respond to specific human activities. This has implications for both [[uap-scientific-study]] (guiding where to deploy sensors) and national security (nuclear facilities as potential targets of interest).
 
-## 2026 Update — Strategic Installation Drone Defeat
+## Nuclear-Site Drone Incursions (2019-2026)
 
-Per [[src-northcom-drone-incursion-2026-03]], a NORTHCOM [[flyaway-kit|Flyaway Kit]] defeated a drone over an undisclosed "strategic" U.S. installation in the opening hours of [[operation-epic-fury]]. "Strategic" in military parlance often denotes nuclear-enterprise assets, though NORTHCOM declined to confirm a nuclear link. The FAK was certified at nuclear-bomber/ICBM base [[minot-afb]] in October 2025 during [[us-stratcom]]'s Global Thunder. See also [[drone-incursions]].
+A distinct but overlapping pattern: drone activity over U.S. and allied nuclear facilities has been reported with rising frequency.
+
+- **2019** — [[palo-verde-nuclear-plant|Palo Verde Nuclear Generating Station]], Arizona
+- **Dec 2024** — U.K. base storing U.S. nuclear weapons — simultaneous swarm with New Jersey events
+- **Feb 2026** — NORTHCOM [[flyaway-kit|FAK]] defeats a drone over an undisclosed "strategic" U.S. installation during [[operation-epic-fury]]; "strategic" often denotes nuclear-enterprise assets ([[src-northcom-drone-incursion-2026-03]])
+- **Mar 9-15, 2026** — [[barksdale-afb]] (B-52 base with nuclear weapons storage) hit by multi-wave drone incursions; [[whiteman-afb]] (B-2) also flagged ([[src-drone-incursions-epic-fury-2026-03]])
+- The FAK was certified at nuclear-bomber/ICBM base [[minot-afb]] in October 2025 during [[us-stratcom]]'s Global Thunder
+
+See also [[drone-incursions]].
 
 ## Sources
 
@@ -42,4 +50,6 @@ Per [[src-northcom-drone-incursion-2026-03]], a NORTHCOM [[flyaway-kit|Flyaway K
 - [[src-uap-landscape-2025]] -- Nuclear facility sightings referenced
 - [[src-uap-military-intercepts-ndaa-2026]] -- Military installations as UAP hotspots
 - [[src-northcom-drone-incursion-2026-03]] -- March 2026 "strategic installation" drone defeat
+- [[src-drone-incursions-epic-fury-2026-03]] -- Barksdale multi-wave drone incursions March 2026
+- [[src-60-minutes-drone-swarms-2025]] -- Palo Verde 2019 and UK nuclear-weapons-storage base Dec 2024
 - [[src-japan-uap-strategy-proposal-2026-03]] -- Japan's [[genkai-nuclear-uap-incident]] cited as rationale for a specialized UAP body

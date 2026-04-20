@@ -19,6 +19,8 @@ See [[src-uap-ndaa-fy2026-intercept-provisions]] for full legislative details.
 
 ## March 2026 FAK Drone Defeat
 
-Per [[src-northcom-drone-incursion-2026-03]], [[gregory-guillot|Gen. Gregory Guillot]] disclosed in Senate posture testimony that NORTHCOM's [[flyaway-kit|Flyaway Kit]] detected and defeated a small drone over a "strategic" U.S. installation in the opening hours of [[operation-epic-fury]]. The FAK had been certified at [[minot-afb]] in October 2025 during [[us-stratcom]]'s Global Thunder exercise. See also [[drone-incursions]].
+Per [[src-northcom-drone-incursion-2026-03]], [[gregory-guillot|Gen. Gregory Guillot]] disclosed in Senate posture testimony that NORTHCOM's [[flyaway-kit|Flyaway Kit]] detected and defeated a small drone over a "strategic" U.S. installation in the opening hours of [[operation-epic-fury]]. The FAK had been certified at [[minot-afb]] in October 2025 during [[us-stratcom]]'s Global Thunder exercise. As of March 2026 NORTHCOM held only one FAK, with additional units due Spring 2026 ([[src-drone-incursions-epic-fury-2026-03]]). Guillot told Sen. [[eric-schmitt]] that detections across U.S. bases are up year-over-year and NORTHCOM's defeat rate has risen from near zero to ~25%.
 
-See also: [[norad]], [[aaro]], [[ndaa-uap-provisions]], [[uap-disclosure]], [[gregory-guillot]], [[flyaway-kit]]
+See also [[drone-incursions]] and the foundational [[src-60-minutes-drone-swarms-2025|March 2025 60 Minutes piece]] where Guillot first publicly previewed the FAK concept.
+
+See also: [[norad]], [[aaro]], [[ndaa-uap-provisions]], [[uap-disclosure]], [[gregory-guillot]], [[flyaway-kit]], [[glen-vanherck]], [[langley-afb]], [[barksdale-afb]]

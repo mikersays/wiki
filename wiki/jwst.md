@@ -31,6 +31,10 @@ JWST's **MIRI coronagraph** at 15 microns detected a candidate Saturn-like gas g
 
 Per [[src-oxygen-false-positive-biosignatures-2026-03]], interpreting any JWST O₂/O₃ detection on M-dwarf rocky planets requires ruling out abiotic CO₂-photolysis + HOx-chemistry pathways. See [[false-positive-biosignatures]].
 
+### Limits and Parallel Interpretations
+
+A September 2025 PNAS perspective by [[sara-seager]] et al. ([[src-jwst-biosignature-prospects-2025]]) argues that while JWST can in principle detect biosignature gases via [[transmission-spectroscopy]], existing retrieval methods yield multiple valid interpretations of the same spectrum — the "parallel interpretations" problem. Only a handful of habitable-zone atmospheres are accessible before JWST hits its noise floor, and transmission spectra produce 1D averages of intrinsically 3D atmospheric processes. Seager et al. conclude JWST's realistic contribution is to nominate biosignature *candidate* planets rather than confirm life; confirmation awaits next-gen facilities like [[habitable-worlds-observatory]] and [[life-interferometer|LIFE]].
+
 ## See Also
 
 - [[biosignatures]]
@@ -38,8 +42,13 @@ Per [[src-oxygen-false-positive-biosignatures-2026-03]], interpreting any JWST O
 - [[astrobiology]]
 - [[k2-18b]]
 - [[alpha-centauri-a]]
+- [[gj-887-d]]
 - [[direct-imaging]]
+- [[transmission-spectroscopy]]
 - [[technosignatures]]
 - [[false-positive-biosignatures]]
+- [[habitable-worlds-observatory]]
+- [[life-interferometer]]
+- [[sara-seager]]
 - [[nasa]]
 - [[esa]]
