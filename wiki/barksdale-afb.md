@@ -11,12 +11,15 @@ Between March 9-15, 2026, Barksdale experienced multiple waves of 12-15 [[drone-
 
 B-52s at Barksdale "sit almost entirely out in the open," and the fleet is scarce (only 76 airframes total), elevating concern about flightline vulnerability in the wake of Ukraine's [[operation-spider-web]].
 
+According to [[stephen-bryen]]'s April 2026 analysis ([[src-spy-drones-nuclear-triad-2026-04]]), Barksdale is transitioning to replace [[minot-afb]] as the primary nuclear weapons storage site for B-52s — reducing delivery time from ~3 hours to minutes — which elevates its strategic value and makes the drone incursions especially significant. Bryen frames the March 2026 incursions as part of a coordinated Chinese intelligence campaign targeting all three legs of the [[nuclear-triad]], alongside spy balloon overflights of [[malmstrom-afb]] and the Offutt AFB photography arrest.
+
 ## Sources
 
 - [[src-drone-incursions-epic-fury-2026-03]]
+- [[src-spy-drones-nuclear-triad-2026-04]]
 
 ## Related
 
-- [[drone-incursions]], [[nuclear-uap-correlation]], [[us-stratcom]]
+- [[drone-incursions]], [[nuclear-uap-correlation]], [[nuclear-triad]], [[us-stratcom]]
 - [[operation-epic-fury]], [[operation-spider-web]]
-- [[whiteman-afb]], [[langley-afb]]
+- [[whiteman-afb]], [[langley-afb]], [[malmstrom-afb]], [[offutt-afb]]

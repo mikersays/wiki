@@ -39,9 +39,14 @@ Luna has emerged as one of the most active congressional advocates for UAP trans
 - **Apr 14, 2026** — Deadline missed. Luna's X post: "No one from the Pentagon had responded until we reached out... How convenient." Rejected an offered future briefing ([[src-pentagon-uap-deadline-missed-2026-04]]).
 - **Apr 15, 2026** — [[department-of-war|DoW]] publicly confirms the release process; [[jeremy-corbell]] and [[george-knapp]] say they supplied Congress with the file names and locations underlying Luna's request ([[src-war-department-uap-release-2026-04]]).
 
+## April 24, 2026 UAP Hearing
+
+Luna chaired a second hearing on April 24, 2026: "Restoring Public Trust Through UAP Transparency and Whistleblower Protection" — the official primary-source record of which is at [[src-uap-transparency-hearing-2026-04]]. Featured additional military witnesses ([[jeffrey-nuccetelli]], [[dylan-borland]], [[alexandro-wiggins]]) and Rep. [[eric-burlison]]'s public release of MQ-9/Yemen orb footage. (Note: analysis agent originally assessed this as the September 9, 2025 hearing; the April 24, 2026 date is from the hearing page URL.)
+
 ## Sources
 
 - [[src-uap-whistleblower-hearing-2025]]
+- [[src-uap-transparency-hearing-2026-04]] — primary-source committee record
 - [[src-uap-legislation-disclosure-efforts-2025]]
 - [[src-aaro-shutdown-bill-2026]]
 - [[src-luna-46-uap-videos-demand-2026-03]] — primary source: the March 31 letter

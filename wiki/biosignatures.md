@@ -38,6 +38,10 @@ Indicators of technological activity by intelligent life:
 - **Abiotic mimics**: Many biosignature candidates can be produced by non-biological processes (volcanism, meteorite delivery, photochemistry).
 - **Extraordinary evidence**: As Katie Stack Morgan noted, "astrobiological claims... require extraordinary evidence."
 
+## Surface Flux Inference — Beyond Abundance Retrieval
+
+Wogan et al. (2026) propose that atmospheric abundance measurements are insufficient for life detection because photochemistry, climate feedbacks, and atmospheric escape modulate gas concentrations independently of the surface source. Their **[[surface-flux-inference]]** method inverts a coupled [[photochemical-climate-model]] against [[jwst]] spectra to recover surface gas fluxes directly. In a synthetic 10-transit NIRSpec Prism spectrum of [[trappist-1-e]], ~80% of the CH₄ flux posterior was consistent with methanogenic metabolism. See [[src-biosignature-gas-flux-inference-2026-04]].
+
 ## The "Silver Bullet" Critique — Parallel Interpretations
 
 In a 2025 PNAS perspective ([[src-jwst-biosignature-prospects-2025]]), [[sara-seager]] et al. argue the single-gas "silver bullet" biosignature paradigm is not achievable with [[jwst]]. The same [[transmission-spectroscopy|transmission spectrum]] admits multiple valid atmospheric retrievals — "parallel interpretations" that may not resolve until next-gen observatories ([[habitable-worlds-observatory]], [[life-interferometer|LIFE]]) come online. Only a handful of habitable-zone atmospheres are accessible before JWST's noise floor, and transmission spectra are 1D averages of 3D atmospheric processes. Seager et al. also note that oxygen took billions of years to reach 20% on Earth even after oxygenic photosynthesis evolved — so for much of Earth's inhabited history, O₂ was only a trace gas, narrowing the temporal window during which Earth itself would have looked "biosignatured" from afar.

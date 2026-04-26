@@ -36,7 +36,10 @@ A modern narrowband technosignature search applies filters like:
 
 A technosignature null does not rule out life. It is consistent with: an uninhabited planet, pre-technological life, or technological civilizations using non-radio, broadband, low-duty-cycle, or encrypted signals.
 
+An additional factor: **[[stellar-plasma-scattering]]** — stellar wind plasma turbulence and coronal mass ejections near a transmitting planet can broaden ultra-narrow radio signals before they leave the home system, causing them to fall below standard detection thresholds. [[m-dwarf-stars]] (the most common star type) are highest-risk. Standard [[seti]] pipelines account for interstellar propagation but generally overlook this near-source distortion. See [[src-plasma-technosignature-scattering-2026]].
+
 ## Sources
 
 - [[src-k2-18b-technosignature-null-2026]]
 - [[src-seti-ai-breakthrough-listen-2025]]
+- [[src-plasma-technosignature-scattering-2026]]

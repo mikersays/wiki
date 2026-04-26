@@ -7,6 +7,20 @@ updated: 2026-04-19
 
 Chronological record of wiki activity. Each entry uses the format `## [YYYY-MM-DD] action | description` for easy parsing.
 
+## [2026-04-25] ingest | UFO news sweep (7 articles)
+
+Fetched via /ufo-news. 7 searches dispatched across 7 tracks, 10 candidates found, 10 fetch attempts, 7 saved (3 failed with 403).
+
+**New sources (7):** [[src-uap-transparency-hearing-2026-04]], [[src-brazil-uap-senate-hearings-2026]], [[src-biosignature-gas-flux-inference-2026-04]], [[src-plasma-technosignature-scattering-2026]], [[src-interplanetary-habitable-zone-2026]], [[src-elizondo-motorcycle-crash-2026-04]], [[src-spy-drones-nuclear-triad-2026-04]]
+
+**Failed (3):** Luna hearing opening statement (403), SETI Institute life-shortlist (403), Coeur d'Alene Press academic stigma (403)
+
+**New entities (22):** [[jeffrey-nuccetelli]], [[dylan-borland]], [[alexandro-wiggins]], [[eric-burlison]], [[joe-spielberger]], [[brazil]], [[eduardo-girao]], [[aj-gevaerd]], [[robert-salas]], [[gary-heseltine]], [[icer]], [[operation-prato]], [[brazil-night-of-ufos-1986]], [[trappist-1-e]], [[trappist-1]], [[vishal-gajjar]], [[grayce-c-brown]], [[caleb-scharf]], [[ross-coulthart]], [[offutt-afb]], [[malmstrom-afb]], [[stephen-bryen]]
+
+**New concepts (5):** [[surface-flux-inference]], [[photochemical-climate-model]], [[stellar-plasma-scattering]], [[interplanetary-habitable-zone]], [[nuclear-triad]]
+
+**Updated:** [[lue-elizondo]], [[anna-paulina-luna]], [[barksdale-afb]], [[drone-incursions]], [[nuclear-uap-correlation]], [[uap-disclosure]], [[technosignatures]], [[biosignatures]], [[astrobiology]], [[exoplanet-habitability]], [[m-dwarf-stars]], [[uap-whistleblower-protections]]
+
 ## [2026-04-16] ingest | /ufo-news follow-ups — 3 additional sources (Luna letter primary, AARO whitepaper, Japan UAP)
 
 Follow-up pass on failures from the morning sweep. 5 parallel agents retried the four blocked primary sources and verified alien.gov's state.

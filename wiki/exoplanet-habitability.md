@@ -32,11 +32,16 @@ The [[jwst]] uses [[transmission-spectroscopy]] to identify atmospheric gases du
 - **[[direct-imaging|Direct imaging]]**: Blocking starlight to observe the planet directly; used for the [[jwst]] MIRI coronagraph candidate at [[alpha-centauri-a]] ([[src-alpha-centauri-a-exoplanet-2026]])
 - **Atmospheric modeling**: Comparing observed spectra to predicted chemical compositions — essential for ruling out [[false-positive-biosignatures]]
 
+## Interplanetary Habitable Zone
+
+[[caleb-scharf]] (NASA Ames, 2026) proposes the [[interplanetary-habitable-zone|Interplanetary Habitable Zone (IHZ)]] framework, which extends the traditional stellar habitable zone to model where *technological civilizations* can sustainably expand within a planetary system. The IHZ adds four dimensions — power availability, radiation risk, delta-v, and material resources — and runs agent-based simulations to predict civilizational expansion trajectories. Key finding: [[trappist-1]] civilizations go extinct within ~45 years due to radiation from the active M-dwarf host; survival requires artificially halving radiation exposure. For Earth's solar system, the predicted expansion sequence is Mars → asteroid belt → Moon. See [[src-interplanetary-habitable-zone-2026]].
+
 ## Open Questions
 
 - Can biological processes sustain DMS at concentrations thousands of times greater than Earth levels?
 - How common are Hycean worlds?
 - Can habitability be confirmed remotely, or does it require in-situ measurement?
+- Does the [[interplanetary-habitable-zone]] filter eliminate many otherwise "habitable" planets from being plausible hosts of advanced life?
 
 ## See Also
 

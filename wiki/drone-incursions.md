@@ -9,6 +9,7 @@ updated: 2026-04-19
 
 ## Timeline of notable incidents
 
+- **1967** — [[malmstrom-afb|Malmstrom AFB]], Montana — [[robert-salas]] claims a UAP incident disabled multiple Minuteman ICBMs under his watch; foundational nuclear-UAP case
 - **2019** — U.S. Navy warships shadowed for weeks off Southern California; origin possibly linked to a Hong Kong-flagged freighter
 - **2019** — [[palo-verde-nuclear-plant|Palo Verde nuclear plant]], Arizona — unexplained drone activity first documented by [[the-war-zone]]
 - **Dec 14, 2023 – Jan 2024** — [[langley-afb|Langley AFB]], Virginia — 17-night swarm; F-22s relocated; Biden White House later framed as "hobbyists," rejected by [[glen-vanherck]]
@@ -16,7 +17,8 @@ updated: 2026-04-19
 - **Dec 2024** — [[picatinny-arsenal|Picatinny Arsenal]], NJ — 11 confirmed sightings that helped ignite the NJ drone wave
 - **Dec 2024** — U.K. base storing U.S. nuclear weapons — simultaneous swarm
 - **Feb 2026** — Opening hours of [[operation-epic-fury]] — [[flyaway-kit|FAK]] first operational defeat over a "strategic" installation
-- **Mar 9-15, 2026** — [[barksdale-afb|Barksdale AFB]] — multiple waves of 12-15 drones with non-commercial signals and jamming resistance; shelter-in-place issued
+- **Mar 8–15, 2026** — [[barksdale-afb|Barksdale AFB]] — single drone breached perimeter March 8; 12–15 drones in waves over four hours March 9; multiple nights through March 15; shelter-in-place issued
+- **2024–2026 (ongoing)** — [[malmstrom-afb|Malmstrom AFB]], Montana — multiple unidentified drone swarm incidents over ICBM silos and launch control centers; no drones captured, no operators identified
 
 ## Capabilities and official assessments
 
@@ -25,6 +27,7 @@ updated: 2026-04-19
 - Sen. [[roger-wicker]] (SASC chair): Pentagon "mystified" despite classified briefings; activity logically appears to be "spying incursions"
 - NORTHCOM's [[flyaway-kit]] is the first dedicated transportable C-sUAS capability; only one kit existed as of March 2026
 - [[operation-spider-web|Ukraine's 2025 Spider Web operation]] turned flightline drone strikes from theoretical to demonstrated, elevating U.S. homeland threat models
+- Drones over [[barksdale-afb]] likely use **frequency-hopping radios and encrypted hopping patterns**, making jamming "difficult to impossible" per [[stephen-bryen]]'s analysis ([[src-spy-drones-nuclear-triad-2026-04]])
 
 ## Overlap with UAP
 
@@ -37,3 +40,4 @@ Many incidents attributed publicly to "drone" activity have characteristics (spe
 - [[src-northcom-drone-incursion-2026-03]]
 - [[src-uap-military-intercepts-ndaa-2026]]
 - [[src-uap-ndaa-fy2026-intercept-provisions]]
+- [[src-spy-drones-nuclear-triad-2026-04]]

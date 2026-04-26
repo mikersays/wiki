@@ -68,6 +68,7 @@ See also: [[uap-whistleblower-protections]], [[ndaa-uap-provisions]]
 
 - [[sky-canada-project]] — Canada (July 2025), science-advisor lead
 - [[japan-uap-framework]] — Japan (March 2026), Cabinet Secretariat / crisis-management lead, **human-adversary** working hypothesis ([[src-japan-uap-strategy-proposal-2026-03]])
+- [[brazil]] — Senate UAP hearing June 2022 ([[src-brazil-uap-senate-hearings-2026]]), modeled on U.S. Congressional hearings; called for Gillibrand-style disclosure legislation
 
 ## Key Tensions
 

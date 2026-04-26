@@ -17,12 +17,20 @@ According to [[src-uap-whistleblower-hearing-2025]], Rep. Anna Paulina Luna argu
 - Standard whistleblower channels may not be equipped to handle the specific classification and compartmentalization structures of UAP programs
 - Military personnel who encounter UAP lack clear reporting chains, leading to institutional silence
 
+## Military Witness Framework (Wiggins, 2025)
+
+[[alexandro-wiggins]] — the first active-duty Navy official to testify publicly before Congress about UAP — proposed a three-point framework at the September/April 2025-26 hearing ([[src-uap-transparency-hearing-2026-04]]):
+1. **Aviation/maritime safety first** — treat UAP reporting as a safety issue, not a security threat to the reporter
+2. **Standardized checklists and training** — give personnel the vocabulary and process to report without ambiguity
+3. **Reporting without stigma or retribution** — "Sailors need to know that reporting UAP encounters will not harm their careers"
+
 ## Case Study: Dylan Borland
 
-Dylan Borland's testimony at the September 2025 hearing ([[src-uap-whistleblower-hearing-2025]]) illustrates the risks whistleblowers face:
-- Alleged sustained retaliation after reporting a 2012 UAP incident at Langley AFB
+[[dylan-borland]]'s testimony illustrates the risks whistleblowers face:
+- Alleged sustained retaliation after reporting a 2012 UAP incident at [[langley-afb]]
 - Stated "my professional career was deliberately obstructed"
 - Experienced workplace harassment and undermining of classified work eligibility
+- Source: [[src-uap-whistleblower-hearing-2025]] and [[src-uap-transparency-hearing-2026-04]]
 
 ## Key Legislation
 

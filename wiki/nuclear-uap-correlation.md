@@ -32,6 +32,11 @@ This study is significant because it provides the first peer-reviewed, quantitat
 
 The nuclear-UAP correlation, if validated by further research, would suggest that UAP phenomena are not random but respond to specific human activities. This has implications for both [[uap-scientific-study]] (guiding where to deploy sensors) and national security (nuclear facilities as potential targets of interest).
 
+## International Nuclear-UAP Testimony
+
+- **[[robert-salas]]** (retired USAF Captain) testified at Brazil's June 2022 Senate hearing on the global pattern of UAP events at nuclear weapons sites, connecting the U.S. experience to South American cases including [[brazil-night-of-ufos-1986|Brazil's 1986 Night of the UFOs]] ([[src-brazil-uap-senate-hearings-2026]]).
+- [[malmstrom-afb]] is a recurring node: Salas's 1967 ICBM-shutdown UAP claim, the 2023 Chinese spy balloon overflight (24–48 hours, Iridium-maneuvered), and 2024–2026 unidentified drone swarm incidents ([[src-spy-drones-nuclear-triad-2026-04]]).
+
 ## Nuclear-Site Drone Incursions (2019-2026)
 
 A distinct but overlapping pattern: drone activity over U.S. and allied nuclear facilities has been reported with rising frequency.
@@ -53,3 +58,5 @@ See also [[drone-incursions]].
 - [[src-drone-incursions-epic-fury-2026-03]] -- Barksdale multi-wave drone incursions March 2026
 - [[src-60-minutes-drone-swarms-2025]] -- Palo Verde 2019 and UK nuclear-weapons-storage base Dec 2024
 - [[src-japan-uap-strategy-proposal-2026-03]] -- Japan's [[genkai-nuclear-uap-incident]] cited as rationale for a specialized UAP body
+- [[src-brazil-uap-senate-hearings-2026]] -- Robert Salas's international testimony on nuclear-UAP pattern
+- [[src-spy-drones-nuclear-triad-2026-04]] -- Malmstrom AFB spy balloon and drone swarm incidents

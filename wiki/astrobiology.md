@@ -21,7 +21,13 @@ The [[jwst]] is systematically characterizing exoplanet atmospheres through [[tr
 Moons with subsurface oceans — particularly Enceladus and Europa — are prime targets. [[esa]] has proposed an orbiter-lander mission to Enceladus ([[src-esa-enceladus-life-mission-2025]]), and [[nasa]]'s [[europa-clipper]] will study Europa starting in 2030.
 
 ### SETI
-The search for technosignatures has been accelerated by AI. [[breakthrough-listen]]'s deep learning system achieves 600x faster signal detection ([[src-seti-ai-breakthrough-listen-2025]]), transforming [[seti]] into a real-time monitoring capability.
+The search for technosignatures has been accelerated by AI. [[breakthrough-listen]]'s deep learning system achieves 600x faster signal detection ([[src-seti-ai-breakthrough-listen-2025]]), transforming [[seti]] into a real-time monitoring capability. A 2026 [[seti-institute]] study found that [[stellar-plasma-scattering]] by active M-dwarf stars may cause narrowband radio signals to broaden below detection thresholds before leaving their home system — a previously overlooked null-result factor ([[src-plasma-technosignature-scattering-2026]]).
+
+### Interplanetary Habitable Zone
+[[caleb-scharf]] (NASA Ames, 2026) proposes the [[interplanetary-habitable-zone|Interplanetary Habitable Zone (IHZ)]] framework: a multi-dimensional model (power, radiation, delta-v, resources) of where technological civilizations can sustainably expand within a planetary system. The model finds TRAPPIST-1 civilizations extinct within ~45 years due to M-dwarf radiation ([[src-interplanetary-habitable-zone-2026]]).
+
+### Surface Flux Inference
+Wogan et al. (2026) propose [[surface-flux-inference]] — inverting a [[photochemical-climate-model]] against [[jwst]] spectra to recover surface gas fluxes rather than abundances — demonstrated on a synthetic TRAPPIST-1 e spectrum with ~80% of CH₄ posterior consistent with life ([[src-biosignature-gas-flux-inference-2026-04]]).
 
 ## Key Requirements for Life
 

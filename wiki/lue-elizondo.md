@@ -43,9 +43,18 @@ Elizondo's 2017 disclosure is widely regarded as the catalyst for the modern UAP
 
 Per [[src-wright-patterson-general-missing-2026-03]], Elizondo told CNN that Wright-Patterson AFB is "the center of gravity for research and development and for all the spooky things that the U.S. government works on" — contextualizing the disappearance of retired Maj. Gen. [[william-neil-mccasland]].
 
+## Near-Fatal Motorcycle Crash (March 2026)
+
+On March 17, 2026, Elizondo suffered a near-fatal motorcycle accident approximately one mile from his Wyoming home. Swerving to avoid a doe and fawn, he lost control and sustained life-threatening injuries: traumatic brain injury, ~32 facial/cranial fractures, shattered rib cage, collapsed lung, and a severed spleen (surgically removed). He was not wearing a helmet. His wife Jennifer located him via iPhone "Find My" and is credited with saving his life. He was given less than a 50% survival probability on arrival at a shock trauma center, was hospitalized for approximately one week, and released around April 3, 2026. Investigative journalist [[ross-coulthart]] publicly shared details and urged helmet use. Elizondo launched a YouTube recovery diary series on April 4, 2026.
+
+> "For the love of God, don't be a Lue, and please wear a helmet." — Lue Elizondo (public safety advisory)
+
+Source: [[src-elizondo-motorcycle-crash-2026-04]]
+
 ## Sources
 
 - [[src-uap-legislation-disclosure-efforts-2025]]
 - [[src-immaculate-constellation-whistleblower-2025]]
 - [[src-uap-reverse-engineering-claims-overview-2025]]
 - [[src-wright-patterson-general-missing-2026-03]]
+- [[src-elizondo-motorcycle-crash-2026-04]]
