@@ -28,7 +28,7 @@ updated: 2026-04-16
 
 ### Academic
 - [[aiaa]] -- Establishing reporting standards and peer-reviewed protocols
-- [[galileo-project]] -- Harvard sensor arrays for anomaly detection
+- [[galileo-project]] -- Harvard sensor arrays for anomaly detection; March 2026 milestone of multi-station [[uap-triangulation]] (sub-10% distance precision via 10-km baselines), addressing the unknown camera-to-object distance "Achilles Heel" of past UAP video ([[src-galileo-project-uap-capability-2026-03]])
 
 ## Key Shift: Safety Framing
 

@@ -2,18 +2,19 @@
 title: Caleb Scharf
 type: entity
 created: 2026-04-25
-updated: 2026-04-25
+updated: 2026-04-28
 ---
 
-**Dr. Caleb Scharf** is an astrobiologist at NASA Ames Research Center and author of the arXiv preprint introducing the [[interplanetary-habitable-zone|Interplanetary Habitable Zone (IHZ)]] framework (see [[src-interplanetary-habitable-zone-2026]]). His IHZ model extends habitability assessment beyond stellar liquid-water zones to model where technological civilizations can sustainably exist and expand within a planetary system.
+# Caleb Scharf
 
-His agent-based simulation of 1,000 digital agents across multiple planetary systems found that civilizations in the [[trappist-1]] system go extinct within ~45 years due to radiation from the active host M dwarf, and predicted Mars → asteroid belt → Moon as the expansion sequence for Earth's solar system.
+**Caleb Scharf** is an astrobiologist at [[nasa]] Ames Research Center; previously the founding director of astrobiology at Columbia University. In March 2026 he introduced the **[[interplanetary-habitable-zone]]** (IHZ) framework — a multi-dimensional, system-scale extension of the classical habitable zone for assessing where a spacefaring technological civilization can persist.
 
-## Related Pages
+## Key contributions
+
+- 2026 IHZ framework paper proposing four scoring axes: power availability, radiation risk, transport difficulty (delta-v), and material resources.
+- Agent-based simulations of 1,000 digital civilizations to validate the framework: Sol-analog migration trajectory Earth → Mars → asteroid belt → Moon; [[trappist-1]] civilizations extinct in ~45 years from radiation.
+- Reframes [[exoplanet-habitability]] from a per-planet question to a system-scale one and pushes [[seti]] target prioritization toward Sol-analogs over active [[m-dwarf-stars]].
+
+## Sources
 
 - [[src-interplanetary-habitable-zone-2026]]
-- [[interplanetary-habitable-zone]]
-- [[nasa]]
-- [[trappist-1]]
-- [[astrobiology]]
-- [[exoplanet-habitability]]

@@ -2,7 +2,7 @@
 title: Exoplanet Habitability
 type: concept
 created: 2026-04-13
-updated: 2026-04-16
+updated: 2026-04-28
 ---
 
 # Exoplanet Habitability
@@ -54,6 +54,8 @@ The [[jwst]] uses [[transmission-spectroscopy]] to identify atmospheric gases du
 - [[hycean-worlds]]
 - [[habitable-worlds-catalog]]
 - [[m-dwarf-stars]]
+- [[trappist-1]]
+- [[interplanetary-habitable-zone]]
 - [[false-positive-biosignatures]]
 - [[direct-imaging]]
 - [[transmission-spectroscopy]], [[radial-velocity]]

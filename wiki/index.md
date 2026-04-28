@@ -1,6 +1,6 @@
 ---
 title: Index
-updated: 2026-04-25
+updated: 2026-04-28
 ---
 
 # Wiki Index
@@ -23,6 +23,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[src-drone-incursions-epic-fury-2026-03]] — The War Zone: multi-wave drone incursions at Barksdale B-52 base March 9-15 2026; Guillot SASC disclosures on detection/defeat trends
 - [[src-elizondo-motorcycle-crash-2026-04]] — Lue Elizondo survives near-fatal Wyoming motorcycle crash on March 17, 2026; hospitalized one week with life-threatening injuries
 - [[src-esa-enceladus-life-mission-2025]] — ESA proposes orbiter-lander mission to Saturn's moon Enceladus to search for life in its subsurface ocean
+- [[src-galileo-project-uap-capability-2026-03]] — Avi Loeb announces Galileo Project sub-10% UAP-distance precision via 10-km multi-station triangulation; framed as scientific alternative to government disclosure
 - [[src-gj-887-d-habitability-2026-03]] — Astronomers confirm GJ 887 d, a super-Earth in the habitable zone of an M dwarf 10.7 ly away; 2nd-closest known habitable-zone planet after Proxima b
 - [[src-immaculate-constellation-whistleblower-2025]] — Matthew Brown publicly confirms classified UAP surveillance program "Immaculate Constellation"
 - [[src-interplanetary-habitable-zone-2026]] — Scharf (NASA Ames) proposes Interplanetary Habitable Zone framework; TRAPPIST-1 civilizations extinct within 45 years due to radiation
@@ -30,6 +31,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[src-jwst-biosignature-prospects-2025]] — Seager et al. PNAS perspective: JWST can nominate but not confirm biosignature-gas candidates; field must accept "parallel interpretations" until next-gen telescopes
 - [[src-jwst-k2-18b-biosignature-2025]] — JWST detects dimethyl sulfide and dimethyl disulfide (potential biosignatures) in the atmosphere of exoplanet K2-18b
 - [[src-k2-18b-technosignature-null-2026]] — VLA+MeerKAT radio technosignature search of K2-18b returns null result; methodology portable to other hycean worlds
+- [[src-loeb-wh-uap-videos-skeptic-2026-04]] — Avi Loeb on the WH/DoW UAP-video release: calls for raw satellite data, warns most intriguing classified-sensor data likely withheld, offers 1g isotope test
 - [[src-luna-46-uap-videos-demand-2026-03]] — Luna's March 31 letter to SecWar Hegseth demanding 46 named UAP videos from AARO by April 14, 2026
 - [[src-mars-perseverance-biosignature-2025]] — Perseverance rover discovers potential biosignature minerals in Cheyava Falls rock on Mars
 - [[src-northcom-drone-incursion-2026-03]] — NORTHCOM Flyaway Kit defeats drone over undisclosed strategic U.S. installation during opening hours of Operation Epic Fury
@@ -38,6 +40,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[src-plasma-technosignature-scattering-2026]] — SETI Institute study: stellar plasma turbulence broadens narrowband technosignature signals, potentially explaining radio silence; M dwarfs highest risk
 - [[src-seti-ai-breakthrough-listen-2025]] — Breakthrough Listen AI system achieves 600x speed improvement in detecting signals from space
 - [[src-spy-drones-nuclear-triad-2026-04]] — Asia Times analysis connecting Barksdale drone incursions, Offutt spy arrest, and Malmstrom balloon/drone events as coordinated Chinese intelligence campaign against the nuclear triad
+- [[src-trump-tpusa-ufo-tease-2026-04]] — Trump tells TPUSA Phoenix audience UAP file releases will begin "very, very soon"; deputy press secretary Anna Kelly confirms DoW tasking
 - [[src-trump-uap-files-delay-2026-03]] — CNN analysis: Trump's UAP file-release directive has produced no records yet; experts predict slow, redacted disclosure
 - [[src-uap-aaro-research-workshop-2025]] — Pentagon's AARO held an invite-only workshop in August 2025 to standardize UAP narrative data collection
 - [[src-uap-landscape-2025]] — AIAA year-in-review documenting the month-by-month institutionalization of UAP investigation in 2025
@@ -63,6 +66,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[alpha-centauri]] — Nearest stellar system to Earth (~4 ly); triple star with Alpha Cen A, B, and Proxima
 - [[alpha-centauri-a]] — Closest Sun-like star to Earth; host of a 2025 JWST gas giant candidate in its habitable zone
 - [[anduril]] — U.S. defense technology firm; Anvil interceptors used in NORTHCOM Flyaway Kit
+- [[anna-kelly]] — White House deputy press secretary; on-record spokesperson for Trump's UAP file-release directive
 - [[anna-paulina-luna]] — Rep. (R-FL), chairs the Task Force on Declassification of Federal Secrets; leading congressional UAP transparency advocate
 - [[aui]] — Associated Universities Inc.; hosted and co-organized the Aug 2025 AARO UAP narrative-data workshop
 - [[avi-loeb]] — Harvard astrophysicist and founder of the Galileo Project; advocates for satellite-imagery UAP release
@@ -73,7 +77,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[brazil]] — Nation with documented UAP history including 1986 mass radar sighting and 1977 Operation Prato; held Senate hearings in 2022
 - [[brazil-night-of-ufos-1986]] — May 19, 1986 incident: 21 radar-tracked UAP over four Brazilian states, fighter jets scrambled
 - [[breakthrough-listen]] — World's most comprehensive technosignature search program, funded by Breakthrough Initiatives
-- [[caleb-scharf]] — NASA Ames astrobiologist; author of the Interplanetary Habitable Zone (IHZ) framework
+- [[caleb-scharf]] — NASA Ames astrobiologist; author of the 2026 Interplanetary Habitable Zone framework
 - [[chris-mellon]] — Former Deputy Assistant Secretary of Defense for Intelligence; key UAP disclosure advocate and congressional strategist
 - [[cisa]] — Cybersecurity and Infrastructure Security Agency; manages the federal .gov domain registry
 - [[david-grusch]] — Former USAF intelligence officer and most prominent UAP whistleblower; testified to Congress about crash retrieval programs
@@ -87,6 +91,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[espresso]] — High-precision radial-velocity spectrograph on the VLT used to help confirm GJ 887 d
 - [[europa-clipper]] — NASA orbiter mission to Jupiter's moon Europa, launched October 2024
 - [[faa]] — Federal Aviation Administration, formalized UAP terminology and mandatory reporting in October 2025
+- [[frank-laukien]] — Co-founder of the Galileo Project with Avi Loeb (July 2021)
 - [[galileo-project]] — Scientific research initiative searching for extraterrestrial technological artifacts
 - [[gary-heseltine]] — Former UK detective and ICER vice president; spoke at Brazil's 2022 UAP hearing
 - [[george-knapp]] — Veteran investigative journalist who worked with Corbell to supply Congress with UAP file intelligence
@@ -142,6 +147,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[tim-burchett]] — Rep. (R-TN); leading congressional champion of UAP transparency and disclosure legislation
 - [[trappist-1]] — Red dwarf hosting seven rocky planets; IHZ model finds advanced civilizations there extinct within ~45 years due to radiation
 - [[trappist-1-e]] — Rocky habitable-zone exoplanet orbiting TRAPPIST-1 (~39 ly); prime JWST atmospheric characterization target
+- [[turning-point-usa]] — Conservative youth political organization; hosted the April 2026 Phoenix conference where Trump previewed imminent UAP disclosure
 - [[uapx]] — Civilian UAP field-research organization; participant in the 2025 AARO workshop
 - [[us-congress-uap-caucus]] — Bipartisan group of lawmakers driving UAP oversight, hearings, and transparency legislation
 - [[us-stratcom]] — U.S. Strategic Command; oversees nuclear arsenal and ran Global Thunder 2025 FAK certification
@@ -195,6 +201,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[uap-reverse-engineering]] — Alleged government programs to understand and replicate technology from recovered UAP
 - [[uap-scientific-study]] — The emerging discipline of investigating UAP with rigorous scientific methodology
 - [[uap-stigma]] — Social and professional costs of engaging with UAP topics, a primary barrier to progress
+- [[uap-triangulation]] — Multi-station synchronized observation enabling 3D position/velocity/acceleration of UAP, resolving the unknown-distance limitation of single-camera video
 - [[uap-whistleblower-protections]] — Legal safeguards for individuals disclosing information about government UAP programs to Congress
 - [[uss-nimitz-uap-incident]] — 2004 Navy Tic Tac encounter off San Diego; catalyzed modern military UAP disclosure
 

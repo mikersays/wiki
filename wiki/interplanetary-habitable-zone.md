@@ -2,33 +2,36 @@
 title: Interplanetary Habitable Zone
 type: concept
 created: 2026-04-25
-updated: 2026-04-25
+updated: 2026-04-28
 ---
 
-The **Interplanetary Habitable Zone (IHZ)** is a framework proposed by [[caleb-scharf]] of [[nasa]] Ames Research Center that extends habitability assessment beyond the traditional stellar habitable zone to model where technological civilizations can sustainably exist and *expand* within a planetary system.
+# Interplanetary Habitable Zone (IHZ)
 
-## The Four Dimensions
+The **Interplanetary Habitable Zone** is a system-scale habitability framework introduced by astrobiologist [[caleb-scharf]] of [[nasa]] Ames in March 2026 ([[src-interplanetary-habitable-zone-2026]]). It is intended as a successor to the classical Goldilocks/habitable zone for assessing where a *spacefaring* technological civilization can persist, not merely where surface liquid water can exist.
 
-| Dimension | Effect |
-|---|---|
-| Power availability | Net contributor — more light near the star, but solar panel efficiency drops with heat |
-| Radiation risk | Net detractor — solar radiation close in; galactic cosmic rays far out |
-| Transport difficulty (delta-v) | Net detractor — large planetary gravity wells trap civilizations |
-| Material resources | Net contributor — asteroids are high-value, low-gravity-well targets |
+## The four axes
 
-These are combined into a single equation; Scharf ran agent-based simulations of 1,000 digital agents across multiple systems.
+| Axis | Effect | Notes |
+|------|--------|-------|
+| **Power availability** | Positive | Stellar flux × solar-panel efficiency; close-in orbits incur thermal-derating penalty |
+| **Material resources** | Positive | Asteroids preferred for low-delta-v access; rocky planets contribute but are gravity traps |
+| **Radiation risk** | Negative | Stellar particle flux dominates inward; galactic cosmic rays dominate outward |
+| **Transport difficulty** | Negative | Delta-v cost to reach other system bodies; large planets act as "gravity traps" |
 
-## Key Results
+## Simulation findings
 
-- **Solar system**: predicted civilizational expansion sequence is Mars → asteroid belt → Moon.
-- **[[trappist-1]]**: advanced civilizations go extinct within ~45 years due to radiation from the active M dwarf host. Survival requires artificially halving radiation exposure.
+Scharf ran agent-based simulations seeding 1,000 digital civilizations with six-month decision cycles:
+
+- **Sol analog**: civilizations migrate Earth → Mars → asteroid belt → Moon — broadly consistent with the current human-expansion trajectory.
+- **[[trappist-1]]**: every modeled civilization goes extinct within ~45 years, primarily due to stellar radiation. Survival only achieved when radiation flux is artificially halved.
 - Asteroids emerge as the ideal early expansion targets across most systems — low gravity wells, rich material resources.
 
-See [[src-interplanetary-habitable-zone-2026]].
+## Implications
 
-## Significance
-
-The IHZ reframes the search for advanced life: even planets in the stellar habitable zone may be hostile to *civilizational expansion* if radiation, transport, or resource constraints are prohibitive. This adds a filter on top of the traditional habitable-zone concept relevant to both [[astrobiology]] and [[seti]].
+- Reframes [[exoplanet-habitability]] from per-planet to system-scale.
+- Down-weights active [[m-dwarf-stars]] for [[seti]] / [[technosignatures]] target prioritization (complementing [[src-oxygen-false-positive-biosignatures-2026-03]]'s photochemical pessimism for the same stellar class).
+- Up-weights Sol-analog systems with accessible asteroid belts.
+- Suggests that some [[habitable-worlds-catalog]] entries (notably TRAPPIST-1 planets) may be uninhabitable for advanced civilizations even if they remain plausible biosignature targets.
 
 ## Related Pages
 

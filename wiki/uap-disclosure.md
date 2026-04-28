@@ -2,7 +2,7 @@
 title: UAP Disclosure
 type: concept
 created: 2026-04-13
-updated: 2026-04-16
+updated: 2026-04-28
 ---
 
 # UAP Disclosure
@@ -63,6 +63,12 @@ See also: [[uap-whistleblower-protections]], [[ndaa-uap-provisions]]
 - **Mar 31, 2026** — Rep. [[anna-paulina-luna]] letter to SecWar [[pete-hegseth]] demands 46 specific UAP videos by April 14 ([[src-luna-46-uap-videos-demand-2026-03]])
 - **Apr 14, 2026** — Deadline passes without delivery. Luna: "How convenient" ([[src-pentagon-uap-deadline-missed-2026-04]])
 - **Apr 15, 2026** — [[department-of-war|DoW]] says [[aaro]] is coordinating with the White House on record release; [[jeremy-corbell]] and [[george-knapp]] confirm they provided Congress with file names and locations ([[src-war-department-uap-release-2026-04]])
+- **Apr 16, 2026** — [[avi-loeb]] argues the most scientifically interesting recent classified-sensor data is likely to be withheld; calls for raw, unprocessed satellite imagery and offers a one-gram isotope test for any recovered crash material ([[src-loeb-wh-uap-videos-skeptic-2026-04]])
+- **Apr 17, 2026** — Trump tells the [[turning-point-usa]] Action Conference in Phoenix the first releases will begin "very, very soon"; deputy press secretary [[anna-kelly]] formally confirms [[department-of-war]] tasking on the record ([[src-trump-tpusa-ufo-tease-2026-04]])
+
+### Scientific Alternative
+
+Per [[src-galileo-project-uap-capability-2026-03]], [[avi-loeb]] argues the [[galileo-project]]'s March 2026 [[uap-triangulation]] milestone (sub-10% distance precision via 10-km baselines) provides a **scientific alternative to government disclosure**: civilian instruments can independently verify ET visitation regardless of whether classified files are released. He compares the dynamic to civilian astronomy not needing the Vatican's 1992 Galileo rehabilitation to know the Earth orbits the Sun.
 
 ### International Parallels
 

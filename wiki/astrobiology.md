@@ -2,7 +2,7 @@
 title: Astrobiology
 type: concept
 created: 2026-04-13
-updated: 2026-04-16
+updated: 2026-04-28
 ---
 
 # Astrobiology
@@ -28,6 +28,7 @@ The search for technosignatures has been accelerated by AI. [[breakthrough-liste
 
 ### Surface Flux Inference
 Wogan et al. (2026) propose [[surface-flux-inference]] — inverting a [[photochemical-climate-model]] against [[jwst]] spectra to recover surface gas fluxes rather than abundances — demonstrated on a synthetic TRAPPIST-1 e spectrum with ~80% of CH₄ posterior consistent with life ([[src-biosignature-gas-flux-inference-2026-04]]).
+
 
 ## Key Requirements for Life
 

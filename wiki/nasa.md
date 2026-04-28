@@ -2,7 +2,7 @@
 title: NASA (National Aeronautics and Space Administration)
 type: entity
 created: 2026-04-13
-updated: 2026-04-13
+updated: 2026-04-28
 ---
 
 # NASA
@@ -28,6 +28,7 @@ NASA operates several missions and programs central to the search for [[biosigna
 
 - **Investigating Ocean Worlds (InvOW)**: Five-year project led by Woods Hole Oceanographic Institution, selected by NASA in December 2025, improving analysis of carbon-rich molecules on [[ocean-worlds]].
 - **Cassini** (1997-2017): Discovered Enceladus's subsurface ocean, plumes, and hydrothermal activity, motivating the [[src-esa-enceladus-life-mission-2025|ESA Enceladus mission proposal]].
+- **NASA Ames astrobiology**: [[caleb-scharf]] introduced the [[interplanetary-habitable-zone]] framework in March 2026, reframing exoplanet habitability as a system-scale, multi-dimensional question ([[src-interplanetary-habitable-zone-2026]]).
 
 ## See Also
 

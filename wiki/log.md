@@ -1,11 +1,34 @@
 ---
 title: Log
-updated: 2026-04-19
+updated: 2026-04-28
 ---
 
 # Log
 
 Chronological record of wiki activity. Each entry uses the format `## [YYYY-MM-DD] action | description` for easy parsing.
+
+## [2026-04-28] ingest | /ufo-news sweep — 3 sources (Galileo capability, Loeb skeptic, Trump TPUSA)
+
+Fetched via /ufo-news. 7 parallel search agents → 5 candidates after triage → 4 fetched → 3 net new sources ingested. Notable resolution: a 4th candidate (the Phys.org Interplanetary Habitable Zone piece) turned out to overlap exactly with [[src-interplanetary-habitable-zone-2026]] from the 2026-04-25 sweep — the duplicate was dropped during merge with the existing wiki, and references redirected to the existing source.
+
+**New sources (3):** [[src-galileo-project-uap-capability-2026-03]], [[src-loeb-wh-uap-videos-skeptic-2026-04]], [[src-trump-tpusa-ufo-tease-2026-04]]
+
+**New entities (3):** [[anna-kelly]], [[frank-laukien]], [[turning-point-usa]] (caleb-scharf and trappist-1 already created in 2026-04-25 sweep — content merged)
+
+**New concepts (1):** [[uap-triangulation]] (interplanetary-habitable-zone already created in 2026-04-25 sweep — content merged)
+
+**Pages updated (19):** [[avi-loeb]], [[galileo-project]], [[uap-disclosure]], [[donald-trump]], [[barack-obama]], [[pete-hegseth]], [[anna-paulina-luna]], [[aaro]], [[department-of-war]], [[nasa]], [[astrobiology]], [[exoplanet-habitability]], [[m-dwarf-stars]], [[seti]], [[technosignatures]], [[habitable-worlds-catalog]], [[uap-scientific-study]], [[uap-reporting-infrastructure]], [[crash-retrieval-programs]]
+
+**Cross-connections:**
+- **Loeb arc**: The two Loeb Medium pieces ([[src-galileo-project-uap-capability-2026-03]], [[src-loeb-wh-uap-videos-skeptic-2026-04]]) are paired — the March piece offers the [[galileo-project]] as a *scientific alternative to government disclosure*, the April piece predicts the WH/DoW release will withhold the most interesting recent classified-sensor data anyway. Both reinforce each other and slot into the [[uap-disclosure]] timeline.
+- **Trump disclosure timeline**: April 17 [[turning-point-usa]] tease ([[src-trump-tpusa-ufo-tease-2026-04]]) is now the latest entry in [[uap-disclosure]] / [[donald-trump]] timelines; deputy press secretary [[anna-kelly]] is the first administration spokesperson named in the wiki on the record for UAP messaging.
+- **Galileo Project profile fills out**: previously a 2-line stub; now has March 2026 capability section (3 observatories, sub-10% triangulation), founders ([[avi-loeb]] + [[frank-laukien]]), methodology anecdote (the 5.6-km zig-zag-as-software-bug case), and a "scientific alternative" disclosure framing.
+- **uap-triangulation** concept now anchors the methodological case for civilian UAP detection networks ([[scu]], [[uapx]], [[galileo-project]]).
+
+**Skipped/failed:**
+- House Oversight primary URL: 403; alternate retrieved a Newsweek piece that turned out to duplicate existing Pentagon-deadline coverage. Dropped from inbox before analysis.
+- The Hill TPUSA URL: 403; rescued via Newsweek (Whisnant, Apr 17).
+- Phys.org IHZ piece: turned out to be the same source already in the wiki as `src-interplanetary-habitable-zone-2026` from the 2026-04-25 sweep. Duplicate raw + wiki source files removed; entity/concept page contributions merged into existing pages.
 
 ## [2026-04-25] ingest | UFO news sweep (7 articles)
 

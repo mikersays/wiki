@@ -2,7 +2,7 @@
 title: Donald Trump
 type: entity
 created: 2026-04-13
-updated: 2026-04-16
+updated: 2026-04-28
 ---
 
 # Donald Trump
@@ -25,5 +25,6 @@ See [[src-uap-trump-disclosure-2026]] for full details.
 - **Mar 17, 2026** — White House registers [[alien-gov-portal|alien.gov and aliens.gov]] domains during an appropriations lapse ([[src-alien-gov-domains-2026-03]]).
 - **Feb 28, 2026** — Initiated [[operation-epic-fury]] against Iran.
 - **Apr 14, 2026** — Pentagon misses Rep. Luna's deadline for 46 UAP videos ([[src-pentagon-uap-deadline-missed-2026-04]], [[src-war-department-uap-release-2026-04]]).
+- **Apr 17, 2026** — At the [[turning-point-usa]] Action Conference in Phoenix, Trump publicly tells the crowd UAP file releases will begin "very, very soon," framing the topic as something he "saved for this crowd." Deputy press secretary [[anna-kelly]] confirms the [[department-of-war]] tasking on the record ([[src-trump-tpusa-ufo-tease-2026-04]]).
 
-See also: [[pete-hegseth]], [[aaro]], [[uap-disclosure]], [[barack-obama]]
+See also: [[pete-hegseth]], [[aaro]], [[uap-disclosure]], [[barack-obama]], [[turning-point-usa]], [[anna-kelly]]

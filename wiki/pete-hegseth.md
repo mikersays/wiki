@@ -2,7 +2,7 @@
 title: Pete Hegseth
 type: entity
 created: 2026-04-13
-updated: 2026-04-16
+updated: 2026-04-28
 ---
 
 # Pete Hegseth
@@ -28,5 +28,6 @@ Hegseth's role as point person places the Defense Secretary at the center of [[u
 - **Under DoW rebrand** — Official title is now "Secretary of War" in [[department-of-war]] communications.
 - **Mar 31, 2026** — Recipient of Rep. [[anna-paulina-luna]]'s letter demanding 46+ specifically named UAP videos by April 14 ([[src-luna-46-uap-videos-demand-2026-03]]).
 - **Apr 14-15, 2026** — Deadline missed; Luna publicly rebukes the Pentagon with "How convenient." DoW spokesperson Susan Gough says the Department "will respond directly" ([[src-pentagon-uap-deadline-missed-2026-04]], [[src-war-department-uap-release-2026-04]]).
+- **Apr 17, 2026** — Trump publicly recommits to UAP file release "very, very soon" at the [[turning-point-usa]] Action Conference in Phoenix; deputy press secretary [[anna-kelly]] formally re-confirms DoW tasking. Hegseth's earlier "no timeline" statement is reproduced in Newsweek's coverage ([[src-trump-tpusa-ufo-tease-2026-04]]).
 
 See also: [[donald-trump]], [[aaro]], [[uap-disclosure]], [[department-of-war]], [[anna-paulina-luna]]

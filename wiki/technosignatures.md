@@ -2,7 +2,7 @@
 title: Technosignatures
 type: concept
 created: 2026-04-16
-updated: 2026-04-16
+updated: 2026-04-28
 ---
 
 **Technosignatures** are observable signs of technology that would indicate the presence of an intelligent civilization — as distinct from [[biosignatures]], which indicate the presence of life without requiring intelligence or technology.
@@ -38,8 +38,13 @@ A technosignature null does not rule out life. It is consistent with: an uninhab
 
 An additional factor: **[[stellar-plasma-scattering]]** — stellar wind plasma turbulence and coronal mass ejections near a transmitting planet can broaden ultra-narrow radio signals before they leave the home system, causing them to fall below standard detection thresholds. [[m-dwarf-stars]] (the most common star type) are highest-risk. Standard [[seti]] pipelines account for interstellar propagation but generally overlook this near-source distortion. See [[src-plasma-technosignature-scattering-2026]].
 
+## Target Prioritization
+
+[[caleb-scharf]]'s 2026 [[interplanetary-habitable-zone]] framework offers a physical-resource basis for predicting where technosignatures should be most detectable: Sol-analog systems with accessible asteroid belts up-weight; active [[m-dwarf-stars|M-dwarf]] systems where civilizations cannot persist (e.g., [[trappist-1]]) down-weight ([[src-interplanetary-habitable-zone-2026]]).
+
 ## Sources
 
 - [[src-k2-18b-technosignature-null-2026]]
 - [[src-seti-ai-breakthrough-listen-2025]]
 - [[src-plasma-technosignature-scattering-2026]]
+- [[src-interplanetary-habitable-zone-2026]]

@@ -2,7 +2,7 @@
 title: UAP Scientific Study
 type: concept
 created: 2026-04-13
-updated: 2026-04-16
+updated: 2026-04-28
 ---
 
 # UAP Scientific Study
@@ -15,8 +15,9 @@ updated: 2026-04-16
 - **April 2025**: Rice University InterfaceRice conference brought together engineers, social scientists, historians, and defense experts
 - **October 2025**: Palomar Observatory study in Nature's Scientific Reports analyzing archival photographs for [[nuclear-uap-correlation]]
 - **August 2025 (publicly reported March 2026)**: [[aaro]] / [[aui]] invite-only UAP narrative-data workshop; AARO whitepaper formalizes the corpus-vs-narrative framing and IRB-governed civilian-government engagement ([[src-aaro-uap-data-collection-whitepaper-2026-03]])
+- **March 2026**: [[galileo-project]] announces sub-10% distance precision via multi-station [[uap-triangulation]] (10-km baselines), enabling 3D velocity/acceleration measurement and direct comparison against human-tech performance envelopes ([[src-galileo-project-uap-capability-2026-03]])
+- **April 2026**: [[avi-loeb]] sets methodological prescriptions for upcoming Pentagon/WH UAP releases — raw unprocessed data, satellite-imagery preference, multi-station triangulation, and one-gram mass-spectrometer isotope test for any recovered material ([[src-loeb-wh-uap-videos-skeptic-2026-04]])
 - [[aiaa]] established reporting standards and peer-reviewed research protocols
-- [[galileo-project]] at Harvard continued developing multi-spectral sensor arrays
 - University of Wurzburg developed AllSkyCAM automated monitoring systems
 
 ## Key Researchers
@@ -43,3 +44,5 @@ As of late 2025, no definitive answers have been produced about what UAP phenome
 - [[src-uap-landscape-2025]] -- Month-by-month institutional milestones
 - [[src-ufo-sightings-surge-2025]] -- Palomar Observatory study
 - [[src-aaro-uap-data-collection-whitepaper-2026-03]] -- AARO narrative-data whitepaper
+- [[src-galileo-project-uap-capability-2026-03]] -- Galileo Project triangulation milestone
+- [[src-loeb-wh-uap-videos-skeptic-2026-04]] -- Loeb's methodological prescriptions for the WH/DoW release

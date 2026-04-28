@@ -2,7 +2,7 @@
 title: SETI (Search for Extraterrestrial Intelligence)
 type: concept
 created: 2026-04-13
-updated: 2026-04-16
+updated: 2026-04-28
 ---
 
 # SETI (Search for Extraterrestrial Intelligence)
@@ -35,7 +35,13 @@ This transforms SETI from retrospective analysis into real-time monitoring.
 ## Major Programs
 
 - **[[breakthrough-listen]]**: World's most comprehensive technosignature search, surveying 1 million stars, the galactic plane, and 100 nearby galaxies.
-- **[[galileo-project]]**: Searches for physical technological artifacts rather than electromagnetic signals.
+- **[[galileo-project]]**: Searches for physical technological artifacts rather than electromagnetic signals. As of March 2026 the project has multi-station [[uap-triangulation]] capability for 3D kinematics of nearby airborne objects ([[src-galileo-project-uap-capability-2026-03]]).
+
+## Target Prioritization (2026 IHZ Framework)
+
+[[caleb-scharf]]'s [[interplanetary-habitable-zone]] framework ([[src-interplanetary-habitable-zone-2026]]) implies SETI search prioritization should **down-weight active [[m-dwarf-stars|M-dwarf]] systems** (e.g., [[trappist-1]]) — where high radiation makes long-lived spacefaring civilizations implausible — and **up-weight Sol-analog systems with accessible asteroid belts**, the IHZ-favored configuration.
+
+In a separate March 2026 critique ([[src-galileo-project-uap-capability-2026-03]]), [[avi-loeb]] argues a SETI committee chaired by Penn State's Jason Wright recommended barring discussion of anomalous near-Earth objects from SETI conferences — a discipline boundary Loeb says the [[galileo-project]] is deliberately stepping past.
 
 ## Post-Detection Protocols
 
