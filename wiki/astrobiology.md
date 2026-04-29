@@ -2,7 +2,7 @@
 title: Astrobiology
 type: concept
 created: 2026-04-13
-updated: 2026-04-28
+updated: 2026-04-29
 ---
 
 # Astrobiology
@@ -15,7 +15,7 @@ updated: 2026-04-28
 The [[jwst]] is systematically characterizing exoplanet atmospheres through [[transmission-spectroscopy]]. According to [[src-jwst-k2-18b-biosignature-2025]], the detection of DMS/DMDS on [[k2-18b]] was proposed as the strongest potential atmospheric biosignature found on an exoplanet to date — but the interpretation is heavily disputed, and a 2023 VLA+MeerKAT [[technosignatures|technosignature]] search on the same target returned a null result ([[src-k2-18b-technosignature-null-2026]]). Separately, [[jwst]]'s MIRI coronagraph detected a candidate gas giant around [[alpha-centauri-a]] ([[src-alpha-centauri-a-exoplanet-2026]]) — the closest exoplanet to Earth in a Sun-like star's habitable zone if confirmed. [[gj-887-d]] (confirmed 2026 via [[radial-velocity]]) is the second-closest confirmed habitable-zone planet after Proxima Centauri b ([[src-gj-887-d-habitability-2026-03]]). A 2025 PNAS perspective by [[sara-seager]] et al. ([[src-jwst-biosignature-prospects-2025]]) argues that JWST can only nominate biosignature candidates — not confirm them — because transmission spectra admit "parallel interpretations." Interpreting future O₂/O₃ detections must also rule out abiotic [[false-positive-biosignatures|false positives]] from CO₂ photolysis ([[src-oxygen-false-positive-biosignatures-2026-03]]).
 
 ### Mars Exploration
-[[nasa]]'s [[perseverance-rover]] discovered potential [[biosignatures]] in the Cheyava Falls rock formation ([[src-mars-perseverance-biosignature-2025]]), including minerals strongly associated with microbial activity on Earth.
+[[nasa]]'s [[perseverance-rover]] discovered potential [[biosignatures]] in the Cheyava Falls rock formation ([[src-mars-perseverance-biosignature-2025]]), including minerals strongly associated with microbial activity on Earth. [[curiosity-rover]]'s [[sample-analysis-at-mars|SAM]] suite separately reported (April 2026, *Nature Communications*) more than 20 [[organic-molecules-mars|organic molecules]] in [[gale-crater]]'s Glen Torridon clays from a one-shot TMAH wet-chemistry run, including a DNA-precursor-like nitrogen compound and benzothiophene — origin (biological, geological, or meteoritic) indistinguishable in situ ([[src-curiosity-mars-life-molecules-2026-04]]).
 
 ### Ocean Worlds
 Moons with subsurface oceans — particularly Enceladus and Europa — are prime targets. [[esa]] has proposed an orbiter-lander mission to Enceladus ([[src-esa-enceladus-life-mission-2025]]), and [[nasa]]'s [[europa-clipper]] will study Europa starting in 2030.

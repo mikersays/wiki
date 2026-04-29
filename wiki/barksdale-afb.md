@@ -2,12 +2,14 @@
 title: Barksdale Air Force Base
 type: entity
 created: 2026-04-19
-updated: 2026-04-19
+updated: 2026-04-29
 ---
 
 **Barksdale Air Force Base** is a U.S. Air Force installation in Louisiana, home of the 2nd Bomb Wing and a portion of the U.S. B-52 Stratofortress fleet. Barksdale stores nuclear weapons and constitutes a key component of the airborne leg of the U.S. nuclear triad under [[us-stratcom|STRATCOM]].
 
 Between March 9-15, 2026, Barksdale experienced multiple waves of 12-15 [[drone-incursions|drones]] over sensitive flight-line areas. A confidential March 15 briefing obtained by ABC News described drones with "non-commercial signal characteristics, long-range control links and resistance to jamming" and assessed that the lights on the aircraft suggested operators may have been "testing security responses." The incident prompted a shelter-in-place order that was lifted later the same day. The Barksdale waves occurred during the opening weeks of [[operation-epic-fury]] and coincided with increased security concerns about Iranian retaliation.
+
+A March 27, 2026 unclassified briefing to Sen. [[bill-cassidy]] (R-LA) framed the events somewhat differently: five unauthorized drone flights total during the window — one confirmed hobbyist, four of unclear origin — with two drones physically recovered, though officials were uncertain whether the recovered hardware was connected to the incursions. Base official Charles Hoffman characterized events as "a period of drones" rather than a continuous swarm, and no drone activity was detected on March 13 and 14. The "12-15 per wave" (ABC) vs "five flights" (Cassidy) reconciliation gap remains unresolved ([[src-barksdale-drones-recap-2026-04]]).
 
 B-52s at Barksdale "sit almost entirely out in the open," and the fleet is scarce (only 76 airframes total), elevating concern about flightline vulnerability in the wake of Ukraine's [[operation-spider-web]].
 
@@ -17,6 +19,8 @@ According to [[stephen-bryen]]'s April 2026 analysis ([[src-spy-drones-nuclear-t
 
 - [[src-drone-incursions-epic-fury-2026-03]]
 - [[src-spy-drones-nuclear-triad-2026-04]]
+- [[src-barksdale-drones-recap-2026-04]]
+- [[src-counter-drone-middle-east-jiatf-2026-04]]
 
 ## Related
 

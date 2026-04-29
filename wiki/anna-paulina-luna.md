@@ -2,7 +2,7 @@
 title: Anna Paulina Luna
 type: entity
 created: 2026-04-13
-updated: 2026-04-28
+updated: 2026-04-29
 ---
 
 # Anna Paulina Luna
@@ -39,6 +39,7 @@ Luna has emerged as one of the most active congressional advocates for UAP trans
 - **Apr 14, 2026** — Deadline missed. Luna's X post: "No one from the Pentagon had responded until we reached out... How convenient." Rejected an offered future briefing ([[src-pentagon-uap-deadline-missed-2026-04]]).
 - **Apr 15, 2026** — [[department-of-war|DoW]] publicly confirms the release process; [[jeremy-corbell]] and [[george-knapp]] say they supplied Congress with the file names and locations underlying Luna's request ([[src-war-department-uap-release-2026-04]]).
 - **Apr 16, 2026** — [[avi-loeb]] frames Luna's 46-video demand as a worthwhile probe but cautions the most scientifically interesting recent classified-sensor data is likely to be withheld and pushes for raw, unprocessed satellite imagery ([[src-loeb-wh-uap-videos-skeptic-2026-04]]).
+- **Apr 17, 2026** — Luna posted Trump's TPUSA tease clip with a winking emoji and (in NewsNation interview) said she is "considering using subpoena authority" if the 46 videos are not released — first explicit subpoena threat tied to the 46-video demand ([[src-trump-ufo-files-interesting-2026-04]]).
 
 ## April 24, 2026 UAP Hearing
 
@@ -54,3 +55,4 @@ Luna chaired a second hearing on April 24, 2026: "Restoring Public Trust Through
 - [[src-pentagon-uap-deadline-missed-2026-04]]
 - [[src-war-department-uap-release-2026-04]]
 - [[src-loeb-wh-uap-videos-skeptic-2026-04]]
+- [[src-trump-ufo-files-interesting-2026-04]]

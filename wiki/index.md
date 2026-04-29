@@ -1,6 +1,6 @@
 ---
 title: Index
-updated: 2026-04-28
+updated: 2026-04-29
 ---
 
 # Wiki Index
@@ -16,12 +16,16 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[src-aaro-shutdown-bill-2026]] — Rep. Burchett introduces H.R. 8197 to terminate AARO within 60 days
 - [[src-60-minutes-drone-swarms-2025]] — CBS 60 Minutes investigation of the Dec 2023 Langley drone swarm and multi-year pattern of sUAS incursions over U.S. military and nuclear sites
 - [[src-aaro-uap-data-collection-whitepaper-2026-03]] — AARO whitepaper from Aug 2025 AUI workshop on narrative-data standards, corpus-vs-narrative analysis, and witness-report field recommendations
+- [[src-barksdale-drones-recap-2026-04]] — DroneXL recap of Barksdale March 9-15 drone incursions; adds Sen. Cassidy's five-flights/one-hobbyist/two-recovered disclosure and Charles Hoffman's "period of drones" framing
 - [[src-alien-gov-domains-2026-03]] — White House registers alien.gov and aliens.gov as first visible artifacts of Trump's UAP disclosure directive
 - [[src-alpha-centauri-a-exoplanet-2026]] — JWST MIRI detects candidate Saturn-like gas giant orbiting Alpha Centauri A, closest habitable-zone exoplanet if confirmed
 - [[src-biosignature-gas-flux-inference-2026-04]] — Wogan et al. propose surface-flux inference via photochemical-climate model inversion; ~80% of CH₄ posterior consistent with life on synthetic TRAPPIST-1 e spectrum
+- [[src-counter-drone-middle-east-jiatf-2026-04]] — DefenseScoop: JIATF-401 commits >$600M to counter-drones; ~$350M to CENTCOM/Operation Epic Fury in first month, with overlap to FIFA 2026 and homeland defense
+- [[src-curiosity-mars-life-molecules-2026-04]] — Curiosity SAM/TMAH wet chemistry detects >20 organics in Gale Crater clays, including a DNA-precursor-like nitrogen compound and benzothiophene
 - [[src-brazil-uap-senate-hearings-2026]] — Brazilian Senate June 2022 UAP hearing: 1986 radar mass-sighting, Operation Prato, and calls for Gillibrand-style disclosure legislation
 - [[src-drone-incursions-epic-fury-2026-03]] — The War Zone: multi-wave drone incursions at Barksdale B-52 base March 9-15 2026; Guillot SASC disclosures on detection/defeat trends
 - [[src-elizondo-motorcycle-crash-2026-04]] — Lue Elizondo survives near-fatal Wyoming motorcycle crash on March 17, 2026; hospitalized one week with life-threatening injuries
+- [[src-epic-fury-update-2026-04]] — SOF News April 24 update on Operation Epic Fury: economic-phase blockade, IRGC tanker seizures, Mojtaba Khamenei succession, and Ukrainian Sky Map C-UAS deployed to Prince Sultan AB to plug U.S. counter-drone gap
 - [[src-esa-enceladus-life-mission-2025]] — ESA proposes orbiter-lander mission to Saturn's moon Enceladus to search for life in its subsurface ocean
 - [[src-galileo-project-uap-capability-2026-03]] — Avi Loeb announces Galileo Project sub-10% UAP-distance precision via 10-km multi-station triangulation; framed as scientific alternative to government disclosure
 - [[src-gj-887-d-habitability-2026-03]] — Astronomers confirm GJ 887 d, a super-Earth in the habitable zone of an M dwarf 10.7 ly away; 2nd-closest known habitable-zone planet after Proxima b
@@ -41,8 +45,10 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[src-seti-ai-breakthrough-listen-2025]] — Breakthrough Listen AI system achieves 600x speed improvement in detecting signals from space
 - [[src-spy-drones-nuclear-triad-2026-04]] — Asia Times analysis connecting Barksdale drone incursions, Offutt spy arrest, and Malmstrom balloon/drone events as coordinated Chinese intelligence campaign against the nuclear triad
 - [[src-trump-tpusa-ufo-tease-2026-04]] — Trump tells TPUSA Phoenix audience UAP file releases will begin "very, very soon"; deputy press secretary Anna Kelly confirms DoW tasking
+- [[src-trump-ufo-files-interesting-2026-04]] — NBC News on Trump's TPUSA tease: "very interesting documents" coming soon; adds Elizondo Congressional quote, Burchett thanks, and Luna's subpoena threat
 - [[src-trump-uap-files-delay-2026-03]] — CNN analysis: Trump's UAP file-release directive has produced no records yet; experts predict slow, redacted disclosure
 - [[src-uap-aaro-research-workshop-2025]] — Pentagon's AARO held an invite-only workshop in August 2025 to standardize UAP narrative data collection
+- [[src-uk-mod-uap-no-threat-2024]] — UK Defence Minister Luke Pollard tells Commons 50+ years of MoD UAP investigation found no military threat; statement follows Nov 2024 USAFE drone incursions at RAF Lakenheath, Mildenhall, Feltwell, and Fairford
 - [[src-uap-landscape-2025]] — AIAA year-in-review documenting the month-by-month institutionalization of UAP investigation in 2025
 - [[src-uap-legislation-disclosure-efforts-2025]] — Overview of UAP disclosure legislation and congressional advocacy throughout 2025
 - [[src-uap-military-intercepts-ndaa-2026]] — DefenseScoop coverage of FY2026 NDAA provisions requiring Pentagon UAP intercept briefings since 2004
@@ -59,12 +65,14 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 ## Entities
 
 - [[aaro]] — All-domain Anomaly Resolution Office, the Pentagon's UAP investigation body established in 2022
+- [[abbas-araghchi]] — Iranian Foreign Minister; named as prospective negotiator at the stalled April 2026 Islamabad ceasefire talks
 - [[aiaa]] — American Institute of Aeronautics and Astronautics, aerospace engineering society backing UAP research standards
 - [[air-force-research-laboratory]] — USAF R&D lab headquartered at Wright-Patterson; develops advanced aerospace materials and propulsion
 - [[aj-gevaerd]] — Brazil's leading UAP researcher; presented country's UAP history to the Senate in June 2022
 - [[alexandro-wiggins]] — Active-duty Navy SCPO; first active-duty Navy official to testify publicly before Congress about UAP; reported 2023 USS Jackson Tic Tac incident
 - [[alpha-centauri]] — Nearest stellar system to Earth (~4 ly); triple star with Alpha Cen A, B, and Proxima
 - [[alpha-centauri-a]] — Closest Sun-like star to Earth; host of a 2025 JWST gas giant candidate in its habitable zone
+- [[amy-williams]] — University of Florida geologist; lead author of the 2026 Curiosity TMAH organics paper; member of Curiosity and Perseverance science teams
 - [[anduril]] — U.S. defense technology firm; Anvil interceptors used in NORTHCOM Flyaway Kit
 - [[anna-kelly]] — White House deputy press secretary; on-record spokesperson for Trump's UAP file-release directive
 - [[anna-paulina-luna]] — Rep. (R-FL), chairs the Task Force on Declassification of Federal Secrets; leading congressional UAP transparency advocate
@@ -72,17 +80,24 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[avi-loeb]] — Harvard astrophysicist and founder of the Galileo Project; advocates for satellite-imagery UAP release
 - [[barack-obama]] — 44th U.S. President; February 2026 podcast remarks triggered Trump's UAP disclosure directive
 - [[barksdale-afb]] — Louisiana USAF base hosting B-52 Stratofortresses and nuclear weapons storage; site of March 2026 multi-wave drone incursions
+- [[bill-cassidy]] — Republican U.S. Senator from Louisiana; March 2026 unclassified-briefing source for Barksdale-incursion details
 - [[bob-lazar]] — Controversial figure who made the earliest prominent claims of UAP reverse engineering at S-4/Area 51 in 1989
 - [[brandi-vincent]] — DefenseScoop reporter covering UAP policy, Pentagon, and defense technology
 - [[brazil]] — Nation with documented UAP history including 1986 mass radar sighting and 1977 Operation Prato; held Senate hearings in 2022
 - [[brazil-night-of-ufos-1986]] — May 19, 1986 incident: 21 radar-tracked UAP over four Brazilian states, fighter jets scrambled
 - [[breakthrough-listen]] — World's most comprehensive technosignature search program, funded by Breakthrough Initiatives
 - [[caleb-scharf]] — NASA Ames astrobiologist; author of the 2026 Interplanetary Habitable Zone framework
+- [[centcom]] — U.S. Central Command; Middle East AOR; leads Operation Epic Fury
 - [[chris-mellon]] — Former Deputy Assistant Secretary of Defense for Intelligence; key UAP disclosure advocate and congressional strategist
 - [[cisa]] — Cybersecurity and Infrastructure Security Agency; manages the federal .gov domain registry
+- [[csis]] — Center for Strategic and International Studies; hosts the Missile Defense Project; April 2026 Epic Fury munitions analysis
+- [[curiosity-rover]] — NASA Mars Science Laboratory rover in Gale Crater since 2012; SAM instrument detected DNA-precursor-like and benzothiophene organics in 2026
+- [[dan-caine]] — Chairman of the Joint Chiefs of Staff; cited 1,700 missile/drone intercepts during Iran war
 - [[david-grusch]] — Former USAF intelligence officer and most prominent UAP whistleblower; testified to Congress about crash retrieval programs
 - [[department-of-war]] — Trump-era rebrand of the U.S. Department of Defense; AARO's parent department
+- [[donald-bolduc]] — Retired U.S. Army BG (SF); April 2026 critic arguing Operation Epic Fury exposed strategic gaps and lacked an exit strategy
 - [[donald-trump]] — 47th U.S. President; issued February 2026 directive to release UAP/alien files
+- [[dragonfly-mission]] — NASA rotorcraft mission to Titan inheriting TMAH wet-chemistry heritage from Curiosity SAM
 - [[dylan-borland]] — USAF veteran who testified about 2012 Langley AFB UAP encounter and decade-long professional retaliation
 - [[eduardo-girao]] — Brazilian Senator who organized and presided over the June 2022 Senate UAP hearing
 - [[eric-burlison]] — Rep. (R-MO); introduced UAP Disclosure Act of 2025 and publicly released Yemen orb Hellfire video
@@ -92,6 +107,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[europa-clipper]] — NASA orbiter mission to Jupiter's moon Europa, launched October 2024
 - [[faa]] — Federal Aviation Administration, formalized UAP terminology and mandatory reporting in October 2025
 - [[frank-laukien]] — Co-founder of the Galileo Project with Avi Loeb (July 2021)
+- [[gale-crater]] — Martian impact crater and ancient lake bed; Curiosity landing site; Glen Torridon clay-rich region preserved 3.5 Gyr organics
 - [[galileo-project]] — Scientific research initiative searching for extraterrestrial technological artifacts
 - [[gary-heseltine]] — Former UK detective and ICER vice president; spoke at Brazil's 2022 UAP hearing
 - [[george-knapp]] — Veteran investigative journalist who worked with Corbell to supply Congress with UAP file intelligence
@@ -103,24 +119,32 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[habitable-worlds-observatory]] — Future NASA flagship to directly image and characterize Earth-like exoplanets
 - [[harps]] — High Accuracy Radial velocity Planet Searcher at ESO La Silla; contributed to the 2026 GJ 887 d confirmation
 - [[icer]] — International Coalition for Extraterrestrial Research; scientific/academic organization for UAP studies
+- [[irgc-navy]] — IRGC Navy mosquito fleet; seized Epaminondas and MSC Francesca April 22, 2026 in the Strait of Hormuz
 - [[japan]] — Nation-state; 2024 Defense Ministry treated unidentified objects as security issues; March 2026 parliamentary proposal for specialized UAP body
 - [[japan-uap-parliamentary-group]] — Non-partisan Japanese Parliamentary Group for the Study of Unidentified Anomalous Phenomena
 - [[jeffrey-nuccetelli]] — USAF veteran who testified about 2003–2005 UAP incursions near Vandenberg AFB during NRO launches
+- [[jennifer-eigenbrode]] — NASA Goddard astrobiologist; SAM instrument team co-lead; co-author 2026 Curiosity TMAH organics paper
 - [[jeremy-corbell]] — Investigative UAP filmmaker/journalist who supplied Congress with file names and locations for requested UAP videos
+- [[jiatf-401]] — Army-led Joint Interagency Task Force 401, Pentagon's counter-drone capability builder
 - [[joe-spielberger]] — Senior policy counsel at POGO; testified on UAP whistleblower protections at Sep 2025 hearing
 - [[jon-kosloski]] — AARO director since 2024; former NSA physicist who acknowledged "very anomalous objects" under investigation
 - [[jwst]] — James Webb Space Telescope, key tool for detecting atmospheric biosignatures on exoplanets
 - [[k2-18b]] — Sub-Neptune exoplanet 124 ly away; leading hycean world candidate with disputed DMS biosignature and null radio technosignature
 - [[langley-afb]] — Virginia USAF F-22 base; site of the 17-night December 2023 drone swarm that became the public flashpoint for U.S. homeland C-sUAS
 - [[liberation-times]] — Independent UAP-focused news outlet; broke April 2026 DoW/WH coordination story
+- [[luke-pollard]] — UK Parliamentary Under-Secretary of State for Defence; Dec 2024 Commons statement reaffirmed MoD's no-military-threat UAP position
 - [[life-interferometer]] — Proposed mid-IR space-based nulling interferometer (LIFE) for direct imaging and spectroscopy of nearby Earth-like exoplanets
 - [[lue-elizondo]] — Former AATIP director who catalyzed the modern UAP disclosure movement; survived near-fatal motorcycle crash March 2026
 - [[malmstrom-afb]] — Montana USAF base operating 150 Minuteman III ICBMs; targeted by 2023 Chinese spy balloon and recurring drone swarms
 - [[matthew-brown]] — Former Pentagon intelligence analyst; first to publicly confirm Immaculate Constellation program
+- [[ministry-of-defence]] — UK Ministry of Defence; ran a UFO desk for ~50 years until 2009, now publicly disengaged from UAP investigation
 - [[minoru-kihara]] — Japanese Defense Minister who shifted ministry to treat unidentified objects as security issues in 2024
+- [[mojtaba-khamenei]] — New Iranian supreme leader; in hiding after grave injuries from U.S. strikes; IRGC commanders running operations in his stead
 - [[minot-afb]] — North Dakota nuclear bomber/ICBM base where NORTHCOM FAK was certified in October 2025 Global Thunder exercise
 - [[nancy-grace-roman-space-telescope]] — NASA wide-field telescope launching 2027 with coronagraph for direct-imaging exoplanets
 - [[nasa]] — U.S. space agency operating Perseverance, Europa Clipper, JWST, and planning Mars Sample Return
+- [[nasa-goddard]] — NASA Goddard Space Flight Center; home of SAM instrument leadership and biosignature-survival research
+- [[nasa-jpl]] — NASA Jet Propulsion Laboratory; operates Curiosity and Perseverance rovers
 - [[nasic]] — National Air and Space Intelligence Center; Wright-Patterson tenant analyzing foreign aerospace systems
 - [[nikku-madhusudhan]] — Cambridge astronomer who led K2-18b biosignature detection and theorized Hycean worlds
 - [[norad]] — North American Aerospace Defense Command; subject of FY2026 NDAA UAP intercept briefing requirements
@@ -131,26 +155,37 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[palo-verde-nuclear-plant]] — Arizona nuclear plant, largest U.S. power producer; site of 2019 drone incursions
 - [[perseverance-rover]] — NASA Mars rover exploring Jezero Crater, discovered potential biosignatures in 2024-2025
 - [[picatinny-arsenal]] — NJ U.S. Army weapons R&D site; 11 confirmed drone sightings December 2024
+- [[prince-sultan-air-base]] — U.S./coalition airbase in Saudi Arabia; first operational U.S. site for Ukrainian Sky Map C-UAS
 - [[pete-hegseth]] — U.S. Secretary of War; named point person for Trump's UAP disclosure initiative
 - [[project-blue]] — SETI Institute proposed telescope to directly image planets around Alpha Centauri A and B
+- [[raf-fairford]] — Gloucestershire USAF strategic-bomber FOL; UAP/drone incursions early Dec 2024
+- [[raf-feltwell]] — Norfolk USAF support site; targeted in Nov 2024 UAP/drone incursion wave
+- [[raf-lakenheath]] — Suffolk USAF 48th Fighter Wing base (F-15E/F-35A); U.S. nuclear-storage site; Nov 2024 UAP/drone incursions
+- [[raf-mildenhall]] — Suffolk USAF 100th ARW base; targeted in Nov 2024 UAP/drone incursion wave
 - [[robert-powell]] — SCU researcher advocating for civilian UAP detection infrastructure
+- [[rosalind-franklin-rover]] — ESA ExoMars rover slated to carry TMAH-style wet-chemistry organic detection inherited from Curiosity
 - [[robert-salas]] — Retired USAF Captain who testified on nuclear-site UAP events at Brazil's 2022 Senate hearing; claims 1967 Malmstrom ICBM-disabling incident
 - [[roger-wicker]] — R-MS Senator, Senate Armed Services chair; says Pentagon is "mystified" by drone incursions
 - [[ross-coulthart]] — Australian investigative journalist; prominent UAP disclosure reporter; covered Elizondo motorcycle crash
 - [[ryan-graves]] — Former Navy pilot, AIAA UAP Integration Committee chair, and Americans for Safe Aerospace founder
+- [[sample-analysis-at-mars]] — Curiosity's SAM instrument suite; performed first wet-chemistry experiment (TMAH) on another planet in 2020
 - [[sara-seager]] — MIT astrophysicist; foundational exoplanet-atmosphere theorist; lead author of 2025 PNAS biosignature-prospects perspective
+- [[sky-map-c-uas]] — Ukrainian counter-drone C2 platform; first U.S. operational deployment at Prince Sultan AB, April 2026
 - [[scu]] — Scientific Coalition for UAP Studies, civilian scientific organization for UAP investigation
 - [[seti-institute]] — Non-profit astrobiology and SETI research organization; home of Project Blue and Breakthrough Listen partner
 - [[sky-canada-project]] — Canada's comprehensive national UAP framework released July 2025
 - [[stephen-bryen]] — Defense analyst and Asia Times contributor; former Deputy Under Secretary of Defense; authored nuclear triad drone-threat analysis
 - [[the-war-zone]] — Defense-focused news outlet (twz.com); first-report source on U.S. military drone incursions
 - [[tim-burchett]] — Rep. (R-TN); leading congressional champion of UAP transparency and disclosure legislation
+- [[tom-karako]] — Director of the CSIS Missile Defense Project; counter-UAS analyst
 - [[trappist-1]] — Red dwarf hosting seven rocky planets; IHZ model finds advanced civilizations there extinct within ~45 years due to radiation
 - [[trappist-1-e]] — Rocky habitable-zone exoplanet orbiting TRAPPIST-1 (~39 ly); prime JWST atmospheric characterization target
 - [[turning-point-usa]] — Conservative youth political organization; hosted the April 2026 Phoenix conference where Trump previewed imminent UAP disclosure
 - [[uapx]] — Civilian UAP field-research organization; participant in the 2025 AARO workshop
+- [[united-kingdom]] — Nation-state; closed MoD UFO desk in 2009; Dec 2024 reaffirmed no UAP military threat despite incursions at U.S.-operated RAF bases
 - [[us-congress-uap-caucus]] — Bipartisan group of lawmakers driving UAP oversight, hearings, and transparency legislation
 - [[us-stratcom]] — U.S. Strategic Command; oversees nuclear arsenal and ran Global Thunder 2025 FAK certification
+- [[usafe-afa]] — U.S. Air Forces in Europe – Air Forces Africa; reported the Nov-Dec 2024 UK base incursions
 - [[usnorthcom]] — U.S. Northern Command; subject of FY2026 NDAA UAP intercept briefing requirements
 - [[very-large-telescope]] — ESO's VLT in Chile; hosts ESPRESSO and supports exoplanet radial-velocity follow-up
 - [[vishal-gajjar]] — SETI Institute astronomer; lead author of the 2026 stellar plasma technosignature broadening study
@@ -164,6 +199,8 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[alien-gov-portal]] — The alien.gov and aliens.gov domains registered by the White House in March 2026 as part of Trump's UAP disclosure rollout
 - [[astrobiology]] — Interdisciplinary study of the origin, evolution, and distribution of life in the universe
 - [[biosignatures]] — Substances, structures, or patterns providing scientific evidence of past or present life
+- [[counter-uas]] — Counter-UAS doctrine, sensors, and effectors for defeating sUAS threats; Pentagon described as "lagging" as of April 2026
+- [[coyote-interceptor]] — Raytheon kinetic counter-drone interceptor; primary CENTCOM hard-kill effector
 - [[crash-retrieval-programs]] — Alleged classified U.S. government programs to recover crashed craft of non-human origin
 - [[direct-imaging]] — Technique using coronagraphs and wavefront control to image exoplanets directly against stellar glare
 - [[drone-incursions]] — Pattern of unexplained sUAS activity over U.S. military bases and critical infrastructure
@@ -185,12 +222,15 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[nuclear-uap-correlation]] — Observed pattern of UAP activity near nuclear sites, supported by 2025 Palomar Observatory study
 - [[ocean-worlds]] — Planetary bodies with subsurface liquid water oceans, prime astrobiology targets
 - [[operation-epic-fury]] — U.S.-led February 2026 military operation against Iran; context for domestic drone-retaliation fears
+- [[organic-molecules-mars]] — Inventory of Martian organic compounds detected in situ and their ambiguous biological/geological/meteoritic origins
 - [[operation-spider-web]] — 2025 Ukrainian near-field drone attack on Russian long-range aviation that reshaped U.S. flightline threat modeling
 - [[project-blue-book]] — USAF UAP investigation (early 1950s-1969); criticized as CIA-directed debunking operation
 - [[radial-velocity]] — Doppler-wobble exoplanet detection method used by HARPS and ESPRESSO
 - [[roswell-incident]] — 1947 New Mexico crash event foundational to modern UFO lore; alleged debris path to Wright-Patterson
 - [[seti]] — Search for Extraterrestrial Intelligence through technosignature detection
+- [[shahed-drone]] — Iranian one-way attack drone family; primary threat in Operation Epic Fury
 - [[stellar-plasma-scattering]] — Frequency broadening of radio technosignature signals by stellar wind plasma and CMEs near the transmitting source; M dwarfs highest risk
+- [[strait-of-hormuz]] — Maritime chokepoint; mined by Iran and site of April 2026 IRGC tanker seizures during Operation Epic Fury
 - [[surface-flux-inference]] — Method to infer planetary surface gas fluxes from telescope spectra by inverting photochemical-climate models; more life-detection-robust than abundance retrieval
 - [[technosignatures]] — Observable signs of technology (e.g., narrowband radio beacons) indicating intelligent life
 - [[photochemical-climate-model]] — Coupled model of atmospheric photochemistry and climate used to forward-model and invert exoplanet spectra

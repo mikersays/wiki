@@ -2,7 +2,7 @@
 title: NASA (National Aeronautics and Space Administration)
 type: entity
 created: 2026-04-13
-updated: 2026-04-28
+updated: 2026-04-29
 ---
 
 # NASA
@@ -15,13 +15,15 @@ NASA operates several missions and programs central to the search for [[biosigna
 
 ### Active Missions
 
+- **[[curiosity-rover]]**: Exploring [[gale-crater|Gale Crater]] on Mars since 2012. Operated by [[nasa-jpl]]; instrument leadership at [[nasa-goddard]]. April 2026 *Nature Communications* paper reports more than 20 [[organic-molecules-mars|organic molecules]] from a [[sample-analysis-at-mars|SAM]]/TMAH wet-chemistry run, including a DNA-precursor-like nitrogen compound and benzothiophene ([[src-curiosity-mars-life-molecules-2026-04]]).
 - **[[perseverance-rover]]**: Exploring Jezero Crater on Mars. According to [[src-mars-perseverance-biosignature-2025]], the rover discovered potential biosignatures in the Cheyava Falls rock formation in 2024-2025.
 - **[[europa-clipper]]**: Launched October 2024, arriving at Jupiter's moon Europa in 2030 to study its ice shell and subsurface ocean.
 - **[[jwst]]**: Co-operated with [[esa]] and CSA. Key tool for detecting atmospheric [[biosignatures]] on exoplanets.
 
 ### Planned Programs
 
-- **[[mars-sample-return]]**: Future mission to return rock samples collected by [[perseverance-rover]] to Earth for laboratory analysis.
+- **[[mars-sample-return]]**: Future mission to return rock samples collected by [[perseverance-rover]] to Earth for laboratory analysis. Origin ambiguity in Curiosity's 2026 [[organic-molecules-mars|organic molecule]] inventory reinforces the rationale.
+- **[[dragonfly-mission]]**: Rotorcraft mission to Saturn's moon Titan; will carry TMAH wet-chemistry inheriting heritage from Curiosity SAM.
 - **Enceladus Orbilander** (concept): Proposed mission to orbit and land on Saturn's moon Enceladus.
 
 ### Research Initiatives

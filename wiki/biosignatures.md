@@ -2,7 +2,7 @@
 title: Biosignatures
 type: concept
 created: 2026-04-13
-updated: 2026-04-16
+updated: 2026-04-29
 ---
 
 # Biosignatures
@@ -25,6 +25,7 @@ Minerals or chemical patterns associated with biological processes:
 - **Vivianite** (hydrated iron phosphate): Found near decaying organic matter on Earth. Detected in the Cheyava Falls rock on Mars by [[perseverance-rover]] ([[src-mars-perseverance-biosignature-2025]]).
 - **Greigite** (iron sulfide): Associated with iron-reducing and sulfate-reducing bacteria. Also found in Cheyava Falls.
 - **"Leopard spot" patterns**: Nodules and reaction fronts characteristic of microbial redox activity.
+- **In-situ organic inventories**: April 2026 [[curiosity-rover]]/[[sample-analysis-at-mars|SAM]] TMAH wet-chemistry detected more than 20 [[organic-molecules-mars|organic molecules]] in [[gale-crater]]'s Glen Torridon clays, including a DNA-precursor-like nitrogen compound and benzothiophene — biological/abiotic/exogenous origins indistinguishable in situ ([[src-curiosity-mars-life-molecules-2026-04]]).
 
 ### Technosignatures
 Indicators of technological activity by intelligent life:

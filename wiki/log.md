@@ -1,11 +1,37 @@
 ---
 title: Log
-updated: 2026-04-28
+updated: 2026-04-29
 ---
 
 # Log
 
 Chronological record of wiki activity. Each entry uses the format `## [YYYY-MM-DD] action | description` for easy parsing.
+
+## [2026-04-29] ingest | /ufo-news sweep — 6 sources (Curiosity Mars, UK MoD, Trump NBC, Epic Fury update, JIATF C-UAS, Barksdale recap)
+
+Fetched via /ufo-news. 6 parallel search agents → 8 candidates after triage → 8 fetched in parallel → 6 saved (2 returned 403: Time/Hegseth and NewsNation/Elizondo-czar). 6 parallel analysis agents produced structured outputs; main agent serially merged into the wiki.
+
+**New sources (6):** [[src-curiosity-mars-life-molecules-2026-04]], [[src-uk-mod-uap-no-threat-2024]], [[src-trump-ufo-files-interesting-2026-04]], [[src-epic-fury-update-2026-04]], [[src-counter-drone-middle-east-jiatf-2026-04]], [[src-barksdale-drones-recap-2026-04]]
+
+**New entities (24):** [[curiosity-rover]], [[gale-crater]], [[sample-analysis-at-mars]], [[amy-williams]], [[jennifer-eigenbrode]], [[nasa-jpl]], [[nasa-goddard]], [[rosalind-franklin-rover]], [[dragonfly-mission]], [[luke-pollard]], [[ministry-of-defence]], [[united-kingdom]], [[raf-lakenheath]], [[raf-mildenhall]], [[raf-feltwell]], [[raf-fairford]], [[usafe-afa]], [[mojtaba-khamenei]], [[donald-bolduc]], [[abbas-araghchi]], [[sky-map-c-uas]], [[prince-sultan-air-base]], [[irgc-navy]], [[csis]], [[jiatf-401]], [[centcom]], [[tom-karako]], [[dan-caine]], [[bill-cassidy]]
+
+**New concepts (5):** [[organic-molecules-mars]], [[counter-uas]], [[shahed-drone]], [[coyote-interceptor]], [[strait-of-hormuz]]
+
+**Pages updated:** [[drone-incursions]], [[operation-epic-fury]], [[uap-disclosure]], [[barksdale-afb]], [[anna-paulina-luna]], [[lue-elizondo]], [[tim-burchett]], [[donald-trump]], [[flyaway-kit]], [[nasa]], [[biosignatures]], [[perseverance-rover]], [[mars-sample-return]], [[astrobiology]], [[nuclear-uap-correlation]]
+
+**Cross-connections:**
+- **Mars organics arc**: Curiosity's April 2026 SAM/TMAH detection of >20 organics including a DNA-precursor-like nitrogen compound and benzothiophene parallels [[perseverance-rover]]'s Cheyava Falls mineral biosignatures — two independent rovers, two complementary chemistries, both blocked from disambiguating life vs. abiotic origins without [[mars-sample-return]]. The new [[organic-molecules-mars]] concept page anchors the inventory.
+- **UK as the disclosure outlier**: [[united-kingdom]] is the first nation page added that documents *disengagement* from UAP investigation. The MoD's Dec 2024 "no military threat" reaffirmation lands days after [[usafe-afa]] reports incursions over four UK bases (including U.S. nuclear-storage [[raf-lakenheath]]) — an explicit transatlantic policy contradiction now linked from [[uap-disclosure]] and [[nuclear-uap-correlation]].
+- **Trump TPUSA second-outlet corroboration**: NBC ([[src-trump-ufo-files-interesting-2026-04]]) joins Newsweek ([[src-trump-tpusa-ufo-tease-2026-04]]) on the same Phoenix tease, but adds Trump's specific "very interesting documents" claim, [[lue-elizondo]]'s post-crash Congressional return, [[tim-burchett]]'s X thanks, and [[anna-paulina-luna]]'s subpoena threat — each substantive enough to update the respective person pages.
+- **Counter-drone three-way**: [[src-counter-drone-middle-east-jiatf-2026-04]] (DefenseScoop/JIATF-401), [[src-epic-fury-update-2026-04]] (SOF News/Sky Map), and [[src-barksdale-drones-recap-2026-04]] (DroneXL/Cassidy) form an interlocking triangle around the U.S. C-UAS gap. New [[counter-uas]] concept page collects the doctrine and tooling; [[jiatf-401]] is the institutional answer; Karako's "artificially divided" line links homeland and overseas threats. The forward-deployed [[sky-map-c-uas|Sky Map]] at [[prince-sultan-air-base]] is the homeland [[flyaway-kit|FAK]] counterpart.
+- **Cassidy reconciliation gap**: ABC News "12-15 drones per wave" vs. Cassidy "five flights" remains unresolved — flagged on [[barksdale-afb]] and [[drone-incursions]] as a live investigative question.
+
+**Skipped/failed:**
+- Time.com (Hegseth alien-files update) — HTTP 403.
+- NewsNation (Elizondo "appoint UAP czar" advice) — HTTP 403. Worth retrying with a different fetch vector; the headline suggests substantive Elizondo policy advocacy that didn't make it into the existing crash-recovery coverage.
+
+**Notes:**
+- The UK Jane's piece is dated 2024-12-12, not late April 2026 — it surfaced via the search but predates the recent disclosure cycle. Kept as the wiki's anchor source for the UK MoD's standing UAP posture; the source page filename uses `2024` to avoid date confusion (the raw-inbox file retains its `2026-04` slug).
 
 ## [2026-04-28] ingest | /ufo-news sweep — 3 sources (Galileo capability, Loeb skeptic, Trump TPUSA)
 

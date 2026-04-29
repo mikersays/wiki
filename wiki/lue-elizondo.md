@@ -2,7 +2,7 @@
 title: Luis "Lue" Elizondo
 type: entity
 created: 2026-04-13
-updated: 2026-04-16
+updated: 2026-04-29
 ---
 
 # Luis "Lue" Elizondo
@@ -51,6 +51,10 @@ On March 17, 2026, Elizondo suffered a near-fatal motorcycle accident approximat
 
 Source: [[src-elizondo-motorcycle-crash-2026-04]]
 
+## Congressional Return (April 2026)
+
+Per NBC News reporting on Trump's TPUSA tease, Elizondo testified at a Wednesday Congressional hearing — characterized by NBC as describing UAPs that are in some cases "splitting aircraft formations right down the middle" ([[src-trump-ufo-files-interesting-2026-04]]). This is the first reported public Congressional appearance after the March 17 motorcycle crash and recovery. The likely underlying hearing is the April 24 Luna transparency hearing ([[src-uap-transparency-hearing-2026-04]]); date and committee should be confirmed against primary records.
+
 ## Sources
 
 - [[src-uap-legislation-disclosure-efforts-2025]]
@@ -58,3 +62,4 @@ Source: [[src-elizondo-motorcycle-crash-2026-04]]
 - [[src-uap-reverse-engineering-claims-overview-2025]]
 - [[src-wright-patterson-general-missing-2026-03]]
 - [[src-elizondo-motorcycle-crash-2026-04]]
+- [[src-trump-ufo-files-interesting-2026-04]]

@@ -2,7 +2,7 @@
 title: Mars Sample Return
 type: concept
 created: 2026-04-13
-updated: 2026-04-13
+updated: 2026-04-29
 ---
 
 # Mars Sample Return
@@ -26,6 +26,10 @@ As of September 2025, [[perseverance-rover]] has collected **27 rock cores**, in
 ## Mission Status
 
 The Mars Sample Return mission faces **budget and timeline challenges** but remains the best hope for resolving the question of ancient Martian life.
+
+## Reinforced Rationale (April 2026)
+
+[[curiosity-rover]]'s 2026 [[sample-analysis-at-mars|SAM]]/TMAH inventory of more than 20 [[organic-molecules-mars|organic molecules]] in [[gale-crater]] (including a DNA-precursor-like nitrogen compound and benzothiophene) cannot distinguish biological, geological, or meteoritic origins in situ — reinforcing that the questions Mars Sample Return is designed to answer remain unresolved without Earth-laboratory analysis ([[src-curiosity-mars-life-molecules-2026-04]]).
 
 ## See Also
 

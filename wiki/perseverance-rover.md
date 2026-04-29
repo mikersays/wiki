@@ -2,7 +2,7 @@
 title: Perseverance Rover
 type: entity
 created: 2026-04-13
-updated: 2026-04-13
+updated: 2026-04-29
 ---
 
 # Perseverance Rover
@@ -33,9 +33,17 @@ Perseverance has collected **27 rock cores** as of the Nature publication, all i
 - **Katie Stack Morgan**, JPL — project scientist
 - **Joel Hurowitz**, Stony Brook University — led the Cheyava Falls research
 
+## Sister Mission
+
+Operates concurrently with [[curiosity-rover]] in [[gale-crater]] (since 2012). Both missions share the [[mars-sample-return]] vision and complementary chemistry: Curiosity's [[sample-analysis-at-mars|SAM]]/TMAH inventory of [[organic-molecules-mars]] (April 2026, [[src-curiosity-mars-life-molecules-2026-04]]) parallels Perseverance's mineral biosignatures at Cheyava Falls.
+
 ## See Also
 
+- [[curiosity-rover]]
+- [[gale-crater]]
+- [[organic-molecules-mars]]
 - [[biosignatures]]
 - [[mars-sample-return]]
 - [[astrobiology]]
 - [[nasa]]
+- [[nasa-jpl]]

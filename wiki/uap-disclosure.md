@@ -2,7 +2,7 @@
 title: UAP Disclosure
 type: concept
 created: 2026-04-13
-updated: 2026-04-28
+updated: 2026-04-29
 ---
 
 # UAP Disclosure
@@ -64,7 +64,7 @@ See also: [[uap-whistleblower-protections]], [[ndaa-uap-provisions]]
 - **Apr 14, 2026** — Deadline passes without delivery. Luna: "How convenient" ([[src-pentagon-uap-deadline-missed-2026-04]])
 - **Apr 15, 2026** — [[department-of-war|DoW]] says [[aaro]] is coordinating with the White House on record release; [[jeremy-corbell]] and [[george-knapp]] confirm they provided Congress with file names and locations ([[src-war-department-uap-release-2026-04]])
 - **Apr 16, 2026** — [[avi-loeb]] argues the most scientifically interesting recent classified-sensor data is likely to be withheld; calls for raw, unprocessed satellite imagery and offers a one-gram isotope test for any recovered crash material ([[src-loeb-wh-uap-videos-skeptic-2026-04]])
-- **Apr 17, 2026** — Trump tells the [[turning-point-usa]] Action Conference in Phoenix the first releases will begin "very, very soon"; deputy press secretary [[anna-kelly]] formally confirms [[department-of-war]] tasking on the record ([[src-trump-tpusa-ufo-tease-2026-04]])
+- **Apr 17, 2026** — Trump tells the [[turning-point-usa]] Action Conference in Phoenix the first releases will begin "very, very soon"; deputy press secretary [[anna-kelly]] formally confirms [[department-of-war]] tasking on the record ([[src-trump-tpusa-ufo-tease-2026-04]]). NBC News corroborates and adds: Trump said reviewers "found many very interesting documents," [[lue-elizondo]] testified Wednesday that UAPs are "splitting aircraft formations right down the middle," [[tim-burchett]] thanked Trump on X, and [[anna-paulina-luna]] is considering subpoena authority after the April 14 deadline ([[src-trump-ufo-files-interesting-2026-04]]). A DoD intelligence report released the same week states the Pentagon "did not have sufficient data" on UAP from 2004–2021.
 
 ### Scientific Alternative
 
@@ -75,6 +75,7 @@ Per [[src-galileo-project-uap-capability-2026-03]], [[avi-loeb]] argues the [[ga
 - [[sky-canada-project]] — Canada (July 2025), science-advisor lead
 - [[japan-uap-framework]] — Japan (March 2026), Cabinet Secretariat / crisis-management lead, **human-adversary** working hypothesis ([[src-japan-uap-strategy-proposal-2026-03]])
 - [[brazil]] — Senate UAP hearing June 2022 ([[src-brazil-uap-senate-hearings-2026]]), modeled on U.S. Congressional hearings; called for Gillibrand-style disclosure legislation
+- [[united-kingdom]] — Outlier: [[ministry-of-defence|MoD]] closed its UFO desk in 2009; reaffirmed "no military threat" position via [[luke-pollard]] in Dec 2024 despite contemporaneous incursions over USAF-operated [[raf-lakenheath]], [[raf-mildenhall]], [[raf-feltwell]], and [[raf-fairford]] ([[src-uk-mod-uap-no-threat-2024]])
 
 ## Key Tensions
 

@@ -2,7 +2,7 @@
 title: Flyaway Kit (FAK)
 type: concept
 created: 2026-04-16
-updated: 2026-04-19
+updated: 2026-04-29
 ---
 
 A **Flyaway Kit (FAK)** is a NORTHCOM transportable counter-small-unmanned-aerial-system (C-sUAS) capability package. It combines sensors and effectors that can be rapidly deployed to any U.S. base in the [[usnorthcom]] area of responsibility.
@@ -24,7 +24,7 @@ Per [[src-northcom-drone-incursion-2026-03]] and [[src-drone-incursions-epic-fur
 - **Feb 2026** — First operational defeat in the opening hours of [[operation-epic-fury]]; NORTHCOM used the kit's **jamming protocol** to defeat sUAS over an undisclosed "strategic" installation
 - **Late Spring 2026** — Additional FAKs due for deployment
 
-Development proceeds in cooperation with Joint Interagency Task Force 401 (JIATF-401). Gen. Guillot credits lessons from Ukraine — notably [[operation-spider-web]] — for the need for layered, multi-medium defeat mechanisms.
+Development proceeds in cooperation with [[jiatf-401|Joint Interagency Task Force 401 (JIATF-401)]], which by April 2026 has committed >$600M total to [[counter-uas|C-UAS]] capability — including ~$350M to [[centcom]]'s [[operation-epic-fury]] in just the first month of the Iran war ([[src-counter-drone-middle-east-jiatf-2026-04]]). Gen. Guillot credits lessons from Ukraine — notably [[operation-spider-web]] — for the need for layered, multi-medium defeat mechanisms. The forward-deployed counterpart is the Ukrainian [[sky-map-c-uas|Sky Map]] platform, deployed by U.S. forces to [[prince-sultan-air-base]] in April 2026 ([[src-epic-fury-update-2026-04]]).
 
 ## Sources
 

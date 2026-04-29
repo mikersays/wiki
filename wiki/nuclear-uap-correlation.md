@@ -2,7 +2,7 @@
 title: Nuclear-UAP Correlation
 type: concept
 created: 2026-04-13
-updated: 2026-04-16
+updated: 2026-04-29
 ---
 
 # Nuclear-UAP Correlation
@@ -42,7 +42,7 @@ The nuclear-UAP correlation, if validated by further research, would suggest tha
 A distinct but overlapping pattern: drone activity over U.S. and allied nuclear facilities has been reported with rising frequency.
 
 - **2019** — [[palo-verde-nuclear-plant|Palo Verde Nuclear Generating Station]], Arizona
-- **Dec 2024** — U.K. base storing U.S. nuclear weapons — simultaneous swarm with New Jersey events
+- **Nov–Dec 2024** — UK [[raf-lakenheath]] (USAF F-15E/F-35A; reported U.S. nuclear-weapons storage), [[raf-mildenhall]], [[raf-feltwell]], and [[raf-fairford]] — multi-base UAP/sUAS incursions reported by [[usafe-afa]]; UK MoD response: "no military threat" ([[src-uk-mod-uap-no-threat-2024]])
 - **Feb 2026** — NORTHCOM [[flyaway-kit|FAK]] defeats a drone over an undisclosed "strategic" U.S. installation during [[operation-epic-fury]]; "strategic" often denotes nuclear-enterprise assets ([[src-northcom-drone-incursion-2026-03]])
 - **Mar 9-15, 2026** — [[barksdale-afb]] (B-52 base with nuclear weapons storage) hit by multi-wave drone incursions; [[whiteman-afb]] (B-2) also flagged ([[src-drone-incursions-epic-fury-2026-03]])
 - The FAK was certified at nuclear-bomber/ICBM base [[minot-afb]] in October 2025 during [[us-stratcom]]'s Global Thunder
@@ -60,3 +60,4 @@ See also [[drone-incursions]].
 - [[src-japan-uap-strategy-proposal-2026-03]] -- Japan's [[genkai-nuclear-uap-incident]] cited as rationale for a specialized UAP body
 - [[src-brazil-uap-senate-hearings-2026]] -- Robert Salas's international testimony on nuclear-UAP pattern
 - [[src-spy-drones-nuclear-triad-2026-04]] -- Malmstrom AFB spy balloon and drone swarm incidents
+- [[src-uk-mod-uap-no-threat-2024]] -- UK MoD reaffirms "no military threat" amid USAFE-AFA RAF incursion reporting
