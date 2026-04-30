@@ -7,7 +7,7 @@ outlet: House Oversight Committee
 author: House Oversight Committee
 date: 2025-09-09
 created: 2026-04-25
-updated: 2026-04-25
+updated: 2026-04-30
 ---
 
 ## Summary
@@ -20,7 +20,7 @@ This is the official House Oversight Committee record of the September 9, 2025 h
 - Dylan Borland (USAF veteran) alleged more than a decade of professional retaliation following a 2012 UAP experience at [[langley-afb]]. (Borland)
 - Senior Chief Petty Officer Alexandro Wiggins (U.S. Navy, active duty) reported a 2023 USS Jackson incident: a self-luminous Tic Tac-shaped object emerged from the ocean and linked with three similar objects before disappearing with near-instantaneous synchronized acceleration — no sonic boom, no conventional propulsion. First active-duty Navy official to testify publicly before Congress about UAP. (Wiggins)
 - Rep. Eric Burlison publicly released footage for the first time of an MQ-9 firing a Hellfire missile at a high-speed orb off Yemen (October 2024); the object was struck but continued on course, apparently intact. (Burlison)
-- Joe Spielberger (POGO) advocated for stronger disclosure channels and [[uap-whistleblower-protections]], noting national security misconduct "has a direct impact on public safety, civil liberties and the security of our country." (Spielberger)
+- [[joe-spielberger|Joe Spielberger]] (POGO) advocated for stronger disclosure channels and [[uap-whistleblower-protections]], noting national security misconduct "has a direct impact on public safety, civil liberties and the security of our country." (Spielberger)
 - Rep. Burlison introduced the UAP Disclosure Act of 2025 as an NDAA amendment on August 29, 2025, seeking government record preservation, National Archives access, and an independent declassification board. (Legislative record)
 - The hearing contextualized the November 2024 session where Rep. Nancy Mace introduced the [[immaculate-constellation]] document into the Congressional Record, and [[matthew-brown]]'s April 2025 public confirmation as its author. (Hearing record)
 
@@ -49,3 +49,4 @@ This is the official House Oversight Committee record of the September 9, 2025 h
 - [[jeffrey-nuccetelli]]
 - [[alexandro-wiggins]]
 - [[dylan-borland]]
+- [[joe-spielberger]]

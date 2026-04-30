@@ -1,20 +1,30 @@
 ---
 name: lint
-description: Health-check the wiki. Finds contradictions, orphan pages, missing cross-references, stale content, and gaps. Use periodically to keep the wiki healthy as it grows.
+description: Health-check a vault. Finds contradictions, orphan pages, missing cross-references, stale content, and gaps. Use periodically to keep a vault healthy as it grows.
+argument-hint: "[vault]"
 user-invocable: true
-allowed-tools: Read Glob Grep
+allowed-tools: Read Glob Grep Bash(ls *)
 effort: high
 ---
 
-# Lint the Wiki
+# Lint a Vault
 
-Perform a comprehensive health check of the wiki.
+Perform a comprehensive health check of one vault.
+
+## Resolve the vault first
+
+1. List top-level directories that contain a `wiki/` subfolder — those are the available vaults.
+2. If `$ARGUMENTS` names a vault, lint that one.
+3. Otherwise, if there is exactly one vault, lint it.
+4. Otherwise, ask the user which vault to lint.
+
+Lint operates on one vault at a time. Don't compare or link across vaults.
 
 ## Steps
 
-1. **Read `wiki/index.md`** and **list all files** in `wiki/` to check for pages missing from the index.
+1. **Read `<vault>/wiki/index.md`** and **list all files** in `<vault>/wiki/` to check for pages missing from the index.
 
-2. **Read every wiki page** (or as many as feasible if the wiki is very large).
+2. **Read every wiki page** in the vault (or as many as feasible if the vault is very large).
 
 3. **Check for each of the following issues:**
 
@@ -39,7 +49,7 @@ Perform a comprehensive health check of the wiki.
    - Entity pages that should reference each other.
 
    ### Index issues
-   - Pages that exist in `wiki/` but aren't listed in `wiki/index.md`.
+   - Pages that exist in `<vault>/wiki/` but aren't listed in `<vault>/wiki/index.md`.
    - Index entries that point to pages that no longer exist.
 
    ### Gaps
@@ -47,11 +57,11 @@ Perform a comprehensive health check of the wiki.
    - Questions the wiki raises but doesn't answer.
    - Sources referenced by existing sources that haven't been ingested.
 
-4. **Report findings** organized by category (contradictions, orphans, gaps, etc.). For each issue, state what it is and suggest how to fix it.
+4. **Report findings** organized by category (contradictions, orphans, gaps, etc.). For each issue, state what it is and suggest how to fix it. Mention the vault name in the report.
 
 5. **Offer to fix** mechanical issues (orphan links, missing index entries, missing cross-references) automatically. Wait for user approval before making changes.
 
-6. **Append to `wiki/log.md`**:
+6. **Append to `<vault>/wiki/log.md`**:
    ```
    ## [YYYY-MM-DD] lint | Wiki health check
 

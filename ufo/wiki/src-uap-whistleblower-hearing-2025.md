@@ -5,7 +5,7 @@ source_file: raw/uap-whistleblower-hearing-sep-2025.md
 author: Brandi Vincent
 date: 2025-09-09
 created: 2026-04-13
-updated: 2026-04-16
+updated: 2026-04-30
 ---
 
 # Military Whistleblowers Share New Evidence of Alleged UAP at Transparency Hearing
@@ -51,12 +51,12 @@ Rep. Eric Burlison (R-MO) unveiled previously unseen footage of a U.S. military 
 
 ## Whistleblower Protection Legislation
 
-The hearing advanced the **UAP Whistleblower Protection Act (H.R. 5060)**, introduced by Reps. Tim Burchett and Anna Paulina Luna. The bill would codify distinct protections for individuals disclosing information about government-funded UAP research programs to Congress. Joe Spielberger of the Project on Government Oversight testified that whistleblower protections are essential because "misdeeds that they expose can often have a direct impact on public safety, civil liberties and the security of our country." See [[uap-whistleblower-protections]] and [[ndaa-uap-provisions]].
+The hearing advanced the **UAP Whistleblower Protection Act (H.R. 5060)**, introduced by Reps. Tim Burchett and Anna Paulina Luna. The bill would codify distinct protections for individuals disclosing information about government-funded UAP research programs to Congress. [[joe-spielberger|Joe Spielberger]] of the Project on Government Oversight testified that whistleblower protections are essential because "misdeeds that they expose can often have a direct impact on public safety, civil liberties and the security of our country." See [[uap-whistleblower-protections]] and [[ndaa-uap-provisions]].
 
 ## Supporting Testimony
 
 - **George Knapp** provided historical context on government UAP secrecy
-- **Joe Spielberger** from the **Project on Government Oversight (POGO)** addressed institutional barriers to transparency
+- **[[joe-spielberger|Joe Spielberger]]** from the **Project on Government Oversight (POGO)** addressed institutional barriers to transparency
 
 ## Institutional Context
 
@@ -74,7 +74,7 @@ The hearing advanced the **UAP Whistleblower Protection Act (H.R. 5060)**, intro
 | Jeffrey Nuccetelli | Air Force veteran, Vandenberg AFB witness |
 | Dylan Borland | Air Force veteran, Langley AFB witness, retaliation victim |
 | SCPO Alexandro Wiggins | Active-duty Navy, USS Jackson witness |
-| Joe Spielberger | Project on Government Oversight |
+| [[joe-spielberger|Joe Spielberger]] | Project on Government Oversight |
 | David Grusch | Former intelligence official, Special Advisor to the task force |
 | George Knapp | Investigative journalist, historical context witness |
 

@@ -2,7 +2,7 @@
 title: UAP Whistleblower Protections
 type: concept
 created: 2026-04-13
-updated: 2026-04-13
+updated: 2026-04-30
 ---
 
 # UAP Whistleblower Protections
@@ -38,7 +38,7 @@ According to [[src-uap-whistleblower-hearing-2025]], Rep. Anna Paulina Luna argu
 
 - Introduced by Reps. Tim Burchett and Anna Paulina Luna
 - Would codify distinct protections for individuals disclosing information about government-funded UAP programs to Congress
-- Joe Spielberger (Project on Government Oversight) testified that protections are essential because "misdeeds that they expose can often have a direct impact on public safety, civil liberties and the security of our country"
+- [[joe-spielberger|Joe Spielberger]] (Project on Government Oversight) testified that protections are essential because "misdeeds that they expose can often have a direct impact on public safety, civil liberties and the security of our country"
 
 ### Related Provisions
 
@@ -54,6 +54,6 @@ Whistleblower protections are a critical enabler of [[uap-disclosure]]. Without 
 - **Rep. Anna Paulina Luna (R-FL):** Chair, Task Force on Declassification; co-sponsor of H.R. 5060
 - **Rep. Tim Burchett:** Co-sponsor of H.R. 5060
 - **David Grusch:** Former intelligence official, Special Advisor to the task force
-- **Joe Spielberger:** Project on Government Oversight
+- **[[joe-spielberger|Joe Spielberger]]:** Project on Government Oversight
 
 See also: [[uap-disclosure]], [[ndaa-uap-provisions]], [[aaro]], [[src-uap-whistleblower-hearing-2025]]

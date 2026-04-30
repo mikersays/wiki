@@ -7,12 +7,12 @@ outlet: The Debrief
 author: Micah Hanks
 date: 2022-06-28
 created: 2026-04-25
-updated: 2026-04-25
+updated: 2026-04-30
 ---
 
 ## Summary
 
-On June 24, 2022, the Brazilian Senate convened a hearing on UAP organized by Senator [[eduardo-girao]], modeled partly on contemporaneous U.S. Congressional hearings. Testimony highlighted [[brazil]]'s documented history with the phenomenon, including the 1986 [[brazil-night-of-ufos-1986|Night of the UFOs]] and 1977's [[operation-prato]]. International guests [[gary-heseltine]] ([[icer]]) and retired USAF Captain [[robert-salas]] connected Brazil's experience to the global pattern of UAP near nuclear sites. Speakers called for greater government transparency, scientific legislation, and anticipated follow-on hearings in both chambers. This is one of the earliest formal national-legislature UAP hearings outside the United States.
+On June 24, 2022, the Brazilian Senate convened a hearing on UAP organized by Senator [[eduardo-girao]], modeled partly on contemporaneous U.S. Congressional hearings. Testimony highlighted [[brazil]]'s documented history with the phenomenon, including the 1986 [[brazil-night-of-ufos-1986|Night of the UFOs]] and 1977's [[operation-prato]]. [[aj-gevaerd|AJ Gevaerd]] — described as the most knowledgeable Brazilian expert on UAP — presented an outline of the country's history with the subject. International guests [[gary-heseltine]] ([[icer]]) and retired USAF Captain [[robert-salas]] connected Brazil's experience to the global pattern of UAP near nuclear sites. Speakers called for greater government transparency, scientific legislation, and anticipated follow-on hearings in both chambers. This is one of the earliest formal national-legislature UAP hearings outside the United States.
 
 ## Key Claims
 
@@ -32,6 +32,7 @@ On June 24, 2022, the Brazilian Senate convened a hearing on UAP organized by Se
 ## Related Pages
 
 - [[brazil]]
+- [[aj-gevaerd]]
 - [[eduardo-girao]]
 - [[operation-prato]]
 - [[brazil-night-of-ufos-1986]]

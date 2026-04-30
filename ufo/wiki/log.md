@@ -270,3 +270,13 @@ Fetched via /ufo-news. 6 parallel search agents returned candidates across congr
 - **Nuclear-UAP correlation expanded** to include Palo Verde 2019, Barksdale 2026, UK nuclear-weapons-storage base Dec 2024 — all drone-incursion data points.
 
 **Failures:** oversight.house.gov/hearing page (HTTP 403), NewsNation marathon article (HTTP 403), Ask a Pol SCIF Watch (article was from March 2025 describing an April 2025 event — not fresh). None written.
+
+## [2026-04-30] audit | UFO vault orphan fix + multi-vault restructure
+
+Restructured the repo to support multiple vaults. Existing UFO content moved into `ufo/` (raw/, wiki/, .obsidian/). Top-level `CLAUDE.md` rewritten as a multi-vault schema; vault-specific `ufo/CLAUDE.md` added. Skills updated to be vault-aware; `/ufo-news` pinned to this vault. New `/audit` skill added for mechanical schema-compliance checks.
+
+Wired up two orphan entity pages that had zero non-index inbound wikilinks:
+- [[aj-gevaerd]] — added to [[src-brazil-uap-senate-hearings-2026]] (he presented at the hearing per the raw source but had been omitted from the summary and Related Pages).
+- [[joe-spielberger]] — bare-text mentions in [[uap-whistleblower-protections]], [[src-uap-whistleblower-hearing-2025]], and [[src-uap-transparency-hearing-2026-04]] converted to `[[joe-spielberger|Joe Spielberger]]` wikilinks.
+
+After fix: 0 pages with zero non-index inbound links. Index coverage was already at 100% (229/229 pages).
