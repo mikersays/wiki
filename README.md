@@ -41,6 +41,7 @@ If only one vault exists, you can omit the vault name from `/ingest`, `/query`, 
 | `/save [vault] <title>` | any vault | Save the last query answer as a permanent wiki page. |
 | `/lint [vault]` | any vault | Semantic health-check (contradictions, orphans, gaps). |
 | `/audit [vault] [--fix]` | any vault | Mechanical compliance check against the schema in `CLAUDE.md`. Pass `--fix` to auto-resolve fixable issues. |
+| `/new-vault <name> ["topic"]` | repo-wide | Scaffold a new vault folder with seed `CLAUDE.md`, `index.md`, and `log.md`. |
 | `/wiki-help` | repo-wide | Show help and list vaults. |
 | `/ufo-news [topic]` | `ufo/` only | Search the web for recent UFO/UAP/alien news, save to `ufo/raw/inbox/`, ingest. Topic is optional and narrows the search (e.g. `aaro`, `grusch`, `congressional hearings`). Uses parallel agent teams. |
 
@@ -67,14 +68,20 @@ Page types: **source** (one article/paper/transcript), **entity** (a person, org
 
 ## Adding a vault
 
-To create a new vault `foo/`:
+The fastest way:
+
+```
+/new-vault security "Security research notes, vulnerability advisories, and red-team tradecraft."
+```
+
+That scaffolds the folder layout (`raw/inbox/`, `raw/assets/`, `wiki/`), seeds `CLAUDE.md` with the topic and scope you describe, and creates an empty `index.md` and a `log.md` with an init entry. Skills auto-discover vaults by scanning top-level dirs that contain a `wiki/` subfolder, so the new vault is immediately usable by `/ingest`, `/query`, `/save`, `/lint`, and `/audit`.
+
+If you'd rather do it manually:
 
 1. `mkdir -p foo/raw/inbox foo/raw/assets foo/wiki`
 2. `touch foo/wiki/index.md foo/wiki/log.md`
 3. (Recommended) create `foo/CLAUDE.md` describing the topic, scope, and any vault-specific conventions.
 4. Optional: open `foo/` as a separate Obsidian vault.
-
-Skills auto-discover vaults by scanning top-level dirs that contain a `wiki/` subfolder.
 
 ## How `/ufo-news` works under the hood
 

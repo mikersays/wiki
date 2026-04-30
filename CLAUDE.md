@@ -143,6 +143,7 @@ User-invocable slash commands live in `.claude/skills/`:
 | `/save [vault] <title>` | any vault | Save the last query answer as a permanent wiki page. |
 | `/lint [vault]` | any vault | Semantic health-check (contradictions, gaps, stale claims, suggested cross-references). |
 | `/audit [vault] [--fix]` | any vault | Mechanical schema-compliance check (frontmatter, filenames, wikilink resolution, index coverage, log format). |
+| `/new-vault <name> ["topic"]` | repo-wide | Scaffold a new vault folder with seed `CLAUDE.md`, `index.md`, and `log.md`. |
 | `/wiki-help` | repo-wide | List vaults, commands, and architecture. |
 | `/ufo-news [topic]` | `ufo/` only | Parallel web search + ingest for fresh UFO/UAP/alien news. |
 

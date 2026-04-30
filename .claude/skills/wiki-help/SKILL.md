@@ -30,6 +30,7 @@ The repo can hold multiple **vaults**. Each vault is a top-level folder with its
 | `/save [vault] <title>` | Save the last query answer or analysis as a permanent wiki page in a vault. |
 | `/lint [vault]` | Semantic health-check (contradictions, orphans, missing links, stale content, gaps). |
 | `/audit [vault] [--fix]` | Mechanical schema-compliance check (frontmatter, filenames, wikilink resolution, index coverage, log format). Pass `--fix` to auto-resolve mechanical issues. |
+| `/new-vault <name> ["topic"]` | Scaffold a new vault folder with seed `CLAUDE.md`, `index.md`, and `log.md`. |
 | `/wiki-help` | Show this help message. |
 | `/ufo-news [topic]` | **`ufo` vault only.** Search the web for the latest UFO/UAP/alien news, save to `ufo/raw/inbox/`, and ingest into `ufo/wiki/`. Optional topic narrows the search. |
 
@@ -47,11 +48,13 @@ If exactly one vault exists, the `[vault]` argument is optional and the skill de
 
 ### Add a vault
 
-To create a new vault `foo/`:
+The fastest way is `/new-vault <name> ["topic statement"]` — it scaffolds the folder layout, seeds `CLAUDE.md`, `index.md`, and `log.md` with a single init log entry, and (optionally) copies Obsidian config from an existing vault.
 
-1. Make the folder layout: `foo/raw/inbox/`, `foo/raw/assets/`, `foo/wiki/`.
-2. Create empty `foo/wiki/index.md` and `foo/wiki/log.md`.
-3. (Optional but recommended) Create `foo/CLAUDE.md` describing the vault's topic, scope, and any vault-specific conventions.
+If you want to do it manually:
+
+1. `mkdir -p foo/raw/inbox foo/raw/assets foo/wiki`
+2. `touch foo/wiki/index.md foo/wiki/log.md`
+3. (Recommended) Create `foo/CLAUDE.md` describing the vault's topic, scope, and any vault-specific conventions.
 4. Open `foo/` as a separate Obsidian vault if you want graph view.
 
 ### Tips
