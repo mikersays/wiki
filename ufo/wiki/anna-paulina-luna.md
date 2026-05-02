@@ -38,7 +38,7 @@ Luna has emerged as one of the most active congressional advocates for UAP trans
 - **Mar 31, 2026** — Wrote to SecWar [[pete-hegseth]] requesting 46+ specific UAP videos by April 14. Footage reportedly includes spherical, cigar-shaped, and Tic Tac-like objects over war zones, oceans, and restricted airspace, including incidents near Iran, Syria, U.S. bases, and a 2023 Lake Huron event.
 - **Apr 14, 2026** — Deadline missed. Luna's X post: "No one from the Pentagon had responded until we reached out... How convenient." Rejected an offered future briefing ([[src-pentagon-uap-deadline-missed-2026-04]]).
 - **Apr 15, 2026** — [[department-of-war|DoW]] publicly confirms the release process; [[jeremy-corbell]] and [[george-knapp]] say they supplied Congress with the file names and locations underlying Luna's request ([[src-war-department-uap-release-2026-04]]).
-- **Apr 16, 2026** — [[avi-loeb]] frames Luna's 46-video demand as a worthwhile probe but cautions the most scientifically interesting recent classified-sensor data is likely to be withheld and pushes for raw, unprocessed satellite imagery ([[src-loeb-wh-uap-videos-skeptic-2026-04]]).
+- **Apr 16, 2026** — [[avi-loeb]] frames Luna's 46-video demand as a worthwhile probe but cautions the most scientifically interesting recent classified-sensor data is likely to be withheld and pushes for raw, unprocessed satellite imagery ([[src-loeb-wh-uap-videos-skeptic-2026-04]]). Also Apr 16: Luna appeared on former Rep. Matt Gaetz's OAN show and described the escalation chain — staff had to chase the Pentagon, then she escalated to the White House after the Pentagon "refused to respond." Pentagon offered a future briefing; Luna rejected it: "That's not up to them." [[aaro]] issued a statement confirming coordination with the White House on UAP release; Hegseth on record: "in full compliance with that executive order." ([[src-luna-uap-deadline-missed-2026-04]])
 - **Apr 17, 2026** — Luna posted Trump's TPUSA tease clip with a winking emoji and (in NewsNation interview) said she is "considering using subpoena authority" if the 46 videos are not released — first explicit subpoena threat tied to the 46-video demand ([[src-trump-ufo-files-interesting-2026-04]]).
 
 ## April 24, 2026 UAP Hearing
@@ -56,3 +56,4 @@ Luna chaired a second hearing on April 24, 2026: "Restoring Public Trust Through
 - [[src-war-department-uap-release-2026-04]]
 - [[src-loeb-wh-uap-videos-skeptic-2026-04]]
 - [[src-trump-ufo-files-interesting-2026-04]]
+- [[src-luna-uap-deadline-missed-2026-04]]

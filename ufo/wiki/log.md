@@ -1,11 +1,25 @@
 ---
 title: Log
-updated: 2026-05-01
+updated: 2026-05-02
 ---
 
 # Log
 
 Chronological record of wiki activity. Each entry uses the format `## [YYYY-MM-DD] action | description` for easy parsing.
+
+## [2026-05-02] ingest | UFO news sweep (5 articles)
+
+Fetched via /ufo-news. 6 search tracks → 8 candidates → 5 saved (3 failed: SETI.org 403, WaPo paywall, Burchett 404).
+
+New sources: [[src-drone-incursions-base-jamming-2026-03]], [[src-epic-fury-drone-defeat-2026-03]], [[src-mars-ancient-life-ice-survival-2026-02]], [[src-panspermia-agnostic-biosignature-2026-04]], [[src-luna-uap-deadline-missed-2026-04]]
+
+New entities: [[alexander-pavlov]], [[harrison-b-smith]], [[lana-sinapayen]], [[earth-life-science-institute]]
+
+New concepts: [[martian-ice-preservation]], [[panspermia]], [[agnostic-biosignature]]
+
+Updated: [[flyaway-kit]] (11-soldier crew, Wisp/Heimdal/Pulsar descriptions, new sources), [[anduril]] (Wisp sensor detail), [[anna-paulina-luna]] (Apr 16 OAN/Gaetz interview, White House escalation), [[biosignatures]] (Martian ice preservation section, agnostic biosignature section), [[astrobiology]] (Mars ice survival, agnostic biosignature method), [[uap-disclosure]] (Apr 16 Luna OAN entry)
+
+Cross-connections: The two drone-incursion sources ([[src-drone-incursions-base-jamming-2026-03]], [[src-epic-fury-drone-defeat-2026-03]]) both cover the same Epic Fury FAK event from different reporters/angles — together they upgrade from "one defeat" to "several incursions" with full sensor-suite technical detail. The three astrobiology sources ([[src-mars-ancient-life-ice-survival-2026-02]], [[src-panspermia-agnostic-biosignature-2026-04]], and the existing [[src-biosignature-gas-flux-inference-2026-04]]) form a coherent methodological cluster: each targets a different failure mode of conventional single-gas biosignature detection.
 
 ## [2026-05-01] update | follow-ups — Age of Disclosure / Gallaudet testimony sources + deaths-claim audit
 

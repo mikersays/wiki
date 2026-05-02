@@ -11,12 +11,14 @@ Gen. [[gregory-guillot]] publicly previewed the FAK concept in the March 2025 CB
 
 ## Tested configuration
 
-Per [[src-northcom-drone-incursion-2026-03]] and [[src-drone-incursions-epic-fury-2026-03]]:
+Per [[src-northcom-drone-incursion-2026-03]], [[src-drone-incursions-epic-fury-2026-03]], and [[src-epic-fury-drone-defeat-2026-03]]:
 
-- **Heimdal** mobile sensor trailer
-- **Pulsar** RF detection / electromagnetic-jamming tool (core of the fielded [[anduril|Anduril]] kit)
-- **Wisp** wide-area infrared system
-- **Anvil** drone-on-drone interceptors by [[anduril]]
+- **Wisp** — AI-infrared, 360-degree motion sensor (wide-area infrared system)
+- **Heimdal** — mobile sensor trailer using thermal optics and radar
+- **Pulsar** — AI-enhanced electromagnetic warfare platform; RF detection and jamming
+- **Anvil** — self-guided drone-on-drone interceptor (physically rams targets)
+
+Crewed by **11 soldiers**. The FAK engages both jamming (Pulsar) and kinetic intercept (Anvil) depending on the threat.
 
 ## Operational history
 
@@ -31,3 +33,5 @@ Development proceeds in cooperation with [[jiatf-401|Joint Interagency Task Forc
 - [[src-60-minutes-drone-swarms-2025]]
 - [[src-northcom-drone-incursion-2026-03]]
 - [[src-drone-incursions-epic-fury-2026-03]]
+- [[src-epic-fury-drone-defeat-2026-03]] — Defense News; adds 11-soldier crew, named sensor descriptions, Guillot ~25% defeat rate
+- [[src-drone-incursions-base-jamming-2026-03]] — DefenseScoop; confirms "several incursions" at strategic base, jamming protocol engaged each time

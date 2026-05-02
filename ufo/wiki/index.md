@@ -1,6 +1,6 @@
 ---
 title: Index
-updated: 2026-05-01
+updated: 2026-05-02
 ---
 
 # Wiki Index
@@ -26,8 +26,10 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[src-brazil-uap-senate-hearings-2026]] — Brazilian Senate June 2022 UAP hearing: 1986 radar mass-sighting, Operation Prato, and calls for Gillibrand-style disclosure legislation
 - [[src-bumblebee-v2-ncr-counterdrone-2026-04]] — Defense Post: JIATF-401 + JTF-NCR train 3rd Infantry Regiment on Bumblebee V1 C-UAS at Fort Belvoir; JIATF-401 procures Fortem DroneHunter F700 and Bumblebee V2 FPV; March 2026 FAA high-energy laser test; U.S.-UK common C-UAS data standards
 - [[src-counter-act-secure-skies-bills-2026-04]] — Rep. Gabe Vasquez (D-NM) advances the COUNTER Act (2026 NDAA, expands base-commander C-UAS authority) and the Secure Our Skies Drone Safety Act of 2025; ties to White Sands incursions and Feb 2026 El Paso/Fort Hancock airspace incidents
+- [[src-drone-incursions-base-jamming-2026-03]] — DefenseScoop: NORTHCOM FAK engages jamming protocol against multiple drone incursions at undisclosed strategic U.S. base since Operation Epic Fury began
 - [[src-drone-incursions-epic-fury-2026-03]] — The War Zone: multi-wave drone incursions at Barksdale B-52 base March 9-15 2026; Guillot SASC disclosures on detection/defeat trends
 - [[src-elizondo-motorcycle-crash-2026-04]] — Lue Elizondo survives near-fatal Wyoming motorcycle crash on March 17, 2026; hospitalized one week with life-threatening injuries
+- [[src-epic-fury-drone-defeat-2026-03]] — Defense News: Guillot discloses FAK defeated drone over strategic installation in opening hours of Operation Epic Fury; 11-soldier crew, Anduril Wisp/Heimdal/Pulsar sensors, ~25% detect-to-defeat rate
 - [[src-epic-fury-update-2026-04]] — SOF News April 24 update on Operation Epic Fury: economic-phase blockade, IRGC tanker seizures, Mojtaba Khamenei succession, and Ukrainian Sky Map C-UAS deployed to Prince Sultan AB to plug U.S. counter-drone gap
 - [[src-esa-enceladus-life-mission-2025]] — ESA proposes orbiter-lander mission to Saturn's moon Enceladus to search for life in its subsurface ocean
 - [[src-galileo-project-uap-capability-2026-03]] — Avi Loeb announces Galileo Project sub-10% UAP-distance precision via 10-km multi-station triangulation; framed as scientific alternative to government disclosure
@@ -42,10 +44,13 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[src-k2-18b-technosignature-null-2026]] — VLA+MeerKAT radio technosignature search of K2-18b returns null result; methodology portable to other hycean worlds
 - [[src-loeb-wh-uap-videos-skeptic-2026-04]] — Avi Loeb on the WH/DoW UAP-video release: calls for raw satellite data, warns most intriguing classified-sensor data likely withheld, offers 1g isotope test
 - [[src-luna-46-uap-videos-demand-2026-03]] — Luna's March 31 letter to SecWar Hegseth demanding 46 named UAP videos from AARO by April 14, 2026
+- [[src-luna-uap-deadline-missed-2026-04]] — Newsweek (Apr 16): Luna on OAN describes White House escalation after Pentagon silence; AARO confirms coordination on UAP release; Hegseth pledges full compliance
+- [[src-mars-ancient-life-ice-survival-2026-02]] — NASA Goddard/Penn State: amino acids survive >50 Myr in pure Martian ice; ice-soil mixtures destroy organics 10× faster; argues for ice-drilling Mars missions
 - [[src-mars-ancient-ocean-zaki-lamb-2026-04]] — Caltech's Zaki & Lamb (Nature, April 2026) identify a continental-shelf-like topographic band in Mars's northern hemisphere as evidence for a long-lived ancient ocean covering ~1/3 of the planet
 - [[src-mars-perseverance-biosignature-2025]] — Perseverance rover discovers potential biosignature minerals in Cheyava Falls rock on Mars
 - [[src-northcom-drone-incursion-2026-03]] — NORTHCOM Flyaway Kit defeats drone over undisclosed strategic U.S. installation during opening hours of Operation Epic Fury
 - [[src-oxygen-false-positive-biosignatures-2026-03]] — Photochemical modeling shows abiotic O₂ on Mars-like M-dwarf exoplanets peaks ~10x lower than prior estimates
+- [[src-panspermia-agnostic-biosignature-2026-04]] — ELSI researchers Smith & Sinapayen propose detecting life via statistical correlations across exoplanet populations (panspermia + environment-modification assumptions), bypassing single-gas false-positive problems
 - [[src-pentagon-uap-deadline-missed-2026-04]] — Pentagon misses Rep. Luna's April 14 deadline for 45+ UAP videos; Luna publicly rebukes Pentagon
 - [[src-plasma-technosignature-scattering-2026]] — SETI Institute study: stellar plasma turbulence broadens narrowband technosignature signals, potentially explaining radio silence; M dwarfs highest risk
 - [[src-seti-ai-breakthrough-listen-2025]] — Breakthrough Listen AI system achieves 600x speed improvement in detecting signals from space
@@ -80,6 +85,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[abdallah-zaki]] — Sedimentologist (former Caltech postdoc, now UT Austin Jackson School fellow); co-author of 2026 Nature paper proposing continental-shelf evidence for an ancient Martian ocean
 - [[adam-scher]] — U.S. Army Lt. Col., JIATF-401 spokesperson; on-record source for Bumblebee CONOPS
 - [[aiaa]] — American Institute of Aeronautics and Astronautics, aerospace engineering society backing UAP research standards
+- [[alexander-pavlov]] — NASA Goddard space scientist; led 2026 Martian ice amino-acid survival study showing pure ice preserves organics 10× better than ice-soil mixtures
 - [[air-force-research-laboratory]] — USAF R&D lab headquartered at Wright-Patterson; develops advanced aerospace materials and propulsion
 - [[aj-gevaerd]] — Brazil's leading UAP researcher; presented country's UAP history to the Senate in June 2022
 - [[akrotiri-and-dhekelia]] — UK Sovereign Base Areas in Cyprus; within range of Iranian ballistic missiles per 2024 parliamentary debate
@@ -120,6 +126,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[donald-bolduc]] — Retired U.S. Army BG (SF); April 2026 critic arguing Operation Epic Fury exposed strategic gaps and lacked an exit strategy
 - [[donald-trump]] — 47th U.S. President; issued February 2026 directive to release UAP/alien files
 - [[dragonfly-mission]] — NASA rotorcraft mission to Titan inheriting TMAH wet-chemistry heritage from Curiosity SAM
+- [[earth-life-science-institute]] — Astrobiology/origins-of-life research center at the Institute of Science Tokyo; home of the Smith & Sinapayen agnostic biosignature method (2026)
 - [[dylan-borland]] — USAF veteran who testified about 2012 Langley AFB UAP encounter and decade-long professional retaliation
 - [[eduardo-girao]] — Brazilian Senator who organized and presided over the June 2022 Senate UAP hearing
 - [[el-paso-international-airport]] — Site of Feb 2026 TFR initially blamed on a cartel drone, later attributed to FAA/DoD/DHS miscommunication
@@ -146,6 +153,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[gregory-guillot]] — Commander of USNORTHCOM and NORAD; disclosed March 2026 FAK drone defeat in Senate posture testimony
 - [[habitable-worlds-observatory]] — Future NASA flagship to directly image and characterize Earth-like exoplanets
 - [[harps]] — High Accuracy Radial velocity Planet Searcher at ESO La Silla; contributed to the 2026 GJ 887 d confirmation
+- [[harrison-b-smith]] — ELSI researcher; co-developed agnostic population-statistics biosignature detection method (April 2026)
 - [[house-armed-services-committee]] — House committee through which the COUNTER Act advanced into the 2026 NDAA
 - [[house-oversight-committee]] — House Committee on Oversight and Accountability; primary congressional venue for UAP hearings (Nov 2024, May 2025, Sep 2025, Apr 2026)
 - [[house-transportation-infrastructure-committee]] — House committee where the Secure Our Skies Drone Safety Act is currently pending
@@ -165,6 +173,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[jtf-ncr]] — Joint Task Force National Capital Region; DoD command for NCR homeland defense; partnered with JIATF-401 on the April 2026 Bumblebee exercise
 - [[jwst]] — James Webb Space Telescope, key tool for detecting atmospheric biosignatures on exoplanets
 - [[k2-18b]] — Sub-Neptune exoplanet 124 ly away; leading hycean world candidate with disputed DMS biosignature and null radio technosignature
+- [[lana-sinapayen]] — ELSI researcher; co-developed agnostic population-statistics biosignature detection method (April 2026)
 - [[langley-afb]] — Virginia USAF F-22 base; site of the 17-night December 2023 drone swarm that became the public flashpoint for U.S. homeland C-sUAS
 - [[liberation-times]] — Independent UAP-focused news outlet; broke April 2026 DoW/WH coordination story
 - [[luke-akehurst]] — UK Labour MP for North Durham; led 27 Nov 2024 Westminster Hall debate exposing UK GBAD gaps and Sky Sabre missile-procurement omission
@@ -259,6 +268,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 
 ## Concepts
 
+- [[agnostic-biosignature]] — Life-detection strategy using population-level statistics rather than specific chemical markers; minimizes false positives; applicable to large exoplanet surveys
 - [[alien-gov-portal]] — The alien.gov and aliens.gov domains registered by the White House in March 2026 as part of Trump's UAP disclosure rollout
 - [[ancient-mars-ocean]] — Long-running case for a northern-hemisphere ocean on early Mars, anchored as of April 2026 by Zaki & Lamb's continental-shelf topographic evidence
 - [[astrobiology]] — Interdisciplinary study of the origin, evolution, and distribution of life in the universe
@@ -283,6 +293,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[kona-blue]] — Officially acknowledged proposed DHS program to reverse-engineer recovered alien technology (never launched)
 - [[m-dwarf-stars]] — Most common stellar class in the galaxy and a preferred exoplanet-hunting substrate
 - [[mars-sample-return]] — Planned NASA mission to return Perseverance's rock samples to Earth for analysis
+- [[martian-ice-preservation]] — Capacity of Martian polar/subsurface ice to preserve organic biosignatures over tens of millions of years; pure ice 10× more protective than ice-soil mixtures
 - [[ndaa-uap-provisions]] — NDAA provisions mandating Pentagon transparency on UAP, especially FY2026 intercept briefing and classification requirements
 - [[non-human-intelligence]] — The hypothesized non-human origin of anomalous craft and materials in UAP discourse
 - [[nuclear-triad]] — U.S. strategic nuclear deterrent (ICBMs, SLBMs, strategic bombers); all three legs targeted by documented Chinese intelligence collection as of 2026
@@ -301,6 +312,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[strait-of-hormuz]] — Maritime chokepoint; mined by Iran and site of April 2026 IRGC tanker seizures during Operation Epic Fury
 - [[surface-flux-inference]] — Method to infer planetary surface gas fluxes from telescope spectra by inverting photochemical-climate models; more life-detection-robust than abundance retrieval
 - [[technosignatures]] — Observable signs of technology (e.g., narrowband radio beacons) indicating intelligent life
+- [[panspermia]] — Hypothesis that life spreads between planetary bodies; foundational assumption of population-statistics biosignature detection
 - [[photochemical-climate-model]] — Coupled model of atmospheric photochemistry and climate used to forward-model and invert exoplanet spectra
 - [[transmission-spectroscopy]] — JWST's primary atmospheric-characterization technique; 1D averages of 3D atmospheric processes
 - [[uap-classification-guide]] — Mellon's claim of a post-2017 UAP-specific classification guide retroactively classifying UAP material as national-security-sensitive

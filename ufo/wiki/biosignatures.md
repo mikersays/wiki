@@ -49,11 +49,28 @@ In a 2025 PNAS perspective ([[src-jwst-biosignature-prospects-2025]]), [[sara-se
 
 ## Biosignature Survival
 
-Research by Alexander Pavlov (NASA Goddard, 2024) on [[ocean-worlds]]:
+### Ocean Worlds (Pavlov, 2024)
+
+Research by [[alexander-pavlov]] ([[nasa-goddard]], 2024) on [[ocean-worlds]]:
 
 - On Enceladus: amino acids survive at less than a few millimeters below surface
-- On Europa: amino acids viable to ~20 cm depth at high latitudes
+- On Europa: amino acids viable to ~20 cm depth at high latitudes; degradation slower at colder temperatures
 - Amino acids degrade faster in silica-rich regions
+
+### Martian Ice (Pavlov et al., 2026)
+
+Pavlov et al. (*Astrobiology*, 2026) simulated 50 Myr of Martian cosmic-ray bombardment and found:
+
+- In **pure water ice**: >10% of amino acids survive at 50 Myr
+- In **ice-soil mixtures**: ~10× faster degradation (mineral-ice interface film mobilizes radicals)
+- Mars surface ice can be <2 Myr old — well within the preservation window
+- At Europa/Enceladus temperatures, degradation slows further
+
+Mission implication: future Mars landers should drill into clean buried ice, not rocks or clay. See [[src-mars-ancient-life-ice-survival-2026-02]] and [[martian-ice-preservation]].
+
+## Population-Level / Agnostic Biosignatures
+
+[[harrison-b-smith]] and [[lana-sinapayen]] ([[earth-life-science-institute]], April 2026) propose detecting life through **statistical correlations across exoplanet populations** rather than individual-planet chemical markers. The method assumes [[panspermia]] and environmental modification, using agent-based simulations to recover life-influenced planet clusters. Designed to minimize [[false-positive-biosignatures|false positives]] and avoid assuming any specific biochemistry. Applicable to large future surveys ([[habitable-worlds-observatory]]). See [[src-panspermia-agnostic-biosignature-2026-04]] and [[agnostic-biosignature]].
 
 ## K2-18b Status (2026 Update)
 
