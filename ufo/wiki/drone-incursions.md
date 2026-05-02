@@ -2,7 +2,7 @@
 title: Drone Incursions Over U.S. Military Sites
 type: concept
 created: 2026-04-16
-updated: 2026-04-29
+updated: 2026-05-01
 ---
 
 **Drone incursions** refer to the 2019-2026 pattern of unexplained or unauthorized small unmanned aerial system (sUAS) activity over U.S. military bases, nuclear facilities, and critical infrastructure. The pattern sits in the grey zone between conventional air-defense concerns and [[uap-reporting-infrastructure|UAP reporting]].
@@ -22,6 +22,9 @@ updated: 2026-04-29
 - **Mar 27, 2026** — Sen. [[bill-cassidy]] (R-LA) post-briefing disclosure on Barksdale: five flights confirmed (one hobbyist, four unclear), two drones recovered with uncertain provenance; "12-15 drones" vs "five flights" reconciliation gap unresolved ([[src-barksdale-drones-recap-2026-04]])
 - **Apr 10, 2026** — [[jiatf-401]] discloses ~$350M of [[counter-uas]] capability committed to [[centcom]]/[[operation-epic-fury]] in just the first month of the Iran war; FIFA 2026 World Cup C-UAS funding announced across 11 host cities ([[src-counter-drone-middle-east-jiatf-2026-04]])
 - **Apr 24, 2026** — Pentagon imports Ukrainian [[sky-map-c-uas|Sky Map]] C2 platform to [[prince-sultan-air-base]]; SOF News reports U.S. has "suffered casualties and damage to high-value aircraft" from Iranian/proxy drones ([[src-epic-fury-update-2026-04]])
+- **Ongoing** — [[white-sands-missile-range]], NM — Rep. [[gabe-vasquez]] cites "exponential rate" of unidentified drone incursions; motivating example for the [[counter-act|COUNTER Act]] (2026 NDAA) ([[src-counter-act-secure-skies-bills-2026-04]])
+- **Feb 2026** — [[el-paso-international-airport]] TFR (purported [[cartel-drone-threat|cartel drone]]) and [[fort-hancock]] DoD-laser-vs-[[customs-and-border-protection|CBP]]-drone incident — both attributed by Vasquez to FAA/DoD/[[department-of-homeland-security|DHS]] miscommunication during unapproved C-UAS testing in protected airspace ([[src-counter-act-secure-skies-bills-2026-04]])
+- **Apr 2026** — [[fort-belvoir]] / NCR — [[3rd-infantry-regiment]] trains on [[bumblebee-counter-uas|Bumblebee V1]] in joint [[jiatf-401]] / [[jtf-ncr]] exercise ([[src-bumblebee-v2-ncr-counterdrone-2026-04]])
 
 ## Capabilities and official assessments
 
@@ -52,3 +55,6 @@ Many incidents attributed publicly to "drone" activity have characteristics (spe
 - [[src-barksdale-drones-recap-2026-04]]
 - [[src-counter-drone-middle-east-jiatf-2026-04]]
 - [[src-epic-fury-update-2026-04]]
+- [[src-counter-act-secure-skies-bills-2026-04]]
+- [[src-bumblebee-v2-ncr-counterdrone-2026-04]]
+- [[src-uk-airspace-defense-gap-2024-11]]

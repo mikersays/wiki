@@ -2,7 +2,7 @@
 title: Mars Sample Return
 type: concept
 created: 2026-04-13
-updated: 2026-04-29
+updated: 2026-05-01
 ---
 
 # Mars Sample Return
@@ -31,9 +31,17 @@ The Mars Sample Return mission faces **budget and timeline challenges** but rema
 
 [[curiosity-rover]]'s 2026 [[sample-analysis-at-mars|SAM]]/TMAH inventory of more than 20 [[organic-molecules-mars|organic molecules]] in [[gale-crater]] (including a DNA-precursor-like nitrogen compound and benzothiophene) cannot distinguish biological, geological, or meteoritic origins in situ — reinforcing that the questions Mars Sample Return is designed to answer remain unresolved without Earth-laboratory analysis ([[src-curiosity-mars-life-molecules-2026-04]]).
 
+## Coastal-sediment targeting (April 2026)
+
+[[abdallah-zaki]] and [[michael-lamb]] (Caltech, *Nature*, April 2026) propose the Martian northern lowlands as the site of a long-lived [[ancient-mars-ocean]] — based on a continental-shelf-style topographic signature analogous to Earth's. They explicitly recommend **coastal sediments** as priority targets for future rovers and Mars Sample Return because terrestrial coastal sediments are exceptional fossil archives ([[src-mars-ancient-ocean-zaki-lamb-2026-04]]).
+
 ## See Also
 
 - [[perseverance-rover]]
 - [[biosignatures]]
 - [[astrobiology]]
 - [[nasa]]
+- [[ancient-mars-ocean]]
+- [[abdallah-zaki]]
+- [[michael-lamb]]
+- [[src-mars-ancient-ocean-zaki-lamb-2026-04]]

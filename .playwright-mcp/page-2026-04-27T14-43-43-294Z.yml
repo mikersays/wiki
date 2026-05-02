@@ -1,0 +1,172 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - generic [ref=e4]:
+      - generic [ref=e5]:
+        - generic [ref=e6]:
+          - link "DuckDuckGo home" [ref=e7] [cursor=pointer]:
+            - /url: /?t=h_
+            - button "‹ All Results" [ref=e8]
+            - generic [ref=e12]: DuckDuckGo
+          - generic [ref=e18]:
+            - combobox "Search privately" [ref=e20]: "\"charles mcneal\" \"mj-killer\" prophecy checklist"
+            - button "search" [ref=e22] [cursor=pointer]:
+              - img [ref=e23]
+        - generic [ref=e25]:
+          - link "Duck.ai" [ref=e28] [cursor=pointer]:
+            - /url: /?q=%22charles+mcneal%22+%22mj-killer%22+prophecy+checklist&t=h_&ia=chat
+            - img [ref=e29]
+            - text: Duck.ai
+          - button "Open menu" [ref=e32] [cursor=pointer]:
+            - generic [ref=e33]: Open menu
+            - img [ref=e34]
+      - navigation [ref=e40]:
+        - list [ref=e41]:
+          - listitem [ref=e42]:
+            - link "All" [ref=e43] [cursor=pointer]:
+              - /url: /?q=%22charles+mcneal%22+%22mj-killer%22+prophecy+checklist&t=h_&ia=web
+              - img [ref=e44]
+              - text: All
+          - listitem [ref=e46]:
+            - link "Images" [ref=e47] [cursor=pointer]:
+              - /url: /?q=%22charles+mcneal%22+%22mj-killer%22+prophecy+checklist&t=h_&ia=images&iax=images
+          - listitem [ref=e48]:
+            - link "Videos" [ref=e49] [cursor=pointer]:
+              - /url: /?q=%22charles+mcneal%22+%22mj-killer%22+prophecy+checklist&t=h_&ia=videos&iax=videos
+          - listitem [ref=e50]:
+            - link "News" [ref=e51] [cursor=pointer]:
+              - /url: /?q=%22charles+mcneal%22+%22mj-killer%22+prophecy+checklist&t=h_&ia=news&iar=news
+          - listitem [ref=e52]:
+            - link "Maps" [ref=e53] [cursor=pointer]:
+              - /url: /?q=%22charles+mcneal%22+%22mj-killer%22+prophecy+checklist&t=h_&iaxm=maps
+          - listitem [ref=e54]:
+            - link "Shopping" [ref=e55] [cursor=pointer]:
+              - /url: /?q=%22charles+mcneal%22+%22mj-killer%22+prophecy+checklist&t=h_&ia=shopping&iax=shopping
+        - list [ref=e56]:
+          - listitem
+          - listitem [ref=e57]:
+            - button "Search Settings ✀" [ref=e59] [cursor=pointer]:
+              - img [ref=e60]
+              - generic [ref=e62]: Search Settings
+              - generic [ref=e65]: ✀
+    - navigation [ref=e72]:
+      - generic [ref=e75] [cursor=pointer]:
+        - generic [ref=e83]: Protected
+        - img [ref=e84]: ▼
+      - generic [ref=e88] [cursor=pointer]:
+        - generic [ref=e92]: Region
+        - img [ref=e93]: ▼
+      - generic [ref=e97] [cursor=pointer]:
+        - generic [ref=e98]: Safe search
+        - img [ref=e99]: ▼
+      - generic [ref=e103] [cursor=pointer]:
+        - generic [ref=e104]: Date
+        - img [ref=e105]: ▼
+    - list [ref=e108]:
+      - button "Close menu" [ref=e109] [cursor=pointer]:
+        - generic [ref=e110]: Close menu
+        - img [ref=e111]
+      - list [ref=e113]:
+        - listitem [ref=e114]: Search
+        - listitem [ref=e115]:
+          - link "Homepage" [ref=e116] [cursor=pointer]:
+            - /url: https://start.duckduckgo.com/
+        - listitem [ref=e117]:
+          - link "Themes" [ref=e118] [cursor=pointer]:
+            - /url: /settings#appearance
+        - listitem [ref=e119]:
+          - link "Settings" [ref=e120] [cursor=pointer]:
+            - /url: /settings
+      - list [ref=e121]:
+        - listitem [ref=e122]: Share Feedback
+        - listitem [ref=e123]:
+          - generic [ref=e126]:
+            - button "Positive feedback" [ref=e127] [cursor=pointer]:
+              - img [ref=e128]
+            - button "Negative feedback" [ref=e131] [cursor=pointer]:
+              - img [ref=e132]
+      - list [ref=e135]:
+        - listitem [ref=e136]: Downloads
+        - listitem [ref=e137]:
+          - link "iOS Browser" [ref=e138] [cursor=pointer]:
+            - /url: https://apps.apple.com/app/duckduckgo-private-browser/id663592361?platform=iphone&pt=866401&mt=8&ct=serp-atb-serp
+        - listitem [ref=e139]:
+          - link "Android Browser" [ref=e140] [cursor=pointer]:
+            - /url: https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android&referrer=utm_campaign%3Dserp-atb-serp%26origin%3Dfunnel_playstore_searchresults
+        - listitem [ref=e141]:
+          - link "Mac Browser" [ref=e142] [cursor=pointer]:
+            - /url: /mac?origin=funnel_browser_searchresults
+        - listitem [ref=e143]:
+          - link "Windows Browser" [ref=e144] [cursor=pointer]:
+            - /url: /windows?origin=funnel_browser_searchresults
+        - listitem [ref=e145]: Browser Extensions
+      - list [ref=e146]:
+        - listitem [ref=e147]: More From DuckDuckGo
+        - listitem
+        - listitem [ref=e148]:
+          - link "DuckDuckGo Subscription" [ref=e149] [cursor=pointer]:
+            - /url: /pro?origin=funnel_pro_searchresults
+        - listitem [ref=e150]:
+          - link "Duck.ai" [ref=e151] [cursor=pointer]:
+            - /url: https://duck.ai
+        - listitem [ref=e152]:
+          - link "Email Protection" [ref=e153] [cursor=pointer]:
+            - /url: /email
+        - listitem [ref=e154]:
+          - link "Newsletter" [ref=e155] [cursor=pointer]:
+            - /url: /newsletter
+        - listitem [ref=e156]:
+          - link "Blog" [ref=e157] [cursor=pointer]:
+            - /url: /blog
+        - listitem [ref=e158]:
+          - link "Podcast" [ref=e159] [cursor=pointer]:
+            - /url: https://insideduckduckgo.substack.com/?showWelcome=true
+      - list [ref=e160]:
+        - listitem [ref=e161]: Learn More
+        - listitem [ref=e162]:
+          - link "What’s New" [ref=e163] [cursor=pointer]:
+            - /url: /updates
+        - listitem [ref=e164]:
+          - link "Compare Privacy" [ref=e165] [cursor=pointer]:
+            - /url: /compare-privacy
+        - listitem [ref=e166]:
+          - link "About Our Browser" [ref=e167] [cursor=pointer]:
+            - /url: /app
+        - listitem [ref=e168]:
+          - link "About DuckDuckGo" [ref=e169] [cursor=pointer]:
+            - /url: /about
+      - list [ref=e170]:
+        - listitem [ref=e171]: Other Resources
+        - listitem [ref=e172]:
+          - link "Help" [ref=e173] [cursor=pointer]:
+            - /url: /duckduckgo-help-pages
+        - listitem [ref=e174]:
+          - link "Community" [ref=e175] [cursor=pointer]:
+            - /url: https://www.reddit.com/r/duckduckgo/
+        - listitem [ref=e176]:
+          - link "Careers" [ref=e177] [cursor=pointer]:
+            - /url: /careers
+        - listitem [ref=e178]:
+          - link "Privacy Policy" [ref=e179] [cursor=pointer]:
+            - /url: /privacy
+        - listitem [ref=e180]:
+          - link "Terms of Service" [ref=e181] [cursor=pointer]:
+            - /url: /terms
+        - listitem [ref=e182]:
+          - link "Press Kit" [ref=e183] [cursor=pointer]:
+            - /url: /press
+        - listitem [ref=e184]:
+          - link "Advertise on Search" [ref=e185] [cursor=pointer]:
+            - /url: /duckduckgo-help-pages/company/advertise-on-duckduckgo-search
+  - generic [ref=e191]:
+    - img [ref=e192]
+    - generic [ref=e202]:
+      - heading "See What’s DuckDuckNew" [level=3] [ref=e203]
+      - paragraph [ref=e204]: Explore DuckDuckGo’s latest product updates.
+    - link "Learn More" [ref=e205] [cursor=pointer]:
+      - /url: https://duckduckgo.com/updates
+  - generic [ref=e208]:
+    - generic [ref=e209]: Unfortunately, bots use DuckDuckGo too.
+    - generic [ref=e210]: Please complete the following challenge to confirm this search was made by a human.
+    - generic [ref=e211]: "Select all squares containing a duck:"
+    - button "Submit" [ref=e233] [cursor=pointer]
+  - button "Share Feedback" [ref=e237] [cursor=pointer]

@@ -2,7 +2,7 @@
 title: Nuclear-UAP Correlation
 type: concept
 created: 2026-04-13
-updated: 2026-04-29
+updated: 2026-05-01
 ---
 
 # Nuclear-UAP Correlation
@@ -46,6 +46,7 @@ A distinct but overlapping pattern: drone activity over U.S. and allied nuclear 
 - **Feb 2026** — NORTHCOM [[flyaway-kit|FAK]] defeats a drone over an undisclosed "strategic" U.S. installation during [[operation-epic-fury]]; "strategic" often denotes nuclear-enterprise assets ([[src-northcom-drone-incursion-2026-03]])
 - **Mar 9-15, 2026** — [[barksdale-afb]] (B-52 base with nuclear weapons storage) hit by multi-wave drone incursions; [[whiteman-afb]] (B-2) also flagged ([[src-drone-incursions-epic-fury-2026-03]])
 - The FAK was certified at nuclear-bomber/ICBM base [[minot-afb]] in October 2025 during [[us-stratcom]]'s Global Thunder
+- **UK target list (2024 Westminster Hall debate)** — [[atomic-weapons-establishment|AWE]] warhead sites at Aldermaston, Burghfield, Blacknest, and Coulport, plus [[raf-lakenheath]]'s reported B61 storage, are explicitly undefended by UK [[ground-based-air-defence|GBAD]] ([[src-uk-airspace-defense-gap-2024-11]])
 
 See also [[drone-incursions]].
 
@@ -61,3 +62,4 @@ See also [[drone-incursions]].
 - [[src-brazil-uap-senate-hearings-2026]] -- Robert Salas's international testimony on nuclear-UAP pattern
 - [[src-spy-drones-nuclear-triad-2026-04]] -- Malmstrom AFB spy balloon and drone swarm incidents
 - [[src-uk-mod-uap-no-threat-2024]] -- UK MoD reaffirms "no military threat" amid USAFE-AFA RAF incursion reporting
+- [[src-uk-airspace-defense-gap-2024-11]] -- UK GBAD capability gaps; AWE sites and Lakenheath B61 storage flagged as undefended

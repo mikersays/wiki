@@ -2,7 +2,7 @@
 title: UAP Whistleblower Protections
 type: concept
 created: 2026-04-13
-updated: 2026-04-30
+updated: 2026-05-01
 ---
 
 # UAP Whistleblower Protections
@@ -56,4 +56,8 @@ Whistleblower protections are a critical enabler of [[uap-disclosure]]. Without 
 - **David Grusch:** Former intelligence official, Special Advisor to the task force
 - **[[joe-spielberger|Joe Spielberger]]:** Project on Government Oversight
 
-See also: [[uap-disclosure]], [[ndaa-uap-provisions]], [[aaro]], [[src-uap-whistleblower-hearing-2025]]
+## Pre-Testimony Deaths and the "Pattern" Concern
+
+The April 2026 [[fbi]] referral of [[sullivan-whistleblower|Sullivan's]] May 2024 death by Rep. [[eric-burlison]] (R-MO) — describing it as "sudden and suspicious" weeks before scheduled Congressional testimony on [[crash-retrieval-programs]] — escalated a long-running concern in the UAP community about physical safety of cleared whistleblowers (see [[src-sullivan-whistleblower-death-2026-04]] and [[uap-personnel-deaths-pattern]]). Independent UAP researchers count "11+" UAP-adjacent deaths/disappearances since 2022; federal authorities have not corroborated a pattern.
+
+See also: [[uap-disclosure]], [[ndaa-uap-provisions]], [[aaro]], [[uap-personnel-deaths-pattern]], [[src-uap-whistleblower-hearing-2025]], [[src-sullivan-whistleblower-death-2026-04]]

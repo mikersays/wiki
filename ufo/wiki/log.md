@@ -1,11 +1,69 @@
 ---
 title: Log
-updated: 2026-04-29
+updated: 2026-05-01
 ---
 
 # Log
 
 Chronological record of wiki activity. Each entry uses the format `## [YYYY-MM-DD] action | description` for easy parsing.
+
+## [2026-05-01] update | follow-ups — Age of Disclosure / Gallaudet testimony sources + deaths-claim audit
+
+Two follow-ups requested after the morning's /ufo-news sweep:
+
+**1. Age of Disclosure / Gallaudet primary sources.** 1 search agent surfaced 10 candidates; selected 4 for fetch. 3 saved (Variety review, Gallaudet Nov 2024 House Oversight written testimony PDF, DefenseScoop May 2025 expert briefing); 1 failed (NewsNation participants guide — third consecutive NewsNation 403). 3 parallel analysis agents → main agent merged.
+
+**New sources (3):** [[src-age-of-disclosure-review-2025-03]], [[src-gallaudet-house-testimony-2024-11]], [[src-uap-expert-briefing-2025-05]]
+
+**Promoted from stub:** [[the-age-of-disclosure]] now a full page (34 senior officials, named participants, thesis, reception). [[tim-gallaudet]] rewritten with Roosevelt incident, Nov 2024 testimony, May 2025 briefing, affiliations, Kirkpatrick clash.
+
+**New entities (13):** [[marco-rubio]], [[jim-clapper]], [[mike-rounds]], [[jay-stratton]], [[sol-foundation]], [[uap-disclosure-fund]], [[americans-for-safe-aerospace]], [[house-oversight-committee]], [[noaa]], [[us-fleet-forces-command]], [[naval-meteorology-and-oceanography-command]], [[uss-theodore-roosevelt]], [[uss-dwight-d-eisenhower]]
+
+**New concepts (5):** [[uss-eisenhower-uap-incident]], [[go-fast-video]], [[uap-disclosure-act]], [[uap-records-review-board]], [[uap-classification-guide]]
+
+**Pages updated:** [[chris-mellon]] (May 2025 venue correction, classification-guide claim, F-35 Arizona anecdote, NHI quote from documentary), [[uap-personnel-deaths-pattern]] (link to audit).
+
+**2. Deaths-claim audit.** Saved as new analysis page [[uap-personnel-deaths-claims-audit]] (first entry under Analyses category). Of 16 names that recur on canonical "11+" lists, only Sullivan, McCasland, and Elizondo have a documented UAP-adjacent role *and* an event in the claimed window; the rest are administrative staff, custodians, retired non-aerospace personnel, or scientists with on-the-record prosaic causes (homicide with personal motive, cardiovascular disease, hiking accident, carjacking). Ross Coulthart, normally sympathetic to disclosure, has called the pattern claim a "red herring" on BBC Newsnight.
+
+**Cross-connections:**
+- **Venue correction**: prior wiki text described the May 2025 expert briefing as a Senate Permanent Subcommittee on Investigations event; DefenseScoop is unambiguous it was a House Oversight + UAP Disclosure Fund summit. Corrected on [[chris-mellon]] and [[tim-gallaudet]]; new [[house-oversight-committee]] page consolidates the four UAP hearings/briefings the committee has hosted (Nov 2024, May 2025, Sep 2025, Apr 2026).
+- **Stratton's NHI claim**: Jay Stratton's on-camera "I have seen with my own eyes non-human craft and non-human beings" is one of the strongest first-person NHI claims from a former senior UAP-program official (UAP Task Force director). New entity page anchors it.
+- **Roosevelt cluster reconstructed**: The 2015 USS Theodore Roosevelt pre-deployment exercise + Go Fast video + vanishing-email anecdote are now traceable through dedicated pages, sourced primarily to Gallaudet's testimony — closing a documentation gap in earlier wiki entries.
+- **UAP RRB documented**: The legislative history — Schumer/Rounds Senate-passed in 2023, RRB provisions deleted in FY2024 NDAA conference, omitted again in FY2025 — is now on [[uap-disclosure-act]] / [[uap-records-review-board]], explaining what disclosure advocates are actually asking for when they cite "the JFK-style review board."
+- **Mellon classification-guide claim**: New [[uap-classification-guide]] concept captures Mellon's specific assertion (post-2017 NYT release of three Navy videos prompted creation of a UAP-specific classification guide in apparent contradiction to the executive order on classification) — a candidate mechanism for the over-classification the FY2026 NDAA now requires AARO to account for.
+
+**Skipped/failed:**
+- NewsNation Age of Disclosure participants guide — HTTP 403 (third consecutive NewsNation 403 across recent fetches; the source is effectively unavailable via this fetcher).
+
+**Verification note for /lint or /audit:** the deaths-claims audit cites several external URLs (CNN, Newsweek, NewsNation, Skeptic, Wikipedia, Fox News, Cybernews) sourced via the research agent's WebSearch results. Spot-checking the citations against the live web is recommended before treating the audit as canonical — the structural argument is sound but specific URL accuracy was not directly verified by the main agent.
+
+## [2026-05-01] ingest | /ufo-news sweep — 6 sources (Sullivan whistleblower death, Gallaudet/Kirkpatrick clash, COUNTER Act, Bumblebee NCR, Mars ancient ocean, UK GBAD gap)
+
+Fetched via /ufo-news. 7 parallel search agents → 9 candidates after triage → 9 fetched in parallel → 6 saved (2 dupes: DefenseScoop JIATF-401, Air & Space Forces UK Lakenheath; 1 fetch failed: NewsNation Luna subpoena 403). 6 parallel analysis agents produced structured outputs; main agent serially merged into the `ufo/` vault.
+
+**New sources (6):** [[src-sullivan-whistleblower-death-2026-04]], [[src-gallaudet-kirkpatrick-clash-2026-04]], [[src-counter-act-secure-skies-bills-2026-04]], [[src-bumblebee-v2-ncr-counterdrone-2026-04]], [[src-mars-ancient-ocean-zaki-lamb-2026-04]], [[src-uk-airspace-defense-gap-2024-11]]
+
+**New entities (40):** [[sullivan-whistleblower]], [[nsa]], [[fbi]], [[tim-gallaudet]], [[sean-kirkpatrick]], [[d-dean-johnson]], [[tim-phillips]], [[the-age-of-disclosure]], [[gabe-vasquez]], [[white-sands-missile-range]], [[counter-act]], [[secure-our-skies-drone-safety-act]], [[safer-skies-act]], [[joseph-humire]], [[veronica-escobar]], [[el-paso-international-airport]], [[fort-hancock]], [[customs-and-border-protection]], [[department-of-homeland-security]], [[house-armed-services-committee]], [[house-transportation-infrastructure-committee]], [[bumblebee-counter-uas]], [[fortem-technologies]], [[jtf-ncr]], [[fort-belvoir]], [[3rd-infantry-regiment]], [[adam-scher]], [[abdallah-zaki]], [[michael-lamb]], [[caltech]], [[maria-eagle]], [[luke-akehurst]], [[patrick-ryder]], [[british-army]], [[royal-navy]], [[royal-air-force]], [[sky-sabre]], [[type-45-destroyer]], [[quick-reaction-alert]], [[atomic-weapons-establishment]], [[akrotiri-and-dhekelia]]
+
+**New concepts (6):** [[uap-personnel-deaths-pattern]], [[unidentified-submerged-objects]], [[cartel-drone-threat]], [[ancient-mars-ocean]], [[ground-based-air-defence]], [[radar-clutter-windfarms]]
+
+**Pages updated:** [[aaro]], [[counter-uas]], [[drone-incursions]], [[eric-burlison]], [[jiatf-401]], [[uap-whistleblower-protections]], [[ndaa-uap-provisions]], [[united-kingdom]], [[ministry-of-defence]], [[nuclear-uap-correlation]], [[mars-sample-return]]
+
+**Cross-connections:**
+- **Whistleblower-deaths arc**: New [[uap-personnel-deaths-pattern]] concept now binds [[sullivan-whistleblower]] (Sullivan, May 2024 overdose, NASIC/NSA), [[william-neil-mccasland]] (March 2026 disappearance from Albuquerque), and [[lue-elizondo]] (March 17 2026 motorcycle crash) into a single tracked thread. [[eric-burlison]]'s April 2026 [[fbi]] referral elevates this from internet folklore to formal congressional pressure; the page is explicit that the "11+" figure is researcher-sourced, not federal.
+- **AARO leadership reconstruction**: [[tim-phillips]] is now documented as the May 2024 acting director between [[sean-kirkpatrick]] and [[jon-kosloski]] — load-bearing for [[tim-gallaudet]]'s defense in the April 2026 clash, and a gap in prior coverage. [[aaro]] page leadership section updated.
+- **C-UAS legislative track**: [[counter-act]] (2026 NDAA) and [[secure-our-skies-drone-safety-act]] now sit alongside [[safer-skies-act]] (FY2025 NDAA) as the legislative-authority track on [[counter-uas]] and [[ndaa-uap-provisions]] pages. [[gabe-vasquez]] joins [[tim-burchett]], [[anna-paulina-luna]], [[eric-burlison]] as a UAP-adjacent legislator — but on the C-UAS authority side, with [[white-sands-missile-range]] as the motivating site.
+- **Cartel vs. spy framing**: [[cartel-drone-threat]] is a new domestic threat vector distinct from the China / [[barksdale-afb]] / [[nuclear-triad]] narrative — both feed [[drone-incursions]] but route through different policy ports. [[el-paso-international-airport]] and [[fort-hancock]] illustrate friendly-fire-grade FAA/DoD/[[department-of-homeland-security|DHS]] miscommunication beneath the cartel framing.
+- **NCR homeland-defense seam**: [[src-bumblebee-v2-ncr-counterdrone-2026-04]] fills the gap between [[src-counter-drone-middle-east-jiatf-2026-04]] (CENTCOM) and [[src-northcom-drone-incursion-2026-03]] (NORTHCOM strategic-installation FAK defeat) — [[jtf-ncr]] is the third leg, with [[bumblebee-counter-uas|Bumblebee]] / [[fortem-technologies|DroneHunter F700]] as the operational tooling.
+- **U.S.-UK C-UAS coupling**: JIATF-401-led common C-UAS data standards now connect [[united-kingdom]]'s [[ground-based-air-defence|GBAD]] capability gap (Sky Sabre, Type 45, no terminal BMD) with the U.S. homeland C-UAS push. [[radar-clutter-windfarms]] adds a UK-specific detection-gap concept that overlaps both conventional air defense and low-RCS sUAS / UAP.
+- **Mars former-ocean-world reframing**: [[ancient-mars-ocean]] (Zaki & Lamb, *Nature* April 2026) gives [[mars-sample-return]] a new sediment-targeting rationale and adds a "former ocean world" lineage that complements the in-situ organics inventory ([[curiosity-rover]] / [[organic-molecules-mars]]) and Cheyava Falls minerals ([[perseverance-rover]]). Three independent Mars-life threads now converge on coastal-sediment sample return.
+
+**Skipped/failed:**
+- NewsNation (Luna subpoena post-deadline) — HTTP 403 (consistent with last sweep's NewsNation 403).
+- DefenseScoop "U.S. military to continue dispatching counter-drone capabilities" — duplicate of [[src-counter-drone-middle-east-jiatf-2026-04]].
+- Air & Space Forces "New drone sightings UK bases" — turned out to be Nov 2024 rehash, duplicate of [[src-uk-mod-uap-no-threat-2024]].
+
+**Filename note:** the Army Technology piece (track: international UAP) was triaged as April 2026 but turned out to be Nov 28, 2024. File renamed `src-uk-airspace-defense-gap-2024-11.md` and ingested as a *capability* counterpart to the existing UK MoD policy source — distinct angle (GBAD gaps, parliamentary debate) so kept rather than skipped.
 
 ## [2026-04-29] ingest | /ufo-news sweep — 6 sources (Curiosity Mars, UK MoD, Trump NBC, Epic Fury update, JIATF C-UAS, Barksdale recap)
 

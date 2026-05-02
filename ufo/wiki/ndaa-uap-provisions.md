@@ -2,7 +2,7 @@
 title: NDAA UAP Provisions
 type: concept
 created: 2026-04-13
-updated: 2026-04-16
+updated: 2026-05-01
 ---
 
 # NDAA UAP Provisions
@@ -53,4 +53,11 @@ According to [[src-uap-ndaa-fy2026-intercept-provisions]], these provisions emer
 | UAP Disclosure Act of 2025 | Agency review within 300 days; disclosure within 25 years |
 | [[uap-whistleblower-protections|UAP Whistleblower Protection Act (H.R. 5060)]] | Legal protections for UAP program disclosures |
 
-See also: [[uap-disclosure]], [[aaro]], [[norad]], [[usnorthcom]], [[drone-incursions]], [[src-uap-ndaa-fy2026-intercept-provisions]], [[src-northcom-drone-incursion-2026-03]]
+## C-UAS Authority Provisions
+
+NDAA cycles have also become the vehicle for expanding [[counter-uas|C-UAS]] authority over U.S. soil — relevant because [[drone-incursions]] over military bases and nuclear sites overlap with the UAP reporting pipeline:
+
+- [[safer-skies-act|Safer Skies Act]] (FY2025 NDAA) — extended limited C-UAS authority to state/local/tribal/territorial law enforcement.
+- [[counter-act|COUNTER Act]] (2026 NDAA) — expanded "covered facility" so base commanders at any military base with a secure perimeter can defeat unidentified drones; sponsored by Rep. [[gabe-vasquez]] in response to incursions at [[white-sands-missile-range]] ([[src-counter-act-secure-skies-bills-2026-04]]).
+
+See also: [[uap-disclosure]], [[aaro]], [[norad]], [[usnorthcom]], [[drone-incursions]], [[counter-uas]], [[src-uap-ndaa-fy2026-intercept-provisions]], [[src-northcom-drone-incursion-2026-03]], [[src-counter-act-secure-skies-bills-2026-04]]

@@ -2,7 +2,7 @@
 title: All-domain Anomaly Resolution Office (AARO)
 type: entity
 created: 2026-04-13
-updated: 2026-04-28
+updated: 2026-05-01
 ---
 
 # All-domain Anomaly Resolution Office (AARO)
@@ -46,7 +46,8 @@ AARO is central to the [[uap-disclosure]] effort but has drawn criticism from tr
 ## Leadership
 
 - **[[jon-kosloski]]:** Current director (appointed 2024). Former NSA physicist. Acknowledged "very anomalous objects" under investigation while maintaining no evidence of extraterrestrial technology ([[src-aaro-kosloski-testimony-2024]]). Emphasized rebuilding trust with witnesses and the UAP community.
-- **Sean Kirkpatrick:** Former director (2022–2024). Took a firmer stance denying anomalous findings. Later characterized by [[anna-paulina-luna]] as "a documented liar on the congressional record" ([[src-aaro-shutdown-bill-2026]]).
+- **[[tim-phillips]]:** Acting director in May 2024 between Kirkpatrick and Kosloski; cited by [[tim-gallaudet]] as the AARO official Gallaudet actually met with — central to refuting Kirkpatrick's "sought a job" claim in the April 2026 clash ([[src-gallaudet-kirkpatrick-clash-2026-04]]).
+- **[[sean-kirkpatrick]]:** Former director (2022–2024). Took a firmer stance denying anomalous findings. Later characterized by [[anna-paulina-luna]] as "a documented liar on the congressional record" ([[src-aaro-shutdown-bill-2026]]). April 2026 public clash with [[tim-gallaudet]] ([[src-gallaudet-kirkpatrick-clash-2026-04]]).
 - **Sue Gough:** Pentagon spokesperson for AARO matters
 
 ## Operational Milestones
@@ -88,3 +89,4 @@ Per [[src-war-department-uap-release-2026-04]], a [[department-of-war|Department
 - [[src-aaro-uap-data-collection-whitepaper-2026-03]]
 - [[src-trump-tpusa-ufo-tease-2026-04]]
 - [[src-loeb-wh-uap-videos-skeptic-2026-04]]
+- [[src-gallaudet-kirkpatrick-clash-2026-04]]
