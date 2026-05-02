@@ -5,3 +5,6 @@
 **/.obsidian/plugins/
 **/.obsidian/themes/
 .trash/
+
+# Playwright MCP local debug artifacts
+.playwright-mcp/
