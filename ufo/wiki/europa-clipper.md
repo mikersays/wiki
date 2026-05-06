@@ -2,7 +2,7 @@
 title: Europa Clipper
 type: entity
 created: 2026-04-13
-updated: 2026-04-13
+updated: 2026-05-05
 ---
 
 # Europa Clipper
@@ -30,3 +30,6 @@ Research by Alexander Pavlov (NASA Goddard, 2024) showed that amino acids remain
 - [[biosignatures]]
 - [[nasa]]
 - [[astrobiology]]
+- [[cassini-huygens]] — predecessor flagship that established ocean-worlds astrobiology
+- [[planetary-protection]]
+- [[src-cassini-huygens-ocean-worlds-2026-04]]

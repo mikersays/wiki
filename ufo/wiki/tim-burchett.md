@@ -2,7 +2,7 @@
 title: Tim Burchett
 type: entity
 created: 2026-04-13
-updated: 2026-04-29
+updated: 2026-05-05
 ---
 
 # Tim Burchett
@@ -14,6 +14,10 @@ updated: 2026-04-29
 - Co-drafted bipartisan, bicameral UAP legislation with [[anna-paulina-luna]] and Eric Burlison
 - Met with [[lue-elizondo]] and [[chris-mellon]] in closed-door Capitol Hill sessions (March 2025)
 - Has been a consistent advocate for UAP hearings and government accountability
+
+## H.R. 5060 — UAP Whistleblower Protection Act (August 2025)
+
+Co-introduced with [[anna-paulina-luna]] the week of Aug 25, 2025; identical to a November 2024 version filed during the prior Congress. Would extend existing federal whistleblower-protection statutes to cover individuals reporting on the use of taxpayer funds to research or evaluate UAP material. Referred to House Oversight, [[house-armed-services-committee|Armed Services]], and [[house-permanent-select-committee-on-intelligence|HPSCI]] ([[src-uap-whistleblower-protection-act-2025-09]]).
 
 ## AARO Shutdown Bill (2026)
 
@@ -33,3 +37,4 @@ After Trump's [[turning-point-usa]] Phoenix tease, Burchett publicly thanked Tru
 - [[src-aaro-shutdown-bill-2026]]
 - [[src-war-department-uap-release-2026-04]]
 - [[src-trump-ufo-files-interesting-2026-04]]
+- [[src-uap-whistleblower-protection-act-2025-09]]

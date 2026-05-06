@@ -2,7 +2,7 @@
 title: Anna Paulina Luna
 type: entity
 created: 2026-04-13
-updated: 2026-04-29
+updated: 2026-05-05
 ---
 
 # Anna Paulina Luna
@@ -33,6 +33,14 @@ updated: 2026-04-29
 
 Luna has emerged as one of the most active congressional advocates for UAP transparency, providing institutional continuity from the 118th to the 119th Congress.
 
+## H.R. 5060 — UAP Whistleblower Protection Act (August 2025)
+
+Co-introduced with [[tim-burchett]] the week of Aug 25, 2025; bill text is identical to a November 2024 version. Would extend existing federal whistleblower-protection statutes to cover individuals reporting on the use of taxpayer funds to research or evaluate UAP material. Referred to [[house-oversight-committee|House Oversight]], [[house-armed-services-committee|House Armed Services]], and [[house-permanent-select-committee-on-intelligence|HPSCI]] ([[src-uap-whistleblower-protection-act-2025-09]]). Distinct from [[eric-burlison]]'s standalone [[uap-disclosure-act]].
+
+## "Interdimensional beings" claim (2025 Joe Rogan podcast)
+
+In a 2025 episode of [[joe-rogan]]'s podcast, Luna said she had seen evidence of "interdimensional beings" — a non-ETH framing of UAP origins distinct from the [[non-human-intelligence|NHI]] / extraterrestrial framing used by most disclosure advocates. The claim was re-cited in May 2026 Fortune/AP coverage of [[donald-trump]]'s UAP push ([[src-trump-pentagon-uap-files-2026-05]]).
+
 ## 46-Video Demand (March-April 2026)
 
 - **Mar 31, 2026** — Wrote to SecWar [[pete-hegseth]] requesting 46+ specific UAP videos by April 14. Footage reportedly includes spherical, cigar-shaped, and Tic Tac-like objects over war zones, oceans, and restricted airspace, including incidents near Iran, Syria, U.S. bases, and a 2023 Lake Huron event.
@@ -57,3 +65,5 @@ Luna chaired a second hearing on April 24, 2026: "Restoring Public Trust Through
 - [[src-loeb-wh-uap-videos-skeptic-2026-04]]
 - [[src-trump-ufo-files-interesting-2026-04]]
 - [[src-luna-uap-deadline-missed-2026-04]]
+- [[src-uap-whistleblower-protection-act-2025-09]]
+- [[src-trump-pentagon-uap-files-2026-05]]

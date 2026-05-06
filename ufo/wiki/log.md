@@ -1,11 +1,25 @@
 ---
 title: Log
-updated: 2026-05-02
+updated: 2026-05-05
 ---
 
 # Log
 
 Chronological record of wiki activity. Each entry uses the format `## [YYYY-MM-DD] action | description` for easy parsing.
+
+## [2026-05-05] ingest | UFO news sweep (4 articles)
+
+Fetched via /ufo-news. 7 parallel search tracks → 30+ candidates → 8 ingest-approved → 4 saved (4 failed: NewsNation 403, CBC 403, SETI 403, SCMP 404).
+
+New sources: [[src-trump-pentagon-uap-files-2026-05]], [[src-burlison-marching-orders-2026-01]], [[src-cassini-huygens-ocean-worlds-2026-04]], [[src-uap-whistleblower-protection-act-2025-09]]
+
+New entities: [[jd-vance]], [[area-51]], [[task-force-declassification-federal-secrets]], [[james-fox]], [[italo-venturelli]], [[cassini-huygens]], [[huygens-probe]], [[enceladus]], [[titan]], [[saturn]], [[andrew-coates]], [[yan-xu]], [[enceladus-orbilander]], [[italian-space-agency]], [[house-permanent-select-committee-on-intelligence]], [[bill-clinton]], [[jimmy-carter]], [[ronald-reagan]], [[steven-spielberg]], [[disclosure-day-film]], [[greg-eghigian]], [[joe-rogan]], [[benny-johnson]]
+
+New concepts: [[varginha-incident]], [[enceladus-plumes]], [[hydrothermal-activity]], [[planetary-protection]], [[grand-finale]], [[saturn-magnetosphere]]
+
+Updated: [[anna-paulina-luna]] (H.R. 5060 co-sponsorship; Joe Rogan "interdimensional beings" claim), [[eric-burlison]] (Varginha 30th-anniversary press conference; "marching orders" framing), [[tim-burchett]] (H.R. 5060 co-sponsorship), [[donald-trump]] (May 3 White House astronaut event; "very interesting" tease), [[sean-kirkpatrick]] ("bluster"/"shiny object" critique of Trump UAP push), [[aaro]] (Pentagon "never-before-seen UAP information" coordination; second AARO public report expected), [[brazil]] (Varginha incident; 30th-anniversary press conference), [[ocean-worlds]] (Cassini-derived data on Enceladus/Titan/Saturn), [[nasa]] / [[esa]] (Cassini-Huygens mission and partnership), [[dragonfly-mission]] / [[europa-clipper]] (Cassini lineage), [[uap-disclosure]] (May 3 milestone; H.R. 5060 row), [[uap-disclosure-act]] (Burlison's January 2026 Varginha-platform push), [[uap-whistleblower-protections]] (H.R. 5060 details, three-committee referral), [[house-oversight-committee]] / [[house-armed-services-committee]] (H.R. 5060 referral), [[jeffrey-nuccetelli]] / [[dylan-borland]] (pre-hearing announcement), [[brandi-vincent]] (new byline)
+
+Cross-connections: Burlison's January 2026 Varginha-platform call for the [[uap-disclosure-act]] frames the same legislative push that Burchett & Luna's [[uap-whistleblower-protections|H.R. 5060]] (announced Aug 25, 2025) addresses on the standalone-protections side — first time the wiki ties the two parallel House-side bills to a shared advocacy moment. The Cassini-Huygens retrospective also closes a gap: the existing [[ocean-worlds]] page referenced Cassini in passing but had no dedicated source page or [[enceladus]]/[[titan]]/[[saturn]] entity pages.
 
 ## [2026-05-02] ingest | UFO news sweep (5 articles)
 

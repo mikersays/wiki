@@ -2,7 +2,7 @@
 title: UAP Disclosure
 type: concept
 created: 2026-04-13
-updated: 2026-04-29
+updated: 2026-05-05
 ---
 
 # UAP Disclosure
@@ -46,7 +46,7 @@ updated: 2026-04-29
 |------|--------|---------------|
 | UAP Transparency Act (H.R. 1187) | Introduced | Declassify all UAP records on public website |
 | UAP Disclosure Act of 2025 | NDAA amendment | Agency review within 300 days; full disclosure within 25 years |
-| UAP Whistleblower Protection Act (H.R. 5060) | Introduced | Legal protections for UAP program disclosures |
+| UAP Whistleblower Protection Act (H.R. 5060) | Introduced Aug 2025 ([[src-uap-whistleblower-protection-act-2025-09]]) | Legal protections for UAP program disclosures; co-sponsored by [[tim-burchett]] and [[anna-paulina-luna]] |
 | FY2026 NDAA provisions | Enacted | AARO briefings, classification accountability, streamlined reporting |
 
 See also: [[uap-whistleblower-protections]], [[ndaa-uap-provisions]]
@@ -65,6 +65,7 @@ See also: [[uap-whistleblower-protections]], [[ndaa-uap-provisions]]
 - **Apr 15, 2026** — [[department-of-war|DoW]] says [[aaro]] is coordinating with the White House on record release; [[jeremy-corbell]] and [[george-knapp]] confirm they provided Congress with file names and locations ([[src-war-department-uap-release-2026-04]])
 - **Apr 16, 2026** — [[avi-loeb]] argues the most scientifically interesting recent classified-sensor data is likely to be withheld; calls for raw, unprocessed satellite imagery and offers a one-gram isotope test for any recovered crash material ([[src-loeb-wh-uap-videos-skeptic-2026-04]]). Also Apr 16: [[anna-paulina-luna]] on OAN/Gaetz describes internal friction — no Pentagon response until her staff reached out; she escalated to the White House. [[aaro]] confirms "working in close coordination with the White House and across federal agencies" on UAP record consolidation; [[pete-hegseth|Hegseth]] on record: "in full compliance with that executive order." ([[src-luna-uap-deadline-missed-2026-04]])
 - **Apr 17, 2026** — Trump tells the [[turning-point-usa]] Action Conference in Phoenix the first releases will begin "very, very soon"; deputy press secretary [[anna-kelly]] formally confirms [[department-of-war]] tasking on the record ([[src-trump-tpusa-ufo-tease-2026-04]]). NBC News corroborates and adds: Trump said reviewers "found many very interesting documents," [[lue-elizondo]] testified Wednesday that UAPs are "splitting aircraft formations right down the middle," [[tim-burchett]] thanked Trump on X, and [[anna-paulina-luna]] is considering subpoena authority after the April 14 deadline ([[src-trump-ufo-files-interesting-2026-04]]). A DoD intelligence report released the same week states the Pentagon "did not have sufficient data" on UAP from 2004–2021.
+- **May 3, 2026** — Trump at a White House NASA-astronaut event tells reporters releases will be "very interesting." Pentagon statement confirms [[aaro]] is coordinating with the White House on a "never-before-seen UAP information" rollout; a second AARO public report covering more recent sightings is expected soon. Former AARO director [[sean-kirkpatrick]] dismisses the promises as "bluster" and a "shiny object"; VP [[jd-vance]] (in March 2026 [[benny-johnson]] interview) pledges to investigate [[area-51]] and frames some sightings as "spiritual demons"; [[anna-paulina-luna]]'s 2025 [[joe-rogan]] claim of seeing evidence of "interdimensional beings" is re-cited; [[steven-spielberg]]'s upcoming film [[disclosure-day-film|Disclosure Day]] noted as part of the cultural moment ([[src-trump-pentagon-uap-files-2026-05]]).
 
 ### Scientific Alternative
 

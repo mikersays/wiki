@@ -2,7 +2,7 @@
 title: UAP Whistleblower Protections
 type: concept
 created: 2026-04-13
-updated: 2026-05-01
+updated: 2026-05-05
 ---
 
 # UAP Whistleblower Protections
@@ -36,9 +36,11 @@ According to [[src-uap-whistleblower-hearing-2025]], Rep. Anna Paulina Luna argu
 
 ### UAP Whistleblower Protection Act (H.R. 5060)
 
-- Introduced by Reps. Tim Burchett and Anna Paulina Luna
-- Would codify distinct protections for individuals disclosing information about government-funded UAP programs to Congress
+- Introduced the week of Aug 25, 2025 by Reps. [[tim-burchett]] and [[anna-paulina-luna]]; identical to a November 2024 version filed during the prior Congress ([[src-uap-whistleblower-protection-act-2025-09]])
+- Would extend existing federal whistleblower-protection statutes to cover individuals reporting on the use of taxpayer funds to evaluate or research UAP material
+- Referred to three House committees: [[house-oversight-committee|Oversight and Government Reform]], [[house-armed-services-committee|Armed Services]], and [[house-permanent-select-committee-on-intelligence|Intelligence]]
 - [[joe-spielberger|Joe Spielberger]] (Project on Government Oversight) testified that protections are essential because "misdeeds that they expose can often have a direct impact on public safety, civil liberties and the security of our country"
+- January 2026 — Rep. [[eric-burlison]] publicly endorsed passing whistleblower protections "within [the UAP Disclosure Act] or a separate act" at the [[varginha-incident]] 30th-anniversary press conference ([[src-burlison-marching-orders-2026-01]])
 
 ### Related Provisions
 
@@ -60,4 +62,4 @@ Whistleblower protections are a critical enabler of [[uap-disclosure]]. Without 
 
 The April 2026 [[fbi]] referral of [[sullivan-whistleblower|Sullivan's]] May 2024 death by Rep. [[eric-burlison]] (R-MO) — describing it as "sudden and suspicious" weeks before scheduled Congressional testimony on [[crash-retrieval-programs]] — escalated a long-running concern in the UAP community about physical safety of cleared whistleblowers (see [[src-sullivan-whistleblower-death-2026-04]] and [[uap-personnel-deaths-pattern]]). Independent UAP researchers count "11+" UAP-adjacent deaths/disappearances since 2022; federal authorities have not corroborated a pattern.
 
-See also: [[uap-disclosure]], [[ndaa-uap-provisions]], [[aaro]], [[uap-personnel-deaths-pattern]], [[src-uap-whistleblower-hearing-2025]], [[src-sullivan-whistleblower-death-2026-04]]
+See also: [[uap-disclosure]], [[uap-disclosure-act]], [[ndaa-uap-provisions]], [[aaro]], [[uap-personnel-deaths-pattern]], [[src-uap-whistleblower-hearing-2025]], [[src-sullivan-whistleblower-death-2026-04]], [[src-uap-whistleblower-protection-act-2025-09]], [[src-burlison-marching-orders-2026-01]]

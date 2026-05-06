@@ -2,7 +2,7 @@
 title: NASA (National Aeronautics and Space Administration)
 type: entity
 created: 2026-04-13
-updated: 2026-04-29
+updated: 2026-05-05
 ---
 
 # NASA
@@ -29,11 +29,15 @@ NASA operates several missions and programs central to the search for [[biosigna
 ### Research Initiatives
 
 - **Investigating Ocean Worlds (InvOW)**: Five-year project led by Woods Hole Oceanographic Institution, selected by NASA in December 2025, improving analysis of carbon-rich molecules on [[ocean-worlds]].
-- **Cassini** (1997-2017): Discovered Enceladus's subsurface ocean, plumes, and hydrothermal activity, motivating the [[src-esa-enceladus-life-mission-2025|ESA Enceladus mission proposal]].
+- **[[cassini-huygens]]** (1997-2017): Discovered [[enceladus]]'s subsurface ocean, [[enceladus-plumes|plumes]], and [[hydrothermal-activity]]; confirmed [[titan]]'s methane/ethane hydrology via the [[huygens-probe]] (Jan 14, 2005 surface landing — most distant landing in history); ended in the [[grand-finale]] [[planetary-protection]] plunge. Data archive still drives high-impact results ([[src-cassini-huygens-ocean-worlds-2026-04]]). The [[enceladus-orbilander]] concept inherits this lineage.
 - **NASA Ames astrobiology**: [[caleb-scharf]] introduced the [[interplanetary-habitable-zone]] framework in March 2026, reframing exoplanet habitability as a system-scale, multi-dimensional question ([[src-interplanetary-habitable-zone-2026]]).
 
 ## See Also
 
 - [[esa]]
+- [[italian-space-agency]]
 - [[astrobiology]]
 - [[biosignatures]]
+- [[cassini-huygens]]
+- [[src-cassini-huygens-ocean-worlds-2026-04]]
+- [[src-trump-pentagon-uap-files-2026-05]] — context: a White House event for NASA astronauts was the venue for Trump's May 3, 2026 UAP-release remarks.

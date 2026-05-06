@@ -2,7 +2,7 @@
 title: Donald Trump
 type: entity
 created: 2026-04-13
-updated: 2026-04-29
+updated: 2026-05-05
 ---
 
 # Donald Trump
@@ -27,5 +27,6 @@ See [[src-uap-trump-disclosure-2026]] for full details.
 - **Apr 14, 2026** — Pentagon misses Rep. Luna's deadline for 46 UAP videos ([[src-pentagon-uap-deadline-missed-2026-04]], [[src-war-department-uap-release-2026-04]]).
 - **Apr 17, 2026** — At the [[turning-point-usa]] Action Conference in Phoenix, Trump publicly tells the crowd UAP file releases will begin "very, very soon," framing the topic as something he "saved for this crowd." Deputy press secretary [[anna-kelly]] confirms the [[department-of-war]] tasking on the record ([[src-trump-tpusa-ufo-tease-2026-04]]). NBC News corroborates and adds Trump's specific phrase that reviewers "found many very interesting documents," plus [[lue-elizondo]]'s contemporaneous Congressional testimony, [[tim-burchett]]'s public thanks on X, and [[anna-paulina-luna]]'s subpoena threat ([[src-trump-ufo-files-interesting-2026-04]]).
 - **Apr 22-24, 2026** — In [[operation-epic-fury]], Trump unilaterally extends the U.S.–Iran ceasefire after Iran skips the Islamabad talks; the U.S. naval blockade of Iranian ports continues into the "economic phase" ([[src-epic-fury-update-2026-04]]).
+- **May 3, 2026** — At a White House event for NASA astronauts, Trump tells reporters the administration will release "a lot of things that we haven't" and "some of it's going to be very interesting." A Pentagon statement confirms [[aaro]] is now coordinating with the White House on a "never-before-seen UAP information" rollout. [[sean-kirkpatrick]] dismisses the promises as "bluster" and a "shiny object" tied to the Iran war ([[src-trump-pentagon-uap-files-2026-05]]).
 
-See also: [[pete-hegseth]], [[aaro]], [[uap-disclosure]], [[barack-obama]], [[turning-point-usa]], [[anna-kelly]]
+See also: [[pete-hegseth]], [[aaro]], [[uap-disclosure]], [[barack-obama]], [[turning-point-usa]], [[anna-kelly]], [[jd-vance]], [[bill-clinton]], [[jimmy-carter]], [[ronald-reagan]]

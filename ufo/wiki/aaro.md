@@ -2,7 +2,7 @@
 title: All-domain Anomaly Resolution Office (AARO)
 type: entity
 created: 2026-04-13
-updated: 2026-05-01
+updated: 2026-05-05
 ---
 
 # All-domain Anomaly Resolution Office (AARO)
@@ -63,7 +63,7 @@ In April 2026, [[tim-burchett]] introduced H.R. 8197 to **terminate AARO within 
 
 ## March-April 2026 Disclosure Execution
 
-Per [[src-war-department-uap-release-2026-04]], a [[department-of-war|Department of War]] official confirmed AARO is "working in close coordination with the White House and across federal agencies" to release never-before-seen UAP material and is transferring UAP records to the National Archives. Per [[src-trump-uap-files-delay-2026-03]], interagency meetings have begun under the Feb 2026 directive. Rep. [[anna-paulina-luna]]'s 31 March 2026 letter to SecWar Hegseth requested 46+ UAP videos by April 14; the deadline passed without substantive response ([[src-pentagon-uap-deadline-missed-2026-04]]). On April 17 Trump publicly committed to releases beginning "very, very soon" at the [[turning-point-usa]] Action Conference, with deputy press secretary [[anna-kelly]] re-confirming the [[department-of-war]] tasking on the record ([[src-trump-tpusa-ufo-tease-2026-04]]). [[avi-loeb]] cautions that the most scientifically interesting recent classified-sensor data is likely to be withheld ([[src-loeb-wh-uap-videos-skeptic-2026-04]]).
+Per [[src-war-department-uap-release-2026-04]], a [[department-of-war|Department of War]] official confirmed AARO is "working in close coordination with the White House and across federal agencies" to release never-before-seen UAP material and is transferring UAP records to the National Archives. Per [[src-trump-uap-files-delay-2026-03]], interagency meetings have begun under the Feb 2026 directive. Rep. [[anna-paulina-luna]]'s 31 March 2026 letter to SecWar Hegseth requested 46+ UAP videos by April 14; the deadline passed without substantive response ([[src-pentagon-uap-deadline-missed-2026-04]]). On April 17 Trump publicly committed to releases beginning "very, very soon" at the [[turning-point-usa]] Action Conference, with deputy press secretary [[anna-kelly]] re-confirming the [[department-of-war]] tasking on the record ([[src-trump-tpusa-ufo-tease-2026-04]]). [[avi-loeb]] cautions that the most scientifically interesting recent classified-sensor data is likely to be withheld ([[src-loeb-wh-uap-videos-skeptic-2026-04]]). On **May 3, 2026**, a Pentagon statement reported by Fortune/AP confirmed AARO is "working with the White House to release never-before-seen UAP information"; a second AARO public report covering more recent sightings is expected soon ([[src-trump-pentagon-uap-files-2026-05]]).
 
 ## Sources
 
@@ -90,3 +90,5 @@ Per [[src-war-department-uap-release-2026-04]], a [[department-of-war|Department
 - [[src-trump-tpusa-ufo-tease-2026-04]]
 - [[src-loeb-wh-uap-videos-skeptic-2026-04]]
 - [[src-gallaudet-kirkpatrick-clash-2026-04]]
+- [[src-uap-whistleblower-protection-act-2025-09]]
+- [[src-trump-pentagon-uap-files-2026-05]]

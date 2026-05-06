@@ -2,7 +2,7 @@
 title: Ocean Worlds
 type: concept
 created: 2026-04-13
-updated: 2026-04-13
+updated: 2026-05-05
 ---
 
 # Ocean Worlds
@@ -11,20 +11,22 @@ updated: 2026-04-13
 
 ## Key Ocean Worlds
 
-### Enceladus (Saturn)
-The most accessible ocean world for life detection. [[nasa]]'s Cassini probe (2004-2017) discovered:
-- **Water ice plumes** erupting from "tiger stripes" at the south pole
+### [[enceladus|Enceladus]] (Saturn)
+The most accessible ocean world for life detection. The [[cassini-huygens]] mission (2004-2017) discovered:
+- Water-ice [[enceladus-plumes|plumes]] erupting from "tiger stripes" at the south pole
 - A **global subsurface ocean** beneath the icy crust
-- **Hydrothermal activity** on the ocean floor
+- [[hydrothermal-activity]] on the ocean floor (inferred from H₂ in plume samples)
 - **Organic molecules**, molecular hydrogen, and silica nanoparticles in plume material
 
-All three requirements for life (liquid water, energy, CHNOPS elements) are confirmed. According to [[src-esa-enceladus-life-mission-2025]], [[esa]] proposes an orbiter-lander mission launching ~2042 to investigate whether the ocean harbors life.
+All three requirements for life (liquid water, energy, CHNOPS elements) are confirmed. According to [[src-esa-enceladus-life-mission-2025]], [[esa]] proposes an orbiter-lander mission launching ~2042; the 2022 NASA decadal survey ranked the [[enceladus-orbilander]] a top priority for the late 2030s ([[src-cassini-huygens-ocean-worlds-2026-04]]).
 
 ### Europa (Jupiter)
 Jupiter's moon with a confirmed subsurface ocean beneath a thick ice shell. [[europa-clipper]] ([[nasa]], launched October 2024) will study Europa's ice shell, ocean, and habitability during its 2031-2034 primary mission.
 
+### [[titan|Titan]] (Saturn)
+Saturn's largest moon. [[cassini-huygens]] and the [[huygens-probe]] (2005 surface landing) confirmed methane/ethane rivers, lakes, and seasonal rainfall on the surface, plus a subsurface water ocean. NASA's [[dragonfly-mission]] (rotorcraft, 2030s) will follow up on prebiotic chemistry there.
+
 ### Other Candidates
-- **Titan** (Saturn): Hydrocarbon lakes on the surface and possible subsurface water ocean
 - **Ganymede** (Jupiter): Suspected subsurface ocean
 - **Callisto** (Jupiter): Possible subsurface ocean
 
@@ -43,6 +45,19 @@ Research by Alexander Pavlov (NASA Goddard, 2024):
 
 - [[biosignatures]]
 - [[astrobiology]]
+- [[cassini-huygens]]
+- [[huygens-probe]]
+- [[enceladus]]
+- [[titan]]
+- [[saturn]]
+- [[enceladus-plumes]]
+- [[hydrothermal-activity]]
+- [[planetary-protection]]
+- [[grand-finale]]
 - [[europa-clipper]]
+- [[enceladus-orbilander]]
+- [[dragonfly-mission]]
 - [[esa]]
 - [[nasa]]
+- [[src-cassini-huygens-ocean-worlds-2026-04]]
+- [[src-esa-enceladus-life-mission-2025]]
