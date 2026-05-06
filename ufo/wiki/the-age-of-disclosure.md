@@ -2,7 +2,7 @@
 title: The Age of Disclosure
 type: entity
 created: 2026-05-01
-updated: 2026-05-01
+updated: 2026-05-06
 ---
 
 # The Age of Disclosure
@@ -33,7 +33,12 @@ The film leans on the **2021-declassified Navy footage** (the same blurry water-
 - Variety's [Owen Gleiberman gave a skeptical review at SXSW](https://variety.com/2025/film/reviews/the-age-of-disclosure-review-sxsw-1236332637/) (March 9, 2025), framing each era's ET narrative as culturally tailored: 1938 War of the Worlds, 1980s abduction lore, 1990s X-Files, 2020s national-security disclosure ([[src-age-of-disclosure-review-2025-03]]).
 - The film has become a touchstone for the disclosure-vs-skeptic divide, fueling the April 2026 [[sean-kirkpatrick]] / [[tim-gallaudet]] public clash ([[src-gallaudet-kirkpatrick-clash-2026-04]]).
 
+## Catholic / theological response
+
+Per [[src-catholic-filmmaker-vatican-ufo-2026-04]] (OSV News, late 2025): Catholic filmmaker [[sam-sorich]]'s production company [[glass-darkly-films]] is shooting a late-2026 documentary as a direct response to the film's claim — sourced to a former CIA official — that the [[vatican]] holds evidence of [[non-human-intelligence]]. The Sorich film features podcaster [[jesse-michels]] and former military chaplain [[matthew-gray]], and frames its task as the living Catholic Magisterium engaging contemporary culture. The [[vatican-observatory]] declined Sorich's interviews.
+
 ## Sources
 
 - [[src-age-of-disclosure-review-2025-03]]
 - [[src-gallaudet-kirkpatrick-clash-2026-04]]
+- [[src-catholic-filmmaker-vatican-ufo-2026-04]]

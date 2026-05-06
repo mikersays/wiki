@@ -2,7 +2,7 @@
 title: UAP Stigma
 type: concept
 created: 2026-04-13
-updated: 2026-04-13
+updated: 2026-05-06
 ---
 
 # UAP Stigma
@@ -36,9 +36,30 @@ The [[sky-canada-project]] and Germany's AllSkyCAM development show internationa
 
 Despite progress, [[src-ufo-research-progress-2025]] notes that stigma continues to deter some scientists from engaging. Career risk remains a real factor. Overclassification of UAP data, as highlighted in [[src-uap-military-intercepts-ndaa-2026]], may itself be motivated partly by stigma around the topic.
 
+## Empirical evidence — academic stigma (2026)
+
+Per [[src-academic-uap-stigma-2026-04]] ([[darrell-evans]] in *The Conversation*), national surveys by [[marissa-yingling]] and colleagues quantify the academic dimension of UAP stigma:
+
+- **2023 survey** (1,460 faculty / 144 U.S. research universities / 14 disciplines, *Humanities and Social Sciences Communications*): curiosity outweighed skepticism in every discipline; ~19% had personally observed an unidentified aerial object; **<1% had ever conducted UAP research**.
+- **2024 follow-up**: ~28% of faculty might vote against tenure for a UAP-researching colleague even when believing the topic warranted study.
+
+The deterrent is sociological "boundary work" (Gieryn) and paradigm-defense (Kuhn) — funding loss, ridicule, and career risk — not intellectual disagreement. Evans prescribes three structural fixes: competitive grants, shared methodological standards, and public institutional affirmation that rigorous UAP scholarship will be evaluated on its merits in tenure review.
+
+## Institutional avoidance — Vatican Observatory
+
+Per [[src-catholic-filmmaker-vatican-ufo-2026-04]], former [[vatican-observatory]] director Br. [[guy-consolmagno]] articulated a standing policy of declining all UFO-topic media engagement to avoid association with charlatans — a notable institutional artifact of stigma, even at a religiously-grounded scientific institution.
+
+## International counter-examples
+
+- **[[uwurzburg|University of Würzburg]]** (Germany, 2022) — first Western university to formally recognize UAP as a legitimate object of academic research; operates AllSkyCAM.
+- **[[stockholm-university]]** + **[[nordic-institute-theoretical-physics|NORDITA]]** — peer-reviewed UAP publications since 2017; latest in *Scientific Reports* (Oct 2025).
+- **[[geipan]]** (France, since 1977) — ~5,300 archived cases, 2-3% unexplained; longest continuously running government UAP program.
+
 ## Sources
 
-- [[src-ufo-research-progress-2025]] -- Stigma identified as one of three key barriers
-- [[src-uap-landscape-2025]] -- Institutional efforts to reduce stigma
-- [[src-uap-military-intercepts-ndaa-2026]] -- Whistleblower protections and overclassification
-- [[src-ufo-sightings-surge-2025]] -- Growing mainstream coverage reflects shifting norms
+- [[src-ufo-research-progress-2025]] — Stigma identified as one of three key barriers
+- [[src-uap-landscape-2025]] — Institutional efforts to reduce stigma
+- [[src-uap-military-intercepts-ndaa-2026]] — Whistleblower protections and overclassification
+- [[src-ufo-sightings-surge-2025]] — Growing mainstream coverage reflects shifting norms
+- [[src-academic-uap-stigma-2026-04]] — Yingling surveys, three structural fixes, international counter-examples
+- [[src-catholic-filmmaker-vatican-ufo-2026-04]] — Vatican Observatory's institutional avoidance policy

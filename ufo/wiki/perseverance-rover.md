@@ -2,7 +2,7 @@
 title: Perseverance Rover
 type: entity
 created: 2026-04-13
-updated: 2026-04-29
+updated: 2026-05-06
 ---
 
 # Perseverance Rover
@@ -11,7 +11,8 @@ updated: 2026-04-29
 
 ## Key Instruments
 
-- **PIXL** (Planetary Instrument for X-ray Lithochemistry): X-ray fluorescence spectrometer for mapping chemical composition at fine scales.
+- **[[pixl|PIXL]]** (Planetary Instrument for X-ray Lithochemistry): X-ray fluorescence spectrometer for mapping chemical composition at fine scales.
+- **[[supercam|SuperCam]]**: laser-induced breakdown spectroscopy (LIBS) + Raman + VIS/IR + microphone instrument suite, led at [[los-alamos-national-laboratory]] / [[purdue-university]] ([[roger-wiens]]).
 - **SHERLOC** (Scanning Habitable Environments with Raman & Luminescence for Organics & Chemicals): UV laser spectrometer for detecting organic molecules and mineral compositions.
 
 ## Biosignature Discovery (2024-2025)
@@ -23,6 +24,10 @@ According to [[src-mars-perseverance-biosignature-2025]], Perseverance collected
 - Evidence of electron-transfer (redox) reactions consistent with biological activity
 
 The findings were published in *Nature* in September 2025, described as the "clearest sign yet" of possible ancient Martian life.
+
+## Neretva Vallis Nickel (March 2026)
+
+Per [[src-perseverance-neretva-nickel-rocks-2026-04]] ([[henry-manelski]] et al., *Nature Communications*): Perseverance's [[supercam|SuperCam]] LIBS and [[pixl|PIXL]] X-ray fluorescence detected nickel concentrations up to **~1.1 wt%** across **32 rock targets** in the Bright Angel formation of [[neretva-vallis]] — the highest Martian bedrock nickel ever measured. The nickel co-occurs with iron sulfides, **reduced sulfur**, and **organic carbon**, a chemistry suite that on Earth supports the oldest known microbial metabolisms. The finding strengthens the early-Mars [[prebiotic-chemistry]] case and provides geochemical context for the **Sapphire Canyon** sample cached for [[mars-sample-return]]. Interpretation refined by [[joel-hurowitz]].
 
 ## Sample Collection
 
@@ -41,9 +46,18 @@ Operates concurrently with [[curiosity-rover]] in [[gale-crater]] (since 2012). 
 
 - [[curiosity-rover]]
 - [[gale-crater]]
+- [[jezero-crater]]
+- [[neretva-vallis]]
 - [[organic-molecules-mars]]
 - [[biosignatures]]
+- [[prebiotic-chemistry]]
 - [[mars-sample-return]]
+- [[supercam]]
+- [[pixl]]
+- [[henry-manelski]]
+- [[roger-wiens]]
+- [[joel-hurowitz]]
 - [[astrobiology]]
 - [[nasa]]
 - [[nasa-jpl]]
+- [[src-perseverance-neretva-nickel-rocks-2026-04]]

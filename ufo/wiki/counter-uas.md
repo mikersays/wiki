@@ -2,7 +2,7 @@
 title: Counter-UAS
 type: concept
 created: 2026-04-29
-updated: 2026-05-01
+updated: 2026-05-06
 ---
 
 # Counter-UAS
@@ -13,6 +13,7 @@ Doctrine, sensors, and effectors for detecting, tracking, and defeating small un
 
 - [[flyaway-kit]] — NORTHCOM transportable C-UAS sensor/effector package for homeland defense; includes Anduril Anvil interceptors. Defeated a drone over a strategic U.S. installation during Operation Epic Fury's opening hours.
 - [[sky-map-c-uas]] — Ukrainian C2 platform deployed by U.S. forces to [[prince-sultan-air-base]] in April 2026 to plug a gap in [[centcom]] C-UAS coverage.
+- [[lattice-c2|Lattice (Anduril)]] — AI-enabled, open-architecture C2 software; March 2026 became JIATF-401's C-UAS C2 backbone via an $87M task order under a new $20B [[army-enterprise-contracts|enterprise IDIQ]] ([[src-anduril-army-20b-counter-drone-idiq-2026-03]]).
 - [[coyote-interceptor]] — Raytheon kinetic interceptor; suspected (per [[tom-karako]]) of doing "the lion's share of the drone killing" in CENTCOM.
 - [[bumblebee-counter-uas|Bumblebee V1/V2]] — JIATF-401 small low-collateral kinetic effector (V1) and FPV multi-rotor interceptor (V2); follow-home and air-to-air defeat CONOPS; trained at [[fort-belvoir]] with [[3rd-infantry-regiment]] in April 2026 ([[src-bumblebee-v2-ncr-counterdrone-2026-04]]).
 - **DroneHunter F700** — [[fortem-technologies|Fortem]] net-capture interceptor procured by JIATF-401.
@@ -28,6 +29,13 @@ Doctrine, sensors, and effectors for detecting, tracking, and defeating small un
 Pentagon officials have publicly described U.S. C-UAS capability as "lagging," and SOF News reports the U.S. has "suffered casualties and damage to high-value aircraft and military equipment" from Iranian drones ([[src-epic-fury-update-2026-04]]). [[tom-karako]] argues the [[drone-incursions|drone problem]] has been "artificially divided" between overseas combat and homeland defense.
 
 JIATF-401 has also led a U.S.-UK effort to establish common C-UAS data standards for interoperability ([[src-bumblebee-v2-ncr-counterdrone-2026-04]]).
+
+## Procurement architecture (March-April 2026)
+
+Two new mechanisms expanded the C-UAS procurement architecture:
+
+- **[[army-enterprise-contracts|Army enterprise IDIQ]]** ($20B / 10 years to [[anduril]], March 2026) — consolidates 120 prior Army-Anduril contracts into a single Pentagon-wide ordering ceiling; first task order is $87M for [[lattice-c2|Lattice]] C2 software supporting JIATF-401 ([[src-anduril-army-20b-counter-drone-idiq-2026-03]]).
+- **[[jiatf-401-marketplace|JIATF-401 Marketplace]]** — Army-run procurement marketplace opening to NATO partners; UK was the first, [[romania]] the second (April 2026), with a stated goal of 25 partner nations by end of summer 2026 ([[src-jiatf-401-marketplace-romania-2026-04]]).
 
 ## Legislative authority track
 
@@ -45,6 +53,9 @@ UK has no equivalent of JIATF-401 or [[flyaway-kit]] for homeland counter-sUAS. 
 
 - [[drone-incursions]]
 - [[jiatf-401]]
+- [[jiatf-401-marketplace]]
+- [[lattice-c2]]
+- [[army-enterprise-contracts]]
 - [[operation-epic-fury]]
 - [[flyaway-kit]]
 - [[sky-map-c-uas]]
@@ -53,6 +64,7 @@ UK has no equivalent of JIATF-401 or [[flyaway-kit]] for homeland counter-sUAS. 
 - [[centcom]]
 - [[usnorthcom]]
 - [[anduril]]
+- [[palantir]]
 - [[operation-spider-web]]
 - [[bumblebee-counter-uas]]
 - [[fortem-technologies]]
@@ -61,3 +73,5 @@ UK has no equivalent of JIATF-401 or [[flyaway-kit]] for homeland counter-sUAS. 
 - [[safer-skies-act]]
 - [[ground-based-air-defence]]
 - [[cartel-drone-threat]]
+- [[romania]]
+- [[united-kingdom]]

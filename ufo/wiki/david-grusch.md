@@ -2,7 +2,7 @@
 title: David Grusch
 type: entity
 created: 2026-04-13
-updated: 2026-04-16
+updated: 2026-05-06
 ---
 
 # David Grusch
@@ -23,6 +23,7 @@ updated: 2026-04-16
 - **"Non-human biologics"** were recovered from crash sites
 - Programs have been deliberately hidden from congressional oversight for decades
 - **"Quite a number"** of craft have been recovered; multiple nations possess materials
+- Pope **[[pope-pius-xii]]** allegedly knew of a 1933 UFO crash near Milan and backchanneled information to the U.S. government, which took possession after WWII (cited in [[the-age-of-disclosure]] and revisited in [[src-catholic-filmmaker-vatican-ufo-2026-04]])
 
 ## Congressional Testimony
 
@@ -41,3 +42,4 @@ Grusch's testimony catalyzed the modern UAP disclosure movement and directly inf
 - [[src-uap-reverse-engineering-claims-overview-2025]]
 - [[src-immaculate-constellation-whistleblower-2025]]
 - [[src-wright-patterson-general-missing-2026-03]]
+- [[src-catholic-filmmaker-vatican-ufo-2026-04]] — Pius XII / 1933 Milan crash claim

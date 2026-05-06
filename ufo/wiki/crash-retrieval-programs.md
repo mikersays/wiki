@@ -2,7 +2,7 @@
 title: Crash Retrieval Programs
 type: concept
 created: 2026-04-13
-updated: 2026-04-28
+updated: 2026-05-06
 ---
 
 # Crash Retrieval Programs
@@ -43,6 +43,10 @@ The FY2026 NDAA requires the Pentagon to brief lawmakers on all NORAD/NORTHCOM U
 
 Per [[src-wright-patterson-general-missing-2026-03]], Marik Von Rennenkampff told CNN that [[nasic]] at [[wright-patterson-afb]] is "where those retrieved materials were ultimately taken for research and study." This echoes longstanding Roswell-lore claims (see [[roswell-incident]]) and remains unverified by [[aaro]]-confirmed evidence.
 
+## Pius XII / 1933 Milan claim
+
+Per [[david-grusch]]'s 2023 congressional testimony — rehearsed in [[the-age-of-disclosure]] (2025) and again in [[src-catholic-filmmaker-vatican-ufo-2026-04]] — Pope [[pope-pius-xii]] allegedly knew of a 1933 UFO crash near Milan and backchanneled information about the recovered craft to the U.S. government, which took possession after WWII. Filmmaker [[sam-sorich]]'s late-2026 documentary films at the [[bunker-soratte]] in San Oreste as the alleged study site. The claim remains unverified.
+
 ## Proposed Verification Test (Loeb, 2026)
 
 In April 2026 commentary ([[src-loeb-wh-uap-videos-skeptic-2026-04]], [[src-trump-tpusa-ufo-tease-2026-04]]), [[avi-loeb]] proposes a concrete falsification test: **even one gram** of any alleged crash material is sufficient for **mass-spectrometer isotope analysis** to test extrasolar origin. All solar-system materials formed from the same gas cloud and share an isotopic signature; materials from another star would deviate. Loeb has offered to participate in any review board analyzing such samples.
@@ -55,3 +59,4 @@ In April 2026 commentary ([[src-loeb-wh-uap-videos-skeptic-2026-04]], [[src-trum
 - [[src-wright-patterson-general-missing-2026-03]]
 - [[src-loeb-wh-uap-videos-skeptic-2026-04]]
 - [[src-trump-tpusa-ufo-tease-2026-04]]
+- [[src-catholic-filmmaker-vatican-ufo-2026-04]] — Pius XII / 1933 Milan branch

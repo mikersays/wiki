@@ -2,12 +2,12 @@
 title: Joint Interagency Task Force 401 (JIATF-401)
 type: entity
 created: 2026-04-29
-updated: 2026-05-01
+updated: 2026-05-06
 ---
 
 # Joint Interagency Task Force 401 (JIATF-401)
 
-U.S. Army-led Pentagon task force chartered to build out the U.S. military's [[counter-uas|counter-unmanned-aerial-system]] capability across both overseas-combat and homeland-defense missions. Director (April 2026): Brig. Gen. Matt Ross.
+U.S. Army-led Pentagon task force chartered to build out the U.S. military's [[counter-uas|counter-unmanned-aerial-system]] capability across both overseas-combat and homeland-defense missions. Director (April 2026): Brig. Gen. [[matt-ross]]; lead acquisitions specialist: Maj. [[matt-mellor]]; spokesperson: Lt. Col. [[adam-scher]]. Framed as the [[department-of-war]]'s lead organization for rapidly fielding C-UAS systems and aligning allied approaches.
 
 ## April 2026 commitments
 
@@ -31,9 +31,26 @@ Per [[src-bumblebee-v2-ncr-counterdrone-2026-04]]:
 - Spokesperson: Lt. Col. [[adam-scher]].
 - Published a guide on regulating use of C-UAS detection technologies.
 
+## March 2026 — Anduril $20B enterprise IDIQ + Lattice C2
+
+Per [[src-anduril-army-20b-counter-drone-idiq-2026-03|Breaking Defense]]: JIATF-401 selected [[anduril]]'s [[lattice-c2|Lattice]] software as the C-UAS C2 backbone in an **$87M task order** — the first task order under [[anduril]]'s new **$20B / 10-year** firm-fixed-price [[army-enterprise-contracts|enterprise IDIQ]]. The vehicle consolidates 120 prior Army-Anduril contracts and is open to Pentagon-wide ordering. Sits alongside the [[jiatf-401-marketplace]] (allied procurement) as twin pillars of JIATF-401's expanded procurement architecture.
+
+## April 2026 — JIATF-401 Marketplace partner expansion
+
+Per [[src-jiatf-401-marketplace-romania-2026-04|U.S. Army release]]: the Secretary of the Army and [[romania]]'s Minister of National Defense signed an agreement enabling Romania to procure C-UAS capabilities through the [[jiatf-401-marketplace]]. Romania becomes the second named partner nation after the [[united-kingdom]]. The Army secretary's stated goal is **25 partner nations by end of summer 2026**. Brig. Gen. [[matt-ross]] frames the marketplace as scaling the C-UAS industrial base "from the tactical edge to critical infrastructure protection."
+
 ## Related Pages
 
 - [[counter-uas]]
+- [[lattice-c2]]
+- [[jiatf-401-marketplace]]
+- [[anduril]]
+- [[army-enterprise-contracts]]
+- [[matt-ross]]
+- [[matt-mellor]]
+- [[romania]]
+- [[united-kingdom]]
+- [[department-of-war]]
 - [[operation-epic-fury]]
 - [[centcom]]
 - [[drone-incursions]]
@@ -48,3 +65,5 @@ Per [[src-bumblebee-v2-ncr-counterdrone-2026-04]]:
 - [[3rd-infantry-regiment]]
 - [[adam-scher]]
 - [[src-bumblebee-v2-ncr-counterdrone-2026-04]]
+- [[src-anduril-army-20b-counter-drone-idiq-2026-03]]
+- [[src-jiatf-401-marketplace-romania-2026-04]]

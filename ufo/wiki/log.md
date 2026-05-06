@@ -1,11 +1,34 @@
 ---
 title: Log
-updated: 2026-05-05
+updated: 2026-05-06
 ---
 
 # Log
 
 Chronological record of wiki activity. Each entry uses the format `## [YYYY-MM-DD] action | description` for easy parsing.
+
+## [2026-05-06] ingest | UFO news sweep (6 articles, religious-leaders thread + counter-drone procurement + Mars chemistry)
+
+Fetched via /ufo-news. Focus URL: dailymail.com religious leaders / UFO disclosure / Bible (blocked by WebFetch — fell back to *Christian Post* coverage of the same Perry Stone claim). 6 parallel search tracks → 30+ candidates → 8 ingest-approved → 6 saved (1 failed: Daily Mail blocked; 1 skipped: GJ 251 c article was 2025-10, out of 30-day window).
+
+New sources: [[src-perry-stone-pastor-briefing-2026-05]], [[src-catholic-filmmaker-vatican-ufo-2026-04]], [[src-perseverance-neretva-nickel-rocks-2026-04]], [[src-academic-uap-stigma-2026-04]], [[src-anduril-army-20b-counter-drone-idiq-2026-03]], [[src-jiatf-401-marketplace-romania-2026-04]]
+
+New entities: [[perry-stone]], [[matt-gaetz]], [[vatican]], [[vatican-observatory]], [[sam-sorich]], [[pope-pius-xii]], [[jesse-michels]], [[guy-consolmagno]], [[bunker-soratte]], [[glass-darkly-films]], [[brantly-millegan]], [[matthew-gray]], [[henry-manelski]], [[roger-wiens]], [[joel-hurowitz]], [[jezero-crater]], [[neretva-vallis]], [[purdue-university]], [[los-alamos-national-laboratory]], [[darrell-evans]], [[society-for-uap-studies]], [[limina-journal]], [[marissa-yingling]], [[uwurzburg]], [[stockholm-university]], [[nordic-institute-theoretical-physics]], [[geipan]], [[matthew-steckman]], [[brent-ingraham]], [[army-contracting-command]], [[palantir]], [[romania]], [[matt-ross]], [[matt-mellor]]
+
+New concepts: [[theological-uap-framing]], [[prebiotic-chemistry]], [[supercam]], [[pixl]], [[lattice-c2]], [[army-enterprise-contracts]], [[jiatf-401-marketplace]]
+
+Updated: [[anduril]] (Lattice + $20B IDIQ section), [[jiatf-401]] (Lattice procurement + Marketplace partner expansion), [[uap-stigma]] (Yingling surveys + Vatican Observatory institutional avoidance + international counter-examples), [[the-age-of-disclosure]] (Catholic / theological response section), [[david-grusch]] (Pius XII / 1933 Milan claim), [[counter-uas]] (Lattice + Marketplace + procurement architecture section), [[perseverance-rover]] (Neretva Vallis nickel result), [[uap-scientific-study]] (Evans / Society for UAP Studies / international research stream), [[crash-retrieval-programs]] (Pius XII branch)
+
+Cross-connections:
+- The **religious-leaders thread** (Perry Stone briefing claim + OSV News Vatican filmmaker piece) crystallizes a [[theological-uap-framing]] concept that ties together [[jd-vance]]'s "spiritual demons," [[anna-paulina-luna]]'s "interdimensional beings," Stone's Genesis-6 framing, and Sorich's Catholic-Magisterium engagement — the wiki now has a single concept page bridging these previously-isolated cultural framings.
+- **Counter-drone procurement architecture** is the second instance of twin-pillar reporting: the [[anduril]] $20B enterprise IDIQ (March 2026) and the [[jiatf-401-marketplace]] Romania expansion (April 2026) appeared in the same week and are now indexed as parallel mechanisms — IDIQ scaling DoD orders, Marketplace scaling allied access.
+- **Mars chemistry continuity**: the Manelski 2026 Neretva nickel paper sits directly on top of Hurowitz's 2025 Cheyava Falls biosignature paper — both at the same Bright Angel formation in [[neretva-vallis]] — making this the single most chemically informative Martian terrain explored to date. The new [[prebiotic-chemistry]] concept page synthesizes Curiosity TMAH organics + Manelski nickel + Mars ice-preservation results from the last six months.
+- **Academic stigma** ([[src-academic-uap-stigma-2026-04]]) reinforces the existing [[uap-stigma]] page with empirical survey data (Yingling et al., 1,460 faculty) and adds the international counter-examples ([[uwurzburg]], [[stockholm-university]], [[nordic-institute-theoretical-physics]], [[geipan]]) that were absent from the wiki.
+
+Skipped/failed:
+- **Daily Mail** focus URL — domain blocked by WebFetch (could not retrieve directly or via MSN syndication).
+- **EarthSky GJ 251 c** — article dated October 2025; outside 30-day window.
+- The May 3 Trump UFO files news cycle (WaPo, PBS, Hill, NBC, Fox) was deduped against existing [[src-trump-pentagon-uap-files-2026-05]].
 
 ## [2026-05-05] ingest | UFO news sweep (4 articles)
 
