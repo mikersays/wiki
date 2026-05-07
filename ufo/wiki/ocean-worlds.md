@@ -2,7 +2,7 @@
 title: Ocean Worlds
 type: concept
 created: 2026-04-13
-updated: 2026-05-05
+updated: 2026-05-07
 ---
 
 # Ocean Worlds
@@ -40,6 +40,7 @@ Research by Alexander Pavlov (NASA Goddard, 2024):
 ## Research Programs
 
 - **Investigating Ocean Worlds (InvOW)**: Five-year [[nasa]] project (2026-2031) led by Woods Hole Oceanographic Institution, improving analysis of carbon-rich molecules as biological indicators.
+- **Seven-firm biosignature partnership (May 2026, unverified)**: Syndicated reporting describes a [[nasa]] private-public initiative targeting Europa, Enceladus, and Mars [[biosignatures|biosignature]] detection — including ice-penetrating probes and plume samplers. Source thin (no firms named, no quotes); pending primary-source confirmation ([[src-nasa-seven-firms-biosignature-2026-05]]).
 
 ## See Also
 
@@ -61,3 +62,4 @@ Research by Alexander Pavlov (NASA Goddard, 2024):
 - [[nasa]]
 - [[src-cassini-huygens-ocean-worlds-2026-04]]
 - [[src-esa-enceladus-life-mission-2025]]
+- [[src-nasa-seven-firms-biosignature-2026-05]]

@@ -389,3 +389,34 @@ Wired up two orphan entity pages that had zero non-index inbound wikilinks:
 - [[joe-spielberger]] — bare-text mentions in [[uap-whistleblower-protections]], [[src-uap-whistleblower-hearing-2025]], and [[src-uap-transparency-hearing-2026-04]] converted to `[[joe-spielberger|Joe Spielberger]]` wikilinks.
 
 After fix: 0 pages with zero non-index inbound links. Index coverage was already at 100% (229/229 pages).
+
+## [2026-05-07] ingest | /ufo-news sweep — 4 sources via parallel agent teams
+
+Fetched via /ufo-news (no focus topic). 8 parallel search agents returned candidates across congressional-hearings, AARO, whistleblowers, pentagon-dod, primary-sources, astrobiology, incidents, and international tracks. After dedupe against existing wiki, 6 candidates were presented; user approved all. **4 fetches saved, 1 skipped, 1 failed.**
+
+**Saved (4):** [[src-luna-nonhuman-origin-pod-force-one-2026-04]], [[src-hegseth-fy27-posture-testimony-2026-04]], [[src-jwst-toi-1130b-atmosphere-2026-05]], [[src-nasa-seven-firms-biosignature-2026-05]]
+
+**Skipped (1):** DefenseScoop "former defense officials raise concerns about UAP threats" — fetcher confirmed it is the same May 1, 2025 Capitol Hill summit already covered in [[src-uap-expert-briefing-2025-05]] (URL slug had misled the search agent).
+
+**Failed (1):** ODNI 2026 Annual Threat Assessment PDF — dni.gov returns HTTP 403 to WebFetch, curl, and headless Playwright. Document cannot be retrieved without manual download.
+
+**New entities (4):** [[miranda-devine]], [[toi-1130b]], [[toi-1130]], [[saugata-barat]]
+
+**New concepts (8):** [[anomalous-health-incidents]], [[golden-dome-for-america]], [[drone-dominance]], [[autonomous-warfare]], [[mini-neptune]], [[water-ice-line]], [[high-mean-molecular-weight-atmosphere]], [[planetary-migration]]
+
+**Pages updated (~20):** [[anna-paulina-luna]], [[pete-hegseth]], [[aaro]], [[department-of-war]], [[donald-trump]], [[house-armed-services-committee]], [[dan-caine]], [[operation-epic-fury]], [[counter-uas]], [[drone-incursions]], [[ndaa-uap-provisions]], [[nuclear-triad]], [[task-force-declassification-federal-secrets]], [[non-human-intelligence]], [[uap-disclosure]], [[jwst]], [[transmission-spectroscopy]], [[hycean-worlds]], [[k2-18b]], [[exoplanet-habitability]], [[biosignatures]], [[nasa]], [[ocean-worlds]]
+
+**Cross-connections observed:**
+- **April 29, 2026 was a same-day double-disclosure-pressure point.** Luna's "nonhuman origin and creation" SCIF claim on *Pod Force One* and Hegseth's FY27 posture testimony to HASC happened on the same calendar day. They reinforce each other: Luna escalates from outside (subpoena threat + NHI rhetoric); Hegseth institutionalizes [[aaro]] as UAP "focal point" from inside DoW. The [[uap-disclosure]] timeline now has explicit congressional + executive entries for that date.
+- **DoW vocabulary expansion.** "Anomalous" now spans both [[aaro]]'s UAP mission and the realigned [[anomalous-health-incidents]] (Havana Syndrome) line — both run through OUSW(R&E). Hegseth's testimony is the first written-testimony-level reference to [[golden-dome-for-america]], "[[drone-dominance|drone dominance]]," and "[[autonomous-warfare|autonomous warfare]]" as named FY27 budget concepts.
+- **JWST sub-Neptune diversity.** [[toi-1130b]]'s high-μ atmosphere is methodologically the "non-hycean" comparison case to [[k2-18b]], showing JWST sub-Neptune retrievals span volatile-rich high-μ regimes distinct from H₂-dominated hycean readings — a calibration anchor for the [[hycean-worlds]] / [[mini-neptune]] formation-pathway debate.
+- **NHI rhetoric coherence.** Luna now has two distinct on-record NHI framings: 2025 Joe Rogan ("interdimensional beings") and April 29 *Pod Force One* ("nonhuman origin and creation"). Both deliberately avoid "aliens" — pattern consistent with the agnostic [[non-human-intelligence|NHI]] framing.
+
+**Contradictions / caveats:**
+- The NASA seven-firm biosignature partnership source is **thin syndicated coverage** — no firms named, no quotes, no nasa.gov citation. Logged with explicit source caveats; pending primary-source confirmation.
+- Hegseth's testimony does **not** name [[norad]], [[usnorthcom]], [[jiatf-401]], or the [[flyaway-kit|FAK]] in the Golden Dome / homeland aerial-defense framing — a notable omission given JIATF-401's March 2026 $20B Anduril IDIQ and the FAK's Operation Epic Fury operational debut.
+
+**Suggested follow-ups:**
+- Manual download of the ODNI 2026 ATA (failed fetch); could enable an [[odni]] / [[ndaa-uap-provisions]] cross-update.
+- Watch for a primary-source NASA press release confirming the seven-firm biosignature partnership and naming participants.
+- Track whether Luna's pledged "press conference upon declassification" produces follow-on disclosure events in Q3 2026.

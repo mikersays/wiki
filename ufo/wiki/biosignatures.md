@@ -2,7 +2,7 @@
 title: Biosignatures
 type: concept
 created: 2026-04-13
-updated: 2026-04-29
+updated: 2026-05-07
 ---
 
 # Biosignatures
@@ -76,6 +76,12 @@ Mission implication: future Mars landers should drill into clean buried ice, not
 
 The DMS/DMDS biosignature claim on [[k2-18b]] is described in the 2026 technosignature follow-up paper as "heavily disputed." A parallel VLA + MeerKAT [[technosignatures|technosignature]] search on the same target returned a null result ([[src-k2-18b-technosignature-null-2026]]). The combined picture — a contested biosignature plus a technosignature null on the same planet — makes K2-18b a methodologically important case study.
 
+## Detection-Methodology Calibration
+
+JWST mini-Neptune retrievals also help calibrate the H₂-rich vs volatile-rich distinction relevant to interpreting K2-18b biosignature claims. The [[toi-1130b]] retrieval (Barat et al., 2026) is a high-mean-molecular-weight, ex-situ-formed counterexample to the hycean reading ([[src-jwst-toi-1130b-atmosphere-2026-05]]).
+
+A May 3, 2026 syndicated report claims [[nasa]] has partnered with seven (unnamed) tech firms to advance biosignature-detection capability for Mars and [[ocean-worlds]]; source quality is thin (no firms named, no quotes, no nasa.gov citation), pending primary-source confirmation ([[src-nasa-seven-firms-biosignature-2026-05]]).
+
 ## See Also
 
 - [[astrobiology]]
@@ -86,3 +92,4 @@ The DMS/DMDS biosignature claim on [[k2-18b]] is described in the 2026 technosig
 - [[hycean-worlds]]
 - [[technosignatures]]
 - [[false-positive-biosignatures]]
+- [[toi-1130b]], [[mini-neptune]], [[high-mean-molecular-weight-atmosphere]]

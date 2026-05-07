@@ -2,7 +2,7 @@
 title: Counter-UAS
 type: concept
 created: 2026-04-29
-updated: 2026-05-06
+updated: 2026-05-07
 ---
 
 # Counter-UAS
@@ -29,6 +29,10 @@ Doctrine, sensors, and effectors for detecting, tracking, and defeating small un
 Pentagon officials have publicly described U.S. C-UAS capability as "lagging," and SOF News reports the U.S. has "suffered casualties and damage to high-value aircraft and military equipment" from Iranian drones ([[src-epic-fury-update-2026-04]]). [[tom-karako]] argues the [[drone-incursions|drone problem]] has been "artificially divided" between overseas combat and homeland defense.
 
 JIATF-401 has also led a U.S.-UK effort to establish common C-UAS data standards for interoperability ([[src-bumblebee-v2-ncr-counterdrone-2026-04]]).
+
+## FY27 budget framing
+
+Hegseth's April 29, 2026 [[house-armed-services-committee]] posture testimony names "[[drone-dominance|drone dominance]]" as a top FY27 priority and frames "[[autonomous-warfare|autonomous warfare]]" as a competitor-investment area, providing the budget umbrella under which JIATF-401's >$600M is being scaled ([[src-hegseth-fy27-posture-testimony-2026-04]]). [[golden-dome-for-america]] is cited as the named homeland aerial-threat-defense program.
 
 ## Procurement architecture (March-April 2026)
 

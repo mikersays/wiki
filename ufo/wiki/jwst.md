@@ -2,7 +2,7 @@
 title: James Webb Space Telescope (JWST)
 type: entity
 created: 2026-04-13
-updated: 2026-04-16
+updated: 2026-05-07
 ---
 
 # James Webb Space Telescope (JWST)
@@ -31,6 +31,10 @@ JWST's **MIRI coronagraph** at 15 microns detected a candidate Saturn-like gas g
 
 Per [[src-oxygen-false-positive-biosignatures-2026-03]], interpreting any JWST O₂/O₃ detection on M-dwarf rocky planets requires ruling out abiotic CO₂-photolysis + HOx-chemistry pathways. See [[false-positive-biosignatures]].
 
+### TOI-1130b Mini-Neptune Characterization
+
+Per [[src-jwst-toi-1130b-atmosphere-2026-05]], a combined NIRSpec G395H + NIRISS SOSS [[transmission-spectroscopy|transmission spectrum]] of the warm [[mini-neptune]] [[toi-1130b]] reports H₂O at 7.5σ, CO₂ at 3.3σ, SO₂ at 3.6σ, and tentative CH₄ — yielding a [[high-mean-molecular-weight-atmosphere]] (μ = 5.5 amu) consistent with ex-situ formation beyond the [[water-ice-line]] followed by inward [[planetary-migration]]. The result methodologically extends the JWST sub-Neptune sample beyond the contested [[k2-18b]] / [[hycean-worlds|hycean]] case.
+
 ### Limits and Parallel Interpretations
 
 A September 2025 PNAS perspective by [[sara-seager]] et al. ([[src-jwst-biosignature-prospects-2025]]) argues that while JWST can in principle detect biosignature gases via [[transmission-spectroscopy]], existing retrieval methods yield multiple valid interpretations of the same spectrum — the "parallel interpretations" problem. Only a handful of habitable-zone atmospheres are accessible before JWST hits its noise floor, and transmission spectra produce 1D averages of intrinsically 3D atmospheric processes. Seager et al. conclude JWST's realistic contribution is to nominate biosignature *candidate* planets rather than confirm life; confirmation awaits next-gen facilities like [[habitable-worlds-observatory]] and [[life-interferometer|LIFE]].
@@ -52,3 +56,6 @@ A September 2025 PNAS perspective by [[sara-seager]] et al. ([[src-jwst-biosigna
 - [[sara-seager]]
 - [[nasa]]
 - [[esa]]
+- [[toi-1130b]]
+- [[mini-neptune]]
+- [[high-mean-molecular-weight-atmosphere]]

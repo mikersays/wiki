@@ -26,6 +26,10 @@ updated: 2026-05-01
 - **Feb 2026** — [[el-paso-international-airport]] TFR (purported [[cartel-drone-threat|cartel drone]]) and [[fort-hancock]] DoD-laser-vs-[[customs-and-border-protection|CBP]]-drone incident — both attributed by Vasquez to FAA/DoD/[[department-of-homeland-security|DHS]] miscommunication during unapproved C-UAS testing in protected airspace ([[src-counter-act-secure-skies-bills-2026-04]])
 - **Apr 2026** — [[fort-belvoir]] / NCR — [[3rd-infantry-regiment]] trains on [[bumblebee-counter-uas|Bumblebee V1]] in joint [[jiatf-401]] / [[jtf-ncr]] exercise ([[src-bumblebee-v2-ncr-counterdrone-2026-04]])
 
+## FY27 budget framing (April 2026)
+
+Hegseth's April 29, 2026 [[house-armed-services-committee]] posture testimony names "[[drone-dominance|drone dominance]]" as a top FY27 [[department-of-war]] investment priority and identifies [[golden-dome-for-america]] as the homeland aerial-threat-defense program. [[jiatf-401]], [[norad]], and [[usnorthcom]] are not named in the written testimony — implied via [[golden-dome-for-america|Golden Dome]] and CYBERCOM 2.0 framing only ([[src-hegseth-fy27-posture-testimony-2026-04]]).
+
 ## Capabilities and official assessments
 
 - NORAD radars designed for Cold War high-altitude threats cannot reliably detect low-flying drones (VanHerck, Guillot via [[src-60-minutes-drone-swarms-2025]])
@@ -58,3 +62,4 @@ Many incidents attributed publicly to "drone" activity have characteristics (spe
 - [[src-counter-act-secure-skies-bills-2026-04]]
 - [[src-bumblebee-v2-ncr-counterdrone-2026-04]]
 - [[src-uk-airspace-defense-gap-2024-11]]
+- [[src-hegseth-fy27-posture-testimony-2026-04]]

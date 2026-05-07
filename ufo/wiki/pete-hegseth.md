@@ -2,7 +2,7 @@
 title: Pete Hegseth
 type: entity
 created: 2026-04-13
-updated: 2026-04-28
+updated: 2026-05-07
 ---
 
 # Pete Hegseth
@@ -29,5 +29,6 @@ Hegseth's role as point person places the Defense Secretary at the center of [[u
 - **Mar 31, 2026** — Recipient of Rep. [[anna-paulina-luna]]'s letter demanding 46+ specifically named UAP videos by April 14 ([[src-luna-46-uap-videos-demand-2026-03]]).
 - **Apr 14-15, 2026** — Deadline missed; Luna publicly rebukes the Pentagon with "How convenient." DoW spokesperson Susan Gough says the Department "will respond directly" ([[src-pentagon-uap-deadline-missed-2026-04]], [[src-war-department-uap-release-2026-04]]).
 - **Apr 17, 2026** — Trump publicly recommits to UAP file release "very, very soon" at the [[turning-point-usa]] Action Conference in Phoenix; deputy press secretary [[anna-kelly]] formally re-confirms DoW tasking. Hegseth's earlier "no timeline" statement is reproduced in Newsweek's coverage ([[src-trump-tpusa-ufo-tease-2026-04]]).
+- **Apr 29, 2026** — Delivers FY27 [[department-of-war|DoW]] posture testimony to the [[house-armed-services-committee]] (alongside Chairman [[dan-caine]]). Formally institutionalizes [[aaro]] as the U.S. government's UAP "focal point" for detect/track/identify/mitigate, commits to continued classified/unclassified Congressional briefings and public document releases. Names "[[drone-dominance|drone dominance]]" and "[[autonomous-warfare|autonomous warfare]]" as FY27 priorities; identifies [[golden-dome-for-america|Golden Dome for America]] as the homeland aerial-threat-defense program. Announces realignment of the [[anomalous-health-incidents|AHI]] Cross-Functional Team to OUSW(R&E) with ~$3M in HAVANA Act payments disbursed since Trump's inauguration. Acknowledges [[operation-epic-fury]] as ongoing ([[src-hegseth-fy27-posture-testimony-2026-04]]).
 
-See also: [[donald-trump]], [[aaro]], [[uap-disclosure]], [[department-of-war]], [[anna-paulina-luna]]
+See also: [[donald-trump]], [[aaro]], [[uap-disclosure]], [[department-of-war]], [[anna-paulina-luna]], [[house-armed-services-committee]]

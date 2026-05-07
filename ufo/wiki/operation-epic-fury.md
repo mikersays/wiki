@@ -30,9 +30,14 @@ Per [[src-epic-fury-update-2026-04]]:
 - UAE absorbed 2,819 Iranian missile/drone attacks Feb 28–Apr 14 (most of any nation; Israel: 1,357).
 - Retired BG [[donald-bolduc]] critique: tactical wins, strategic gaps, no exit strategy.
 
+## FY27 Posture Reference (April 2026)
+
+In Hegseth's April 29, 2026 FY27 [[department-of-war]] posture testimony to the [[house-armed-services-committee]], Operation Epic Fury is acknowledged as ongoing — cited alongside Operations Rough Rider, Midnight Hammer, and Absolute Resolve as proof of "second-to-none operational flexibility" ([[src-hegseth-fy27-posture-testimony-2026-04]]).
+
 ## Sources
 
 - [[src-northcom-drone-incursion-2026-03]]
 - [[src-drone-incursions-epic-fury-2026-03]]
 - [[src-counter-drone-middle-east-jiatf-2026-04]]
 - [[src-epic-fury-update-2026-04]]
+- [[src-hegseth-fy27-posture-testimony-2026-04]]

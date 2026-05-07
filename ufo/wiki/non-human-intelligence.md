@@ -2,7 +2,7 @@
 title: Non-Human Intelligence
 type: concept
 created: 2026-04-13
-updated: 2026-04-16
+updated: 2026-05-07
 ---
 
 # Non-Human Intelligence
@@ -29,6 +29,10 @@ Observations consistent across multiple witnesses and incidents suggest technolo
 
 [[matthew-brown]] provided a notably cautious assessment: "Nothing in those videos proves extraterrestrial or non-human... certainly anomalous, exotic, and unexplainable." This reflects a common position among credible witnesses who acknowledge the anomalous nature of the phenomena without attributing a specific origin.
 
+### Congressional NHI Vocabulary (April 2026)
+
+On *Pod Force One* (April 29, 2026), Rep. [[anna-paulina-luna]] said she has "observed things that are of nonhuman origin and creation" inside a SCIF — and explicitly avoided the term "aliens" ("I don't call them aliens, and I don't know what these things are that they're using"). The phrasing aligns deliberately with the agnostic NHI framing rather than the [[non-human-intelligence|NHI]]-as-extraterrestrial reading; it is one of the most explicit NHI claims yet from a sitting member of Congress with SCIF access ([[src-luna-nonhuman-origin-pod-force-one-2026-04]]).
+
 ## Official Position
 
 [[aaro]] found no evidence of non-human materials in government possession. The DoD maintains there is no verifiable evidence of non-human technology. However, critics argue AARO lacked access to the most sensitive compartmented programs.
@@ -46,3 +50,4 @@ Observations consistent across multiple witnesses and incidents suggest technolo
 - [[src-uap-whistleblower-hearing-2025]]
 - [[src-immaculate-constellation-whistleblower-2025]]
 - [[src-wright-patterson-general-missing-2026-03]]
+- [[src-luna-nonhuman-origin-pod-force-one-2026-04]]

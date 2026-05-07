@@ -2,7 +2,7 @@
 title: U.S. Nuclear Triad
 type: concept
 created: 2026-04-25
-updated: 2026-04-25
+updated: 2026-05-07
 ---
 
 The **U.S. nuclear triad** is the three-legged strategic nuclear deterrent architecture:
@@ -26,6 +26,10 @@ All three legs of the nuclear triad have been subject to documented Chinese inte
 
 According to [[stephen-bryen]]'s analysis, U.S. nuclear bases lack meaningful air defenses and no drones have been shot down or traced to their operators.
 
+## FY27 Posture — Triad Modernization and Testing (April 2026)
+
+In Hegseth's April 29, 2026 FY27 [[department-of-war]] posture testimony to the [[house-armed-services-committee]], the U.S. nuclear triad is committed to modernization plus an explicit statement that the U.S. "will test nuclear weapons and nuclear delivery systems on an equal basis as others" — the first written-testimony-level reference to U.S. nuclear testing in the disclosure-era record ([[src-hegseth-fy27-posture-testimony-2026-04]]).
+
 ## Connection to UAP
 
 The [[nuclear-uap-correlation]] pattern — documented UAP activity near nuclear weapons sites — predates the current Chinese intelligence focus by decades, raising distinct but related questions about nuclear-site security. [[robert-salas]] claims a 1967 UAP incident at Malmstrom disabled multiple Minuteman ICBMs.
@@ -43,3 +47,4 @@ The [[nuclear-uap-correlation]] pattern — documented UAP activity near nuclear
 - [[nuclear-uap-correlation]]
 - [[stephen-bryen]]
 - [[robert-salas]]
+- [[src-hegseth-fy27-posture-testimony-2026-04]]

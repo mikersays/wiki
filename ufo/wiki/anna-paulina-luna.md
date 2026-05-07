@@ -2,7 +2,7 @@
 title: Anna Paulina Luna
 type: entity
 created: 2026-04-13
-updated: 2026-05-05
+updated: 2026-05-07
 ---
 
 # Anna Paulina Luna
@@ -41,6 +41,10 @@ Co-introduced with [[tim-burchett]] the week of Aug 25, 2025; bill text is ident
 
 In a 2025 episode of [[joe-rogan]]'s podcast, Luna said she had seen evidence of "interdimensional beings" — a non-ETH framing of UAP origins distinct from the [[non-human-intelligence|NHI]] / extraterrestrial framing used by most disclosure advocates. The claim was re-cited in May 2026 Fortune/AP coverage of [[donald-trump]]'s UAP push ([[src-trump-pentagon-uap-files-2026-05]]).
 
+## "Nonhuman origin and creation" — Pod Force One (April 2026)
+
+In an April 29, 2026 episode of New York Post columnist [[miranda-devine]]'s *Pod Force One* podcast, Luna escalated her language: she said she has "seen evidence in a SCIF that leads me to believe there are things we cannot explain" and "observed things that are of nonhuman origin and creation." She pledged to hold a press conference once the underlying material is declassified: "When it's declassified, I will have a press conference, and I'll show you exactly what we saw." Pressed on aliens, Luna deliberately avoided the word: "I don't call them aliens, and I don't know what these things are that they're using." A [[department-of-war]] official, in the same Newsweek piece, reiterated that [[aaro]] is "working in close coordination with the White House and across federal agencies" to release "never-before-seen UAP information" ([[src-luna-nonhuman-origin-pod-force-one-2026-04]]). The remarks land between the *Pod Force One* "interdimensional" Rogan framing and the broader [[non-human-intelligence|NHI]] vocabulary, but explicitly assert non-human creation — the strongest such claim Luna has put on the record.
+
 ## 46-Video Demand (March-April 2026)
 
 - **Mar 31, 2026** — Wrote to SecWar [[pete-hegseth]] requesting 46+ specific UAP videos by April 14. Footage reportedly includes spherical, cigar-shaped, and Tic Tac-like objects over war zones, oceans, and restricted airspace, including incidents near Iran, Syria, U.S. bases, and a 2023 Lake Huron event.
@@ -67,3 +71,4 @@ Luna chaired a second hearing on April 24, 2026: "Restoring Public Trust Through
 - [[src-luna-uap-deadline-missed-2026-04]]
 - [[src-uap-whistleblower-protection-act-2025-09]]
 - [[src-trump-pentagon-uap-files-2026-05]]
+- [[src-luna-nonhuman-origin-pod-force-one-2026-04]]

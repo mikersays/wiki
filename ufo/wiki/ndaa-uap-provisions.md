@@ -60,4 +60,8 @@ NDAA cycles have also become the vehicle for expanding [[counter-uas|C-UAS]] aut
 - [[safer-skies-act|Safer Skies Act]] (FY2025 NDAA) — extended limited C-UAS authority to state/local/tribal/territorial law enforcement.
 - [[counter-act|COUNTER Act]] (2026 NDAA) — expanded "covered facility" so base commanders at any military base with a secure perimeter can defeat unidentified drones; sponsored by Rep. [[gabe-vasquez]] in response to incursions at [[white-sands-missile-range]] ([[src-counter-act-secure-skies-bills-2026-04]]).
 
-See also: [[uap-disclosure]], [[aaro]], [[norad]], [[usnorthcom]], [[drone-incursions]], [[counter-uas]], [[src-uap-ndaa-fy2026-intercept-provisions]], [[src-northcom-drone-incursion-2026-03]], [[src-counter-act-secure-skies-bills-2026-04]]
+## FY27 Posture Reaffirmation (April 2026)
+
+Hegseth's April 29, 2026 FY27 [[department-of-war]] posture testimony to the [[house-armed-services-committee]] reaffirms [[aaro]]'s role as the U.S. government's UAP "focal point" and commits to continued classified/unclassified Congressional briefings — reinforcing the FY26 NDAA briefing-mandate baseline ([[src-hegseth-fy27-posture-testimony-2026-04]]).
+
+See also: [[uap-disclosure]], [[aaro]], [[norad]], [[usnorthcom]], [[drone-incursions]], [[counter-uas]], [[src-uap-ndaa-fy2026-intercept-provisions]], [[src-northcom-drone-incursion-2026-03]], [[src-counter-act-secure-skies-bills-2026-04]], [[src-hegseth-fy27-posture-testimony-2026-04]]

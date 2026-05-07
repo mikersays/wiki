@@ -2,7 +2,7 @@
 title: Exoplanet Habitability
 type: concept
 created: 2026-04-13
-updated: 2026-04-28
+updated: 2026-05-07
 ---
 
 # Exoplanet Habitability
@@ -24,6 +24,9 @@ However, independent teams interpret K2-18b differently:
 
 ### Atmospheric Characterization
 The [[jwst]] uses [[transmission-spectroscopy]] to identify atmospheric gases during planetary transits. Key detections on K2-18b include methane, CO2, and potential [[biosignatures]] (DMS/DMDS). A 2025 PNAS perspective by [[sara-seager]] et al. ([[src-jwst-biosignature-prospects-2025]]) argues JWST can only nominate biosignature candidates — not confirm them — because transmission spectra admit "parallel interpretations."
+
+### Mini-Neptune Diversity
+JWST has begun resolving the formation pathways of [[mini-neptune|mini-Neptune]] atmospheres. The 2026 [[toi-1130b]] characterization (Barat et al.) reports a [[high-mean-molecular-weight-atmosphere]] (μ = 5.5 amu) with strong H₂O/CO₂/SO₂ — consistent with volatile-rich, ex-situ formation beyond the [[water-ice-line]] followed by inward [[planetary-migration]] ([[src-jwst-toi-1130b-atmosphere-2026-05]]). The result argues mini-Neptunes are not a homogeneous class.
 
 ## Detection Methods
 
@@ -60,3 +63,5 @@ The [[jwst]] uses [[transmission-spectroscopy]] to identify atmospheric gases du
 - [[direct-imaging]]
 - [[transmission-spectroscopy]], [[radial-velocity]]
 - [[technosignatures]]
+- [[toi-1130b]], [[mini-neptune]]
+- [[high-mean-molecular-weight-atmosphere]], [[water-ice-line]], [[planetary-migration]]

@@ -2,7 +2,7 @@
 title: NASA (National Aeronautics and Space Administration)
 type: entity
 created: 2026-04-13
-updated: 2026-05-05
+updated: 2026-05-07
 ---
 
 # NASA
@@ -31,6 +31,7 @@ NASA operates several missions and programs central to the search for [[biosigna
 - **Investigating Ocean Worlds (InvOW)**: Five-year project led by Woods Hole Oceanographic Institution, selected by NASA in December 2025, improving analysis of carbon-rich molecules on [[ocean-worlds]].
 - **[[cassini-huygens]]** (1997-2017): Discovered [[enceladus]]'s subsurface ocean, [[enceladus-plumes|plumes]], and [[hydrothermal-activity]]; confirmed [[titan]]'s methane/ethane hydrology via the [[huygens-probe]] (Jan 14, 2005 surface landing — most distant landing in history); ended in the [[grand-finale]] [[planetary-protection]] plunge. Data archive still drives high-impact results ([[src-cassini-huygens-ocean-worlds-2026-04]]). The [[enceladus-orbilander]] concept inherits this lineage.
 - **NASA Ames astrobiology**: [[caleb-scharf]] introduced the [[interplanetary-habitable-zone]] framework in March 2026, reframing exoplanet habitability as a system-scale, multi-dimensional question ([[src-interplanetary-habitable-zone-2026]]).
+- **Seven-firm biosignature partnership (May 2026, unverified primary source)**: A syndicated business-press item describes a NASA partnership with seven (unnamed) technology firms to enhance [[biosignatures|biosignature]]-detection capability for Mars and [[ocean-worlds]] (miniaturized sensors, AI-enabled on-board analysis, plume/ice-penetrating probes). The report names no firms, contains no quotes, and is not yet cross-referenced to a NASA.gov announcement — treat as thin secondary coverage ([[src-nasa-seven-firms-biosignature-2026-05]]).
 
 ## See Also
 
@@ -41,3 +42,4 @@ NASA operates several missions and programs central to the search for [[biosigna
 - [[cassini-huygens]]
 - [[src-cassini-huygens-ocean-worlds-2026-04]]
 - [[src-trump-pentagon-uap-files-2026-05]] — context: a White House event for NASA astronauts was the venue for Trump's May 3, 2026 UAP-release remarks.
+- [[src-nasa-seven-firms-biosignature-2026-05]]

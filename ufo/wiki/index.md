@@ -1,6 +1,6 @@
 ---
 title: Index
-updated: 2026-05-06
+updated: 2026-05-07
 ---
 
 # Wiki Index
@@ -40,19 +40,23 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[src-gallaudet-house-testimony-2024-11]] — Gallaudet's Nov 13 2024 House Oversight written testimony: 2015 Roosevelt near-miss email and "Go Fast" FLIR, AARO "influence operation" allegation, and three-pillar disclosure recommendation
 - [[src-gallaudet-kirkpatrick-clash-2026-04]] — IBTimes UK recap of April 9 2026 public clash between retired RAdm Tim Gallaudet and former AARO director Sean Kirkpatrick over conspiracy bias, alleged AARO job-seeking, and disputed UFO recovery claims
 - [[src-gj-887-d-habitability-2026-03]] — Astronomers confirm GJ 887 d, a super-Earth in the habitable zone of an M dwarf 10.7 ly away; 2nd-closest known habitable-zone planet after Proxima b
+- [[src-hegseth-fy27-posture-testimony-2026-04]] — SecWar Hegseth's April 29, 2026 FY27 DoW posture testimony to House Armed Services: AARO named UAP "focal point," AHI CFT realigned to OUSW(R&E) with ~$3M HAVANA Act payments, drone dominance and autonomous warfare named FY27 priorities, Golden Dome for America launched
 - [[src-immaculate-constellation-whistleblower-2025]] — Matthew Brown publicly confirms classified UAP surveillance program "Immaculate Constellation"
 - [[src-interplanetary-habitable-zone-2026]] — Scharf (NASA Ames) proposes Interplanetary Habitable Zone framework; TRAPPIST-1 civilizations extinct within 45 years due to radiation
 - [[src-japan-uap-strategy-proposal-2026-03]] — Japanese parliamentary group proposes specialized UAP government body under Cabinet Secretariat, paralleling Sky Canada Project
 - [[src-jiatf-401-marketplace-romania-2026-04]] — U.S. Army announces Romania joins the JIATF-401 Marketplace to procure C-UAS; builds on UK deal and Army secretary's 25-partner-nation goal by end of summer 2026
 - [[src-jwst-biosignature-prospects-2025]] — Seager et al. PNAS perspective: JWST can nominate but not confirm biosignature-gas candidates; field must accept "parallel interpretations" until next-gen telescopes
 - [[src-jwst-k2-18b-biosignature-2025]] — JWST detects dimethyl sulfide and dimethyl disulfide (potential biosignatures) in the atmosphere of exoplanet K2-18b
+- [[src-jwst-toi-1130b-atmosphere-2026-05]] — Barat et al. JWST NIRSpec/NIRISS transmission spectrum of mini-Neptune TOI-1130b: H₂O (7.5σ), CO₂, SO₂, tentative CH₄; high mean molecular weight (5.5 amu) atmosphere supports ex-situ formation beyond the water-ice line
 - [[src-k2-18b-technosignature-null-2026]] — VLA+MeerKAT radio technosignature search of K2-18b returns null result; methodology portable to other hycean worlds
 - [[src-loeb-wh-uap-videos-skeptic-2026-04]] — Avi Loeb on the WH/DoW UAP-video release: calls for raw satellite data, warns most intriguing classified-sensor data likely withheld, offers 1g isotope test
 - [[src-luna-46-uap-videos-demand-2026-03]] — Luna's March 31 letter to SecWar Hegseth demanding 46 named UAP videos from AARO by April 14, 2026
+- [[src-luna-nonhuman-origin-pod-force-one-2026-04]] — Newsweek (Apr 29): Luna on Miranda Devine's *Pod Force One* says she observed SCIF evidence "of nonhuman origin and creation," pledges a press conference on declassification, avoids "aliens"; DoW reiterates AARO/WH coordination
 - [[src-luna-uap-deadline-missed-2026-04]] — Newsweek (Apr 16): Luna on OAN describes White House escalation after Pentagon silence; AARO confirms coordination on UAP release; Hegseth pledges full compliance
 - [[src-mars-ancient-life-ice-survival-2026-02]] — NASA Goddard/Penn State: amino acids survive >50 Myr in pure Martian ice; ice-soil mixtures destroy organics 10× faster; argues for ice-drilling Mars missions
 - [[src-mars-ancient-ocean-zaki-lamb-2026-04]] — Caltech's Zaki & Lamb (Nature, April 2026) identify a continental-shelf-like topographic band in Mars's northern hemisphere as evidence for a long-lived ancient ocean covering ~1/3 of the planet
 - [[src-mars-perseverance-biosignature-2025]] — Perseverance rover discovers potential biosignature minerals in Cheyava Falls rock on Mars
+- [[src-nasa-seven-firms-biosignature-2026-05]] — Thin moneycontrol.com syndicated report on a claimed NASA partnership with seven (unnamed) tech firms for Mars/ocean-worlds biosignature detection; no firms named and no direct quotes
 - [[src-northcom-drone-incursion-2026-03]] — NORTHCOM Flyaway Kit defeats drone over undisclosed strategic U.S. installation during opening hours of Operation Epic Fury
 - [[src-oxygen-false-positive-biosignatures-2026-03]] — Photochemical modeling shows abiotic O₂ on Mars-like M-dwarf exoplanets peaks ~10x lower than prior estimates
 - [[src-panspermia-agnostic-biosignature-2026-04]] — ELSI researchers Smith & Sinapayen propose detecting life via statistical correlations across exoplanet populations (panspermia + environment-modification assumptions), bypassing single-gas false-positive problems
@@ -234,6 +238,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[mike-rounds]] — U.S. Senator (R-SD), Senate Armed Services; on-camera in The Age of Disclosure (2025); UAP Disclosure Act co-sponsor
 - [[ministry-of-defence]] — UK Ministry of Defence; ran a UFO desk for ~50 years until 2009, now publicly disengaged from UAP investigation
 - [[minoru-kihara]] — Japanese Defense Minister who shifted ministry to treat unidentified objects as security issues in 2024
+- [[miranda-devine]] — New York Post columnist; host of the *Pod Force One* podcast; April 2026 interview elicited Luna's "nonhuman origin and creation" SCIF remarks
 - [[mojtaba-khamenei]] — New Iranian supreme leader; in hiding after grave injuries from U.S. strikes; IRGC commanders running operations in his stead
 - [[minot-afb]] — North Dakota nuclear bomber/ICBM base where NORTHCOM FAK was certified in October 2025 Global Thunder exercise
 - [[nancy-grace-roman-space-telescope]] — NASA wide-field telescope launching 2027 with coronagraph for direct-imaging exoplanets
@@ -286,6 +291,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[sample-analysis-at-mars]] — Curiosity's SAM instrument suite; performed first wet-chemistry experiment (TMAH) on another planet in 2020
 - [[saturn]] — Sixth planet from the Sun; rotation rate ~10.7 h pinned by Cassini Grand Finale; magnetosphere reshaped by Enceladus plasma
 - [[sara-seager]] — MIT astrophysicist; foundational exoplanet-atmosphere theorist; lead author of 2025 PNAS biosignature-prospects perspective
+- [[saugata-barat]] — Lead author of the 2026 JWST TOI-1130b transmission-spectrum paper
 - [[sky-map-c-uas]] — Ukrainian counter-drone C2 platform; first U.S. operational deployment at Prince Sultan AB, April 2026
 - [[scu]] — Scientific Coalition for UAP Studies, civilian scientific organization for UAP investigation
 - [[sean-kirkpatrick]] — Founding director of AARO (2022-2024); maintained no-ET-evidence stance; April 2026 public clash with Gallaudet
@@ -306,6 +312,8 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[tim-gallaudet]] — Retired U.S. Navy Rear Admiral and former naval oceanographer; UAP disclosure advocate, Age of Disclosure participant, and proponent of unidentified-submerged-objects investigation
 - [[tim-phillips]] — Acting director of AARO in May 2024 between Kirkpatrick and Kosloski; key to Gallaudet's denial of the AARO job-seeking allegation
 - [[titan]] — Saturn's largest moon; methane/ethane hydrology, N₂ atmosphere, subsurface water ocean; target of NASA's Dragonfly mission
+- [[toi-1130]] — Host star of rare multi-planet system: inner mini-Neptune TOI-1130b plus outer hot Jupiter in 2:1 mean motion resonance
+- [[toi-1130b]] — Warm mini-Neptune (3.66 R⊕, 19.8 M⊕, ~825 K) in 2:1 resonance with an outer hot Jupiter; JWST 2026 high-μ atmosphere implies ex-situ formation beyond the water-ice line
 - [[tom-karako]] — Director of the CSIS Missile Defense Project; counter-UAS analyst
 - [[trappist-1]] — Red dwarf hosting seven rocky planets; IHZ model finds advanced civilizations there extinct within ~45 years due to radiation
 - [[trappist-1-e]] — Rocky habitable-zone exoplanet orbiting TRAPPIST-1 (~39 ly); prime JWST atmospheric characterization target
@@ -338,6 +346,8 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 
 - [[agnostic-biosignature]] — Life-detection strategy using population-level statistics rather than specific chemical markers; minimizes false positives; applicable to large exoplanet surveys
 - [[alien-gov-portal]] — The alien.gov and aliens.gov domains registered by the White House in March 2026 as part of Trump's UAP disclosure rollout
+- [[anomalous-health-incidents]] — DoW-tracked Havana Syndrome cluster; AHI Cross-Functional Team realigned to OUSW(R&E); first HAVANA Act payments (~$3M) approved under Trump
+- [[autonomous-warfare]] — Domain Hegseth identifies as a competitor-investment area (China/Russia); paired with drone dominance in FY27 DoW posture
 - [[army-enterprise-contracts]] — Army's firm-fixed-price IDIQ consolidation pattern (Mar 2026): 14 vehicles, 118 contracts collapsed (88% reduction); Anduril $20B and Palantir $10B as anchor awards
 - [[ancient-mars-ocean]] — Long-running case for a northern-hemisphere ocean on early Mars, anchored as of April 2026 by Zaki & Lamb's continental-shelf topographic evidence
 - [[astrobiology]] — Interdisciplinary study of the origin, evolution, and distribution of life in the universe
@@ -347,6 +357,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[coyote-interceptor]] — Raytheon kinetic counter-drone interceptor; primary CENTCOM hard-kill effector
 - [[crash-retrieval-programs]] — Alleged classified U.S. government programs to recover crashed craft of non-human origin
 - [[direct-imaging]] — Technique using coronagraphs and wavefront control to image exoplanets directly against stellar glare
+- [[drone-dominance]] — FY27 DoW named investment priority alongside space superiority and magazine depth
 - [[drone-incursions]] — Pattern of unexplained sUAS activity over U.S. military bases and critical infrastructure
 - [[enceladus-plumes]] — South-polar water-ice plumes containing salts, organic molecules, and molecular hydrogen; sampled directly by Cassini in 2008
 - [[exoplanet-habitability]] — Conditions enabling planets outside our solar system to support life
@@ -354,9 +365,11 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[flyaway-kit]] — NORTHCOM transportable counter-drone sensor/effector package (FAK)
 - [[genkai-nuclear-uap-incident]] — Ongoing Japanese UAP case with discrepancies between Kyushu Electric utility records and Saga Prefectural Police account
 - [[go-fast-video]] — Declassified Navy F/A-18 FLIR video from the Jan 2015 Roosevelt pre-deployment exercise; attached to Fleet Forces' UAP safety email
+- [[golden-dome-for-america]] — Trump-era homeland aerial-threat-defense program established by EO; framed by Hegseth as a "revolutionary approach" to defending against advanced aerial threats
 - [[grand-finale]] — Cassini's 22 proximal orbits and Sept 15, 2017 atmospheric plunge; pinned Saturn rotation at ~10.7 h; planetary-protection-driven disposal
 - [[ground-based-air-defence]] — Doctrine and systems for land-based air defense; UK fleet (Sky Sabre + Type 45 + QRA) characterized as "paltry" in 2024 parliamentary debate
 - [[habitable-worlds-catalog]] — PHL-maintained list of exoplanets meeting habitability criteria; ~70 of 5,000+
+- [[high-mean-molecular-weight-atmosphere]] — Atmospheres with μ > primordial H₂/He (~2.3 amu); diagnostic of volatile-rich formation and/or atmospheric escape; TOI-1130b at μ ~5.5 amu
 - [[hycean-worlds]] — Hypothetical habitable planet class with hydrogen atmosphere over liquid ocean; K2-18b is the archetype
 - [[hydrothermal-activity]] — Heat- and chemistry-driven seafloor exchange; inferred at Enceladus from plume H₂ detection; analog to Earth alkaline-vent origins-of-life chemistry
 - [[immaculate-constellation]] — Alleged unacknowledged Special Access Program for UAP surveillance and data collection
@@ -367,6 +380,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[lattice-c2]] — Anduril's AI-enabled open-architecture C2 software; March 2026 became JIATF-401 C-UAS C2 backbone via $87M task order under the $20B enterprise IDIQ
 - [[m-dwarf-stars]] — Most common stellar class in the galaxy and a preferred exoplanet-hunting substrate
 - [[mars-sample-return]] — Planned NASA mission to return Perseverance's rock samples to Earth for analysis
+- [[mini-neptune]] — Exoplanet class (~2-4 R⊕, ~5-20 M⊕) spanning multiple formation pathways; JWST TOI-1130b retrieval evidences volatile-rich ex-situ contribution
 - [[martian-ice-preservation]] — Capacity of Martian polar/subsurface ice to preserve organic biosignatures over tens of millions of years; pure ice 10× more protective than ice-soil mixtures
 - [[ndaa-uap-provisions]] — NDAA provisions mandating Pentagon transparency on UAP, especially FY2026 intercept briefing and classification requirements
 - [[non-human-intelligence]] — The hypothesized non-human origin of anomalous craft and materials in UAP discourse
@@ -390,6 +404,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[panspermia]] — Hypothesis that life spreads between planetary bodies; foundational assumption of population-statistics biosignature detection
 - [[pixl]] — Perseverance X-ray fluorescence instrument; mapped fine-scale nickel distribution in iron sulfides
 - [[photochemical-climate-model]] — Coupled model of atmospheric photochemistry and climate used to forward-model and invert exoplanet spectra
+- [[planetary-migration]] — Disk-torque/scattering/resonance-driven orbital drift; 2:1 resonance of TOI-1130 system canonical convergent-migration architecture
 - [[planetary-protection]] — Doctrine of preventing biological contamination of habitable bodies; Cassini Grand Finale as canonical case
 - [[prebiotic-chemistry]] — Pre-life chemical conditions (catalytic metals, reduced S, organic C) supporting emergence of microbial metabolism; invoked by 2026 Manelski Mars nickel paper
 - [[supercam]] — Perseverance LIBS/Raman/VISIR instrument suite; first detected Neretva Vallis nickel
@@ -411,6 +426,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[uss-eisenhower-uap-incident]] — 2021 USS Dwight D. Eisenhower SH-60 Seahawk FLIR observation of a metallic sphere accelerating to the horizon, plus broader Eisenhower Strike Group F-18 UAP encounters
 - [[uss-nimitz-uap-incident]] — 2004 Navy Tic Tac encounter off San Diego; catalyzed modern military UAP disclosure
 - [[varginha-incident]] — Alleged Jan 20, 1996 Brazilian government capture of two non-human entities near Varginha, Minas Gerais; cornerstone Brazilian UAP case
+- [[water-ice-line]] — Protoplanetary-disk radius beyond which water condenses as ice; compositional boundary used to infer ex-situ vs in-situ planet formation
 
 ## Analyses
 
