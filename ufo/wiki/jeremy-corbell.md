@@ -13,6 +13,11 @@ Per [[src-war-department-uap-release-2026-04]], Corbell and Knapp provided Congr
 
 Corbell publicly positions his **Sleeping Dog** effort as an independent-journalism backstop if official [[uap-disclosure]] stalls.
 
+## WEAPONIZED podcast (December 2025)
+
+Per [[src-uap-transparency-stalls-2025-12]], Corbell and [[george-knapp]] hosted Reps. [[eric-burlison]] and [[tim-burchett]] on the WEAPONIZED podcast in late 2025; the episode is the source for Burlison's Epstein-list-style subpoena proposal and Burchett's tunnel "shadowy figure" anecdote. Corbell publicly positions his **Sleeping Dog** effort as an independent-journalism backstop if official [[uap-disclosure]] stalls.
+
 ## Sources
 
 - [[src-war-department-uap-release-2026-04]]
+- [[src-uap-transparency-stalls-2025-12]]

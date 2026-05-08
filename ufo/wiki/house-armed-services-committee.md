@@ -13,8 +13,13 @@ U.S. House standing committee with jurisdiction over DoD authorization. Venue th
 
 Received [[pete-hegseth|Secretary of War Pete Hegseth]]'s FY27 written posture testimony — the first Secretary-of-War-level written-testimony affirmation of [[aaro]] as the U.S. government's UAP "focal point" since the February 2026 [[uap-disclosure]] directive. The testimony also names "[[drone-dominance|drone dominance]]" and "[[autonomous-warfare|autonomous warfare]]" as FY27 priorities, identifies [[golden-dome-for-america|Golden Dome for America]] as the homeland aerial-threat-defense program, and announces the realignment of the [[anomalous-health-incidents]] CFT to OUSW(R&E) with ~$3M in HAVANA Act payments disbursed under Trump ([[src-hegseth-fy27-posture-testimony-2026-04]]). Chairman [[dan-caine]] appeared alongside Hegseth.
 
+## "Four Corners" precondition (December 2025)
+
+Per [[src-uap-transparency-stalls-2025-12]], HASC chair [[mike-rogers]] told Rep. [[eric-burlison]] the [[uap-disclosure-act]] could be folded into the FY2026 NDAA only with [[four-corners-ndaa-process|Four Corners sign-off]] — concurrence from chairs and ranking members of HASC, [[senate-armed-services-committee|SASC]], [[house-permanent-select-committee-on-intelligence|HPSCI]], and SSCI. Liberation Times sources characterize this precondition as designed to fail; UAPDA was again excluded from the FY2026 cycle.
+
 ## Sources
 
 - [[src-counter-act-secure-skies-bills-2026-04]]
 - [[src-uap-whistleblower-protection-act-2025-09]]
 - [[src-hegseth-fy27-posture-testimony-2026-04]]
+- [[src-uap-transparency-stalls-2025-12]]

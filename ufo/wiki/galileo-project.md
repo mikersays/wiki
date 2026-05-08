@@ -31,6 +31,10 @@ Verify, don't dismiss. Loeb cites a 2026 case ([[src-loeb-wh-uap-videos-skeptic-
 
 The Galileo Project participated in [[aaro]]'s August 2025 UAP narrative-data workshop organized by [[aui]] ([[src-aaro-uap-data-collection-whitepaper-2026-03]]), alongside [[nuforc]], [[scu]], and [[uapx]]. Loeb has offered to share Galileo's hardware/software lessons with the Pentagon and to sit on any review board analyzing classified UAP satellite imagery.
 
+## Panspermia line of work (2026)
+
+Per [[src-loeb-panspermia-impact-survival-2026-03]], Loeb's research group has produced peer-reviewed papers on [[panspermia]] feasibility across [[trappist-1]], the Milky Way, and the Galactic center. The March 2026 essay extends this into [[directed-panspermia]] — proposing a microbe-nutrient-power capsule attached to an [[interstellar-objects|interstellar object]] like [[3i-atlas]] as a deliberate exoplanet-seeding mechanism. Loeb pairs this with the speculative "Trojan Horse" framing that some interstellar objects could carry technological payloads.
+
 ## See Also
 
 - [[avi-loeb]]
@@ -39,6 +43,11 @@ The Galileo Project participated in [[aaro]]'s August 2025 UAP narrative-data wo
 - [[uap-scientific-study]]
 - [[seti]]
 - [[astrobiology]]
+- [[panspermia]]
+- [[directed-panspermia]]
+- [[interstellar-objects]]
+- [[3i-atlas]]
 - [[src-galileo-project-uap-capability-2026-03]]
 - [[src-loeb-wh-uap-videos-skeptic-2026-04]]
 - [[src-aaro-uap-data-collection-whitepaper-2026-03]]
+- [[src-loeb-panspermia-impact-survival-2026-03]]

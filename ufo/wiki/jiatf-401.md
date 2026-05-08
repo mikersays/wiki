@@ -2,12 +2,12 @@
 title: Joint Interagency Task Force 401 (JIATF-401)
 type: entity
 created: 2026-04-29
-updated: 2026-05-06
+updated: 2026-05-07
 ---
 
 # Joint Interagency Task Force 401 (JIATF-401)
 
-U.S. Army-led Pentagon task force chartered to build out the U.S. military's [[counter-uas|counter-unmanned-aerial-system]] capability across both overseas-combat and homeland-defense missions. Director (April 2026): Brig. Gen. [[matt-ross]]; lead acquisitions specialist: Maj. [[matt-mellor]]; spokesperson: Lt. Col. [[adam-scher]]. Framed as the [[department-of-war]]'s lead organization for rapidly fielding C-UAS systems and aligning allied approaches.
+U.S. Army-led Pentagon task force chartered to build out the U.S. military's [[counter-uas|counter-unmanned-aerial-system]] capability across both overseas-combat and homeland-defense missions. Director (April 2026): Brig. Gen. [[matt-ross]]; deputy director (May 2026): Col. [[scott-mclellan]]; lead acquisitions specialist: Maj. [[matt-mellor]]; spokesperson: Lt. Col. [[adam-scher]]. Framed as the [[department-of-war]]'s lead organization for rapidly fielding C-UAS systems and aligning allied approaches.
 
 ## April 2026 commitments
 
@@ -19,6 +19,10 @@ Per [[src-counter-drone-middle-east-jiatf-2026-04|DefenseScoop reporting]]:
 - FY2027 budget request proposes a "massive increase" on top of FY2026 dollars.
 
 [[tom-karako]] (CSIS) argues the [[drone-incursions|drone problem]] has been "artificially divided" between combat and homeland — JIATF-401 is the institutional answer.
+
+## May 2026 — Directed-energy 5-base pilot
+
+Per [[src-directed-energy-5-bases-pilot-2026-05]], JIATF-401 announced on May 7 2026 a Pentagon pilot to field [[directed-energy-weapons]] (high-energy lasers and high-powered microwaves) at five U.S. bases within 180 days: [[naval-base-kitsap]] (Navy, WA), [[fort-bliss]] (Army, TX), [[fort-huachuca]] (Army, AZ), [[grand-forks-afb]] (USAF, ND), and [[whiteman-afb]] (USAF, MO). Brig. Gen. Matt Ross framed the pilot as "no silver bullet" — DEW is one element of a layered defense alongside the existing kinetic and RF C-UAS portfolio. Col. [[scott-mclellan]] cited [[white-sands-missile-range]] tests and U.S.-Mexico-border operational use as evidence that DE C-UAS does not pose "undue risk to passenger aircraft."
 
 ## NCR exercise and procurement (April 2026)
 
@@ -67,3 +71,11 @@ Per [[src-jiatf-401-marketplace-romania-2026-04|U.S. Army release]]: the Secreta
 - [[src-bumblebee-v2-ncr-counterdrone-2026-04]]
 - [[src-anduril-army-20b-counter-drone-idiq-2026-03]]
 - [[src-jiatf-401-marketplace-romania-2026-04]]
+- [[src-directed-energy-5-bases-pilot-2026-05]]
+- [[directed-energy-weapons]]
+- [[scott-mclellan]]
+- [[naval-base-kitsap]]
+- [[fort-bliss]]
+- [[fort-huachuca]]
+- [[grand-forks-afb]]
+- [[white-sands-missile-range]]

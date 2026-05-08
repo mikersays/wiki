@@ -22,7 +22,8 @@ updated: 2026-04-16
 - [[scu]] -- Advocates for independent civilian sensor networks
 
 ### International
-- [[sky-canada-project]] -- Canada's comprehensive national framework including a bilingual public reporting app and standardized database
+- [[sky-canada-project]] -- Canada's comprehensive national framework including a bilingual public reporting app and standardized database; preliminary report Jan 2025 ([[src-canada-sky-canada-project-2025-02]]) and final report July 2025; institutional host (CSA vs. [[transport-canada]]) still unresolved
+- [[transport-canada]] -- Ran de facto Canadian UAP-report intake until 2021 (forwarded to [[chris-rutkowski]]); MP [[larry-maguire]]'s preferred home for any future Canadian UAP body
 - [[japan-uap-framework]] -- Japan's March 2026 parliamentary proposal for a specialized UAP body under the Cabinet Secretariat's Deputy Chief Cabinet Secretary for Crisis Management ([[src-japan-uap-strategy-proposal-2026-03]])
 - **University of Wurzburg AllSkyCAM** -- German automated camera systems developed with civil aviation authority
 
@@ -68,3 +69,4 @@ AARO's 2025 UAP Workshop whitepaper ([[src-aaro-uap-data-collection-whitepaper-2
 - [[src-aaro-kosloski-testimony-2024]] -- Public reporting mechanism plans
 - [[src-aaro-uap-data-collection-whitepaper-2026-03]] -- Narrative-data framework, field-level recommendations
 - [[src-japan-uap-strategy-proposal-2026-03]] -- Japan's proposed whole-of-government UAP body
+- [[src-canada-sky-canada-project-2025-02]] -- Canadian Sky Canada Project preliminary report and political prospects

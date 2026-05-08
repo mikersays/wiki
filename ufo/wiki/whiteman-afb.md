@@ -2,7 +2,7 @@
 title: Whiteman Air Force Base
 type: entity
 created: 2026-04-19
-updated: 2026-04-19
+updated: 2026-05-07
 ---
 
 **Whiteman Air Force Base** is a U.S. Air Force installation in Missouri, home of the B-2 Spirit stealth bomber fleet. Whiteman's B-2s executed strikes against Iran during [[operation-epic-fury]] in February 2026.
@@ -11,9 +11,12 @@ In March 2026 SASC testimony ([[src-drone-incursions-epic-fury-2026-03]]), Gen. 
 
 Whiteman lies in the Senate district of [[eric-schmitt]] (R-MO), who questioned Guillot on homeland drone defense at the hearing.
 
+In May 2026, Whiteman was named one of five sites — alongside [[naval-base-kitsap]], [[fort-bliss]], [[fort-huachuca]], and [[grand-forks-afb]] — for the [[jiatf-401]] [[directed-energy-weapons]] [[counter-uas]] pilot ([[src-directed-energy-5-bases-pilot-2026-05]]).
+
 ## Sources
 
 - [[src-drone-incursions-epic-fury-2026-03]]
+- [[src-directed-energy-5-bases-pilot-2026-05]]
 
 ## Related
 

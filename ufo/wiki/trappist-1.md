@@ -2,7 +2,7 @@
 title: TRAPPIST-1
 type: entity
 created: 2026-04-25
-updated: 2026-04-28
+updated: 2026-05-07
 ---
 
 # TRAPPIST-1
@@ -36,3 +36,8 @@ Together these results suggest TRAPPIST-1 may host detectable biosignatures (or 
 - [[exoplanet-habitability]]
 - [[src-biosignature-gas-flux-inference-2026-04]]
 - [[src-interplanetary-habitable-zone-2026]]
+- [[src-loeb-panspermia-impact-survival-2026-03]]
+
+## Panspermia angle
+
+Per [[src-loeb-panspermia-impact-survival-2026-03]], [[avi-loeb]] cites TRAPPIST-1's tightly-packed seven-rocky-planet architecture as a worked example for natural inter-planetary [[panspermia]] — adjacent habitable-zone worlds should already exchange microbial life via ordinary impact-spallation transfer if life originates on any one of them.

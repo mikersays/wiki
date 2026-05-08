@@ -2,7 +2,7 @@
 title: Drone Incursions Over U.S. Military Sites
 type: concept
 created: 2026-04-16
-updated: 2026-05-01
+updated: 2026-05-07
 ---
 
 **Drone incursions** refer to the 2019-2026 pattern of unexplained or unauthorized small unmanned aerial system (sUAS) activity over U.S. military bases, nuclear facilities, and critical infrastructure. The pattern sits in the grey zone between conventional air-defense concerns and [[uap-reporting-infrastructure|UAP reporting]].
@@ -25,6 +25,7 @@ updated: 2026-05-01
 - **Ongoing** — [[white-sands-missile-range]], NM — Rep. [[gabe-vasquez]] cites "exponential rate" of unidentified drone incursions; motivating example for the [[counter-act|COUNTER Act]] (2026 NDAA) ([[src-counter-act-secure-skies-bills-2026-04]])
 - **Feb 2026** — [[el-paso-international-airport]] TFR (purported [[cartel-drone-threat|cartel drone]]) and [[fort-hancock]] DoD-laser-vs-[[customs-and-border-protection|CBP]]-drone incident — both attributed by Vasquez to FAA/DoD/[[department-of-homeland-security|DHS]] miscommunication during unapproved C-UAS testing in protected airspace ([[src-counter-act-secure-skies-bills-2026-04]])
 - **Apr 2026** — [[fort-belvoir]] / NCR — [[3rd-infantry-regiment]] trains on [[bumblebee-counter-uas|Bumblebee V1]] in joint [[jiatf-401]] / [[jtf-ncr]] exercise ([[src-bumblebee-v2-ncr-counterdrone-2026-04]])
+- **May 7, 2026** — [[jiatf-401]] announces 5-base [[directed-energy-weapons]] [[counter-uas]] pilot at [[naval-base-kitsap]], [[fort-bliss]], [[fort-huachuca]], [[grand-forks-afb]], and [[whiteman-afb]], 180-day fielding goal; cites 350 detections across ~100 installations in the prior year (Guillot, Feb 2025) and "almost daily" NORTHCOM framing ([[src-directed-energy-5-bases-pilot-2026-05]])
 
 ## FY27 budget framing (April 2026)
 
@@ -42,6 +43,8 @@ Hegseth's April 29, 2026 [[house-armed-services-committee]] posture testimony na
 ## Overlap with UAP
 
 Many incidents attributed publicly to "drone" activity have characteristics (speed, altitude, flight profile) that place them in the UAP reporting pipeline. The overlap is acknowledged in the FY2026 [[ndaa-uap-provisions|NDAA]] provisions requiring a unified briefing framework. Several incursions (Palo Verde, Barksdale, Whiteman, UK nuclear storage) feed the [[nuclear-uap-correlation]] pattern.
+
+[[src-uap-transparency-stalls-2025-12]] adds an uncorroborated layer: Liberation Times sources attribute the late-2024 / early-2025 East Coast drone wave to **Chinese-operated craft using anti-gravitic propulsion**, with allegations of similar U.S. operational programs. The same sources connect [[matthew-livelsberger]]'s classified Las Vegas manifesto to these claims as a possible nuclear-triad-adjacent warning. These claims are anonymous and unverified.
 
 ## Domestic vs. overseas split
 
@@ -63,3 +66,5 @@ Many incidents attributed publicly to "drone" activity have characteristics (spe
 - [[src-bumblebee-v2-ncr-counterdrone-2026-04]]
 - [[src-uk-airspace-defense-gap-2024-11]]
 - [[src-hegseth-fy27-posture-testimony-2026-04]]
+- [[src-directed-energy-5-bases-pilot-2026-05]]
+- [[src-uap-transparency-stalls-2025-12]]

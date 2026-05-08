@@ -72,6 +72,10 @@ Mission implication: future Mars landers should drill into clean buried ice, not
 
 [[harrison-b-smith]] and [[lana-sinapayen]] ([[earth-life-science-institute]], April 2026) propose detecting life through **statistical correlations across exoplanet populations** rather than individual-planet chemical markers. The method assumes [[panspermia]] and environmental modification, using agent-based simulations to recover life-influenced planet clusters. Designed to minimize [[false-positive-biosignatures|false positives]] and avoid assuming any specific biochemistry. Applicable to large future surveys ([[habitable-worlds-observatory]]). See [[src-panspermia-agnostic-biosignature-2026-04]] and [[agnostic-biosignature]].
 
+## Solar-system contamination prior
+
+Per [[src-venus-panspermia-earth-origin-2026-04]], a [[jhuapl]]/[[sandia-national-laboratories]] team using the [[venus-life-equation]] estimates ~100 viable Earth-derived cells per year may reach [[venus]]'s clouds via natural impact-spallation [[panspermia]] (~20 billion over 1 Gyr). Any positive Venus-cloud life detection therefore carries a non-trivial Earth-contamination prior — see [[false-positive-biosignatures]]. The same "panspermia contamination" failure mode applies to other tightly-coupled systems such as [[trappist-1]].
+
 ## K2-18b Status (2026 Update)
 
 The DMS/DMDS biosignature claim on [[k2-18b]] is described in the 2026 technosignature follow-up paper as "heavily disputed." A parallel VLA + MeerKAT [[technosignatures|technosignature]] search on the same target returned a null result ([[src-k2-18b-technosignature-null-2026]]). The combined picture — a contested biosignature plus a technosignature null on the same planet — makes K2-18b a methodologically important case study.

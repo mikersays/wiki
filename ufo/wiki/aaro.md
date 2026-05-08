@@ -98,3 +98,8 @@ Per [[src-war-department-uap-release-2026-04]], a [[department-of-war|Department
 - [[src-trump-pentagon-uap-files-2026-05]]
 - [[src-luna-nonhuman-origin-pod-force-one-2026-04]]
 - [[src-hegseth-fy27-posture-testimony-2026-04]]
+- [[src-canada-sky-canada-project-2025-02]]
+
+## International coordination
+
+Per [[src-canada-sky-canada-project-2025-02]], AARO is cited by Canadian UAP transparency advocates (MP [[larry-maguire]], [[chris-rutkowski]]) as the model their proposed federal lead would coordinate with. Canada's lack of a designated UAP contact is identified as the chief barrier to bilateral cooperation; [[geipan]] (France) and [[japan-uap-parliamentary-group|Japan]] face the parallel structural gap.

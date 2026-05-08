@@ -2,7 +2,7 @@
 title: Avi Loeb
 type: entity
 created: 2026-04-16
-updated: 2026-04-28
+updated: 2026-05-07
 ---
 
 **Avi Loeb** is a Harvard astrophysicist and co-founder (with [[frank-laukien]], July 2021) of the [[galileo-project]], a scientific initiative searching for extraterrestrial technological artifacts. Loeb directed Harvard's Institute for Theory and Computation for 20 years.
@@ -25,9 +25,16 @@ He illustrates the verify-don't-dismiss methodology with a Galileo Project case 
 
 In [[src-galileo-project-uap-capability-2026-03]], Loeb announces a major instrumentation milestone: Galileo can now measure distances to airborne objects to better than 10% via 10-km-baseline multi-station observation, enabling true 3D velocity and acceleration (see [[uap-triangulation]]). He frames this as a **scientific alternative to government [[uap-disclosure]]** — civilian instruments can independently verify whether an object lies outside human-tech performance envelopes regardless of file release. Loeb identifies the unknown camera-to-object distance as the "Achilles Heel" of past congressional UAP videos and offers to sit on a review board for any classified UAP satellite data.
 
+## Panspermia and directed panspermia (March 2026)
+
+In a March 19 2026 Medium essay ([[src-loeb-panspermia-impact-survival-2026-03]]), Loeb argues that newly published ~2 GPa microbe-pressure-survival data, combined with [[deinococcus-radiodurans]]'s tolerance for interplanetary transit, materially strengthens the natural [[panspermia]] case. He extends the argument to **[[directed-panspermia]]** — proposing humans attach a microbe-nutrient-power capsule to an [[interstellar-objects|interstellar object]] like [[3i-atlas]] to deliberately seed exoplanet habitable zones. Loeb invokes Mars meteorite [[alh84001]], the seven-planet [[trappist-1]] system, the [[ryugu]] DNA-base detection (via [[spherex]] organics on 3I/ATLAS for the interstellar-object angle), and the "we are all Martians" [[luca]] hypothesis ~4.2 Gya.
+
+He also raises a speculative "Trojan Horse" framing — that some interstellar objects could appear as natural comets while carrying technological payloads — continuous with his earlier [[galileo-project]] line of argument.
+
 ## Sources
 
 - [[src-trump-uap-files-delay-2026-03]]
 - [[src-galileo-project-uap-capability-2026-03]]
 - [[src-loeb-wh-uap-videos-skeptic-2026-04]]
 - [[src-trump-tpusa-ufo-tease-2026-04]]
+- [[src-loeb-panspermia-impact-survival-2026-03]]

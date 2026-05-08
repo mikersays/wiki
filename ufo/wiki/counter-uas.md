@@ -17,7 +17,8 @@ Doctrine, sensors, and effectors for detecting, tracking, and defeating small un
 - [[coyote-interceptor]] — Raytheon kinetic interceptor; suspected (per [[tom-karako]]) of doing "the lion's share of the drone killing" in CENTCOM.
 - [[bumblebee-counter-uas|Bumblebee V1/V2]] — JIATF-401 small low-collateral kinetic effector (V1) and FPV multi-rotor interceptor (V2); follow-home and air-to-air defeat CONOPS; trained at [[fort-belvoir]] with [[3rd-infantry-regiment]] in April 2026 ([[src-bumblebee-v2-ncr-counterdrone-2026-04]]).
 - **DroneHunter F700** — [[fortem-technologies|Fortem]] net-capture interceptor procured by JIATF-401.
-- **High-energy laser** — [[jiatf-401]]/[[faa]] joint test in March 2026 prioritizing civil-aviation safety.
+- **High-energy laser** — [[jiatf-401]]/[[faa]] joint test in March 2026 prioritizing civil-aviation safety; underwrites the May 2026 5-base [[directed-energy-weapons]] pilot at [[naval-base-kitsap]], [[fort-bliss]], [[fort-huachuca]], [[grand-forks-afb]], and [[whiteman-afb]] ([[src-directed-energy-5-bases-pilot-2026-05]]).
+- **High-powered microwave** — paired with HEL in the May 2026 [[directed-energy-weapons]] pilot ([[src-directed-energy-5-bases-pilot-2026-05]]).
 - **Merops** — AI-enabled optical-tracking C-UAS system fielded in CENTCOM.
 - **Smart Shooter** — rifle-mounted fire-control optic for engaging small drones; deployed at the southern border.
 - **Wingman**, **Pitbull** — additional border C-UAS systems funded by [[jiatf-401]].

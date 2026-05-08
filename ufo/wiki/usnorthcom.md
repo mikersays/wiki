@@ -2,7 +2,7 @@
 title: U.S. Northern Command (USNORTHCOM)
 type: entity
 created: 2026-04-13
-updated: 2026-04-16
+updated: 2026-05-07
 ---
 
 # U.S. Northern Command (USNORTHCOM)
@@ -23,4 +23,8 @@ Per [[src-northcom-drone-incursion-2026-03]], [[gregory-guillot|Gen. Gregory Gui
 
 See also [[drone-incursions]] and the foundational [[src-60-minutes-drone-swarms-2025|March 2025 60 Minutes piece]] where Guillot first publicly previewed the FAK concept.
 
-See also: [[norad]], [[aaro]], [[ndaa-uap-provisions]], [[uap-disclosure]], [[gregory-guillot]], [[flyaway-kit]], [[glen-vanherck]], [[langley-afb]], [[barksdale-afb]]
+## Almost-daily framing (October 2025)
+
+Per [[src-directed-energy-5-bases-pilot-2026-05]], NORTHCOM characterized drone incursions over U.S. military installations as **"almost daily"** in an October 2025 statement, complementing Guillot's February 2025 figure of 350 detections at ~100 installations in the prior year. This framing underwrote the May 2026 [[jiatf-401]] [[directed-energy-weapons]] 5-base pilot.
+
+See also: [[norad]], [[aaro]], [[ndaa-uap-provisions]], [[uap-disclosure]], [[gregory-guillot]], [[flyaway-kit]], [[glen-vanherck]], [[langley-afb]], [[barksdale-afb]], [[src-directed-energy-5-bases-pilot-2026-05]]
