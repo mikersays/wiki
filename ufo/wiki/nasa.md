@@ -33,6 +33,10 @@ NASA operates several missions and programs central to the search for [[biosigna
 - **NASA Ames astrobiology**: [[caleb-scharf]] introduced the [[interplanetary-habitable-zone]] framework in March 2026, reframing exoplanet habitability as a system-scale, multi-dimensional question ([[src-interplanetary-habitable-zone-2026]]).
 - **Seven-firm biosignature partnership (May 2026, unverified primary source)**: A syndicated business-press item describes a NASA partnership with seven (unnamed) technology firms to enhance [[biosignatures|biosignature]]-detection capability for Mars and [[ocean-worlds]] (miniaturized sensors, AI-enabled on-board analysis, plume/ice-penetrating probes). The report names no firms, contains no quotes, and is not yet cross-referenced to a NASA.gov announcement — treat as thin secondary coverage ([[src-nasa-seven-firms-biosignature-2026-05]]).
 
+## PURSUE Participation (May 8, 2026)
+
+NASA is a co-principal on the May 2026 [[pursue]] inaugural release. Administrator [[jared-isaacman]] gave a measured, data-driven on-record statement: "follow the data, and share what we learn… We will remain candid about what we know to be true, what we have yet to understand, and all that remains to be discovered." NASA's contribution to Release 01 includes [[apollo-12]] and [[apollo-17]] photographs and Apollo crew voice transcripts (the "very jagged, angular fragments that are tumbling" / "Fourth of July out of Ron's window" passages — see [[lunar-uap-historical-claims]]).
+
 ## See Also
 
 - [[esa]]
@@ -43,3 +47,5 @@ NASA operates several missions and programs central to the search for [[biosigna
 - [[src-cassini-huygens-ocean-worlds-2026-04]]
 - [[src-trump-pentagon-uap-files-2026-05]] — context: a White House event for NASA astronauts was the venue for Trump's May 3, 2026 UAP-release remarks.
 - [[src-nasa-seven-firms-biosignature-2026-05]]
+- [[jared-isaacman]] · [[apollo-12]] · [[apollo-17]] · [[lunar-uap-historical-claims]] · [[pursue]]
+- [[src-dow-uap-files-release-2026-05]] · [[src-pursue-portal-launch-2026-05]] · [[src-uap-files-rollout-interagency-2026-05]] · [[src-trump-uap-apollo-photos-2026-05]] · [[src-uap-files-public-conclusions-2026-05]]

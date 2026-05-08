@@ -72,3 +72,6 @@ Luna chaired a second hearing on April 24, 2026: "Restoring Public Trust Through
 - [[src-uap-whistleblower-protection-act-2025-09]]
 - [[src-trump-pentagon-uap-files-2026-05]]
 - [[src-luna-nonhuman-origin-pod-force-one-2026-04]]
+- [[src-uap-files-public-conclusions-2026-05]] — May 8, 2026: said the 46 demanded UAP videos are "expected in a later release" after the [[pursue]] Release 01 did not include them
+- [[src-dow-uap-files-release-2026-05]]
+- [[src-pursue-portal-launch-2026-05]]

@@ -31,6 +31,10 @@ Along with [[anna-paulina-luna]] and Eric Burlison, Burchett forms the core trio
 
 After Trump's [[turning-point-usa]] Phoenix tease, Burchett publicly thanked Trump on X — "Thank you for keeping your word to me @realDonaldTrump" — adding him to the chorus of GOP UAP-disclosure allies endorsing the rollout ([[src-trump-ufo-files-interesting-2026-04]]).
 
+## May 8, 2026 PURSUE Reaction
+
+After [[department-of-war]] launched [[pursue]] at `war.gov/UFO`, Burchett thanked Trump for "keeping his word" and counseled patience: "**Transparency won't all happen at once, it will take some time**" — framing the rollout as a multi-tranche project rather than a one-shot reveal ([[src-uap-files-public-conclusions-2026-05]]).
+
 ## Sources
 
 - [[src-uap-legislation-disclosure-efforts-2025]]
@@ -38,3 +42,5 @@ After Trump's [[turning-point-usa]] Phoenix tease, Burchett publicly thanked Tru
 - [[src-war-department-uap-release-2026-04]]
 - [[src-trump-ufo-files-interesting-2026-04]]
 - [[src-uap-whistleblower-protection-act-2025-09]]
+- [[src-uap-files-public-conclusions-2026-05]]
+- [[src-war-department-uap-declassification-2026-05]]

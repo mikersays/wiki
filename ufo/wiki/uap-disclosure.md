@@ -79,6 +79,32 @@ Per [[src-galileo-project-uap-capability-2026-03]], [[avi-loeb]] argues the [[ga
 - [[brazil]] — Senate UAP hearing June 2022 ([[src-brazil-uap-senate-hearings-2026]]), modeled on U.S. Congressional hearings; called for Gillibrand-style disclosure legislation
 - [[united-kingdom]] — Outlier: [[ministry-of-defence|MoD]] closed its UFO desk in 2009; reaffirmed "no military threat" position via [[luke-pollard]] in Dec 2024 despite contemporaneous incursions over USAF-operated [[raf-lakenheath]], [[raf-mildenhall]], [[raf-feltwell]], and [[raf-fairford]] ([[src-uk-mod-uap-no-threat-2024]])
 
+### May 8, 2026 — PURSUE Launch (First Concrete Records Drop)
+
+The [[department-of-war]] launched [[pursue]] (Presidential Unsealing and Reporting System for UAP Encounters) at `war.gov/UFO`, marking the first concrete records release under [[donald-trump]]'s February directive. Release 01: 162 files (120 PDFs, 28 videos, 14 images; 108 redacted) drawn from [[fbi]] (notably [[fbi-case-file-62-hq-83894]] from 1947–1968), [[nasa]] ([[apollo-12]]/[[apollo-17]] photos and voice transcripts plus [[gemini-7]], [[skylab]], and the [[apollo-11]] Technical Crew Debriefing — see [[lunar-uap-historical-claims]]), [[department-of-state]] (8 cables across 1952–2025 including the [[1994-tajik-air-uap-incident]]), and [[department-of-energy]]. [[odni]] ([[tulsi-gabbard]]) coordinates IC contributions; [[fbi]] ([[kash-patel]]) and [[nasa]] ([[jared-isaacman]]) are co-principals. PURSUE handles **unresolved** cases; [[aaro]] retains statutory resolved-case reporting. Pentagon X-post framing: "the public can ultimately make up their own minds." The full per-record catalog is at [[pursue-release-01-catalog]].
+
+#### Pre-publication declassification timeline
+
+Document-mirror analysis reveals that PURSUE Release 01 is a **publication** event rather than a declassification event. The underlying records were declassified by their originating agencies on a staggered timeline:
+
+- **2025-10-07** — USCENTCOM Chief of Staff MG Richard A. Harrison declassified [[department-of-war]] CENTCOM mission reports under MDR (Mandatory Declassification Review) authority. Stamps appear on multiple `DOW-UAP-D` files (e.g. D10, D14, D32) — predating the Trump directive by four months.
+- **2026-02-25 / 2026-03-02** — John Powers (Acting-Director, U.S. Department of State) declassified the State Department UAP cable corpus "Released in Full" under stamp `CSP-2025-00040`. Falls between Trump's Feb 19 directive and the May 8 release.
+- **2026-05-08** — Public release at war.gov/UFO.
+
+This means the Trump directive's main practical effect was to **trigger publication** of records mostly already cleared for release through agency-level declassification reviews — not to override classification holdings. The "rolling release" model maps onto an ongoing staggered declassification pipeline.
+
+#### Substantive content highlights
+
+- **[[fbi-case-file-62-hq-83894]]** — full 1947–1968 FBI flying-discs file (56 records), including a 2024-04-30 composite eyewitness sketch of an "ellipsoid bronze metallic object" (130–195 ft, materializing from a bright light, disappearing instantaneously) corroborating Sept 2023 reports.
+- **[[gemini-7]] (Dec 1965)** — Borman's "**bogey at ten o'clock high**" with the explicit "this is an actual sighting" call, distinct from booster and particles.
+- **[[1994-tajik-air-uap-incident]]** — 40-minute observation by three American 747SP pilots over Kazakhstan; explicit crew assessment "**extraterrestrial and under intelligent control**."
+- **[[usper-statement-2025-uap-encounter]]** — multi-hour helicopter aerial-search engagement with multiple swarms of orbs flaring up/down in horizontal formations; orb came within ten feet of the helicopter; orbs broke off to "pursue" the supporting military aircraft. Most detailed first-person UAP narrative in the release.
+- **DoW Mission Reports (`DOW-UAP-D` series)** — standardized form-template UAP reports from CENTCOM-AOR ISR sorties (2020–2024) over Iraq, Syria, UAE, Greece, Persian/Arabian Gulf. Form fields include "UAP Physical State," "UAP Propulsion Means," "UAP Under Intelligent Control," "Observer Assessment." Most are graded **Benign** with **Plasma** or **Solid** physical state and **Unknown** propulsion. Notable case D74 (Syria 9 Nov 2023): "traveled ~424 knots consistently for at least 7 minutes in the shape of a bouncy ball."
+
+The Pentagon promises rolling tranches "every few weeks." Skeptics warn that prior JFK/RFK/MLK record releases "revealed little beyond what was already known" and that UAP videos are easily misread by non-specialists. [[anna-paulina-luna]]'s 46 demanded videos ([[src-luna-46-uap-videos-demand-2026-03]]) are pledged for "a later release." [[steven-greer]]'s [[the-disclosure-project]] held a competing/parallel NPC press conference the same day ([[src-greer-disclosure-event-npc-2026-05]]).
+
+**Sources:** [[src-dow-uap-files-release-2026-05]], [[src-pursue-portal-launch-2026-05]], [[src-uap-files-rollout-interagency-2026-05]], [[src-trump-uap-apollo-photos-2026-05]], [[src-uap-files-public-conclusions-2026-05]], [[src-war-department-uap-declassification-2026-05]]. Per-record catalog: [[pursue-release-01-catalog]].
+
 ## Key Tensions
 
 - **Executive vs. legislative branch:** Congress has expressed bipartisan frustration with the pace and depth of disclosure from executive agencies

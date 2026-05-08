@@ -16,3 +16,5 @@ As president, Obama signed **Executive Order 13526** (2009), which establishes t
 - [[src-trump-uap-files-delay-2026-03]]
 - [[src-pentagon-uap-deadline-missed-2026-04]]
 - [[src-trump-tpusa-ufo-tease-2026-04]]
+- [[src-uap-files-rollout-interagency-2026-05]] — CBS reiterates Obama's Feb 2026 podcast remark as the proximate trigger for the [[pursue]] launch on 2026-05-08
+- [[src-trump-uap-apollo-photos-2026-05]]

@@ -455,3 +455,84 @@ Fetched via /ufo-news. Ingested 5 sources in parallel after dispatching 7 search
 - The Schumer/Rounds April 29 2026 declassification press release (404 from democrats.senate.gov) — worth manual retrieval; would be the most recent Senate-side UAPDA artifact.
 - Watch for a primary-source nasa.gov / aaro.mil release on the AARO secure reporting mechanism; the misdated 2023 release surfaced in this sweep is genuine institutional content the wiki currently lacks.
 - Follow-up query: cross-reference [[matthew-livelsberger]]'s manifesto status with FBI/DoD records — is it under [[uap-personnel-deaths-pattern]] coverage? Currently flagged as adjacent but unverified.
+
+## [2026-05-08] ingest | UFO news sweep — PURSUE launch (7 articles)
+
+Fetched via /ufo-news with focus topic "alien disclosure 2026" the same day the Pentagon launched the **PURSUE** (Presidential Unsealing and Reporting System for UAP Encounters) portal at war.gov/UFO. Six parallel search tracks dispatched (Trump-pentagon-release, congressional-disclosure, whistleblowers, AARO/primary-sources, Senate-disclosure, international). Triage produced 12 candidates clustered around the May 8 release event; user chose all. 7 saved, 2 skipped as legitimate duplicates (DefenseScoop AARO workshop = the existing 2025 page; Sentinel News Japan-Hamada = existing src-japan-uap-strategy-proposal-2026-03), 3 failed retries (Luna 46-video PDF 403 — already covered by secondary; ODNI 2026 ATA 403 unverified-UAP-content; UK Parliament Q120961 403 unverified-on-topic).
+
+**New sources (7) — five framings of one event + one primary portal + one parallel-track:**
+- [[src-dow-uap-files-release-2026-05]] — Department of War: PURSUE press release with Hegseth/Gabbard/Patel/Isaacman quotes; interagency includes DOE
+- [[src-pursue-portal-launch-2026-05]] — war.gov/UFO portal capture (Wayback): Release 01 = ~170 records; page 1 entirely [[fbi-case-file-62-hq-83894]] series
+- [[src-uap-files-rollout-interagency-2026-05]] — CBS interagency framing (sourcing note: body reconstructed from CBS+Fox after CNN truncation)
+- [[src-uap-files-public-conclusions-2026-05]] — AP/WaPo skeptical "draw your own conclusions" framing
+- [[src-trump-uap-apollo-photos-2026-05]] — Fox enthusiastic framing leading on Apollo 12/17 transcripts
+- [[src-war-department-uap-declassification-2026-05]] — Washington Examiner right-leaning framing centering "long fueled justified speculation"
+- [[src-greer-disclosure-event-npc-2026-05]] — PR Newswire: parallel/competing Greer Disclosure Project NPC event same day
+
+**New entities (9):** [[apollo-12]], [[apollo-17]], [[department-of-energy]], [[jaime-maussan]], [[jared-isaacman]], [[kash-patel]], [[steven-greer]], [[the-disclosure-project]], [[tulsi-gabbard]]
+
+**New concepts (3):** [[fbi-case-file-62-hq-83894]], [[lunar-uap-historical-claims]], [[pursue]]
+
+**Pages updated (~14):** [[uap-disclosure]], [[department-of-war]], [[aaro]], [[donald-trump]], [[pete-hegseth]], [[fbi]], [[nasa]], [[odni]], [[anna-paulina-luna]], [[tim-burchett]], [[eric-burlison]], [[barack-obama]], [[anna-kelly]], [[alien-gov-portal]]
+
+**Cross-connections observed:**
+- **Convergent five-framing event coverage.** The May 8 PURSUE launch produced five distinct media framings within hours: war.gov primary press release, Fox News (enthusiastic Apollo lede), CBS News (measured interagency framing with file/redaction counts and FBI 62-HQ-83894), AP/WaPo (skeptical "draw your own conclusions"), Washington Examiner (populist "swamp" framing). Each captures a different facet of the same release. The wiki now has the document-substance (CBS), the rhetorical framing (AP/Examiner), and the visual material (Fox/Apollo) all separately citable.
+- **PURSUE/AARO division of labor.** Release 01 formalizes a new institutional split: [[pursue]] handles **unresolved** cases on a rolling-release portal model; [[aaro]] retains statutory **resolved-case** reporting. The PURSUE portal's only "Learn More" link routes to aaro.mil. Reframes the AARO/PURSUE relationship across [[uap-disclosure]] coverage.
+- **DOE enters the disclosure architecture for the first time.** [[department-of-energy]] is a new participant in the federal UAP-disclosure stack (per AP/WaPo and Examiner). Notably, [[oak-ridge-tennessee|Oak Ridge]] (a DOE site) shows up as the geographic origin of FBI reports inside [[fbi-case-file-62-hq-83894]] — connecting DOE legacy infrastructure to the substance of Release 01 and reinforcing the [[nuclear-uap-correlation]] pattern.
+- **Apollo material enters the wiki as official UAP records for the first time.** [[apollo-12]] and [[apollo-17]] photographs and crew voice transcripts are part of an official U.S. government UAP records set. The "Fourth of July out of Ron's window" / "very jagged, angular fragments that are tumbling" passages now have a citable home in [[lunar-uap-historical-claims]]. The Pentagon's own caption on the Apollo 17 surface photo notes "no consensus" but a preliminary "physical object" interpretation — short of an ET claim, but the strongest official posture on lunar UAP material the wiki has captured.
+- **Greer parallel track on the same day.** [[steven-greer]]'s [[the-disclosure-project]] held the 25th-anniversary NPC press conference on May 8 — a competing/parallel narrative to the official Pentagon release. Greer's billed witnesses (anonymous Green Beret, two Marines, Maussan's Buga Sphere) make claims (Indiana underground non-human-artifact facility, man-made "Tic Tac" used in human trafficking, ~12,560-year-resin Buga Sphere) that contradict the Pentagon's null position. Both are now wiki-citable and explicitly cross-linked.
+- **Burchett/Burlison vs. Luna media credit asymmetry.** Washington Examiner's framing names [[tim-burchett]] and [[eric-burlison]] as the congressional beneficiaries of the rollout but omits [[anna-paulina-luna]] — even though Luna's 46-video demand drove much of the pre-release pressure. AP/WaPo includes Luna's May 8 statement that the 46 videos are "expected in a later release." Different ideological framings produced different congressional credit rosters from the same event.
+
+**Contradictions / caveats:**
+- **CNN reconstruction.** [[src-uap-files-rollout-interagency-2026-05]]'s body was reconstructed primarily from CBS News (Becket/Watson/Walsh) cross-checked against Fox News because CNN's article was truncated by WebFetch and Wayback was blocked. The source page is reattributed to CBS as primary outlet with CNN/Fox as secondary URLs and an explicit fetch_note. CBS contributes most of the document specifics (file/redaction counts, [[fbi-case-file-62-hq-83894]], "ellipsoid bronze metallic object" sketch); Fox contributes the Apollo transcript verbatim.
+- **Greer claims unverified.** All testimony billed at the May 8 NPC event is anonymous and uncorroborated; Maussan's prior artifact presentations have been widely disputed by mainstream science. [[src-greer-disclosure-event-npc-2026-05]] flags this throughout.
+- **PURSUE's "Reporting" element is currently release-only.** The captured portal page contains no public sighting-submission form despite the "Reporting" component of the PURSUE acronym — flagged in [[pursue]] and [[src-pursue-portal-launch-2026-05]].
+- **DoW press wire ≠ document specifics.** The DoW press release ([[src-dow-uap-files-release-2026-05]]) does not enumerate the 162-file count, the FBI case-file ID, or the Apollo material — those details appear only in media coverage. The press wire is also high-level on agency participation (it does NOT name [[jon-kosloski]], for example).
+- **war.gov returns 403 to direct fetches.** The DoW release and the PURSUE portal both required Wayback Machine fallback to retrieve.
+
+**Suggested follow-ups:**
+- Track subsequent PURSUE tranches (promised "every few weeks") — especially whether [[anna-paulina-luna|Luna]]'s 46-video set appears as advertised, and how much of future tranches consists of genuinely new material vs. recycled FOIA holdings.
+- The ODNI 2026 ATA PDF — fetch fail; worth a manual retrieval to confirm whether it has a UAP section.
+- [[fbi-case-file-62-hq-83894]] is currently a stub; future ingests of subsequent PURSUE pages (Release 01 has 17 portal pages, only page 1 captured) should hang off it.
+- [[apollo-12]] and [[apollo-17]] are also stubs that will benefit from follow-up coverage cataloguing specific frame numbers and Pentagon captions per photograph.
+- [[anna-paulina-luna]]'s pledged "press conference upon declassification" of her SCIF observations — watch whether PURSUE Release 01 is treated by Luna as the trigger.
+
+## [2026-05-08] ingest | PURSUE Release 01 deep ingest (162 records, 130 PDFs/IMGs mirrored)
+
+Full per-record ingest of the May 8, 2026 [[pursue]] Release 01 corpus, building on the same-day surface ingest. Manifest CSV from `war.gov/Portals/1/Interactive/2026/UFO/uap-csv.csv` retrieved via Wayback Machine and parsed; 162 records (120 PDFs, 28 videos, 14 images) catalogued. **127 unique PDFs/IMGs (97%) downloaded** via Wayback Machine `id_` pattern in three retry passes (parallel, then serial with delays, then encoded for special-character URLs); the corrupted manifest URL for FBI Serial 153 was recovered by guessing the corrected filename. Final tally: **2.4 GB** of source PDFs + the original manifest CSV mirrored to `ufo/raw/assets/pursue-release-01/`. `pdftotext -layout` ran on all PDFs; ~117 yielded extractable text, with the largest being DoW historical reports (D48 RTI booster-failure modeling, D49 launch summary).
+
+Direct war.gov access blocked by Akamai 403 for both WebFetch and Playwright; everything went through Wayback. Playwright did succeed at navigating the Wayback snapshot of the portal page, validating the `pursue-release-01-catalog` against the live (Wayback) page and confirming the 17-image evidence carousel with rich `dataset` titles ("FBI Photo A5", "DOW-UAP-PR19, Middle East, May 2022", etc.) richer than the carousel-page captions.
+
+**New analysis pages (3):**
+- [[pursue-release-01-catalog]] — Per-record catalog of all 162 files (Sources/Entities/Concepts table-based)
+- [[1994-tajik-air-uap-incident]] — 40-minute multi-witness ET-assessed sighting from State Dept Cable 2; full incident analysis
+- [[usper-statement-2025-uap-encounter]] — Late-2025 multi-witness helicopter UAP engagement narrative
+
+**New entity pages (4):**
+- [[apollo-11]] · [[gemini-7]] · [[skylab]] · [[department-of-state]]
+
+**Updated pages (~7):** [[apollo-12]] (D1 transcript + 5 photos cataloged), [[apollo-17]] (D2/D5/D6/VM6 cataloged), [[lunar-uap-historical-claims]] (Apollo 11 + Gemini 7 + Skylab + 1965 LEO incident + "UFO's and Defense" paper added), [[fbi-case-file-62-hq-83894]] (full case-file scope updated; 56 records confirmed), [[department-of-state]] (per-cable contents populated), [[department-of-war]] (USCENTCOM Oct 2025 declass timeline + standard form template documented), [[uap-disclosure]] (May 8 section significantly expanded with declassification timeline insight and substantive content highlights).
+
+**Major findings from primary-source extraction:**
+
+- **PURSUE Release 01 is a publication event, not a declassification event.** Underlying records were declassified by their originating agencies on a staggered timeline well before May 8: DoW/CENTCOM mission reports declassified by MG Richard A. Harrison (USCENTCOM Chief of Staff) on **2025-10-07** under standing MDR authority (`USCENTCOM MDR 25-0093`, four months *before* Trump's Feb 19 directive); State Department cables declassified by John Powers (Acting-Director) "Released in Full" on **2026-02-25** under stamp `CSP-2025-00040`. The Trump directive's main practical effect was to trigger publication of records mostly already cleared for release.
+- **DOW-UAP-D form template documented.** All CENTCOM-AOR mission reports use a recurring "UAP" form-template with fields for Physical State (Plasma/Solid), Propulsion Means (Unknown), Under Intelligent Control (mostly NO), Observer Assessment (mostly Benign), Advanced Capabilities (sometimes YES — D74's "bouncy ball" 424-knot Syria event), Engagement (mostly NO), Effects (NONE). "Approved for Release to AARO" footer on most reports.
+- **Three substantive new UAP narratives surfaced:**
+  - **Gemini 7 (Dec 1965):** Borman's "BOGEY AT TEN O'CLOCK HIGH" + "this is an actual sighting" + "hundreds of little particles" + Lovell's "trillions of particles on [the booster]" — earliest formally-released US crewed-spaceflight UAP record. Tape T-00763 Rlb.
+  - **1994 Tajik Air over Kazakhstan:** 40-min observation by 3 American 747SP pilots; circular/corkscrew/90-degree-turn-under-very-high-G's maneuvering at ~100,000 ft; "bow wave" luminous signature like a high-speed bullet photo; persistent contrails reflecting maneuvers; Captain Ed Rhodes's explicit "**extraterrestrial and under intelligent control**" assessment. Pocket-Olympus photographs taken (not released).
+  - **USPER Statement (late 2025):** US helicopter aerial-search of US mountains; multi-hour engagement with swarms of orange/yellow orbs in horizontal-formation flare-up/down patterns; orb came within ten feet of helicopter; orbs "broke off" to "pursue" supporting military aircraft. Most detailed first-person UAP narrative in the release.
+- **State Department cable corpus is pan-decade and pan-geography.** 1952 → 2025; PNG, Tajikistan, Russia/Georgia, Mexico, Turkmenistan, USA. Released *in full* (no redactions, in contrast to heavily-redacted DoW reports).
+- **Manifest mislabelings.** Cable 2 location is "Kazakhstan" but the actual cable is from Tajikistan reporting an over-Kazakhstan event; Cable 5 date "September 16, 2003" is actually 2023; the FBI Serial 153 URL is corrupted (`+M5+M11`) but the file was recoverable under its proper filename.
+- **Apollo transcripts split between particles and bogeys.** Apollo 12 D1 + Apollo 17 D2 transcripts feature "particles of light/flashes of light" descriptions consistent with the IVA-debris null hypothesis (sublimating water/ice flakes); Apollo 17 D2 explicitly notes "no apparent relative motion between fragments" and "flat, flakelike particles" and "tracking light flashing on them" — supportive of debris reading. Gemini 7 D3 contains the harder-to-explain "bogey" call as a separate observation distinct from particles.
+
+**Failed / out-of-scope:**
+
+- 28 video records (`DOW-UAP-V`, NASA-VID) not downloaded per user scope ("all PDFs"). Available via Wayback as needed.
+- Several FBI scanned-image PDFs (62-HQ-83894 sections, 50-120 MB each) yielded little/no extractable text — would require OCR for full ingest. Local mirrors retained for future analysis.
+- 1 record corrupted in manifest (`65_hs1-8342289+M5+M11`) recovered as `serial_153.pdf` by filename inference.
+
+**Suggested follow-ups:**
+- OCR the 50-120MB FBI scanned PDFs to surface specific incident contents (Oak Ridge sightings, etc.)
+- Crawl the next PURSUE tranches as they post (~every few weeks per DoW)
+- Manual download of the 28 videos if the user chooses to extend scope
+- Surface specific DoW Mission Report incidents that warrant individual analysis (the D74 "bouncy ball" Syria 2023, D27 UAE October 2023 [carousel-confirmed PR26], D75 Gulf of Aden July 2024 etc.)

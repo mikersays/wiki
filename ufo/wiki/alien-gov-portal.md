@@ -25,6 +25,12 @@ All four variants (`alien.gov`, `aliens.gov`, and `www.` forms) return TLS certi
 - Will it integrate with [[aaro]]'s planned public reporting expansion?
 - Relationship to [[uap-reporting-infrastructure]]
 
+## Relationship to PURSUE (May 2026)
+
+On May 8, 2026, the [[department-of-war]] launched the actual operational UAP records portal at `war.gov/UFO` under the [[pursue]] program — making `alien.gov` / `aliens.gov` the still-dormant **branding-layer parallel** to PURSUE's substantive document repository. Whether the alien-gov domains will eventually point to the PURSUE portal, host complementary content, or remain unused is unresolved. See [[src-pursue-portal-launch-2026-05]].
+
 ## Sources
 
 - [[src-alien-gov-domains-2026-03]]
+- [[src-pursue-portal-launch-2026-05]]
+- [[src-dow-uap-files-release-2026-05]]

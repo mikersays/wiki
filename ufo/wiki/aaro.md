@@ -99,6 +99,16 @@ Per [[src-war-department-uap-release-2026-04]], a [[department-of-war|Department
 - [[src-luna-nonhuman-origin-pod-force-one-2026-04]]
 - [[src-hegseth-fy27-posture-testimony-2026-04]]
 - [[src-canada-sky-canada-project-2025-02]]
+- [[src-dow-uap-files-release-2026-05]]
+- [[src-pursue-portal-launch-2026-05]]
+- [[src-uap-files-rollout-interagency-2026-05]]
+- [[src-uap-files-public-conclusions-2026-05]]
+- [[src-trump-uap-apollo-photos-2026-05]]
+- [[src-war-department-uap-declassification-2026-05]]
+
+## PURSUE Relationship (May 2026)
+
+The May 8, 2026 [[pursue]] launch creates an explicit **resolved/unresolved division of labor** in the federal UAP architecture: [[pursue]] (DoW-led) handles **unresolved** cases and rolling document releases; AARO retains statutory **resolved-case** reporting. The PURSUE portal's only "Learn More" link routes to `aaro.mil`, formalizing AARO as the public landing for case-resolution work. AARO's 2024 historical report finding (no evidence of recovered ET tech or biologics) is repeatedly cited by mainstream coverage as the institutional baseline against which PURSUE's substantive ceiling will be judged ([[src-uap-files-rollout-interagency-2026-05]], [[src-uap-files-public-conclusions-2026-05]]).
 
 ## International coordination
 

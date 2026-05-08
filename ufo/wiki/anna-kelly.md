@@ -16,3 +16,4 @@ The statement formally confirmed the [[department-of-war]] tasking that originat
 ## Sources
 
 - [[src-trump-tpusa-ufo-tease-2026-04]]
+- [[src-pursue-portal-launch-2026-05]] — Kelly's April statement directly anticipated the [[pursue]] launch on 2026-05-08
