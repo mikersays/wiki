@@ -1,0 +1,330 @@
+
+=== Run started 2026-05-08 11:07:59 ===
+[1/134] OK 65_hs1-834228961_62-hq-83894_section_3.pdf 50907255
+[2/134] OK 65_hs1-834228961_62-hq-83894_section_4.pdf 92073029
+[3/134] OK 65_hs1-834228961_62-hq-83894_section_5.pdf 58041955
+[4/134] OK 65_hs1-834228961_62-hq-83894_section_7.pdf 62687106
+[5/134] OK 65_hs1-834228961_62-hq-83894_section_10.pdf 106167501
+[6/134] OK 65_hs1-834228961_62-hq-83894_section_2.pdf 118380300
+[7/134] FAIL 65_hs1-8342289+M5+M11 size=10
+[8/134] OK 65_hs1-834228961_62-hq-83894_serial_130.pdf 106690293
+[9/134] OK 65_hs1-834228961_62-hq-83894_serial_220.pdf 8421314
+[10/134] OK 65_hs1-834228961_62-hq-83894_serial_403.pdf 5745008
+[11/134] OK 65_hs1-834228961_62-hq-83894_serial_164.pdf 30938461
+[12/134] OK 65_hs1-834228961_62-hq-83894_serial_438.pdf 15143657
+[13/134] OK 65_hs1-834228961_62-hq-83894_sub_a.pdf 49325139
+[14/134] FAIL 18_100754_ general 1946-7_vol_2.pdf 
+[15/134] OK 65_hs1-834228961_62-hq-83894_serial_449.pdf 12499481
+[16/134] OK 65_hs1-834228961_62-hq-83894_section_6.pdf 370571478
+[17/134] OK 255_t_763_r1b_transcripts.pdf 328211
+[18/134] FAIL 331_120752_numeric_files_1944–1945_37153_german_armament_equipment_documents.pdf 
+[19/134] FAIL 341_110448_records_relating_to_the_collection_and_dissemination_of_intelligence_1948-1955-ts_cont_no.2_2-5300-2-5399.pdf 
+[20/134] FAIL 341_110677_numerical_file_5-2500.pdf 
+[21/134] FAIL 342_hs1-416511228_box186_319.1-flying-discs-1949.pdf 
+[22/134] FAIL 38_143685_box7_incident_summaries_101-172.pdf 
+[23/134] FAIL 38_143685_box7_incident_summaries_173-233.pdf 
+[24/134] FAIL 38_143685_box7_incident_summaries_1-100.pdf 
+[25/134] FAIL 59_214434_sp_16_[7.18.1963].pdf 
+[26/134] FAIL 59_214434_sp_16_7.18.1963.pdf 
+[27/134] FAIL 65_hs1-101634279_100-de-18221_serial_844.pdf 
+[28/134] FAIL 65_hs1-101634279_100-de-26505.pdf 
+[29/134] FAIL 65_hs1-834228961_62-hq-83894_section_1.pdf 
+[30/134] FAIL 65_hs1-834228961_62-hq-83894_section_8.pdf 
+[31/134] FAIL dow-uap-d10-mission-report-middle-east-may-2022.pdf 
+[32/134] FAIL dow-uap-d12-mission-report-iraq-may-2022.pdf 
+[33/134] FAIL dow-uap-d14-mission-report-iraq-may-2022.pdf 
+[34/134] FAIL dow-uap-d16-mission-report-syria-july-2022.pdf 
+[35/134] FAIL dow-uap-d18-mission-report-iraq-december-2022.pdf 
+[36/134] FAIL dow-uap-d19-mission-report-syria-february-21-2023.pdf 
+[37/134] FAIL dow-uap-d20-mission-report-southern-united-states-2020.pdf 
+[38/134] FAIL dow-uap-d23-mission-report-united-arab-emirates-october-2023.pdf 
+[39/134] FAIL dow-uap-d23-mission-report-united-arab-emirates-october-2023.pdf 
+[40/134] FAIL dow-uap-d25-mission-report-greece-january-2024.pdf 
+[41/134] FAIL dow-uap-d27-mission-report-united-arab-emirates-october-2023.pdf 
+[42/134] FAIL dow-uap-d28-mission-report-east-china-sea-2024.pdf 
+[43/134] FAIL dow-uap-d3-mission-report-arabian-gulf-2020.pdf 
+[44/134] FAIL dow-uap-d32-mission-report,-syria-october-2024.pdf 
+[45/134] FAIL dow-uap-d32-mission-report,-syria-october-2024.pdf 
+[46/134] FAIL dow-uap-d32-mission-report,-syria-october-2024.pdf 
+[47/134] FAIL dow-uap-d33-mission-report-greece-october-2023.pdf 
+[48/134] OK 255_413270_ufo's_and_defense_what_should_we_prepare_for.pdf 33457869
+[49/134] FAIL dow-uap-d38-range-fouler-debrief-middle-east-may-2020.pdf 
+[50/134] FAIL dow-uap-d35-mission-report-greece-october-2023.pdf 
+[51/134] FAIL dow-uap-d4-mission-report-arabian-gulf-2020.pdf 
+[52/134] FAIL dow-uap-d42-range-fouler-debrief-japan-2023.pdf 
+[53/134] FAIL dow-uap-d44-range-fouler-arabian-sea-october-2020.pdf 
+[54/134] FAIL dow-uap-d48-report-september-1996.pdf 
+[55/134] FAIL dow-uap-d5-mission-report-arabian-gulf-2020.pdf 
+[56/134] FAIL dow-uap-d49-launch-summary-february-2000.pdf 
+[57/134] FAIL dow-uap-d51-email-correspondence-pacific-time-zone-march-2023.pdf 
+[58/134] FAIL dow-uap-d50-email-correspondence-indopacom-april-2025.pdf 
+[59/134] FAIL dow-uap-d54-mission-report-mediterranean-sea-na.pdf 
+[60/134] FAIL dow-uap-d52-email-correspondance-na-august-2024.pdf 
+[61/134] FAIL dow-uap-d55-mission-report-syria-november-2016.pdf 
+[62/134] FAIL dow-uap-d56-range-fouler-debrief-arabian-sea-august-2020.pdf 
+[63/134] FAIL dow-uap-d58-range-fouler-debrief-na-october-2020.pdf 
+[64/134] FAIL dow-uap-d57-mission-report-gulf-of-aden-september-2020.pdf 
+[65/134] FAIL dow-uap-d6-mission-report-arabian-gulf-2020.pdf 
+[66/134] FAIL dow-uap-d60-mission-report-persian-gulf-august-2020.pdf 
+[67/134] FAIL dow-uap-d61-mission-report-persian-gulf-august-2020.pdf 
+[68/134] FAIL dow-uap-d62-mission-report-strait-of-hormuz-september-2020.pdf 
+[69/134] OK 18_6369445_general_1948_vol_1.pdf 65878977
+[70/134] FAIL dow-uap-d64-mission-report-iran-november-2020.pdf 
+[71/134] FAIL dow-uap-d63-mission-report-strait-of-hormuz-october-2020.pdf 
+[72/134] FAIL dow-uap-d65-mission-report-persian-gulf-july-2020.pdf 
+[73/134] FAIL dow-uap-d74-mission-report-syria-november-2023.pdf 
+[74/134] FAIL dow-uap-d7-mission-report-arabian-gulf-2020.pdf 
+[75/134] FAIL dow-uap-d75-mission-report-gulf-of-aden-july-2024.pdf 
+[76/134] FAIL dow-uap-d8-mission-report-djibouti-2025.pdf 
+[77/134] FAIL dow-uap-pr20.pdf 
+[78/134] FAIL fbi-photo-a1.png 
+[79/134] FAIL fbi-photo-a3.png 
+[80/134] FAIL fbi-photo-a2.png 
+[81/134] FAIL fbi-photo-a4.png 
+[82/134] FAIL fbi-photo-a5.png 
+[83/134] FAIL fbi-photo-a7.png 
+[84/134] FAIL fbi-photo-a6.png 
+[85/134] FAIL fbi-photo-b1.pdf 
+[86/134] FAIL fbi-photo-b10.pdf 
+[87/134] FAIL fbi-photo-a8.png 
+[88/134] FAIL fbi-photo-b12.pdf 
+[89/134] FAIL fbi-photo-b11.pdf 
+[90/134] FAIL fbi-photo-b13.pdf 
+[91/134] FAIL fbi-photo-b15.pdf 
+[92/134] FAIL fbi-photo-b14.pdf 
+[93/134] FAIL fbi-photo-b16.pdf 
+[94/134] FAIL fbi-photo-b17.pdf 
+[95/134] FAIL fbi-photo-b18.pdf 
+[96/134] FAIL fbi-photo-b19.pdf 
+[97/134] FAIL fbi-photo-b2.pdf 
+[98/134] FAIL fbi-photo-b20.pdf 
+[99/134] FAIL fbi-photo-b21.pdf 
+[100/134] FAIL fbi-photo-b22.pdf 
+[101/134] FAIL fbi-photo-b24.pdf 
+[102/134] FAIL fbi-photo-b23.pdf 
+[103/134] FAIL fbi-photo-b3.pdf 
+[104/134] FAIL fbi-photo-b4.pdf 
+[105/134] FAIL fbi-photo-b5.pdf 
+[106/134] FAIL fbi-photo-b6.pdf 
+[107/134] FAIL fbi-photo-b7.pdf 
+[108/134] FAIL fbi-photo-b8.pdf 
+[109/134] FAIL fbi-photo-b9.pdf 
+[110/134] FAIL nasa-uap-d1-apollo-12-transcript-1969.pdf 
+[111/134] FAIL nasa-uap-d2-apollo-17-transcript-1972.pdf 
+[112/134] FAIL nasa-uap-d5-apollo-17-crew-debriefing-for-science-1973.pdf 
+[113/134] FAIL nasa-uap-d4-apollo-11-technical-crew-debriefing-1969.pdf 
+[114/134] FAIL nasa-uap-d3-gemini-7-transcript-1965.pdf 
+[115/134] FAIL nasa-uap-d6-apollo-17-technical-crew-debriefing-1973.pdf 
+[116/134] FAIL nasa-uap-vm1-apollo-12-1969.jpg 
+[117/134] FAIL nasa-uap-d7-skylab-technical-crew-debriefing-1973.pdf 
+[118/134] FAIL nasa-uap-vm3-apollo-12-1969.jpg 
+[119/134] FAIL nasa-uap-vm4-apollo-12-1969.jpg 
+[120/134] FAIL nasa-uap-vm2-apollo-12-1969.jpg 
+[121/134] FAIL nasa-uap-vm5-apollo-12-1969.jpg 
+[122/134] FAIL nasa-uap-vm6-apollo-17-1972.jpg 
+[123/134] FAIL dos-uap-d1-cable-1-papua-new-guinea-january-1985.pdf 
+[124/134] FAIL 059uap00012.pdf 
+[125/134] FAIL dos-uap-d2-cable-2-kazakhstan-january-1994.pdf 
+[126/134] FAIL 059uap00011.pdf 
+[127/134] FAIL 059uap00013.pdf 
+[128/134] FAIL usper-statement-redacted.pdf 
+[129/134] FAIL 2024-04-30-composite-sketch.pdf 
+[130/134] FAIL serial 5 redacted_redacted.pdf 
+[131/134] FAIL serial-4-redacted_redacted.pdf 
+[132/134] FAIL serial-3_redacted.pdf 
+[133/134] FAIL western_us_event_slides_5.08.2026.pdf 
+[134/134] OK 65_hs1-834228961_62-hq-83894_section_9.pdf 91452111
+
+=== Retry started 2026-05-08 11:09:57 ===
+[retry 1/116] FAIL 65_hs1-8342289+M5+M11 size=10 rc=0
+[retry 2/116] FAIL 18_100754_ general 1946-7_vol_2.pdf size=0 rc=3
+[retry 3/116] OK 331_120752_numeric_files_1944–1945_37153_german_armament_equipment_documents.pdf size=15892720 rc=0
+[retry 4/116] OK 341_110448_records_relating_to_the_collection_and_dissemination_of_intelligence_1948-1955-ts_cont_no.2_2-5300-2-5399.pdf size=9888054 rc=0
+[retry 5/116] OK 341_110677_numerical_file_5-2500.pdf size=57343984 rc=0
+[retry 6/116] OK 342_hs1-416511228_box186_319.1-flying-discs-1949.pdf size=123253043 rc=0
+[retry 7/116] OK 38_143685_box7_incident_summaries_101-172.pdf size=242733260 rc=0
+[retry 8/116] OK 38_143685_box7_incident_summaries_173-233.pdf size=49382924 rc=0
+[retry 9/116] OK 38_143685_box7_incident_summaries_1-100.pdf size=247087612 rc=0
+[retry 10/116] FAIL 59_214434_sp_16_[7.18.1963].pdf size=0 rc=3
+[retry 11/116] OK 59_214434_sp_16_7.18.1963.pdf size=1598931 rc=0
+[retry 12/116] OK 65_hs1-101634279_100-de-18221_serial_844.pdf size=677153 rc=0
+[retry 13/116] OK 65_hs1-101634279_100-de-26505.pdf size=12990300 rc=0
+[retry 14/116] OK 65_hs1-834228961_62-hq-83894_section_1.pdf size=108961866 rc=0
+[retry 15/116] OK 65_hs1-834228961_62-hq-83894_section_8.pdf size=120391107 rc=0
+[retry 16/116] OK dow-uap-d10-mission-report-middle-east-may-2022.pdf size=663290 rc=0
+[retry 17/116] OK dow-uap-d12-mission-report-iraq-may-2022.pdf size=670302 rc=0
+[retry 18/116] OK dow-uap-d14-mission-report-iraq-may-2022.pdf size=7463660 rc=0
+[retry 19/116] OK dow-uap-d16-mission-report-syria-july-2022.pdf size=6999240 rc=0
+[retry 20/116] OK dow-uap-d18-mission-report-iraq-december-2022.pdf size=3673697 rc=0
+[retry 21/116] OK dow-uap-d19-mission-report-syria-february-21-2023.pdf size=5885305 rc=0
+[retry 22/116] OK dow-uap-d20-mission-report-southern-united-states-2020.pdf size=3698245 rc=0
+[retry 23/116] OK dow-uap-d23-mission-report-united-arab-emirates-october-2023.pdf size=1324277 rc=0
+[retry 24/116] OK dow-uap-d23-mission-report-united-arab-emirates-october-2023.pdf size=1324277 rc=0
+[retry 25/116] OK dow-uap-d25-mission-report-greece-january-2024.pdf size=680054 rc=0
+[retry 26/116] FAIL dow-uap-d27-mission-report-united-arab-emirates-october-2023.pdf size=0 rc=7
+[retry 27/116] FAIL dow-uap-d28-mission-report-east-china-sea-2024.pdf size=0 rc=7
+[retry 28/116] FAIL dow-uap-d3-mission-report-arabian-gulf-2020.pdf size=0 rc=7
+[retry 29/116] FAIL dow-uap-d32-mission-report,-syria-october-2024.pdf size=0 rc=7
+[retry 30/116] FAIL dow-uap-d32-mission-report,-syria-october-2024.pdf size=0 rc=7
+[retry 31/116] FAIL dow-uap-d32-mission-report,-syria-october-2024.pdf size=0 rc=7
+[retry 32/116] OK dow-uap-d33-mission-report-greece-october-2023.pdf size=897434 rc=0
+[retry 33/116] FAIL dow-uap-d35-mission-report-greece-october-2023.pdf size=0 rc=7
+[retry 34/116] FAIL dow-uap-d38-range-fouler-debrief-middle-east-may-2020.pdf size=0 rc=7
+[retry 35/116] FAIL dow-uap-d4-mission-report-arabian-gulf-2020.pdf size=0 rc=7
+[retry 36/116] FAIL dow-uap-d42-range-fouler-debrief-japan-2023.pdf size=0 rc=7
+[retry 37/116] FAIL dow-uap-d44-range-fouler-arabian-sea-october-2020.pdf size=0 rc=7
+[retry 38/116] FAIL dow-uap-d48-report-september-1996.pdf size=0 rc=7
+[retry 39/116] FAIL dow-uap-d49-launch-summary-february-2000.pdf size=0 rc=7
+[retry 40/116] FAIL dow-uap-d5-mission-report-arabian-gulf-2020.pdf size=0 rc=7
+[retry 41/116] FAIL dow-uap-d50-email-correspondence-indopacom-april-2025.pdf size=0 rc=7
+[retry 42/116] FAIL dow-uap-d51-email-correspondence-pacific-time-zone-march-2023.pdf size=0 rc=7
+[retry 43/116] FAIL dow-uap-d52-email-correspondance-na-august-2024.pdf size=0 rc=7
+[retry 44/116] OK dow-uap-d54-mission-report-mediterranean-sea-na.pdf size=20095 rc=0
+[retry 45/116] FAIL dow-uap-d55-mission-report-syria-november-2016.pdf size=0 rc=7
+[retry 46/116] FAIL dow-uap-d56-range-fouler-debrief-arabian-sea-august-2020.pdf size=0 rc=7
+[retry 47/116] FAIL dow-uap-d57-mission-report-gulf-of-aden-september-2020.pdf size=0 rc=7
+[retry 48/116] FAIL dow-uap-d58-range-fouler-debrief-na-october-2020.pdf size=0 rc=7
+[retry 49/116] OK dow-uap-d6-mission-report-arabian-gulf-2020.pdf size=26847 rc=0
+[retry 50/116] FAIL dow-uap-d60-mission-report-persian-gulf-august-2020.pdf size=0 rc=7
+[retry 51/116] FAIL dow-uap-d61-mission-report-persian-gulf-august-2020.pdf size=0 rc=7
+[retry 52/116] FAIL dow-uap-d62-mission-report-strait-of-hormuz-september-2020.pdf size=0 rc=7
+[retry 53/116] FAIL dow-uap-d63-mission-report-strait-of-hormuz-october-2020.pdf size=0 rc=7
+[retry 54/116] FAIL dow-uap-d64-mission-report-iran-november-2020.pdf size=0 rc=7
+[retry 55/116] FAIL dow-uap-d65-mission-report-persian-gulf-july-2020.pdf size=0 rc=7
+[retry 56/116] FAIL dow-uap-d7-mission-report-arabian-gulf-2020.pdf size=0 rc=7
+[retry 57/116] FAIL dow-uap-d74-mission-report-syria-november-2023.pdf size=0 rc=7
+[retry 58/116] FAIL dow-uap-d75-mission-report-gulf-of-aden-july-2024.pdf size=0 rc=7
+[retry 59/116] FAIL dow-uap-d8-mission-report-djibouti-2025.pdf size=0 rc=7
+[retry 60/116] FAIL dow-uap-pr20.pdf size=0 rc=7
+[retry 61/116] FAIL fbi-photo-a1.png size=0 rc=7
+[retry 62/116] FAIL fbi-photo-a2.png size=0 rc=7
+[retry 63/116] FAIL fbi-photo-a3.png size=0 rc=7
+[retry 64/116] FAIL fbi-photo-a4.png size=0 rc=7
+[retry 65/116] FAIL fbi-photo-a5.png size=0 rc=7
+[retry 66/116] FAIL fbi-photo-a6.png size=0 rc=7
+[retry 67/116] FAIL fbi-photo-a7.png size=0 rc=7
+[retry 68/116] FAIL fbi-photo-a8.png size=0 rc=7
+[retry 69/116] FAIL fbi-photo-b1.pdf size=0 rc=7
+[retry 70/116] FAIL fbi-photo-b10.pdf size=0 rc=7
+[retry 71/116] FAIL fbi-photo-b11.pdf size=0 rc=7
+[retry 72/116] FAIL fbi-photo-b12.pdf size=0 rc=7
+[retry 73/116] FAIL fbi-photo-b13.pdf size=0 rc=7
+[retry 74/116] OK fbi-photo-b14.pdf size=448290 rc=0
+[retry 75/116] FAIL fbi-photo-b15.pdf size=0 rc=7
+[retry 76/116] OK fbi-photo-b16.pdf size=433987 rc=0
+[retry 77/116] OK fbi-photo-b17.pdf size=435400 rc=0
+[retry 78/116] FAIL fbi-photo-b18.pdf size=0 rc=7
+[retry 79/116] OK fbi-photo-b19.pdf size=600310 rc=0
+[retry 80/116] FAIL fbi-photo-b2.pdf size=0 rc=7
+[retry 81/116] FAIL fbi-photo-b20.pdf size=0 rc=7
+[retry 82/116] FAIL fbi-photo-b21.pdf size=0 rc=7
+[retry 83/116] FAIL fbi-photo-b22.pdf size=0 rc=7
+[retry 84/116] FAIL fbi-photo-b23.pdf size=0 rc=7
+[retry 85/116] FAIL fbi-photo-b24.pdf size=0 rc=7
+[retry 86/116] FAIL fbi-photo-b3.pdf size=0 rc=7
+[retry 87/116] FAIL fbi-photo-b4.pdf size=0 rc=7
+[retry 88/116] OK fbi-photo-b5.pdf size=580719 rc=0
+[retry 89/116] FAIL fbi-photo-b6.pdf size=0 rc=7
+[retry 90/116] FAIL fbi-photo-b7.pdf size=0 rc=7
+[retry 91/116] FAIL fbi-photo-b8.pdf size=0 rc=7
+[retry 92/116] FAIL fbi-photo-b9.pdf size=0 rc=7
+[retry 93/116] FAIL nasa-uap-d1-apollo-12-transcript-1969.pdf size=0 rc=7
+[retry 94/116] OK nasa-uap-d2-apollo-17-transcript-1972.pdf size=463669 rc=0
+[retry 95/116] FAIL nasa-uap-d3-gemini-7-transcript-1965.pdf size=0 rc=7
+[retry 96/116] OK nasa-uap-d4-apollo-11-technical-crew-debriefing-1969.pdf size=29286242 rc=0
+[retry 97/116] FAIL nasa-uap-d5-apollo-17-crew-debriefing-for-science-1973.pdf size=0 rc=7
+[retry 98/116] FAIL nasa-uap-d6-apollo-17-technical-crew-debriefing-1973.pdf size=0 rc=7
+[retry 99/116] FAIL nasa-uap-d7-skylab-technical-crew-debriefing-1973.pdf size=0 rc=7
+[retry 100/116] OK nasa-uap-vm1-apollo-12-1969.jpg size=151630 rc=0
+[retry 101/116] FAIL nasa-uap-vm2-apollo-12-1969.jpg size=0 rc=7
+[retry 102/116] FAIL nasa-uap-vm3-apollo-12-1969.jpg size=0 rc=7
+[retry 103/116] FAIL nasa-uap-vm4-apollo-12-1969.jpg size=0 rc=7
+[retry 104/116] FAIL nasa-uap-vm5-apollo-12-1969.jpg size=0 rc=7
+[retry 105/116] OK nasa-uap-vm6-apollo-17-1972.jpg size=1778754 rc=0
+[retry 106/116] FAIL dos-uap-d1-cable-1-papua-new-guinea-january-1985.pdf size=0 rc=7
+[retry 107/116] FAIL dos-uap-d2-cable-2-kazakhstan-january-1994.pdf size=0 rc=7
+[retry 108/116] OK 059uap00011.pdf size=830359 rc=0
+[retry 109/116] FAIL 059uap00012.pdf size=0 rc=7
+[retry 110/116] OK 059uap00013.pdf size=1221743 rc=0
+[retry 111/116] OK usper-statement-redacted.pdf size=786792 rc=0
+[retry 112/116] FAIL 2024-04-30-composite-sketch.pdf size=0 rc=7
+[retry 113/116] FAIL serial 5 redacted_redacted.pdf size=0 rc=3
+[retry 114/116] OK serial-3_redacted.pdf size=275673 rc=0
+[retry 115/116] OK serial-4-redacted_redacted.pdf size=237155 rc=0
+[retry 116/116] OK western_us_event_slides_5.08.2026.pdf size=63463 rc=0
+
+=== Retry pass 3 started 2026-05-08 11:13:31 ===
+[pass3 1/74] FAIL 65_hs1-8342289+M5+M11 size=10 rc=0
+[pass3 2/74] FAIL 18_100754_ general 1946-7_vol_2.pdf size=0 rc=3
+[pass3 3/74] FAIL 59_214434_sp_16_[7.18.1963].pdf size=0 rc=3
+[pass3 4/74] OK dow-uap-d27-mission-report-united-arab-emirates-october-2023.pdf size=689226 rc=0
+[pass3 5/74] OK dow-uap-d28-mission-report-east-china-sea-2024.pdf size=633172 rc=0
+[pass3 6/74] OK dow-uap-d3-mission-report-arabian-gulf-2020.pdf size=101111 rc=0
+[pass3 7/74] OK dow-uap-d32-mission-report,-syria-october-2024.pdf size=651740 rc=0
+[pass3 8/74] OK dow-uap-d35-mission-report-greece-october-2023.pdf size=1415369 rc=0
+[pass3 9/74] OK dow-uap-d38-range-fouler-debrief-middle-east-may-2020.pdf size=342668 rc=0
+[pass3 10/74] OK dow-uap-d4-mission-report-arabian-gulf-2020.pdf size=29121 rc=0
+[pass3 11/74] OK dow-uap-d42-range-fouler-debrief-japan-2023.pdf size=295621 rc=0
+[pass3 12/74] OK dow-uap-d44-range-fouler-arabian-sea-october-2020.pdf size=297873 rc=0
+[pass3 13/74] OK dow-uap-d48-report-september-1996.pdf size=22495083 rc=0
+[pass3 14/74] OK dow-uap-d49-launch-summary-february-2000.pdf size=9090715 rc=0
+[pass3 15/74] OK dow-uap-d5-mission-report-arabian-gulf-2020.pdf size=30588 rc=0
+[pass3 16/74] OK dow-uap-d50-email-correspondence-indopacom-april-2025.pdf size=312451 rc=0
+[pass3 17/74] OK dow-uap-d51-email-correspondence-pacific-time-zone-march-2023.pdf size=76470 rc=0
+[pass3 18/74] OK dow-uap-d52-email-correspondance-na-august-2024.pdf size=66874 rc=0
+[pass3 19/74] OK dow-uap-d55-mission-report-syria-november-2016.pdf size=207227 rc=0
+[pass3 20/74] OK dow-uap-d56-range-fouler-debrief-arabian-sea-august-2020.pdf size=1849972 rc=0
+[pass3 21/74] OK dow-uap-d57-mission-report-gulf-of-aden-september-2020.pdf size=295447 rc=0
+[pass3 22/74] OK dow-uap-d58-range-fouler-debrief-na-october-2020.pdf size=301419 rc=0
+[pass3 23/74] OK dow-uap-d60-mission-report-persian-gulf-august-2020.pdf size=2412310 rc=0
+[pass3 24/74] OK dow-uap-d61-mission-report-persian-gulf-august-2020.pdf size=877324 rc=0
+[pass3 25/74] OK dow-uap-d62-mission-report-strait-of-hormuz-september-2020.pdf size=1045437 rc=0
+[pass3 26/74] OK dow-uap-d63-mission-report-strait-of-hormuz-october-2020.pdf size=3311583 rc=0
+[pass3 27/74] OK dow-uap-d64-mission-report-iran-november-2020.pdf size=860506 rc=0
+[pass3 28/74] OK dow-uap-d65-mission-report-persian-gulf-july-2020.pdf size=3043075 rc=0
+[pass3 29/74] OK dow-uap-d7-mission-report-arabian-gulf-2020.pdf size=27337 rc=0
+[pass3 30/74] OK dow-uap-d74-mission-report-syria-november-2023.pdf size=719044 rc=0
+[pass3 31/74] OK dow-uap-d75-mission-report-gulf-of-aden-july-2024.pdf size=792150 rc=0
+[pass3 32/74] OK dow-uap-d8-mission-report-djibouti-2025.pdf size=29154 rc=0
+[pass3 33/74] OK dow-uap-pr20.pdf size=2292342 rc=0
+[pass3 34/74] OK fbi-photo-a1.png size=151615 rc=0
+[pass3 35/74] OK fbi-photo-a2.png size=151615 rc=0
+[pass3 36/74] OK fbi-photo-a3.png size=151615 rc=0
+[pass3 37/74] OK fbi-photo-a4.png size=151615 rc=0
+[pass3 38/74] OK fbi-photo-a5.png size=151615 rc=0
+[pass3 39/74] OK fbi-photo-a6.png size=151615 rc=0
+[pass3 40/74] OK fbi-photo-a7.png size=151615 rc=0
+[pass3 41/74] OK fbi-photo-a8.png size=151615 rc=0
+[pass3 42/74] OK fbi-photo-b1.pdf size=613116 rc=0
+[pass3 43/74] OK fbi-photo-b10.pdf size=601748 rc=0
+[pass3 44/74] OK fbi-photo-b11.pdf size=582514 rc=0
+[pass3 45/74] OK fbi-photo-b12.pdf size=574722 rc=0
+[pass3 46/74] OK fbi-photo-b13.pdf size=434067 rc=0
+[pass3 47/74] OK fbi-photo-b15.pdf size=427316 rc=0
+[pass3 48/74] OK fbi-photo-b18.pdf size=429941 rc=0
+[pass3 49/74] OK fbi-photo-b2.pdf size=583544 rc=0
+[pass3 50/74] OK fbi-photo-b20.pdf size=577784 rc=0
+[pass3 51/74] OK fbi-photo-b21.pdf size=592551 rc=0
+[pass3 52/74] OK fbi-photo-b22.pdf size=434482 rc=0
+[pass3 53/74] OK fbi-photo-b23.pdf size=423857 rc=0
+[pass3 54/74] OK fbi-photo-b24.pdf size=440280 rc=0
+[pass3 55/74] OK fbi-photo-b3.pdf size=167999 rc=0
+[pass3 56/74] OK fbi-photo-b4.pdf size=593683 rc=0
+[pass3 57/74] OK fbi-photo-b6.pdf size=608164 rc=0
+[pass3 58/74] OK fbi-photo-b7.pdf size=607218 rc=0
+[pass3 59/74] OK fbi-photo-b8.pdf size=585686 rc=0
+[pass3 60/74] OK fbi-photo-b9.pdf size=588086 rc=0
+[pass3 61/74] OK nasa-uap-d1-apollo-12-transcript-1969.pdf size=1030644 rc=0
+[pass3 62/74] OK nasa-uap-d3-gemini-7-transcript-1965.pdf size=1415124 rc=0
+[pass3 63/74] OK nasa-uap-d5-apollo-17-crew-debriefing-for-science-1973.pdf size=212585 rc=0
+[pass3 64/74] OK nasa-uap-d6-apollo-17-technical-crew-debriefing-1973.pdf size=513402 rc=0
+[pass3 65/74] OK nasa-uap-d7-skylab-technical-crew-debriefing-1973.pdf size=659470 rc=0
+[pass3 66/74] OK nasa-uap-vm2-apollo-12-1969.jpg size=151630 rc=0
+[pass3 67/74] OK nasa-uap-vm3-apollo-12-1969.jpg size=151630 rc=0
+[pass3 68/74] OK nasa-uap-vm4-apollo-12-1969.jpg size=151630 rc=0
+[pass3 69/74] OK nasa-uap-vm5-apollo-12-1969.jpg size=151630 rc=0
+[pass3 70/74] OK dos-uap-d1-cable-1-papua-new-guinea-january-1985.pdf size=301285 rc=0
+[pass3 71/74] OK dos-uap-d2-cable-2-kazakhstan-january-1994.pdf size=370719 rc=0
+[pass3 72/74] OK 059uap00012.pdf size=656720 rc=0
+[pass3 73/74] OK 2024-04-30-composite-sketch.pdf size=109275 rc=0
+[pass3 74/74] FAIL serial 5 redacted_redacted.pdf size=0 rc=3
