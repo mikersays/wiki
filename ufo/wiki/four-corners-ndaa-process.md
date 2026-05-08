@@ -1,5 +1,5 @@
 ---
-title: "Four Corners" NDAA Process
+title: '"Four Corners" NDAA Process'
 type: concept
 created: 2026-05-07
 updated: 2026-05-07

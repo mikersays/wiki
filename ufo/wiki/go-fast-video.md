@@ -1,5 +1,5 @@
 ---
-title: "Go Fast" Video
+title: '"Go Fast" Video'
 type: concept
 created: 2026-05-01
 updated: 2026-05-01

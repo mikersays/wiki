@@ -8,3 +8,7 @@
 
 # Playwright MCP local debug artifacts
 .playwright-mcp/
+
+# Quartz build artifacts
+.quartz-build/
+public/
