@@ -3,7 +3,7 @@ title: FBI Confirms UFO Files for Public Release 'Very Soon'
 type: source
 source_file: ufo/raw/src-yahoo-fbi-confirms-files-2026-05.md
 source_url: https://www.yahoo.com/news/articles/fbi-confirms-ufo-files-public-164001624.html
-outlet: Yahoo News (orig: Men's Journal)
+outlet: "Yahoo News (orig: Men's Journal)"
 author: Kevin Harrish
 date: 2026-05-06
 created: 2026-05-08
