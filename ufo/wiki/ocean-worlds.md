@@ -2,7 +2,7 @@
 title: Ocean Worlds
 type: concept
 created: 2026-04-13
-updated: 2026-05-07
+updated: 2026-05-09
 ---
 
 # Ocean Worlds
@@ -26,9 +26,16 @@ Jupiter's moon with a confirmed subsurface ocean beneath a thick ice shell. [[eu
 ### [[titan|Titan]] (Saturn)
 Saturn's largest moon. [[cassini-huygens]] and the [[huygens-probe]] (2005 surface landing) confirmed methane/ethane rivers, lakes, and seasonal rainfall on the surface, plus a subsurface water ocean. NASA's [[dragonfly-mission]] (rotorcraft, 2030s) will follow up on prebiotic chemistry there.
 
+### [[triton]] (Neptune)
+Neptune's largest moon. Voyager 2 (1989) imaged ~8 km tall dark plumes erupting from the south polar cap; nitrogen-driven [[cryovolcanism]] is the leading interpretation. Possible subsurface liquid-water ocean maintained by [[tidal-heating]] and radiogenic heating. Flagged in the 2026 NCCR PlanetS active-moons review as morphologically distinct ([[src-active-moons-review-2026-04]]).
+
+### [[io]] — active counterexample
+Jupiter's innermost Galilean moon, with km-tall plumes driven by [[tidal-heating]] — but rocky and **not** an ocean world. Foundational for the physics that keeps Europa and Enceladus habitable.
+
 ### Other Candidates
 - **Ganymede** (Jupiter): Suspected subsurface ocean
 - **Callisto** (Jupiter): Possible subsurface ocean
+- **Io-like [[exomoons]]**: Per [[src-active-moons-review-2026-04]], outgassing exomoons may be detectable from ground-based telescopes — extending plume-based biosignature science beyond the solar system
 
 ## Biosignature Survival
 
@@ -51,6 +58,11 @@ Research by Alexander Pavlov (NASA Goddard, 2024):
 - [[enceladus]]
 - [[titan]]
 - [[saturn]]
+- [[io]]
+- [[triton]]
+- [[exomoons]]
+- [[tidal-heating]]
+- [[cryovolcanism]]
 - [[enceladus-plumes]]
 - [[hydrothermal-activity]]
 - [[planetary-protection]]
@@ -62,4 +74,5 @@ Research by Alexander Pavlov (NASA Goddard, 2024):
 - [[nasa]]
 - [[src-cassini-huygens-ocean-worlds-2026-04]]
 - [[src-esa-enceladus-life-mission-2025]]
+- [[src-active-moons-review-2026-04]]
 - [[src-nasa-seven-firms-biosignature-2026-05]]

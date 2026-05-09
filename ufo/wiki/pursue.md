@@ -2,7 +2,7 @@
 title: PURSUE — Presidential Unsealing and Reporting System for UAP Encounters
 type: concept
 created: 2026-05-08
-updated: 2026-05-08
+updated: 2026-05-09
 ---
 
 
@@ -44,6 +44,7 @@ Established in response to [[donald-trump]]'s Truth Social directive dated 2026-
   - **Skeptical:** AP/WaPo ([[src-uap-files-public-conclusions-2026-05]]); [[the-war-zone]] ([[src-twz-pursue-shrug-2026-05]]) — "nothing groundbreaking," Apollo 17 image likely a visual artifact, "football-shaped" Japan object consistent with a balloon; **Scientific American** ([[src-sciam-pursue-skeptics-2026-05]]) — [[sean-kirkpatrick]] "playhouse politics theater company" and [[mick-west]] "more dots, more parallax."
   - **Frame-by-frame debunker:** Metabunk thread led by [[mick-west]] ([[src-metabunk-pursue-analysis-2026-05]]) — Reaper-UAS [[infrared-imagery|IR]] / [[parallax]] / [[lens-flare-explanations|optical-artifact]] critique; specific identifications of **PR-19 = "Baghdad Phantom"** (already leaked by [[jeremy-corbell]] in 2023) and **PR-48 = candidate offshore wind turbines**.
   - **File-content inventory:** Sunday Guardian ([[src-sunday-guardian-162-files-2026-05]]) — format breakdown ~120 PDFs / 28 videos / ~14 photographs; surfaces a 1967 Chesapeake "transparent craft / undersized creatures" entry inside [[fbi-case-file-62-hq-83894]].
+  - **Cover-up framing (UK):** IBTimes UK (Morilla, [[src-pursue-apollo-anomalies-hidden-2026-05]]) reframes Release 01 as a politically convenient "shiny object" that **hides** Apollo-era anomalies; cites the [[apollo-12]] glowing-horizon image and [[apollo-17]] triangular-dots photo as receiving "scant" PURSUE notes; echoes CBS that "cover-up claims are growing." (Note: IBTimes dates Trump's directive to 9 February — likely a reporting error against the wiki's authoritative 19 Feb 2026 date.)
 - Skeptics warn that Trump's prior JFK/RFK/MLK record releases "revealed little beyond what was already known" and that UAP videos are easily misread by non-specialists.
 - AARO's 2024 historical report ([[src-aaro-fy2024-annual-report-2024]]) found no evidence of recovered ET technology or biologics — the institutional baseline against which PURSUE's substantive ceiling will be judged.
 

@@ -1,0 +1,27 @@
+---
+title: Exoplanet atmosphere models
+type: concept
+created: 2026-05-09
+updated: 2026-05-09
+---
+
+# Exoplanet atmosphere models
+
+Forward and retrieval models used to interpret exoplanet transmission, emission, and reflection spectra. The dominant frameworks couple radiative transfer with chemical-equilibrium or kinetic chemistry, increasingly with self-consistent thermal profiles.
+
+## Known gaps
+
+- **Clouds and hazes** — most production models are cloud-free or use parameterized grey clouds because real cloud microphysics (nucleation, sedimentation, lateral patchiness) is computationally expensive. The 2026 [[src-jwst-ice-clouds-exoplanet-2026-04]] result on [[water-ice-clouds]] in [[epsilon-indi-ab]] is one of the most explicit cases where this gap demonstrably misreads atmospheric composition.
+- **Photochemistry false-positives** — abiotic O₂ and CH₄ pathways are still being mapped (see [[src-oxygen-false-positive-biosignatures-2026-03]]).
+- **3D dynamics** — most retrievals assume 1D atmospheres; rotation, day-night terminator effects, and patchy cloud decks are open problems.
+
+## Related pages
+
+- [[water-ice-clouds]]
+- [[direct-imaging]]
+- [[jwst]]
+- [[src-jwst-ice-clouds-exoplanet-2026-04]]
+- [[src-jwst-toi-1130b-atmosphere-2026-05]]
+- [[src-jwst-biosignature-prospects-2025]]
+- [[src-oxygen-false-positive-biosignatures-2026-03]]
+- [[src-biosignature-gas-flux-inference-2026-04]]

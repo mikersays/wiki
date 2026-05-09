@@ -2,7 +2,7 @@
 title: Direct Imaging (Exoplanets)
 type: concept
 created: 2026-04-16
-updated: 2026-04-16
+updated: 2026-05-09
 ---
 
 **Direct imaging** is a family of exoplanet-detection techniques that resolve a planet's light separately from its host star's, as opposed to indirect methods like transit photometry or radial velocity. Practical direct imaging requires suppressing the host star's glare by factors of 10⁶ to 10¹⁰.
@@ -17,6 +17,7 @@ updated: 2026-04-16
 ## Current and future instruments
 
 - [[jwst]] MIRI coronagraph (15 μm) — used for the [[alpha-centauri-a]] candidate ([[src-alpha-centauri-a-exoplanet-2026]])
+- [[jwst]] MIRI coronagraph (10.6 / 11.3 μm) — used to detect [[water-ice-clouds]] on [[epsilon-indi-ab]] ([[src-jwst-ice-clouds-exoplanet-2026-04]])
 - [[nancy-grace-roman-space-telescope]] coronagraph — launching 2027
 - [[project-blue]] — proposed dedicated Alpha Centauri imager
 - [[habitable-worlds-observatory]] — future NASA flagship designed for direct imaging of Earth-like planets
@@ -33,3 +34,4 @@ Direct imaging is methodologically distinct from [[transmission-spectroscopy]] (
 - [[src-alpha-centauri-a-exoplanet-2026]]
 - [[src-gj-887-d-habitability-2026-03]]
 - [[src-jwst-biosignature-prospects-2025]]
+- [[src-jwst-ice-clouds-exoplanet-2026-04]]

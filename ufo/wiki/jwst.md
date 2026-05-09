@@ -2,7 +2,7 @@
 title: James Webb Space Telescope (JWST)
 type: entity
 created: 2026-04-13
-updated: 2026-05-07
+updated: 2026-05-09
 ---
 
 # James Webb Space Telescope (JWST)
@@ -27,6 +27,10 @@ According to [[src-jwst-k2-18b-biosignature-2025]], JWST detected potential [[bi
 
 JWST's **MIRI coronagraph** at 15 microns detected a candidate Saturn-like gas giant around [[alpha-centauri-a]] at ~2 AU ([[src-alpha-centauri-a-exoplanet-2026]]). If confirmed, this would be the closest exoplanet to Earth in a Sun-like star's habitable zone. The detection appeared in only one of three observing epochs and remains unconfirmed. See [[direct-imaging]].
 
+### Epsilon Indi Ab Water-Ice Clouds
+
+Per [[src-jwst-ice-clouds-exoplanet-2026-04]], [[elisabeth-matthews]] et al. ([[max-planck-institute-for-astronomy]]) used the MIRI coronagraph at 11.3 μm and 10.6 μm to directly image cold gas giant [[epsilon-indi-ab]] (~7.6 M_Jup, ~1 R_Jup, 200-300 K). Anomalously low NH₃ retrieval is best explained by patchy [[water-ice-clouds]] — a feature absent from most [[exoplanet-atmosphere-models]]. Reflective follow-up is anticipated from the [[nancy-grace-roman-space-telescope]] coronagraph.
+
 ### Biosignature Interpretation Caveat
 
 Per [[src-oxygen-false-positive-biosignatures-2026-03]], interpreting any JWST O₂/O₃ detection on M-dwarf rocky planets requires ruling out abiotic CO₂-photolysis + HOx-chemistry pathways. See [[false-positive-biosignatures]].
@@ -46,8 +50,11 @@ A September 2025 PNAS perspective by [[sara-seager]] et al. ([[src-jwst-biosigna
 - [[astrobiology]]
 - [[k2-18b]]
 - [[alpha-centauri-a]]
+- [[epsilon-indi-ab]]
 - [[gj-887-d]]
 - [[direct-imaging]]
+- [[water-ice-clouds]]
+- [[exoplanet-atmosphere-models]]
 - [[transmission-spectroscopy]]
 - [[technosignatures]]
 - [[false-positive-biosignatures]]

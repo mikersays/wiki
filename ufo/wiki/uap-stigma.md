@@ -2,7 +2,7 @@
 title: UAP Stigma
 type: concept
 created: 2026-04-13
-updated: 2026-05-06
+updated: 2026-05-09
 ---
 
 # UAP Stigma
@@ -31,6 +31,12 @@ The UAP Whistleblower Protection Act (introduced September 2025) aimed to protec
 
 ### International Frameworks
 The [[sky-canada-project]] and Germany's AllSkyCAM development show international normalization of UAP research.
+
+### EU-level engagement (2025)
+Per [[src-european-uap-day-third-2026-03]], the [[uap-coalition-netherlands]] sponsored a 24-scientist (later 36) joint feedback to the European Commission on the European Research Area (ERA) Act framing UAP stigma as a systemic research barrier. The same coalition met MEPs [[fabio-de-masi]] (April 2025) and [[lukas-mandl]] (September 2025), filed a Space Act consultation, and held a December 2025 DG RTD meeting on "stigma in unconventional research."
+
+### Sky Canada Project (final report, July 2025)
+Per [[src-canada-sky-canada-final-2025-07]], the final [[sky-canada-project]] report formally directs [[transport-canada]] to destigmatize pilot, cabin-crew, and ATC reporting — concrete federal-policy-level anti-stigma intervention.
 
 ## Persistence
 
@@ -63,3 +69,5 @@ Per [[src-catholic-filmmaker-vatican-ufo-2026-04]], former [[vatican-observatory
 - [[src-ufo-sightings-surge-2025]] — Growing mainstream coverage reflects shifting norms
 - [[src-academic-uap-stigma-2026-04]] — Yingling surveys, three structural fixes, international counter-examples
 - [[src-catholic-filmmaker-vatican-ufo-2026-04]] — Vatican Observatory's institutional avoidance policy
+- [[src-european-uap-day-third-2026-03]] — EU ERA Act / Space Act / DG RTD engagement, MEP meetings
+- [[src-canada-sky-canada-final-2025-07]] — Sky Canada Project final-report destigmatization recommendations

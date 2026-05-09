@@ -2,7 +2,7 @@
 title: Apollo 17
 type: entity
 created: 2026-05-08
-updated: 2026-05-08
+updated: 2026-05-09
 ---
 
 # Apollo 17
@@ -32,3 +32,4 @@ Specific content of the two new (D5, D6) debriefings is pending text extraction 
 - [[src-sciam-pursue-skeptics-2026-05]] — Buzz Aldrin's Saturn V debrief context
 - [[src-sunday-guardian-162-files-2026-05]] — lunar-photo inventory
 - [[src-metabunk-pursue-analysis-2026-05]] — Apollo material as potentially repackaged previously-known content
+- [[src-pursue-apollo-anomalies-hidden-2026-05]] — IBTimes UK frames the three-dots photo as still lacking consensus and characterizes PURSUE notes as "scant"

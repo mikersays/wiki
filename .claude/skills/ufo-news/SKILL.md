@@ -77,7 +77,7 @@ Collect all subagent outputs. Then:
    | # | Date | Outlet | Headline | URL |
    ```
 
-5. Ask: *"Which should I ingest? (numbers, 'all', or 'none')"*. Skip the prompt if the user already said "just ingest everything" when invoking.
+5. **Always ingest all surviving candidates** — do not prompt the user to choose. Triage already drops dupes and low-quality items, so the surviving set is the intended ingest set. Show the table for transparency, then proceed straight to Phase 3. (Override only if the user explicitly types "none" or names a subset in the same message that invoked the skill.)
 
 ---
 

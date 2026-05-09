@@ -577,3 +577,49 @@ Direct war.gov access blocked by Akamai 403 for both WebFetch and Playwright; ev
 - The PURSUE reception spectrum will expand as Release 02 lands. The current ingest forms a **baseline-of-day-one reactions**; future tranches should be measured against this baseline (e.g., does Mick West / Trevithick critique soften or harden as more material lands?).
 - Watch for [[anna-paulina-luna]]'s pledged second-tranche videos to land — the most-likely-to-shift-the-discourse next event.
 - The 1967 Chesapeake transparent-craft / undersized-creatures case from Sunday Guardian warrants its own analysis page if a primary FBI-memo mirror surfaces (currently a single-secondary-source claim).
+
+
+## [2026-05-09] ingest | UFO news sweep (6 articles, /ufo-news, parallel)
+
+Fetched via /ufo-news. Triage surfaced 11 candidates across 6 search tracks (PURSUE reactions, AARO/Pentagon, congress/whistleblowers, astrobiology, drones/military, international UAP). User instruction: always ingest all triaged candidates (skill SKILL.md updated to remove the "which to ingest" prompt). Of 11 dispatched fetch agents, **6 saved** and **5 failed** (NPR timeout; CNN truncated; NBC News, NewsNation 403 bot-block; CP24 404). The PURSUE event already had 12+ source pages in the vault, so the 4 failed PURSUE recaps were not material loss.
+
+**New sources:**
+- [[src-pursue-apollo-anomalies-hidden-2026-05]] — IBTimes UK (Morilla) cover-up framing of PURSUE Release 01 vs. the existing Fox/CBS/AP transparency framing
+- [[src-jwst-ice-clouds-exoplanet-2026-04]] — ScienceDaily on Matthews et al. JWST MIRI direct-imaging of Epsilon Indi Ab; first concrete water-ice-clouds inference on a Jupiter analogue
+- [[src-active-moons-review-2026-04]] — Astrobiology.com summary of NCCR PlanetS Legacy Book chapter on outgassing of Io/Europa/Enceladus/Triton/exomoons; foundational synthesis tying ocean-worlds physics to exoplanet detection
+- [[src-mars-organics-fresh-clues-2026-04]] — TIME (Kluger) popular-press companion to the existing Curiosity TMAH organics page; adds Bennu/Murchison meteorite-delivery framing and Rosalind Franklin (2028) / Dragonfly (2027) follow-on missions
+- [[src-canada-sky-canada-final-2025-07]] — CTV News (Otis) on the Sky Canada Project FINAL report (July 14 2025); distinct from the existing preliminary-report page; ~1,000 sightings/year, Transport Canada destigmatization push, RCMP/DND positions, NRC archive at LAC
+- [[src-european-uap-day-third-2026-03]] — EuroUFO (Russo) annual EU-level UAP-policy recap; first substantive European-policy ingest
+
+**New entities:** [[bennu-asteroid]], [[daniel-otis]], [[department-of-national-defence]], [[edoardo-russo]], [[elisabeth-matthews]], [[epsilon-indi-a]], [[epsilon-indi-ab]], [[euro-ufo-network]], [[fabio-de-masi]], [[io]], [[jeffrey-kluger]], [[library-and-archives-canada]], [[lukas-mandl]], [[max-planck-institute-for-astronomy]], [[murchison-meteorite]], [[national-research-council-canada]], [[paul-delaney]], [[philippe-ailleris]], [[project-magnet]], [[project-second-storey]], [[royal-canadian-mounted-police]], [[triton]], [[uap-coalition-netherlands]]
+
+**New concepts:** [[cryovolcanism]], [[european-uap-day]], [[exogenous-organics]], [[exomoons]], [[exoplanet-atmosphere-models]], [[hexamethylenetetramine]], [[tidal-heating]], [[water-ice-clouds]]
+
+**Updated:** [[pursue]], [[apollo-12]], [[apollo-17]], [[sky-canada-project]], [[canada]], [[mona-nemer]], [[transport-canada]], [[chris-rutkowski]], [[canadian-space-agency]], [[office-of-the-chief-science-advisor]], [[ocean-worlds]], [[enceladus]], [[jwst]], [[direct-imaging]], [[nancy-grace-roman-space-telescope]], [[curiosity-rover]], [[amy-williams]], [[gale-crater]], [[dragonfly-mission]], [[rosalind-franklin-rover]], [[uap-stigma]], [[uap-reporting-infrastructure]], [[sol-foundation]]
+
+**Cross-connections:**
+- The PURSUE Apollo angle bridges three existing source pages ([[src-trump-uap-apollo-photos-2026-05]] / [[src-uap-files-public-conclusions-2026-05]] / [[src-twz-pursue-shrug-2026-05]]) with a new "concealment vs. transparency" framing axis — IBTimes UK lands closest to the TWZ skeptical pole but with a distinct cover-up emphasis.
+- The active-moons review unifies four entity pages ([[io]], [[triton]], [[europa-clipper]], [[enceladus]]) under a single [[tidal-heating]] / [[ocean-worlds]] / [[exomoons]] arc.
+- The TIME Kluger piece is a popular-press *companion* to the existing [[src-curiosity-mars-life-molecules-2026-04]] but introduces meteorite-delivery context ([[bennu-asteroid]], [[murchison-meteorite]], [[hexamethylenetetramine]]) and forward-looking SAM deployments — establishing [[exogenous-organics]] as a vault-level concept distinct from [[panspermia]].
+- The Sky Canada **final** report formalizes recommendations the **preliminary** report only proposed; cross-references thread directly through [[mona-nemer]], [[canadian-space-agency]], [[transport-canada]], [[chris-rutkowski]], [[larry-maguire]] and now also [[royal-canadian-mounted-police]], [[department-of-national-defence]], [[national-research-council-canada]], [[library-and-archives-canada]], [[project-magnet]], [[project-second-storey]], [[paul-delaney]].
+- The European UAP Day source is the **first substantive EU-policy ingest** — it adds an EU-level parallel to the existing Canada / Japan / U.S. policy threads via [[uap-coalition-netherlands]], [[fabio-de-masi]], [[lukas-mandl]], [[philippe-ailleris]], and [[edoardo-russo]]. Updates [[uap-stigma]] (ERA Act feedback), [[uap-reporting-infrastructure]] (European section), and [[sol-foundation]] (Baveno 2025 symposium).
+
+**Contradictions / mismatches flagged:**
+- IBTimes UK ([[src-pursue-apollo-anomalies-hidden-2026-05]]) dates Trump's Truth Social directive to "9 February" — the wiki's authoritative date (per [[pursue]] and [[src-uap-trump-disclosure-2026]]) is **19 February 2026**. Treated as IBTimes reporting error.
+- TIME Kluger's piece partially overlaps the existing [[src-curiosity-mars-life-molecules-2026-04]] (same Curiosity TMAH study) — kept because of the meaningful additions (Bennu/Murchison context, follow-on mission dates, Williams's combined-origin framing).
+
+**Failed:**
+- NPR ("UFO files released: Defense Department publishes trove of records") — WebFetch timeout on https://www.npr.org/2026/05/08/g-s1-121186/...
+- CNN ("Pentagon releases initial batch of declassified files detailing UFOs") — fetch returned only headline, body truncated
+- NBC News ("Pentagon begins release of UFO files") — HTTP 403 (likely CDN bot-block)
+- NewsNation ("Pentagon publishes online UFO photo collection in historic release") — HTTP 403
+- CP24 / CTV News ("More than 1,000 UFOs reported over Canada in 2025") — HTTP 404; URL appears stale or moved
+
+**Skill change:** `.claude/skills/ufo-news/SKILL.md` Phase 2 step 5 amended — the skill now always proceeds to fetch all triaged candidates without prompting the user. Recorded in user-memory under `feedback_ufo_news_ingest_all`.
+
+**Suggested follow-ups:**
+- The PURSUE coverage thread is now broad; future ingests should focus on **Release 02** rather than additional Release 01 recaps unless they bring new file-by-file content (Sunday Guardian / Metabunk-class additions).
+- The European UAP policy thread is sparse beyond this one source — worth searching for primary-source EU Commission DG RTD response, ERA Act final text mentions, and European Parliament transcripts on UAP.
+- The Canada thread has the historical programs ([[project-magnet]], [[project-second-storey]]) as new stub pages — worth a follow-up search for primary-source archival content via [[library-and-archives-canada]].
+- Retry NPR / CNN / NBC News / NewsNation with alternate fetchers if the user wants those mainstream framings ingested.
+- The CP24 1,052-Canada-sightings-2025 angle is missing — try a fresh search for the primary source (likely Transport Canada or Chris Rutkowski's UFOROM dataset).

@@ -2,12 +2,14 @@
 title: Gale Crater
 type: entity
 created: 2026-04-29
-updated: 2026-04-29
+updated: 2026-05-09
 ---
 
 # Gale Crater
 
 A ~154-km Martian impact crater and the [[curiosity-rover|Curiosity Rover]] landing site (since August 2012). Hosts Mt. Sharp (Aeolis Mons) at its center — a 5-km layered mound that records hundreds of millions of years of Martian climate history. The crater floor was once a long-lived lake bed.
+
+[[jeffrey-kluger]]'s 2026 TIME piece ([[src-mars-organics-fresh-clues-2026-04]]) frames the Gale lake basin as **~95 miles wide** ~3.5 Gya, predating Mars's loss of its magnetic field and atmosphere — a habitability window directly relevant to the [[curiosity-rover|Curiosity]] [[sample-analysis-at-mars|SAM]] organics result.
 
 ## Glen Torridon
 
@@ -20,7 +22,10 @@ Contrast with [[perseverance-rover]]'s Jezero Crater landing site, which was sel
 - [[curiosity-rover]]
 - [[sample-analysis-at-mars]]
 - [[organic-molecules-mars]]
+- [[exogenous-organics]]
 - [[mars-sample-return]]
 - [[perseverance-rover]]
 - [[biosignatures]]
 - [[astrobiology]]
+- [[src-curiosity-mars-life-molecules-2026-04]]
+- [[src-mars-organics-fresh-clues-2026-04]]

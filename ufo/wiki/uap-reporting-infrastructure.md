@@ -2,7 +2,7 @@
 title: UAP Reporting Infrastructure
 type: concept
 created: 2026-04-13
-updated: 2026-04-16
+updated: 2026-05-09
 ---
 
 # UAP Reporting Infrastructure
@@ -22,9 +22,11 @@ updated: 2026-04-16
 - [[scu]] -- Advocates for independent civilian sensor networks
 
 ### International
-- [[sky-canada-project]] -- Canada's comprehensive national framework including a bilingual public reporting app and standardized database; preliminary report Jan 2025 ([[src-canada-sky-canada-project-2025-02]]) and final report July 2025; institutional host (CSA vs. [[transport-canada]]) still unresolved
+- [[sky-canada-project]] -- Canada's comprehensive national framework; preliminary report Jan 2025 ([[src-canada-sky-canada-project-2025-02]]) and final report July 2025 ([[src-canada-sky-canada-final-2025-07]]) recommending a CSA-led federal UAP service, Transport Canada destigmatization, and a bilingual reporting app; estimated up to ~1,000 sightings/year
 - [[transport-canada]] -- Ran de facto Canadian UAP-report intake until 2021 (forwarded to [[chris-rutkowski]]); MP [[larry-maguire]]'s preferred home for any future Canadian UAP body
 - [[japan-uap-framework]] -- Japan's March 2026 parliamentary proposal for a specialized UAP body under the Cabinet Secretariat's Deputy Chief Cabinet Secretary for Crisis Management ([[src-japan-uap-strategy-proposal-2026-03]])
+- **European Union** -- 2025 [[uap-coalition-netherlands]] engagement with MEPs [[fabio-de-masi]] and [[lukas-mandl]], EU ERA Act feedback (24→36 scientists), Space Act feedback, December 2025 DG RTD consultation ([[src-european-uap-day-third-2026-03]])
+- **Pan-European reporting**: [[philippe-ailleris]]'s 2025 European UAP Barometer (33,600 reports / 40 countries / 2019–2024); the Euro UFO Index (December 2025 launch, 23 national + 2 international orgs, 4,000+ indexed 2024 reports across 43 nations)
 - **University of Wurzburg AllSkyCAM** -- German automated camera systems developed with civil aviation authority
 
 ### Academic
@@ -70,3 +72,5 @@ AARO's 2025 UAP Workshop whitepaper ([[src-aaro-uap-data-collection-whitepaper-2
 - [[src-aaro-uap-data-collection-whitepaper-2026-03]] -- Narrative-data framework, field-level recommendations
 - [[src-japan-uap-strategy-proposal-2026-03]] -- Japan's proposed whole-of-government UAP body
 - [[src-canada-sky-canada-project-2025-02]] -- Canadian Sky Canada Project preliminary report and political prospects
+- [[src-canada-sky-canada-final-2025-07]] -- Sky Canada Project final report (July 2025)
+- [[src-european-uap-day-third-2026-03]] -- EU-level engagement and pan-European reporting infrastructure

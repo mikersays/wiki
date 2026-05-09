@@ -2,7 +2,7 @@
 title: Apollo 12
 type: entity
 created: 2026-05-08
-updated: 2026-05-08
+updated: 2026-05-09
 ---
 
 # Apollo 12
@@ -28,3 +28,4 @@ See [[lunar-uap-historical-claims]] for the broader umbrella concept and competi
 - [[src-leonard-david-pursue-column-2026-05]] — five highlighted "Areas" framing
 - [[src-sunday-guardian-162-files-2026-05]] — file-by-file inventory
 - [[src-metabunk-pursue-analysis-2026-05]] — repackaging-of-prior-content concerns
+- [[src-pursue-apollo-anomalies-hidden-2026-05]] — IBTimes UK cover-up framing of Apollo 12 "glowing horizon object"
