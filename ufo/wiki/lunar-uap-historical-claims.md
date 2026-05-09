@@ -62,3 +62,4 @@ Record `255_413270` — undated NASA paper (no incident date). The only Release 
 
 - [[apollo-11]] · [[apollo-12]] · [[apollo-17]] · [[gemini-7]] · [[skylab]] · [[nasa]] · [[pursue]] · [[pursue-release-01-catalog]]
 - [[src-trump-uap-apollo-photos-2026-05]] · [[src-uap-files-rollout-interagency-2026-05]] · [[src-uap-files-public-conclusions-2026-05]] · [[src-pursue-portal-launch-2026-05]]
+- [[src-leonard-david-pursue-column-2026-05]] · [[src-twz-pursue-shrug-2026-05]] · [[src-sciam-pursue-skeptics-2026-05]] · [[src-sunday-guardian-162-files-2026-05]] · [[src-metabunk-pursue-analysis-2026-05]] · [[src-debrief-pursue-launch-2026-05]]

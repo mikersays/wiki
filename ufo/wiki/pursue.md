@@ -5,6 +5,7 @@ created: 2026-05-08
 updated: 2026-05-08
 ---
 
+
 # PURSUE (Presidential Unsealing and Reporting System for UAP Encounters)
 
 **PURSUE** is a U.S. federal UAP records portal launched May 8, 2026 by the [[department-of-war]] at `war.gov/UFO`, operationalizing [[donald-trump]]'s February 19, 2026 Truth Social directive to release government files on UAP, UFOs, and "alien and extraterrestrial life" ([[src-uap-trump-disclosure-2026]]).
@@ -36,9 +37,19 @@ Established in response to [[donald-trump]]'s Truth Social directive dated 2026-
 
 ## Reception
 
-- Media framing has split: enthusiastic (Fox, Examiner — [[src-trump-uap-apollo-photos-2026-05]], [[src-war-department-uap-declassification-2026-05]]); measured (CBS — [[src-uap-files-rollout-interagency-2026-05]]); skeptical (AP/WaPo — [[src-uap-files-public-conclusions-2026-05]]).
+- Media framing has split across a wider spectrum than the launch-day wires:
+  - **Enthusiastic / aerospace-trade neutral:** Fox, Examiner ([[src-trump-uap-apollo-photos-2026-05]], [[src-war-department-uap-declassification-2026-05]]), and Leonard David ([[src-leonard-david-pursue-column-2026-05]]).
+  - **Measured / interagency-frame:** CBS ([[src-uap-files-rollout-interagency-2026-05]]).
+  - **Disclosure-community deep-dive:** [[the-debrief]] ([[src-debrief-pursue-launch-2026-05]]) — assesses Release 01 as a centralized repository of previously-partial records with limited genuinely new insight.
+  - **Skeptical:** AP/WaPo ([[src-uap-files-public-conclusions-2026-05]]); [[the-war-zone]] ([[src-twz-pursue-shrug-2026-05]]) — "nothing groundbreaking," Apollo 17 image likely a visual artifact, "football-shaped" Japan object consistent with a balloon; **Scientific American** ([[src-sciam-pursue-skeptics-2026-05]]) — [[sean-kirkpatrick]] "playhouse politics theater company" and [[mick-west]] "more dots, more parallax."
+  - **Frame-by-frame debunker:** Metabunk thread led by [[mick-west]] ([[src-metabunk-pursue-analysis-2026-05]]) — Reaper-UAS [[infrared-imagery|IR]] / [[parallax]] / [[lens-flare-explanations|optical-artifact]] critique; specific identifications of **PR-19 = "Baghdad Phantom"** (already leaked by [[jeremy-corbell]] in 2023) and **PR-48 = candidate offshore wind turbines**.
+  - **File-content inventory:** Sunday Guardian ([[src-sunday-guardian-162-files-2026-05]]) — format breakdown ~120 PDFs / 28 videos / ~14 photographs; surfaces a 1967 Chesapeake "transparent craft / undersized creatures" entry inside [[fbi-case-file-62-hq-83894]].
 - Skeptics warn that Trump's prior JFK/RFK/MLK record releases "revealed little beyond what was already known" and that UAP videos are easily misread by non-specialists.
 - AARO's 2024 historical report ([[src-aaro-fy2024-annual-report-2024]]) found no evidence of recovered ET technology or biologics — the institutional baseline against which PURSUE's substantive ceiling will be judged.
+
+## Pre-launch signal
+
+- 2026-05-06: FBI Director [[kash-patel]] told the Sean Hannity podcast that documents had "already been delivered" and would be released "very soon," attributing the interagency lead to the [[department-of-war]] — public confirmation **two days before** the May 8 launch ([[src-yahoo-fbi-confirms-files-2026-05]]).
 
 ## Relationship to Other Disclosure Efforts
 

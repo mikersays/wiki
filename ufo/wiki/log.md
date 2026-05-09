@@ -536,3 +536,44 @@ Direct war.gov access blocked by Akamai 403 for both WebFetch and Playwright; ev
 - Crawl the next PURSUE tranches as they post (~every few weeks per DoW)
 - Manual download of the 28 videos if the user chooses to extend scope
 - Surface specific DoW Mission Report incidents that warrant individual analysis (the D74 "bouncy ball" Syria 2023, D27 UAE October 2023 [carousel-confirmed PR26], D75 Gulf of Aden July 2024 etc.)
+
+## [2026-05-08] ingest | UFO news sweep — PURSUE reception (7 articles)
+
+`/ufo-news` parallel sweep focused on the PURSUE / war.gov/UFO disclosure rollout. Six search agents dispatched in parallel; nine candidates curated; seven successfully ingested (LA Magazine and NewsNation hit HTTP 403 with no Wayback snapshots).
+
+**New source pages (7):**
+- [[src-debrief-pursue-launch-2026-05]] — disclosure-community deep dive ([[micah-hanks]])
+- [[src-twz-pursue-shrug-2026-05]] — TWZ skeptical first-look ([[joseph-trevithick]])
+- [[src-sciam-pursue-skeptics-2026-05]] — Scientific American skeptic framing (Kirkpatrick + Mick West)
+- [[src-sunday-guardian-162-files-2026-05]] — file-by-file content inventory; surfaces 1967 Chesapeake "transparent craft / undersized creatures" entry
+- [[src-metabunk-pursue-analysis-2026-05]] — [[mick-west]]'s same-day frame-by-frame thread (PR-19 = Baghdad Phantom; PR-48 = wind turbines / lens artifacts)
+- [[src-leonard-david-pursue-column-2026-05]] — veteran space-journalist column quoting Hegseth and Isaacman; flags Enigma Labs mirror at pentagonufofiles.io
+- [[src-yahoo-fbi-confirms-files-2026-05]] — Patel's May 6 Hannity pre-launch confirmation
+
+**New entity pages (6):** [[micah-hanks]] · [[joseph-trevithick]] · [[mick-west]] · [[leonard-david]] · [[the-debrief]] · [[us-indo-pacific-command]]
+
+**New concept pages (4):** [[parallax]] · [[lens-flare-explanations]] · [[infrared-imagery]] · [[reaper-uas]]
+
+**Updated pages:** [[pursue]] (full reception spectrum + pre-launch Patel timestamp), [[fbi-case-file-62-hq-83894]] (1967 Chesapeake case + bronze-overlay debunker note + 18-reports-vs-56-records reconciliation), [[sean-kirkpatrick]] (SciAm "playhouse politics theater company" quote), [[jeremy-corbell]] (PR-19 = his 2023 Baghdad Phantom leak), [[anna-paulina-luna]] ("great first step" + second-tranche signal via Debrief), [[the-war-zone]] (Trevithick recurring skeptical byline), [[kash-patel]] (May 6 Hannity pre-launch confirmation), [[apollo-12]] · [[apollo-17]] · [[gemini-7]] · [[lunar-uap-historical-claims]] (cross-source backlinks).
+
+**Cross-connections:**
+- The Debrief, TWZ, SciAm, Sunday Guardian, Metabunk, Leonard David, and Yahoo all hang off the same May 8 PURSUE event — first ingest of the **post-launch reception spectrum** rather than the launch itself. This complements the May 8 launch sources already ingested (DoW press release, Fox/CBS/AP/WaPo/Examiner). PURSUE coverage in the vault now spans **enthusiastic → measured → skeptical → debunker** voices.
+- [[mick-west]]'s Metabunk thread and [[sean-kirkpatrick]]'s SciAm quote land on the same characterization the same day ("more dots, more parallax" / "nothing unexpected"). Linked via [[parallax]] concept page.
+- [[joseph-trevithick]]'s "Apollo 17 image likely a visual artifact" reading aligns with Metabunk-thread skepticism about Apollo material being repackaged previously-known content. Both link via [[apollo-17]] and [[lunar-uap-historical-claims]].
+- [[jeremy-corbell]] now has a documented 2023 leak (Baghdad Phantom = PR-19) inside the May 2026 PURSUE corpus — an explicit prior-leak chain.
+- [[kash-patel]]'s May 6 Hannity pre-confirmation closes the gap between [[src-trump-pentagon-uap-files-2026-05]] (May 3 White House tease) and the May 8 launch.
+- [[anna-paulina-luna]]'s "great first step" + second-tranche signal connects this ingest forward to her [[src-luna-46-uap-videos-demand-2026-03]] thread.
+
+**Contradictions / mismatches flagged:**
+- Sunday Guardian's "**18 separate reports**" inside [[fbi-case-file-62-hq-83894]] vs. the per-record catalog's **56 digital records** (48 PDFs + 8 images). Both can be true (internal narrative count vs. discrete-PDF count after digitization); annotated on the case-file page for future ingest reconciliation.
+- Sunday Guardian places the "football-shaped" 2024 Japan object explicitly under [[us-indo-pacific-command]]; The War Zone reads the same object as consistent with a Chinese spy balloon. The two readings aren't directly contradictory but should be tracked together as the case is investigated.
+
+**Failed:**
+- LA Magazine "Inside the UFO Files: Hoover, Los Alamos and UAP Secrets" — HTTP 403; no Wayback snapshot. The Hoover/Los Alamos historical-content angle is **not yet captured in the vault** despite high apparent value.
+- NewsNation "What images were released in the Pentagon's historic UFO file dump?" — HTTP 403; no Wayback snapshot. Image-by-image breakdown angle is partially served by Sunday Guardian and the existing per-record catalog.
+
+**Suggested follow-ups:**
+- Retry LA Magazine via alternate fetcher or text scrape if the user wants the Hoover / Los Alamos angle ingested. (Hoover hasn't shown up as a named figure in 62-HQ-83894 coverage yet.)
+- The PURSUE reception spectrum will expand as Release 02 lands. The current ingest forms a **baseline-of-day-one reactions**; future tranches should be measured against this baseline (e.g., does Mick West / Trevithick critique soften or harden as more material lands?).
+- Watch for [[anna-paulina-luna]]'s pledged second-tranche videos to land — the most-likely-to-shift-the-discourse next event.
+- The 1967 Chesapeake transparent-craft / undersized-creatures case from Sunday Guardian warrants its own analysis page if a primary FBI-memo mirror surfaces (currently a single-secondary-source claim).

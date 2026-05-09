@@ -2,7 +2,7 @@
 title: Anna Paulina Luna
 type: entity
 created: 2026-04-13
-updated: 2026-05-07
+updated: 2026-05-08
 ---
 
 # Anna Paulina Luna
@@ -75,3 +75,4 @@ Luna chaired a second hearing on April 24, 2026: "Restoring Public Trust Through
 - [[src-uap-files-public-conclusions-2026-05]] — May 8, 2026: said the 46 demanded UAP videos are "expected in a later release" after the [[pursue]] Release 01 did not include them
 - [[src-dow-uap-files-release-2026-05]]
 - [[src-pursue-portal-launch-2026-05]]
+- [[src-debrief-pursue-launch-2026-05]] — May 8, 2026: Luna calls PURSUE Release 01 "a great first step" and signals a second tranche, including her demanded videos, may arrive within weeks

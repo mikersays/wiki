@@ -59,9 +59,4 @@ The Borman bogey is one of the earliest official UAP records integrated into the
 - [[apollo-11]] · [[apollo-12]] · [[apollo-17]] · [[skylab]] · [[nasa]]
 - [[lunar-uap-historical-claims]] · [[pursue]] · [[pursue-release-01-catalog]]
 - [[src-pursue-portal-launch-2026-05]]
-
-## Related
-
-- [[apollo-11]] · [[apollo-12]] · [[apollo-17]] · [[skylab]] · [[nasa]]
-- [[lunar-uap-historical-claims]] · [[pursue]] · [[pursue-release-01-catalog]]
-- [[src-pursue-portal-launch-2026-05]]
+- [[src-leonard-david-pursue-column-2026-05]] — David's column re-surfaces the Borman/Lovell exchange in a same-day press cite

@@ -2,7 +2,7 @@
 title: Sean Kirkpatrick
 type: entity
 created: 2026-05-01
-updated: 2026-05-05
+updated: 2026-05-08
 ---
 
 # Sean Kirkpatrick
@@ -19,9 +19,12 @@ Founding director of [[aaro]] (2022–2024). Took a firm public stance denying a
 
 In Fortune/AP coverage of [[donald-trump]]'s May 3, 2026 White House remarks, Kirkpatrick dismissed Trump's promised UAP release as "bluster" and a "shiny object" tied to the Iran war — saying he has reviewed the records and there are no bombshell revelations: *"Readers should not get their hopes up that there's going to be some document with photos, interviewing the aliens when they came down. Because that just doesn't exist."* He attributed viral pill-shaped UAP videos to thermal blooming of jet engines on infrared cameras ([[src-trump-pentagon-uap-files-2026-05]]).
 
+After [[pursue]] Release 01 launched on May 8, 2026, Kirkpatrick told **Scientific American** ([[src-sciam-pursue-skeptics-2026-05]]) that the records contain "**nothing unexpected**" and that — without analysis or context — the release will only "fuel more speculation, conspiracy and armchair pseudoscience, particularly from the **playhouse politics theater company**." The framing aligns with [[mick-west]]'s same-day "more dots, more parallax" assessment ([[src-metabunk-pursue-analysis-2026-05]]).
+
 ## Sources
 
 - [[src-gallaudet-kirkpatrick-clash-2026-04]]
 - [[src-aaro-shutdown-bill-2026]]
 - [[src-aaro-kosloski-testimony-2024]]
 - [[src-trump-pentagon-uap-files-2026-05]]
+- [[src-sciam-pursue-skeptics-2026-05]]

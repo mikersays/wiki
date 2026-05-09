@@ -11,12 +11,14 @@ updated: 2026-05-08
 
 ## UAP Disclosure Role
 
+- **2026-05-06:** Pre-launch confirmation on Sean Hannity's podcast: "Trump stood up an interagency process with the [[department-of-war]] leading that effort to get out the documentation"; documents "have already been delivered" and would be released "very soon" ([[src-yahoo-fbi-confirms-files-2026-05]]). Two days before PURSUE Release 01 dropped.
 - **2026-05-08:** signed onto the [[pursue]] Release 01 framing the rollout as the first time "in history" the public will have "unfettered access to declassified government files on Unidentified Anomalous Phenomenon" ([[src-dow-uap-files-release-2026-05]], [[src-pursue-portal-launch-2026-05]]).
 - Per CBS reporting ([[src-uap-files-rollout-interagency-2026-05]]), Patel separately stated he personally has no information that the U.S. ever recovered alien bodies.
 - The [[fbi]] is the document-source for Release 01 page 1, which is entirely FBI PDFs from [[fbi-case-file-62-hq-83894]] (1947–1968 unidentified-objects/"flying discs" file, 18 sub-documents including [[oak-ridge-tennessee|Oak Ridge]] reports, plus a New Year's Eve 1999 photo set).
 
 ## Sources
 
+- [[src-yahoo-fbi-confirms-files-2026-05]] — May 6 Hannity pre-launch confirmation.
 - [[src-dow-uap-files-release-2026-05]] — DoW PURSUE release statement.
 - [[src-pursue-portal-launch-2026-05]] — PURSUE portal page.
 - [[src-trump-uap-apollo-photos-2026-05]] — Fox News.
