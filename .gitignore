@@ -12,3 +12,7 @@
 # Quartz build artifacts
 .quartz-build/
 public/
+
+# macOS Finder metadata
+.DS_Store
+**/.DS_Store
