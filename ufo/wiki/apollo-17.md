@@ -33,3 +33,5 @@ Specific content of the two new (D5, D6) debriefings is pending text extraction 
 - [[src-sunday-guardian-162-files-2026-05]] — lunar-photo inventory
 - [[src-metabunk-pursue-analysis-2026-05]] — Apollo material as potentially repackaged previously-known content
 - [[src-pursue-apollo-anomalies-hidden-2026-05]] — IBTimes UK frames the three-dots photo as still lacking consensus and characterizes PURSUE notes as "scant"
+- [[src-fortune-aldrin-apollo-11-uap-2026-05]] — Fortune/AP frames the triangular-dots photo as Pentagon-analyzed "physical object" with "no consensus"
+- [[src-newsweek-luna-teases-disclosure-2026-05]] — Newsweek surfaces Cernan's "train headlight" deep-space-flash quote and Schmitt's "Fourth of July" line; ice/paint-fragment caveat ("largely a 'wild guess'")

@@ -2,7 +2,7 @@
 title: U.S. Northern Command (USNORTHCOM)
 type: entity
 created: 2026-04-13
-updated: 2026-05-07
+updated: 2026-05-10
 ---
 
 # U.S. Northern Command (USNORTHCOM)
@@ -28,3 +28,8 @@ See also [[drone-incursions]] and the foundational [[src-60-minutes-drone-swarms
 Per [[src-directed-energy-5-bases-pilot-2026-05]], NORTHCOM characterized drone incursions over U.S. military installations as **"almost daily"** in an October 2025 statement, complementing Guillot's February 2025 figure of 350 detections at ~100 installations in the prior year. This framing underwrote the May 2026 [[jiatf-401]] [[directed-energy-weapons]] 5-base pilot.
 
 See also: [[norad]], [[aaro]], [[ndaa-uap-provisions]], [[uap-disclosure]], [[gregory-guillot]], [[flyaway-kit]], [[glen-vanherck]], [[langley-afb]], [[barksdale-afb]], [[src-directed-energy-5-bases-pilot-2026-05]]
+
+## NORTHCOM UAP records in PURSUE Release 01
+
+- **June 2024 video:** [[pursue]] Release 01 includes a NORTHCOM video described as "an inverted teardrop with a vertically linear trailing mass" — an "object with a vertical pole or bar attached to the bottom" ([[src-newsweek-luna-teases-disclosure-2026-05]]).
+- A 100-second 2024 [[us-indo-pacific-command|INDOPACOM]] IR clip showing a bright dot moving through an array of windmills appears in the same release set ([[src-space-com-pursue-video-trove-2026-05]]); see [[us-indo-pacific-command]] for the parallel command's PURSUE entries.

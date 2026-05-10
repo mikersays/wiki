@@ -2,7 +2,7 @@
 title: Anna Paulina Luna
 type: entity
 created: 2026-04-13
-updated: 2026-05-08
+updated: 2026-05-10
 ---
 
 # Anna Paulina Luna
@@ -53,6 +53,10 @@ In an April 29, 2026 episode of New York Post columnist [[miranda-devine]]'s *Po
 - **Apr 16, 2026** — [[avi-loeb]] frames Luna's 46-video demand as a worthwhile probe but cautions the most scientifically interesting recent classified-sensor data is likely to be withheld and pushes for raw, unprocessed satellite imagery ([[src-loeb-wh-uap-videos-skeptic-2026-04]]). Also Apr 16: Luna appeared on former Rep. Matt Gaetz's OAN show and described the escalation chain — staff had to chase the Pentagon, then she escalated to the White House after the Pentagon "refused to respond." Pentagon offered a future briefing; Luna rejected it: "That's not up to them." [[aaro]] issued a statement confirming coordination with the White House on UAP release; Hegseth on record: "in full compliance with that executive order." ([[src-luna-uap-deadline-missed-2026-04]])
 - **Apr 17, 2026** — Luna posted Trump's TPUSA tease clip with a winking emoji and (in NewsNation interview) said she is "considering using subpoena authority" if the 46 videos are not released — first explicit subpoena threat tied to the 46-video demand ([[src-trump-ufo-files-interesting-2026-04]]).
 
+## May 8, 2026 PURSUE Pre-launch Tease
+
+Luna pre-announced [[pursue]] Release 01 with a cryptic "**8 a.m.**" X post ([[src-newsweek-luna-teases-disclosure-2026-05]]) and directed followers to a [[joe-rogan]] episode featuring [[tim-burchett]] and to the **Book of Enoch** (Watchers / Nephilim) — her first explicit Enoch citation in this wiki, anchoring her commentary on the Christian-eschatological side of [[theological-uap-framing]] alongside Rep. [[lauren-boebert]]. Post-launch reactions: "a massive first step in the right direction"; said additional videos would follow ([[src-fortune-aldrin-apollo-11-uap-2026-05]]).
+
 ## April 24, 2026 UAP Hearing
 
 Luna chaired a second hearing on April 24, 2026: "Restoring Public Trust Through UAP Transparency and Whistleblower Protection" — the official primary-source record of which is at [[src-uap-transparency-hearing-2026-04]]. Featured additional military witnesses ([[jeffrey-nuccetelli]], [[dylan-borland]], [[alexandro-wiggins]]) and Rep. [[eric-burlison]]'s public release of MQ-9/Yemen orb footage. (Note: analysis agent originally assessed this as the September 9, 2025 hearing; the April 24, 2026 date is from the hearing page URL.)
@@ -76,3 +80,5 @@ Luna chaired a second hearing on April 24, 2026: "Restoring Public Trust Through
 - [[src-dow-uap-files-release-2026-05]]
 - [[src-pursue-portal-launch-2026-05]]
 - [[src-debrief-pursue-launch-2026-05]] — May 8, 2026: Luna calls PURSUE Release 01 "a great first step" and signals a second tranche, including her demanded videos, may arrive within weeks
+- [[src-newsweek-luna-teases-disclosure-2026-05]] — May 8, 2026: Luna's "8 a.m." pre-launch tease, Rogan/Burchett pointer, and explicit Book of Enoch reference
+- [[src-fortune-aldrin-apollo-11-uap-2026-05]] — May 9, 2026: AP wire quotes Luna saying additional videos will be released later

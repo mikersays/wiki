@@ -2,7 +2,7 @@
 title: Lunar UAP Historical Claims
 type: concept
 created: 2026-05-08
-updated: 2026-05-08
+updated: 2026-05-10
 ---
 
 # Lunar UAP Historical Claims
@@ -23,7 +23,11 @@ A NASA record consisting of a transcript PDF (`255_t_763_r1b_transcripts`) and a
 
 ### Apollo 11 (Jul 1969)
 
-[[apollo-11]]. **Technical Crew Debriefing** — record `NASA-UAP-D4`. Crew: Armstrong, Aldrin, Collins. *New to wiki via PURSUE.*
+[[apollo-11]]. **Technical Crew Debriefing** — record `NASA-UAP-D4`. Crew: Armstrong, [[buzz-aldrin|Aldrin]], Collins. Surfaced May 9–10 2026 via Fortune/AP wire ([[src-fortune-aldrin-apollo-11-uap-2026-05]]) and Newsweek ([[src-newsweek-luna-teases-disclosure-2026-05]]):
+
+- Aldrin describes a "**sizeable**" object "one day out or something pretty close to the moon" that prompted monocular use; crew speculated **S-IVB Saturn V third stage**.
+- Aldrin describes "little flashes inside the cabin, spaced a couple of minutes apart" while sleeping — consistent with cosmic-ray retina-flash phenomena documented across Apollo crews.
+- Aldrin describes "a fairly bright light source which we tentatively ascribed to a possible **laser**" — the headline AP-wire quote.
 
 ### Apollo 12 (Nov 1969)
 
@@ -62,4 +66,4 @@ Record `255_413270` — undated NASA paper (no incident date). The only Release 
 
 - [[apollo-11]] · [[apollo-12]] · [[apollo-17]] · [[gemini-7]] · [[skylab]] · [[nasa]] · [[pursue]] · [[pursue-release-01-catalog]]
 - [[src-trump-uap-apollo-photos-2026-05]] · [[src-uap-files-rollout-interagency-2026-05]] · [[src-uap-files-public-conclusions-2026-05]] · [[src-pursue-portal-launch-2026-05]]
-- [[src-leonard-david-pursue-column-2026-05]] · [[src-twz-pursue-shrug-2026-05]] · [[src-sciam-pursue-skeptics-2026-05]] · [[src-sunday-guardian-162-files-2026-05]] · [[src-metabunk-pursue-analysis-2026-05]] · [[src-debrief-pursue-launch-2026-05]]
+- [[src-leonard-david-pursue-column-2026-05]] · [[src-twz-pursue-shrug-2026-05]] · [[src-sciam-pursue-skeptics-2026-05]] · [[src-sunday-guardian-162-files-2026-05]] · [[src-metabunk-pursue-analysis-2026-05]] · [[src-debrief-pursue-launch-2026-05]] · [[src-fortune-aldrin-apollo-11-uap-2026-05]] · [[src-newsweek-luna-teases-disclosure-2026-05]]

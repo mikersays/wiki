@@ -2,7 +2,7 @@
 title: Tulsi Gabbard
 type: entity
 created: 2026-05-08
-updated: 2026-05-08
+updated: 2026-05-10
 ---
 
 # Tulsi Gabbard
@@ -16,4 +16,4 @@ updated: 2026-05-08
 
 ## Sources
 
-- [[src-dow-uap-files-release-2026-05]] · [[src-pursue-portal-launch-2026-05]] · [[src-trump-uap-apollo-photos-2026-05]] · [[src-uap-files-rollout-interagency-2026-05]] · [[src-war-department-uap-declassification-2026-05]]
+- [[src-dow-uap-files-release-2026-05]] · [[src-pursue-portal-launch-2026-05]] · [[src-trump-uap-apollo-photos-2026-05]] · [[src-uap-files-rollout-interagency-2026-05]] · [[src-war-department-uap-declassification-2026-05]] · [[src-newsweek-luna-teases-disclosure-2026-05]]

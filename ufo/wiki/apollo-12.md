@@ -29,3 +29,4 @@ See [[lunar-uap-historical-claims]] for the broader umbrella concept and competi
 - [[src-sunday-guardian-162-files-2026-05]] — file-by-file inventory
 - [[src-metabunk-pursue-analysis-2026-05]] — repackaging-of-prior-content concerns
 - [[src-pursue-apollo-anomalies-hidden-2026-05]] — IBTimes UK cover-up framing of Apollo 12 "glowing horizon object"
+- [[src-newsweek-luna-teases-disclosure-2026-05]] — Newsweek surfaces Bean's "particles and flashes of light 'sailing off in space'" passage

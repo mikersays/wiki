@@ -2,7 +2,7 @@
 title: Sean Kirkpatrick
 type: entity
 created: 2026-05-01
-updated: 2026-05-08
+updated: 2026-05-10
 ---
 
 # Sean Kirkpatrick
@@ -21,6 +21,8 @@ In Fortune/AP coverage of [[donald-trump]]'s May 3, 2026 White House remarks, Ki
 
 After [[pursue]] Release 01 launched on May 8, 2026, Kirkpatrick told **Scientific American** ([[src-sciam-pursue-skeptics-2026-05]]) that the records contain "**nothing unexpected**" and that — without analysis or context — the release will only "fuel more speculation, conspiracy and armchair pseudoscience, particularly from the **playhouse politics theater company**." The framing aligns with [[mick-west]]'s same-day "more dots, more parallax" assessment ([[src-metabunk-pursue-analysis-2026-05]]).
 
+The Fortune/AP wire ([[src-fortune-aldrin-apollo-11-uap-2026-05]]) adds Kirkpatrick's specific debunk of a 2013 Middle East **eight-pointed-star** video, which he attributes to "a hot jet engine producing a **diffraction pattern** in the camera." He restates the broader "arm-chair pseudoscience" warning: unsupported releases "only serve to fuel more speculation, conspiracy and arm-chair pseudoscience."
+
 ## Sources
 
 - [[src-gallaudet-kirkpatrick-clash-2026-04]]
@@ -28,3 +30,4 @@ After [[pursue]] Release 01 launched on May 8, 2026, Kirkpatrick told **Scientif
 - [[src-aaro-kosloski-testimony-2024]]
 - [[src-trump-pentagon-uap-files-2026-05]]
 - [[src-sciam-pursue-skeptics-2026-05]]
+- [[src-fortune-aldrin-apollo-11-uap-2026-05]]

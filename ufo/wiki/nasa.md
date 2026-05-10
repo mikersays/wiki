@@ -2,7 +2,7 @@
 title: NASA (National Aeronautics and Space Administration)
 type: entity
 created: 2026-04-13
-updated: 2026-05-07
+updated: 2026-05-10
 ---
 
 # NASA
@@ -25,6 +25,10 @@ NASA operates several missions and programs central to the search for [[biosigna
 - **[[mars-sample-return]]**: Future mission to return rock samples collected by [[perseverance-rover]] to Earth for laboratory analysis. Origin ambiguity in Curiosity's 2026 [[organic-molecules-mars|organic molecule]] inventory reinforces the rationale.
 - **[[dragonfly-mission]]**: Rotorcraft mission to Saturn's moon Titan; will carry TMAH wet-chemistry inheriting heritage from Curiosity SAM.
 - **Enceladus Orbilander** (concept): Proposed mission to orbit and land on Saturn's moon Enceladus.
+
+### Earth-observation / technosignature calibration
+
+- **[[suomi-npp]] / VIIRS DNB nighttime lights**: NASA co-operates the [[suomi-npp|Suomi NPP]] polar-orbiting platform with [[noaa]]. The [[viirs-dnb|VIIRS Day/Night Band]] sensor is the global workhorse for nighttime artificial-light measurements; [[christopher-kyba]]'s 2014–2022 analysis ([[src-terrestrial-technosignatures-satellites-2026-04]]) reframes the data as a [[terrestrial-technosignature]] calibration target for [[seti]] and exoplanet [[direct-imaging]] strategies.
 
 ### Research Initiatives
 

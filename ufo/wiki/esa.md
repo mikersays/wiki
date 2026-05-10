@@ -2,7 +2,7 @@
 title: European Space Agency (ESA)
 type: entity
 created: 2026-04-13
-updated: 2026-05-05
+updated: 2026-05-10
 ---
 
 # European Space Agency (ESA)
@@ -23,6 +23,10 @@ Built and operated the [[huygens-probe]] for [[titan]] in partnership with [[nas
 
 ESA is a partner in the [[jwst]] alongside [[nasa]] and CSA.
 
+### Earth Explorer 13 (proposed)
+
+[[earth-explorer-13]] is an Earth-Explorer mission opportunity under selection. [[christopher-kyba]] is PI on a proposal for a dedicated **night-lights satellite** intended to detect fainter sources at higher resolution than the current [[viirs-dnb|VIIRS DNB]] capability — relevant here as a [[terrestrial-technosignature]] calibration platform for [[seti]] and exoplanet [[direct-imaging]] strategies ([[src-terrestrial-technosignatures-satellites-2026-04]]).
+
 ## See Also
 
 - [[ocean-worlds]]
@@ -37,3 +41,5 @@ ESA is a partner in the [[jwst]] alongside [[nasa]] and CSA.
 - [[enceladus]]
 - [[src-cassini-huygens-ocean-worlds-2026-04]]
 - [[src-esa-enceladus-life-mission-2025]]
+- [[src-terrestrial-technosignatures-satellites-2026-04]]
+- [[earth-explorer-13]] · [[christopher-kyba]] · [[viirs-dnb]] · [[suomi-npp]] · [[terrestrial-technosignature]]

@@ -1,11 +1,23 @@
 ---
 title: Log
-updated: 2026-05-06
+updated: 2026-05-10
 ---
 
 # Log
 
 Chronological record of wiki activity. Each entry uses the format `## [YYYY-MM-DD] action | description` for easy parsing.
+
+## [2026-05-10] ingest | UFO news sweep (5 articles, post-PURSUE follow-up + terrestrial technosignature)
+
+Fetched via /ufo-news. 7 parallel search tracks (no focus topic) → ~50 candidates → 7 ingest-approved → 5 saved (1 skipped: IBTimes May-9 Gallaudet/Kirkpatrick "liar" piece duplicate of [[src-gallaudet-kirkpatrick-clash-2026-04]]; 1 failed: NewsNation Coulthart podcast page returned HTTP 403).
+
+New sources: [[src-burlison-commends-trump-uap-release-2026-05]], [[src-newsweek-luna-teases-disclosure-2026-05]], [[src-fortune-aldrin-apollo-11-uap-2026-05]], [[src-space-com-pursue-video-trove-2026-05]], [[src-terrestrial-technosignatures-satellites-2026-04]]
+
+New entities: [[buzz-aldrin]], [[lauren-boebert]], [[wladyslaw-krasuski]], [[mike-wall]], [[space-com]], [[christopher-kyba]], [[viirs-dnb]], [[suomi-npp]], [[earth-explorer-13]]
+
+New concepts: [[terrestrial-technosignature]], [[nighttime-light-emissions]], [[light-pollution]]
+
+Updated: [[pursue]] (Aldrin Apollo-11 lede + newly surfaced records + Space.com / Fortune / Newsweek / Burlison reception clusters + theological framing), [[apollo-11]] (full Aldrin three-observation D4 content), [[apollo-12]] (Bean particles citation), [[apollo-17]] (Cernan/Schmitt quotes + Fortune "physical object" framing), [[eric-burlison]] (formal House press release), [[anna-paulina-luna]] (May 8 "8 a.m." pre-launch Enoch tease + Joe Rogan pointer), [[anna-kelly]] (expanded May 8 statement), [[sean-kirkpatrick]] (diffraction-pattern + arm-chair pseudoscience quote), [[sol-foundation]] (post-PURSUE legislation call), [[centcom]] (Syria Oct 2024 DoW-UAP-D32 + Nov 2023 bouncy ball + Aegean orb), [[us-indo-pacific-command]] (football + windmill IR clip + PR-48 ID), [[usnorthcom]] (June 2024 inverted-teardrop video), [[donald-trump]] (Truth Social "WHAT THE HELL IS GOING ON?" line + Burlison "disclosure president"), [[tim-burchett]] ("a great start" + "they don't give up that easy"), [[tulsi-gabbard]] (Newsweek source citation), [[theological-uap-framing]] (Boebert + Luna Enoch), [[lunar-uap-historical-claims]] (Apollo 11 Aldrin quotes), [[technosignatures]] (terrestrial subclass + Earth-as-calibration section), [[nasa]] (Suomi NPP / VIIRS DNB context), [[noaa]] (VIIRS DNB platform role), [[esa]] (Earth Explorer 13 night-lights proposal)
 
 ## [2026-05-06] ingest | UFO news sweep (6 articles, religious-leaders thread + counter-drone procurement + Mars chemistry)
 

@@ -2,7 +2,7 @@
 title: Eric Burlison
 type: entity
 created: 2026-04-25
-updated: 2026-05-05
+updated: 2026-05-10
 ---
 
 **Rep. Eric Burlison** (R-MO) is a leading UAP legislative figure in the 119th Congress, serving on the House Oversight Committee alongside [[anna-paulina-luna]] and [[tim-burchett]].
@@ -19,6 +19,13 @@ updated: 2026-05-05
 
 After the [[pursue]] launch, Burlison posted on X: "**This is a historic first step… Thank you for taking on the swamp to make this release happen. You are the president of the people!**" The Washington Examiner ([[src-war-department-uap-declassification-2026-05]]) framed Burlison and [[tim-burchett]] as the named congressional beneficiaries of the rollout, omitting [[anna-paulina-luna]].
 
+His office issued a **formal House press release** the same day ([[src-burlison-commends-trump-uap-release-2026-05]]) titled "Burlison Commends President Trump's Historic Release of UAP Files," elevating the X-post messaging to official congressional-office language. Notable elements:
+
+- Confirms the official PURSUE acronym expansion and lists interagency participants verbatim — White House, [[odni]], [[department-of-energy]], [[department-of-war]] (housing [[aaro]]), [[nasa]], [[fbi]], "additional components of U.S. intelligence agencies."
+- Codifies the "disclosure president" frame in formal venue: "He is the only president willing to stand up to the deep state and push this information out to the American people. Trump has been the disclosure president!"
+- Cites "years of classified briefings, whistleblower interviews, and oversight work" as personal background.
+- Newsweek's May 8 coverage ([[src-newsweek-luna-teases-disclosure-2026-05]]) attributes a parallel "historic first step in what I trust will be just one of many" line to Burlison.
+
 ## Related Pages
 
 - [[src-uap-transparency-hearing-2026-04]]
@@ -34,4 +41,6 @@ After the [[pursue]] launch, Burlison posted on X: "**This is a historic first s
 - [[varginha-incident]]
 - [[james-fox]]
 - [[src-war-department-uap-declassification-2026-05]]
+- [[src-burlison-commends-trump-uap-release-2026-05]] — primary source: official House press release
+- [[src-newsweek-luna-teases-disclosure-2026-05]]
 - [[pursue]]

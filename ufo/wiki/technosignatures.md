@@ -2,7 +2,7 @@
 title: Technosignatures
 type: concept
 created: 2026-04-16
-updated: 2026-04-28
+updated: 2026-05-10
 ---
 
 **Technosignatures** are observable signs of technology that would indicate the presence of an intelligent civilization — as distinct from [[biosignatures]], which indicate the presence of life without requiring intelligence or technology.
@@ -14,6 +14,7 @@ updated: 2026-04-28
 - **Atmospheric industrial byproducts** (e.g., chlorofluorocarbons, NO₂)
 - **Megastructures** (Dyson-sphere-like signatures in IR excess)
 - **Waste heat** from stellar-scale civilizations
+- **Nighttime artificial light** — see [[nighttime-light-emissions]]; primary calibration target for [[terrestrial-technosignature]] characterization via [[viirs-dnb]] on [[suomi-npp]] ([[src-terrestrial-technosignatures-satellites-2026-04]])
 
 ## Detection pipelines
 
@@ -42,9 +43,14 @@ An additional factor: **[[stellar-plasma-scattering]]** — stellar wind plasma 
 
 [[caleb-scharf]]'s 2026 [[interplanetary-habitable-zone]] framework offers a physical-resource basis for predicting where technosignatures should be most detectable: Sol-analog systems with accessible asteroid belts up-weight; active [[m-dwarf-stars|M-dwarf]] systems where civilizations cannot persist (e.g., [[trappist-1]]) down-weight ([[src-interplanetary-habitable-zone-2026]]).
 
+## Earth as calibration target
+
+Earth's outgoing technosignatures — most directly its [[nighttime-light-emissions]] measured by [[viirs-dnb]] — function as a working ground-truth model for what an alien observer might detect from a comparably industrialized exoplanet. See [[terrestrial-technosignature]] for the full subclass list (nighttime light, atmospheric industrial gases, waste heat, RF leakage) and [[christopher-kyba]]'s 2014–2022 global VIIRS DNB analysis ([[src-terrestrial-technosignatures-satellites-2026-04]]). The [[esa]]-proposed [[earth-explorer-13]] dedicated night-lights satellite would deepen this calibration.
+
 ## Sources
 
 - [[src-k2-18b-technosignature-null-2026]]
 - [[src-seti-ai-breakthrough-listen-2025]]
 - [[src-plasma-technosignature-scattering-2026]]
 - [[src-interplanetary-habitable-zone-2026]]
+- [[src-terrestrial-technosignatures-satellites-2026-04]]

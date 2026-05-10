@@ -2,7 +2,7 @@
 title: Tim Burchett
 type: entity
 created: 2026-04-13
-updated: 2026-05-05
+updated: 2026-05-10
 ---
 
 # Tim Burchett
@@ -33,7 +33,7 @@ After Trump's [[turning-point-usa]] Phoenix tease, Burchett publicly thanked Tru
 
 ## May 8, 2026 PURSUE Reaction
 
-After [[department-of-war]] launched [[pursue]] at `war.gov/UFO`, Burchett thanked Trump for "keeping his word" and counseled patience: "**Transparency won't all happen at once, it will take some time**" — framing the rollout as a multi-tranche project rather than a one-shot reveal ([[src-uap-files-public-conclusions-2026-05]]).
+After [[department-of-war]] launched [[pursue]] at `war.gov/UFO`, Burchett thanked Trump for "keeping his word" and counseled patience: "**Transparency won't all happen at once, it will take some time**" — framing the rollout as a multi-tranche project rather than a one-shot reveal ([[src-uap-files-public-conclusions-2026-05]]). Newsweek ([[src-newsweek-luna-teases-disclosure-2026-05]]) records a parallel "**a great start**" line and Burchett's "they don't give up that easy" assessment of cover-up culture (delivered on a [[joe-rogan]] episode that Rep. [[anna-paulina-luna]] explicitly directed her followers to ahead of the May 8 launch). The Fortune/AP wire ([[src-fortune-aldrin-apollo-11-uap-2026-05]]) corroborates the "keeping his word" line.
 
 ## Sources
 
@@ -44,3 +44,5 @@ After [[department-of-war]] launched [[pursue]] at `war.gov/UFO`, Burchett thank
 - [[src-uap-whistleblower-protection-act-2025-09]]
 - [[src-uap-files-public-conclusions-2026-05]]
 - [[src-war-department-uap-declassification-2026-05]]
+- [[src-newsweek-luna-teases-disclosure-2026-05]]
+- [[src-fortune-aldrin-apollo-11-uap-2026-05]]
