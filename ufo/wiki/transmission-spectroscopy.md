@@ -2,7 +2,7 @@
 title: Transmission Spectroscopy
 type: concept
 created: 2026-04-19
-updated: 2026-05-07
+updated: 2026-05-11
 ---
 
 **Transmission spectroscopy** is the primary technique used by [[jwst]] and its precursors to characterize exoplanet atmospheres. During a planetary transit, starlight passes through the thin limb of the planet's atmosphere; absorption features imprinted on the stellar spectrum reveal atmospheric composition at specific pressure levels along the terminator.
@@ -20,3 +20,4 @@ Contrasts with [[direct-imaging]], where the planet is resolved from its host st
 - [[high-mean-molecular-weight-atmosphere]], [[water-ice-line]]
 - [[direct-imaging]], [[habitable-worlds-observatory]]
 - [[radial-velocity]] — another exoplanet detection/characterization method
+- [[toi-5205-b]] — 2026 GEMS JWST transmission spectrum; introduces a **starspot-correction** methodology for [[m-dwarf-stars|M-dwarf]] hosts ([[src-sciencedaily-forbidden-exoplanet-atmosphere-2026-04]]).

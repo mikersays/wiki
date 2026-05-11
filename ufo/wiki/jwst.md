@@ -2,7 +2,7 @@
 title: James Webb Space Telescope (JWST)
 type: entity
 created: 2026-04-13
-updated: 2026-05-09
+updated: 2026-05-11
 ---
 
 # James Webb Space Telescope (JWST)
@@ -66,3 +66,7 @@ A September 2025 PNAS perspective by [[sara-seager]] et al. ([[src-jwst-biosigna
 - [[toi-1130b]]
 - [[mini-neptune]]
 - [[high-mean-molecular-weight-atmosphere]]
+- [[toi-5205-b]] — "forbidden" M-dwarf giant; first transiting giant with **sub-stellar atmospheric metallicity**; CH₄ + H₂S detected ([[src-sciencedaily-forbidden-exoplanet-atmosphere-2026-04]]).
+- [[wd-0806b]] — second-coldest directly imaged exoplanet (white-dwarf companion); first observational **altitude-dependent K_zz** in any exoplanet atmosphere ([[src-aas-nova-wd-0806b-atmosphere-2026-04]]).
+- [[gems-survey]] — JWST Cycle 2's largest exoplanet program; targets giants around M dwarfs.
+- [[eddy-diffusion]] · [[ben-lew]] · [[shubham-kanodia]] · [[caleb-canas]]

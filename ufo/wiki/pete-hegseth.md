@@ -2,7 +2,7 @@
 title: Pete Hegseth
 type: entity
 created: 2026-04-13
-updated: 2026-05-07
+updated: 2026-05-11
 ---
 
 # Pete Hegseth

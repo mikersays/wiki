@@ -1,6 +1,6 @@
 ---
 title: Log
-updated: 2026-05-10
+updated: 2026-05-11
 ---
 
 # Log
@@ -635,3 +635,43 @@ Fetched via /ufo-news. Triage surfaced 11 candidates across 6 search tracks (PUR
 - The Canada thread has the historical programs ([[project-magnet]], [[project-second-storey]]) as new stub pages — worth a follow-up search for primary-source archival content via [[library-and-archives-canada]].
 - Retry NPR / CNN / NBC News / NewsNation with alternate fetchers if the user wants those mainstream framings ingested.
 - The CP24 1,052-Canada-sightings-2025 angle is missing — try a fresh search for the primary source (likely Transport Canada or Chris Rutkowski's UFOROM dataset).
+
+
+## [2026-05-11] ingest | UFO news sweep (3 articles, /ufo-news, parallel)
+
+Fetched via /ufo-news. Six search agents dispatched in parallel; triage surfaced 9 candidates after dedupe against existing vault. Of 9 dispatched fetch agents, **3 saved** + **6 failed/dropped**:
+
+- ✅ [[src-euronews-trump-162-ufo-files-2026-05]] — Euronews (Sertac Aktan, May 9) PURSUE Release 01 European framing; lead anchor is [[paul-peyerl]]'s FBI account of a 1944 Black Forest Nazi disc-aircraft
+- ✅ [[src-sciencedaily-forbidden-exoplanet-atmosphere-2026-04]] — ScienceDaily / Carnegie press release (Apr 6) on Cañas/Kanodia/Libby-Roberts JWST atmosphere of "forbidden" GEMS giant [[toi-5205-b]]
+- ✅ [[src-aas-nova-wd-0806b-atmosphere-2026-04]] — AAS Nova (Apr 3) on Lew et al. JWST NIRCam+NIRSpec retrieval of cold directly imaged white-dwarf companion [[wd-0806b]] — first altitude-dependent K_zz in any exoplanet atmosphere
+
+**New entity pages (21):** [[paul-peyerl]], [[euronews]], [[kristin-fisher]], [[sue-gough]], [[jordan-flowers]], [[disclosure-foundation]], [[toi-5205-b]], [[shubham-kanodia]], [[caleb-canas]], [[jessica-libby-roberts]], [[carnegie-institution-for-science]], [[gems-survey]], [[tess]], [[university-of-zurich]], [[ravit-helled]], [[simon-muller]], [[wd-0806b]], [[white-dwarf]], [[ben-lew]], [[spitzer-space-telescope]], [[nasa-ames-research-center]]
+
+**New concept pages (4):** [[nazi-ufo-claims]], [[eddy-diffusion]], [[post-main-sequence-evolution]], [[brown-dwarfs]]
+
+**Updated pages:** [[wladyslaw-krasuski]] (Peyerl see-also + nazi-ufo-claims cluster), [[fbi]] (Euronews + "neither recommendations nor conclusions" caveat), [[donald-trump]] (Euronews European-framing + Truth Social "decide for themselves"), [[pursue]] (Euronews "decidedly retro" portal observation + Peyerl), [[uap-disclosure]] (Disclosure Foundation wikilink), [[jwst]] (TOI-5205 b + WD 0806b additions), [[direct-imaging]] (WD 0806b benchmark), [[exoplanet-atmosphere-models]] (interior-atmosphere decoupling and altitude-dependent K_zz gaps), [[m-dwarf-stars]] (TOI-5205 b + starspot-correction), [[transmission-spectroscopy]] (starspot-correction), [[planetary-migration]] (interior–atmosphere decoupling section), [[nasa-goddard]] (Cañas), [[aaro]] (updated date), [[pete-hegseth]] (updated date), [[src-uap-trump-disclosure-2026]] (newly wikilinked Sue Gough / Jordan Flowers / Disclosure Foundation / Kristin Fisher / Barack Obama / Anna Kelly; added Flowers quote).
+
+**Cross-connections:**
+- **Nazi-UFO cluster surfaced via PURSUE.** Euronews's [[paul-peyerl]] FBI document joins [[wladyslaw-krasuski]] under a new [[nazi-ufo-claims]] concept page — both 1944 Germany, both FBI files in PURSUE Release 01, both single-witness with "neither recommendations nor conclusions" disclaimers. First time the vault formalizes the WWII-era cluster within PURSUE Release 01.
+- **Trump "decide for themselves" framing**. Euronews surfaces this Truth Social line as the formal **public-judges-evidence** posture tied to PURSUE; complements the existing Hegseth "long fueled justified speculation" Release 01 statement and the Burlison "disclosure president" framing.
+- **GEMS / forbidden-exoplanet thread is new to the vault.** The TOI-5205 b ingest creates an "M dwarf giants" research arc (TESS discovery → JWST atmosphere → interior decoupling) that previously had no anchor. Builds out the [[jwst]] page beyond [[toi-1130b]]/[[epsilon-indi-ab]] toward a third distinct exoplanet-atmosphere subtype.
+- **First observational altitude-dependent K_zz** ([[wd-0806b]]) is a methodological constraint on every existing cold-giant retrieval. Cross-linked from [[exoplanet-atmosphere-models]] as a "known gap" and from [[direct-imaging]] as a methodological-benchmark addition.
+- **DefenseScoop February 25 article retroactively wikified.** Although ingested earlier as [[src-uap-trump-disclosure-2026]], the secondary-fetch attempt under a more descriptive filename uncovered entity gaps: [[sue-gough]], [[jordan-flowers]], [[kristin-fisher]], [[disclosure-foundation]] were all bare-text mentions in the existing source page. They are now first-class entity pages with backlinks.
+
+**Contradictions / mismatches flagged:**
+- **None new in this ingest.** The Euronews "decide for themselves" framing reinforces existing Trump Truth Social text in [[src-fortune-aldrin-apollo-11-uap-2026-05]]; the Peyerl account is independent of [[wladyslaw-krasuski]] (different witness, different design — explicitly cross-noted on both pages).
+
+**Failed (5) and dropped (1):**
+- ❌ [[Japan Times]] "Tokyo analyzing Pentagon UFO file trove with sightings near Japan" (https://www.japantimes.co.jp/news/2026/05/11/japan/us-pentagon-japan-ufos/) — HTTP 402 paywall. **Highest-value loss** in this ingest: only fresh Asia-region framing surfaced in Phase 1. Loss is partial — INDOPACOM and the 2024 Japan football-shaped object are already in vault via [[us-indo-pacific-command]] and [[src-sunday-guardian-162-files-2026-05]].
+- ❌ [[NewsNation]] "Pentagon UAP video deadline / Luna Drop B" — HTTP 403; Wayback returned no usable snapshot. The "Drop B" framing for Luna's 46 videos is **not yet captured** in the vault under that label.
+- ❌ Schumer/Rounds JFK-style UAP records amendment press release — fetch confirmed the press release is dated **July 14, 2023** (original UAP Disclosure Act introduction), not a fresh 2026 amendment. Stale; dropped.
+- ❌ [[House Oversight]] Luna transparency-investigation release (oversight.house.gov) — HTTP 403.
+- ❌ House Oversight September 9, 2025 hearing page — **fetched successfully but dropped as duplicate**. The hearing is already heavily covered via [[src-uap-whistleblower-hearing-2025]], [[house-uap-hearing-september-2025]], [[src-uap-whistleblower-protection-act-2025-09]] (witness panel: [[jeffrey-nuccetelli]], [[alexandro-wiggins]], [[george-knapp]], [[dylan-borland]], [[joe-spielberger]]).
+- Skipped: DefenseScoop Hegseth/AARO-caseload February 25 2026 article — same article already ingested as [[src-uap-trump-disclosure-2026]]. Raw deleted from inbox; the existing source page was updated with the new entity wikilinks rather than creating a duplicate.
+
+**Suggested follow-ups:**
+- **Retry Japan Times** "Tokyo analyzing Pentagon UFO file trove" with an alternate fetcher — this is the single most-promising international-coverage angle currently missing from the vault. If the Pentagon trove genuinely surfaces Japan-adjacent incidents beyond the 2024 INDOPACOM "football-shaped" case, that ties INDOPACOM tightly to the existing [[japan-uap-framework]] / [[japan-uap-parliamentary-group]] thread.
+- **Anna Paulina Luna's "Drop B" framing for the 46 demanded UAP videos** is a tightly-recent (May 2026) story that the vault has not yet pinned by name. Worth a dedicated retry against NewsNation via alternate fetcher, or a search for The Hill / Newsweek / Examiner coverage that picked up the "Drop B" terminology.
+- **GEMS / forbidden-exoplanet** is now seeded but thin. Future ingests should look for additional GEMS Survey results as JWST Cycle 2 papers continue to publish; pair with the existing [[toi-1130b]] / [[epsilon-indi-ab]] cold-giant comparison set.
+- **Altitude-dependent K_zz follow-on**. The Wallack/Kanodia M-dwarf starspot-correction technique mentioned in [[src-sciencedaily-forbidden-exoplanet-atmosphere-2026-04]] is a methodology paper distinct from the TOI-5205 b result. Worth tracking when it lands.
+- **Schumer/Rounds NDAA amendment status**. The 2023 press release is stale, but the underlying UAPDA-style amendment may be live again in FY27 NDAA discussions. Cross-reference with the [[src-uap-transparency-stalls-2025-12]] coverage to detect whether the amendment was reintroduced.

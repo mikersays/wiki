@@ -2,7 +2,7 @@
 title: UAP Disclosure
 type: concept
 created: 2026-04-13
-updated: 2026-05-07
+updated: 2026-05-11
 ---
 
 # UAP Disclosure
@@ -116,5 +116,5 @@ The Pentagon promises rolling tranches "every few weeks." Skeptics warn that pri
 
 - [[aaro]] -- Pentagon's UAP investigation body
 - [[norad]] / [[usnorthcom]] -- Military commands defending North American airspace
-- Disclosure Foundation -- Advocacy organization led by Jordan Flowers
+- [[disclosure-foundation]] -- Advocacy organization led by [[jordan-flowers]]
 - Project on Government Oversight -- Testified on [[uap-whistleblower-protections]]

@@ -2,7 +2,7 @@
 title: Wladyslaw Krasuski
 type: entity
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-05-11
 ---
 
 # Wladyslaw Krasuski
@@ -18,6 +18,12 @@ Per [[src-newsweek-luna-teases-disclosure-2026-05]], Krasuski described the obje
 
 The record is part of the FBI document tranche in PURSUE Release 01 (likely within the [[fbi-case-file-62-hq-83894]] series or its mid-century adjuncts), and slots into the broader WWII-era "foo fighter / unconventional aerial-form" eyewitness record set.
 
+## See also
+
+- [[paul-peyerl]] — separate 1944 Germany witness whose FBI account also surfaced via PURSUE Release 01; describes a ~6.5 m disc-shaped craft built in the Black Forest.
+- [[nazi-ufo-claims]] — vault cluster for WWII-era Nazi disc-aircraft eyewitness reports surfaced in PURSUE.
+
 ## Sources
 
 - [[src-newsweek-luna-teases-disclosure-2026-05]]
+- [[src-euronews-trump-162-ufo-files-2026-05]]

@@ -2,7 +2,7 @@
 title: M Dwarf Stars
 type: concept
 created: 2026-04-19
-updated: 2026-04-28
+updated: 2026-05-11
 ---
 
 **M dwarfs** (red dwarfs) are the most common class of star in the galaxy, with masses roughly 0.08 to 0.6 M☉ and very long main-sequence lifetimes. Their low luminosity places the habitable zone close to the star (days-to-weeks orbital periods), making small planets easier to detect by [[transmission-spectroscopy|transit]] and [[radial-velocity]]. Notable nearby M-dwarf planetary systems include Proxima Centauri, [[gj-887]], TRAPPIST-1, and [[k2-18b|K2-18]].
@@ -21,3 +21,5 @@ M dwarfs also present significant challenges to [[exoplanet-habitability]]:
 - [[gj-887]], [[gj-887-d]], [[k2-18b]], [[trappist-1]], [[trappist-1-e]]
 - [[hycean-worlds]], [[habitable-worlds-catalog]]
 - [[stellar-plasma-scattering]], [[interplanetary-habitable-zone]]
+- [[toi-5205-b]] — "forbidden" Jupiter-sized GEMS planet around an M dwarf; 2026 JWST atmosphere has sub-stellar metallicity, challenging core-accretion / disk-instability formation theory at low stellar mass ([[src-sciencedaily-forbidden-exoplanet-atmosphere-2026-04]]).
+- [[gems-survey]] — JWST Cycle 2 program targeting giants around M dwarfs; pioneered a **starspot-correction** retrieval technique applicable to all M-dwarf transmission spectra.

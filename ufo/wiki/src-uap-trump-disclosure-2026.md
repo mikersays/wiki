@@ -5,7 +5,7 @@ source_file: raw/uap-trump-disclosure-hegseth-feb-2026.md
 author: Brandi Vincent
 date: 2026-02-25
 created: 2026-04-13
-updated: 2026-04-13
+updated: 2026-05-11
 ---
 
 # Hegseth Doubles Down on Trump's UAP Disclosure Promise as AARO's Caseload Exceeds 2,000
@@ -20,8 +20,9 @@ In February 2026, [[donald-trump|President Trump]] directed the Pentagon and oth
 ## Trump's Disclosure Directive
 
 - On approximately February 19-20, 2026, [[donald-trump|Trump]] directed [[pete-hegseth|Hegseth]] and agency leaders to "begin the process of identifying and releasing Government files related to alien and extraterrestrial life" and UAP/UFO information
-- Followed former President Barack Obama's podcast comments suggesting aliens are real
-- White House spokeswoman Anna Kelly confirmed the directive
+- Followed former President [[barack-obama]]'s podcast comments suggesting aliens are real
+- White House spokeswoman [[anna-kelly]] confirmed the directive
+- Hegseth's first on-the-record UAP remarks were elicited by [[kristin-fisher]] at the "Arsenal of Freedom" event in Colorado on Feb 25, 2026
 - A formal White House directive was to follow to compel increased transparency across the federal government
 - DOD to coordinate with the Office of the Director of National Intelligence (ODNI), suggesting a whole-of-government approach
 
@@ -49,7 +50,9 @@ In February 2026, [[donald-trump|President Trump]] directed the Pentagon and oth
 
 ## Advocacy Reaction
 
-Jordan Flowers (Disclosure Foundation) expressed cautious optimism but criticized AARO's failure to meet statutory obligations. He urged expedited release of unclassified videos and photos, citing records potentially dating back 80 years that pose "no conceivable threat to national security."
+[[jordan-flowers]] ([[disclosure-foundation]]) expressed cautious optimism but criticized AARO's failure to meet statutory obligations. He urged expedited release of unclassified videos and photos, citing records potentially dating back 80 years that pose "no conceivable threat to national security."
+
+> "Trust is earned. And if AARO wants to earn the public's trust, then it should move expeditiously to release its trove of unclassified videos and photos." — Jordan Flowers
 
 ## Key Claims
 
@@ -64,6 +67,8 @@ Jordan Flowers (Disclosure Foundation) expressed cautious optimism but criticize
 |------|------|
 | [[donald-trump]] | Issued the disclosure directive |
 | [[pete-hegseth]] | Defense Secretary, point person for UAP file release |
-| Barack Obama | Podcast comments on aliens prompted public discussion |
-| Sue Gough | Pentagon spokesperson, provided caseload statistics |
-| Jordan Flowers | Executive Director, Disclosure Foundation |
+| [[barack-obama]] | Podcast comments on aliens prompted public discussion |
+| [[sue-gough]] | Pentagon spokesperson, provided caseload statistics |
+| [[jordan-flowers]] | Executive Director, [[disclosure-foundation]] |
+| [[kristin-fisher]] | Former network correspondent / Endless Void Studios; venue for Hegseth's first on-record UAP remarks |
+| [[brandi-vincent]] | DefenseScoop byline |

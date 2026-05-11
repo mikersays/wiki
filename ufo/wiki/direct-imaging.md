@@ -2,7 +2,7 @@
 title: Direct Imaging (Exoplanets)
 type: concept
 created: 2026-04-16
-updated: 2026-05-09
+updated: 2026-05-11
 ---
 
 **Direct imaging** is a family of exoplanet-detection techniques that resolve a planet's light separately from its host star's, as opposed to indirect methods like transit photometry or radial velocity. Practical direct imaging requires suppressing the host star's glare by factors of 10⁶ to 10¹⁰.
@@ -35,3 +35,4 @@ Direct imaging is methodologically distinct from [[transmission-spectroscopy]] (
 - [[src-gj-887-d-habitability-2026-03]]
 - [[src-jwst-biosignature-prospects-2025]]
 - [[src-jwst-ice-clouds-exoplanet-2026-04]]
+- [[src-aas-nova-wd-0806b-atmosphere-2026-04]] — [[wd-0806b]], second-coldest directly imaged exoplanet, JWST 2026 atmospheric characterization with first altitude-dependent K_zz ([[eddy-diffusion]]); orbits [[white-dwarf]] WD 0806-661 at 2,500 AU.

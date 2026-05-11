@@ -2,7 +2,7 @@
 title: Exoplanet atmosphere models
 type: concept
 created: 2026-05-09
-updated: 2026-05-09
+updated: 2026-05-11
 ---
 
 # Exoplanet atmosphere models
@@ -25,3 +25,5 @@ Forward and retrieval models used to interpret exoplanet transmission, emission,
 - [[src-jwst-biosignature-prospects-2025]]
 - [[src-oxygen-false-positive-biosignatures-2026-03]]
 - [[src-biosignature-gas-flux-inference-2026-04]]
+- [[src-sciencedaily-forbidden-exoplanet-atmosphere-2026-04]] — [[toi-5205-b]] stress-tests the bulk-tracks-atmosphere assumption: bulk planet is ~100× more metal-rich than the visible atmosphere (interior/atmosphere decoupling).
+- [[src-aas-nova-wd-0806b-atmosphere-2026-04]] — [[wd-0806b]] yields the first observational evidence that **vertical mixing ([[eddy-diffusion|K_zz]]) weakens with altitude** — argues against the single-K_zz simplification standard in 1D retrievals.

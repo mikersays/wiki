@@ -2,7 +2,7 @@
 title: PURSUE — Presidential Unsealing and Reporting System for UAP Encounters
 type: concept
 created: 2026-05-08
-updated: 2026-05-10
+updated: 2026-05-11
 ---
 
 
@@ -65,6 +65,7 @@ Established in response to [[donald-trump]]'s Truth Social directive dated 2026-
 - Operates parallel to, not under, the [[uap-disclosure-act]] framework.
 - Greer's Disclosure Project NPC event ([[src-greer-disclosure-event-npc-2026-05]]) ran the **same day** as a competing/parallel narrative, not a coordinated event.
 - Promised to deliver [[anna-paulina-luna]]'s 46 demanded UAP videos ([[src-luna-46-uap-videos-demand-2026-03]]) "in a later release."
+- **European framing**: [[euronews|Euronews]] (May 9, 2026) describes the portal's design as "decidedly retro" — black-and-white military imagery, typewriter-font statements — and lifts [[paul-peyerl]]'s FBI account of a 1944 Black Forest Nazi disc-aircraft as the lead anchor of the tranche ([[src-euronews-trump-162-ufo-files-2026-05]]). Trump's Truth Social framing — release lets the public "decide for themselves" — is reproduced as the formal **public-judges-evidence** framing.
 
 ## Open Questions
 

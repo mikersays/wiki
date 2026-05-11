@@ -2,7 +2,7 @@
 title: All-domain Anomaly Resolution Office (AARO)
 type: entity
 created: 2026-04-13
-updated: 2026-05-07
+updated: 2026-05-11
 ---
 
 # All-domain Anomaly Resolution Office (AARO)
