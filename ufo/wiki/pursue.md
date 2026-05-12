@@ -2,7 +2,7 @@
 title: PURSUE — Presidential Unsealing and Reporting System for UAP Encounters
 type: concept
 created: 2026-05-08
-updated: 2026-05-11
+updated: 2026-05-12
 ---
 
 
@@ -65,7 +65,13 @@ Established in response to [[donald-trump]]'s Truth Social directive dated 2026-
 - Operates parallel to, not under, the [[uap-disclosure-act]] framework.
 - Greer's Disclosure Project NPC event ([[src-greer-disclosure-event-npc-2026-05]]) ran the **same day** as a competing/parallel narrative, not a coordinated event.
 - Promised to deliver [[anna-paulina-luna]]'s 46 demanded UAP videos ([[src-luna-46-uap-videos-demand-2026-03]]) "in a later release."
+- **Global South / political-distraction framing**: Al Jazeera (May 8, 2026) foregrounds Rep. [[thomas-massie]]'s February "**ultimate weapon of mass distraction**" critique and explicitly links PURSUE to the parallel JFK/RFK/MLK release pattern ("offered few new details beyond what was already known") and to the [[jeffrey-epstein]]-files distraction narrative ([[src-al-jazeera-pursue-uap-files-2026-05]]). First Republican lawmaker on record dismissing PURSUE.
+- **US military-readership wire**: Stars and Stripes (May 8, 2026; Phillip Walter Wellman) is the **only Release-01 wire to enumerate all three combatant commands** — [[us-indo-pacific-command]], [[centcom]], and [[us-european-command]] — as contributors of "unresolved" UAP videos, and the only one to lead with [[apollo-12]] (vs. [[apollo-17]]) for the included lunar imagery ([[src-stripes-pursue-uap-files-2026-05]]).
 - **European framing**: [[euronews|Euronews]] (May 9, 2026) describes the portal's design as "decidedly retro" — black-and-white military imagery, typewriter-font statements — and lifts [[paul-peyerl]]'s FBI account of a 1944 Black Forest Nazi disc-aircraft as the lead anchor of the tranche ([[src-euronews-trump-162-ufo-files-2026-05]]). Trump's Truth Social framing — release lets the public "decide for themselves" — is reproduced as the formal **public-judges-evidence** framing.
+
+## Pre-launch volume framing (Feb 2026)
+
+Three months before the launch, [[lue-elizondo]] on NewsNation/CUOMO predicted the eventual UAP file trove would **"dwarf the millions of documents in the Epstein files,"** rooted in 80+ years of holdings across the intelligence community, defense agencies, and [[department-of-energy]] ([[src-newsnation-elizondo-pandoras-box-2026-02]]). PURSUE Release 01 contained only **162 files** — a sharp contrast to that pre-launch expectation, and a useful volume benchmark for assessing subsequent rolling tranches. Elizondo also predicted Trump would need to sign an executive order to compel agency compliance; the public record as of May 8 shows the directive operated via Truth Social + Pentagon coordination rather than a formal EO.
 
 ## Open Questions
 

@@ -2,7 +2,7 @@
 title: Apollo 12
 type: entity
 created: 2026-05-08
-updated: 2026-05-09
+updated: 2026-05-12
 ---
 
 # Apollo 12
@@ -30,3 +30,4 @@ See [[lunar-uap-historical-claims]] for the broader umbrella concept and competi
 - [[src-metabunk-pursue-analysis-2026-05]] — repackaging-of-prior-content concerns
 - [[src-pursue-apollo-anomalies-hidden-2026-05]] — IBTimes UK cover-up framing of Apollo 12 "glowing horizon object"
 - [[src-newsweek-luna-teases-disclosure-2026-05]] — Newsweek surfaces Bean's "particles and flashes of light 'sailing off in space'" passage
+- [[src-stripes-pursue-uap-files-2026-05]] — Stars and Stripes is the **only** Release-01 launch-wire to lead with Apollo 12 (vs. Apollo 17) for the included lunar imagery, framing it as photographs in which "unidentified phenomena are visible"

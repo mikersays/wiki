@@ -2,7 +2,7 @@
 title: Luis "Lue" Elizondo
 type: entity
 created: 2026-04-13
-updated: 2026-04-29
+updated: 2026-05-12
 ---
 
 # Luis "Lue" Elizondo
@@ -25,6 +25,14 @@ Key statements:
 - "Drones can do now what in 2017 we could only dream of"
 - "Disclosure and transparency is a process -- it's not an event"
 - Expressed confidence: "I think we're going to see potentially even more progress this year than we have in the last seven"
+
+### "Tremendous undertaking" framing (Feb 2026)
+
+The day after [[donald-trump]]'s February 19, 2026 Truth Social directive to release UAP/UFO files, Elizondo appeared on NewsNation's *CUOMO* program and characterized the effort as a "**tremendous undertaking**" — predicting the eventual file volume could "**dwarf the millions of documents in the Epstein files**," given 80+ years of holdings across the intelligence community, defense agencies, and the [[department-of-energy]] ([[src-newsnation-elizondo-pandoras-box-2026-02]]).
+
+He argued Trump would need to **sign an executive order** to obligate compliance from agencies under his control. As of the May 8 [[pursue]] launch, the directive had operated via Truth Social + Pentagon coordination rather than a formal EO, and Release 01 contained only 162 files — well short of his Epstein-files volume benchmark.
+
+> "Now, the real hard work begins. The government has been sitting on this information for so long. There's so much documentation right now, within our own holdings — within the intelligence community, within the defense communities, within the Department of Energy — that this is going to be a tremendous undertaking." — Lue Elizondo (Feb 20, 2026)
 
 ### Support for Other Whistleblowers
 
@@ -63,3 +71,4 @@ Per NBC News reporting on Trump's TPUSA tease, Elizondo testified at a Wednesday
 - [[src-wright-patterson-general-missing-2026-03]]
 - [[src-elizondo-motorcycle-crash-2026-04]]
 - [[src-trump-ufo-files-interesting-2026-04]]
+- [[src-newsnation-elizondo-pandoras-box-2026-02]]

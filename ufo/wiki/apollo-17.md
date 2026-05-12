@@ -2,7 +2,7 @@
 title: Apollo 17
 type: entity
 created: 2026-05-08
-updated: 2026-05-09
+updated: 2026-05-12
 ---
 
 # Apollo 17
@@ -34,4 +34,5 @@ Specific content of the two new (D5, D6) debriefings is pending text extraction 
 - [[src-metabunk-pursue-analysis-2026-05]] — Apollo material as potentially repackaged previously-known content
 - [[src-pursue-apollo-anomalies-hidden-2026-05]] — IBTimes UK frames the three-dots photo as still lacking consensus and characterizes PURSUE notes as "scant"
 - [[src-fortune-aldrin-apollo-11-uap-2026-05]] — Fortune/AP frames the triangular-dots photo as Pentagon-analyzed "physical object" with "no consensus"
+- [[src-al-jazeera-pursue-uap-files-2026-05]] — Al Jazeera reproduces the Pentagon caption verbatim ("no consensus about the nature of the anomaly… preliminary analysis indicated… a physical object") as Release 01's headline-grade lunar example
 - [[src-newsweek-luna-teases-disclosure-2026-05]] — Newsweek surfaces Cernan's "train headlight" deep-space-flash quote and Schmitt's "Fourth of July" line; ice/paint-fragment caveat ("largely a 'wild guess'")

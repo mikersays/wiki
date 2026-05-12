@@ -2,7 +2,7 @@
 title: UAP Disclosure
 type: concept
 created: 2026-04-13
-updated: 2026-05-11
+updated: 2026-05-12
 ---
 
 # UAP Disclosure
@@ -27,6 +27,7 @@ updated: 2026-05-11
 - [[donald-trump|President Trump]] directed the Pentagon and agencies to identify and release government files related to alien/extraterrestrial life and UAP
 - [[pete-hegseth|Defense Secretary Hegseth]] named as point person
 - Represents the most significant executive action on UAP disclosure to date
+- **Same-week reactions:** [[lue-elizondo]] called the effort a "tremendous undertaking" that could "dwarf the Epstein files in volume" and predicted Trump would need to sign an EO to compel compliance; [[ross-coulthart]] cautioned that the directive is review-only, not declassification; [[avi-loeb]] said wide sharing of any retrieved materials is the right verification approach; [[marik-von-rennenkampff]] argued the public has reached "critical mass" but flagged the **day-after** geopolitical/economic/cultural problem ([[src-newsnation-elizondo-pandoras-box-2026-02]]). [[thomas-massie]] is the only Republican lawmaker on record dismissing the effort ([[src-al-jazeera-pursue-uap-files-2026-05]]).
 - See [[src-uap-trump-disclosure-2026]]
 
 ### AARO Kosloski Leadership Shift (Late 2024)

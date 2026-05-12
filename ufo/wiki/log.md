@@ -1,11 +1,45 @@
 ---
 title: Log
-updated: 2026-05-11
+updated: 2026-05-12
 ---
 
 # Log
 
 Chronological record of wiki activity. Each entry uses the format `## [YYYY-MM-DD] action | description` for easy parsing.
+
+## [2026-05-12] ingest | UFO news sweep (3 articles, /ufo-news, parallel)
+
+Fetched via /ufo-news. Eight search agents dispatched in parallel; triage surfaced 5 candidates after dedupe against existing vault (most PURSUE coverage already saturated by 10+ prior sources from the 5/10–5/11 sweeps). Of 5 dispatched fetch agents, **3 saved** + **2 failed**:
+
+- ✅ [[src-al-jazeera-pursue-uap-files-2026-05]] — Al Jazeera (Staff, May 8) Global-South framing on PURSUE Release 01; foregrounds Rep. [[thomas-massie]]'s Feb 2026 "ultimate weapon of mass distraction" critique and the [[jeffrey-epstein]]-files / JFK-RFK-MLK distraction parallel; reproduces FBI Sep 2023 drone-pilot "linear object" file and [[apollo-17]] "physical object" Pentagon caption.
+- ✅ [[src-stripes-pursue-uap-files-2026-05]] — Stars and Stripes (Phillip Walter Wellman, May 8) US-military-readership launch wire; **only** Release-01 wire to enumerate all three combatant commands ([[us-indo-pacific-command]], [[centcom]], [[us-european-command]]) as contributors of "unresolved" UAP videos, and the only one to lead with [[apollo-12]] over [[apollo-17]] for the included lunar imagery.
+- ✅ [[src-newsnation-elizondo-pandoras-box-2026-02]] — NewsNation/CUOMO (Michael Ramsey, Feb 21 2026) — backfill of the **same-week reaction span** to Trump's Feb 19 disclosure directive. [[lue-elizondo]] frames the effort as a "tremendous undertaking" potentially "dwarfing the Epstein files" in volume and predicts an EO would be needed; [[ross-coulthart]] cautions it's review-only, not declassification; [[marik-von-rennenkampff]] argues public has reached "critical mass" but flags the day-after geopolitical problem; [[avi-loeb]] (Feb 20, *Jesse Weber Live*) — earliest Loeb-on-Trump-disclosure quote in vault, predating his April 16 Medium essay by two months.
+
+**New entity pages (6):** [[thomas-massie]], [[jeffrey-epstein]], [[stars-and-stripes]], [[us-european-command]], [[marik-von-rennenkampff]], [[newsnation]]
+
+**Updated pages:** [[pursue]] (Al Jazeera Global-South / Massie critique + Stripes EUCOM enumeration + Elizondo Feb-2026 Epstein-volume benchmark in new "Pre-launch volume framing" section), [[donald-trump]] (new "Same-week reactions to the Feb 2026 directive" section consolidating Elizondo / Coulthart / Loeb / Massie), [[lue-elizondo]] (new "Tremendous undertaking framing (Feb 2026)" section), [[uap-disclosure]] (same-week reactions expanded under Trump Disclosure Directive), [[ross-coulthart]] ("review-not-declassification" caveat captured for the first time), [[avi-loeb]] (Feb 2026 earliest-Trump-disclosure quote prepended to "On UAP disclosure (2026)"), [[apollo-17]] (Al Jazeera verbatim "physical object" caption), [[apollo-12]] (Stars and Stripes lead-with-Apollo-12 framing), [[fbi]] (Sep 2023 drone-pilot "linear object" file surfaced via Al Jazeera).
+
+**Cross-connections:**
+- **Pre-launch volume benchmark formalized.** Elizondo's Feb 20, 2026 prediction that the eventual UAP file trove would "dwarf the millions of documents in the Epstein files" is now pinned in [[pursue]] as a useful volume benchmark against the actual 162-file Release 01. The contrast (predicted: millions; actual: 162) lands the long-known "rolling tranches" cadence as an open-ended commitment whose ultimate scale remains contested.
+- **First Republican-side dismissal of PURSUE captured.** Rep. [[thomas-massie]]'s February "ultimate weapon of mass distraction" quote is the first on-record Republican lawmaker rejection of the disclosure effort in this vault; previously, all skeptical reception was from analysts ([[mick-west]], [[sean-kirkpatrick]]) and outlets ([[the-war-zone]], [[scientific-american]]). Now formalized in [[donald-trump]], [[pursue]], and [[thomas-massie]] entity page.
+- **EUCOM joins the combatant-command set.** [[us-european-command]] is now a first-class entity, alongside [[us-indo-pacific-command]] and [[centcom]], as a named contributor to PURSUE Release 01. The specific EUCOM video submissions are not individually identified in any wire to date — open question.
+- **Same-week Feb 2026 reaction cluster formalized.** NewsNation's piece is the earliest captured cross-section of disclosure-community reaction to Trump's Feb 19 directive, surfacing Elizondo, Coulthart, Loeb, and Von Rennenkampff in a single source. The [[uap-disclosure]] timeline and [[donald-trump]] page now treat Feb 2026 as a discrete reaction span between the directive and the May 8 launch.
+- **Coulthart's review-not-declassification caveat lands retroactively.** Coulthart's Feb 21 caution that Trump "is not saying… that he is going to declassify anything" held up against the eventual May 8 launch (existing-FOIA-holdings rather than newly declassified material). Now first-class on [[ross-coulthart]] and [[uap-disclosure]].
+- **Al Jazeera–Apollo 17 caption verbatim.** Multiple wires reference Pentagon's "physical object" preliminary caption on the [[apollo-17]] triangular-dots photo, but Al Jazeera is the first source in this vault to reproduce the caption **verbatim** ("no consensus about the nature of the anomaly… preliminary analysis indicated… a physical object").
+
+**Contradictions / mismatches flagged:**
+- **None new.** Elizondo's pre-launch Epstein-volume prediction (millions of documents) is **at sharp odds** with the actual 162-file Release 01, but this is more accurately characterized as a benchmark-vs-actual gap and an open question on subsequent rolling tranches than a contradiction. Captured on [[pursue]] under "Pre-launch volume framing (Feb 2026)" and on [[lue-elizondo]].
+
+**Failed (2):**
+- ❌ **TIME** "The Pentagon Just Released Its UFO Files. Here's What's Inside" (https://time.com/article/2026/05/11/whats-inside-new-government-ufo-files/) — HTTP 403; Wayback Machine has no snapshots, CDX endpoint blocked, Google cache returned only an error page. **Highest-value loss** in this ingest: this was the freshest major-US-outlet explainer of PURSUE published one day after the 5/11 sweep. Retry in a future sweep if a Wayback snapshot appears.
+- ❌ **Japan Times** "Tokyo analyzing Pentagon UFO file trove with sightings near Japan" (https://www.japantimes.co.jp/news/2026/05/11/japan/us-pentagon-japan-ufos/) — HTTP 402 paywall + no Wayback snapshots. **Second retry** failure for this article (also failed in the 5/11 sweep). Japan defense/foreign-ministry response to PURSUE remains MISSING from the vault — the single highest-priority open follow-up.
+
+**Suggested follow-ups:**
+- **Retry TIME via alternate fetcher / fresh Wayback snapshot.** TIME's mainstream-US framing of PURSUE Release 01 is the most-cited media artifact this vault is currently missing.
+- **Retry Japan Times via alternate route**, or seek a Reuters/AFP/Kyodo wire that picked up the Japan defense-ministry "analyzing" framing. Two consecutive sweep failures suggest Japan Times's paywall is structural; the angle itself should be obtainable elsewhere.
+- **Republican-side UAP-disclosure critique beyond Massie.** Vault has only one Republican lawmaker on record dismissing PURSUE. Worth a dedicated search for any other GOP critics (Comer, Jordan, Greene, etc.) since the [[burlison-commends]] / [[luna]] / [[burchett]] / [[boebert]] cluster all run pro-disclosure.
+- **EUCOM-specific UAP files in Release 01.** No wire individually identifies the EUCOM video submissions yet. The portal manifest at `war.gov/ufo` should let a future audit pin specific DoW-UAP-D# entries to EUCOM.
+- **Schumer/Rounds NDAA amendment status (FY27).** The July 2023 press release surfaced again in this sweep is confirmed stale; underlying UAPDA-style amendment may be live in FY27 NDAA discussions. Cross-reference [[src-uap-transparency-stalls-2025-12]].
 
 ## [2026-05-10] ingest | UFO news sweep (5 articles, post-PURSUE follow-up + terrestrial technosignature)
 

@@ -2,7 +2,7 @@
 title: Donald Trump
 type: entity
 created: 2026-04-13
-updated: 2026-05-11
+updated: 2026-05-12
 ---
 
 # Donald Trump
@@ -18,6 +18,13 @@ updated: 2026-05-11
 - DOD to coordinate with ODNI, suggesting a whole-of-government approach
 
 See [[src-uap-trump-disclosure-2026]] for full details.
+
+## Same-week reactions to the Feb 2026 directive
+
+- [[lue-elizondo]] (NewsNation/CUOMO, Feb 20, 2026): the effort is a "**tremendous undertaking**" and the eventual file volume could "**dwarf the millions of documents in the Epstein files**." Argued Trump would need to sign an executive order to compel agency compliance ([[src-newsnation-elizondo-pandoras-box-2026-02]]).
+- [[ross-coulthart]] (NewsNation, Feb 21, 2026): cautionary frame — Trump has announced only a **review** of records, not declassification ([[src-newsnation-elizondo-pandoras-box-2026-02]]).
+- [[avi-loeb]] (NewsNation/*Jesse Weber Live*, Feb 20, 2026): released files could yield "higher-quality images" and possibly puzzling retrieved materials — best resolved by wide sharing if non-adversarial ([[src-newsnation-elizondo-pandoras-box-2026-02]]).
+- Rep. [[thomas-massie]] (R-KY, Feb 2026): publicly decries the directive as "the **ultimate weapon of mass distraction**" — only Republican-side dismissal of the disclosure effort captured in vault to date ([[src-al-jazeera-pursue-uap-files-2026-05]]).
 
 ## March-April 2026 Follow-through
 

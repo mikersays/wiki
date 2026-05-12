@@ -2,7 +2,7 @@
 title: FBI
 type: entity
 created: 2026-05-01
-updated: 2026-05-11
+updated: 2026-05-12
 ---
 
 # Federal Bureau of Investigation (FBI)
@@ -24,3 +24,4 @@ U.S. domestic intelligence and law-enforcement agency under the Department of Ju
 - [[src-uap-files-public-conclusions-2026-05]]
 - [[src-war-department-uap-declassification-2026-05]]
 - [[src-euronews-trump-162-ufo-files-2026-05]] — Euronews surfaces [[paul-peyerl]]'s 1944 Black Forest Nazi disc-aircraft FBI document; explicit "neither recommendations nor conclusions" disclaimer cited as the caveat-of-record for FBI UAP files in PURSUE Release 01.
+- [[src-al-jazeera-pursue-uap-files-2026-05]] — Al Jazeera surfaces a **September 2023 FBI drone-pilot interview** describing a "linear object" with light bright enough to "see bands within the light," visible 5–10 seconds before vanishing — a previously unhighlighted FBI eyewitness record from Release 01.

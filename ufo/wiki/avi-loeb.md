@@ -2,12 +2,14 @@
 title: Avi Loeb
 type: entity
 created: 2026-04-16
-updated: 2026-05-07
+updated: 2026-05-12
 ---
 
 **Avi Loeb** is a Harvard astrophysicist and co-founder (with [[frank-laukien]], July 2021) of the [[galileo-project]], a scientific initiative searching for extraterrestrial technological artifacts. Loeb directed Harvard's Institute for Theory and Computation for 20 years.
 
 ## On UAP disclosure (2026)
+
+Loeb's earliest captured reaction to Trump's Feb 19, 2026 directive is on NewsNation's *Jesse Weber Live* (Feb 20, 2026; [[src-newsnation-elizondo-pandoras-box-2026-02]]): released files could yield "higher-quality images than the public is used to seeing," and "there could be some materials that were retrieved and are puzzling — the best way to figure things out [is] to share it, if we are sure it's not coming from adversarial nations." This is the earliest Loeb-on-Trump-disclosure quote in this vault, predating his April 16 Medium essay ([[src-loeb-wh-uap-videos-skeptic-2026-04]]) by two months.
 
 Per [[src-trump-uap-files-delay-2026-03]], Loeb argues the real "gold mine" of any U.S. government UAP release would be high-resolution satellite imagery of UAP events — capable of identifying unfamiliar objects and measuring their speed — plus any material recovery details from alleged crash sites. Newsweek's coverage of [[donald-trump]]'s April 17 TPUSA remarks ([[src-trump-tpusa-ufo-tease-2026-04]]) carries Loeb's same prescription: high-resolution satellite imagery and recovered physical materials testable for non-solar-system isotopic signatures.
 
@@ -38,3 +40,4 @@ He also raises a speculative "Trojan Horse" framing — that some interstellar o
 - [[src-loeb-wh-uap-videos-skeptic-2026-04]]
 - [[src-trump-tpusa-ufo-tease-2026-04]]
 - [[src-loeb-panspermia-impact-survival-2026-03]]
+- [[src-newsnation-elizondo-pandoras-box-2026-02]]
