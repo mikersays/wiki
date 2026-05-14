@@ -2,7 +2,7 @@
 title: Gale Crater
 type: entity
 created: 2026-04-29
-updated: 2026-05-09
+updated: 2026-05-14
 ---
 
 # Gale Crater
@@ -17,6 +17,10 @@ A clay-mineral-rich region within Gale, formed in liquid water and exceptional a
 
 Contrast with [[perseverance-rover]]'s Jezero Crater landing site, which was selected to find biosignatures rather than primarily assess habitability.
 
+## 2026 "Atacama" drill incident
+
+On April 25, 2026, [[curiosity-rover|Curiosity]] attempted to drill a Gale rock the team named **"Atacama"** (~13 kg / 28.6 lb). The entire rock lifted out of the surface and remained stuck to the drill sleeve — the first time in the mission. Engineers freed it on May 1 after a multi-day vibration / re-position / rotation sequence ([[src-curiosity-rock-pulled-mars-2026-05]]).
+
 ## Related Pages
 
 - [[curiosity-rover]]
@@ -29,3 +33,4 @@ Contrast with [[perseverance-rover]]'s Jezero Crater landing site, which was sel
 - [[astrobiology]]
 - [[src-curiosity-mars-life-molecules-2026-04]]
 - [[src-mars-organics-fresh-clues-2026-04]]
+- [[src-curiosity-rock-pulled-mars-2026-05]]

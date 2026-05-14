@@ -2,7 +2,7 @@
 title: SETI (Search for Extraterrestrial Intelligence)
 type: concept
 created: 2026-04-13
-updated: 2026-04-28
+updated: 2026-05-14
 ---
 
 # SETI (Search for Extraterrestrial Intelligence)
@@ -15,7 +15,8 @@ updated: 2026-04-28
 Scanning radio frequencies for narrow-band signals that could indicate intentional transmission. Major facilities include the Allen Telescope Array, Green Bank Telescope, and Parkes Observatory.
 
 ### Broadband SETI
-A newer strategy (proposed March 2026) searching across wider frequency ranges simultaneously, complementing AI-driven detection.
+
+A newer strategy that searches across wide frequency ranges simultaneously, complementing AI-driven detection. The May 2026 **[[src-brats-radio-technosignatures-2026-05|BRaTs]]** framework by [[michael-a-garrett]] gives this approach a concrete instrument plan: wide-field [[ska|SKA]] surveys, [[vlbi]] follow-up, Doppler-drift-insensitive deep fields, and a 5-parameter candidate discriminator (brightness temperature, circular polarization, spectral non-uniformity, scintillation, astrometric co-motion). Targets [[kardashev-scale|Kardashev Type I]] leakage out to ~100 pc.
 
 ### AI-Assisted Detection
 According to [[src-seti-ai-breakthrough-listen-2025]], [[breakthrough-listen]] and NVIDIA developed a deep learning system that:
@@ -59,3 +60,8 @@ A VLA + MeerKAT search observed [[k2-18b]] for 33 days (one full orbit) across 5
 - [[technosignatures]]
 - [[k2-18b]]
 - [[seti-institute]]
+- [[ska]]
+- [[vlbi]]
+- [[kardashev-scale]]
+- [[michael-a-garrett]]
+- [[src-brats-radio-technosignatures-2026-05]]

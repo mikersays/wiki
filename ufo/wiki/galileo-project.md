@@ -2,7 +2,7 @@
 title: Galileo Project
 type: entity
 created: 2026-04-13
-updated: 2026-04-28
+updated: 2026-05-13
 ---
 
 # Galileo Project
@@ -31,6 +31,10 @@ Verify, don't dismiss. Loeb cites a 2026 case ([[src-loeb-wh-uap-videos-skeptic-
 
 The Galileo Project participated in [[aaro]]'s August 2025 UAP narrative-data workshop organized by [[aui]] ([[src-aaro-uap-data-collection-whitepaper-2026-03]]), alongside [[nuforc]], [[scu]], and [[uapx]]. Loeb has offered to share Galileo's hardware/software lessons with the Pentagon and to sit on any review board analyzing classified UAP satellite imagery.
 
+### PURSUE Release 01 review (May 2026)
+
+After the May 8, 2026 [[pursue|PURSUE Release 01]], Loeb's Galileo Project team reviewed all 161 records and **found nothing requiring an exotic origin** — images resolve as optics/reflections or human-made objects, video details are heavily redacted, and the [[apollo-12|Apollo]] [[apollo-17|lunar lights]] are most plausibly asteroid-impact flashes or optical artifacts ([[lunar-uap-historical-claims]]). Loeb reiterated his "million-times-smaller budget" framing — that civilian instruments could pursue the same questions independently if appropriately funded ([[src-loeb-pentagon-uap-release-best-yet-2026-05]]).
+
 ## Panspermia line of work (2026)
 
 Per [[src-loeb-panspermia-impact-survival-2026-03]], Loeb's research group has produced peer-reviewed papers on [[panspermia]] feasibility across [[trappist-1]], the Milky Way, and the Galactic center. The March 2026 essay extends this into [[directed-panspermia]] — proposing a microbe-nutrient-power capsule attached to an [[interstellar-objects|interstellar object]] like [[3i-atlas]] as a deliberate exoplanet-seeding mechanism. Loeb pairs this with the speculative "Trojan Horse" framing that some interstellar objects could carry technological payloads.
@@ -51,3 +55,4 @@ Per [[src-loeb-panspermia-impact-survival-2026-03]], Loeb's research group has p
 - [[src-loeb-wh-uap-videos-skeptic-2026-04]]
 - [[src-aaro-uap-data-collection-whitepaper-2026-03]]
 - [[src-loeb-panspermia-impact-survival-2026-03]]
+- [[src-loeb-pentagon-uap-release-best-yet-2026-05]]

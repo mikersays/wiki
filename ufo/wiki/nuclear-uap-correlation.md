@@ -2,7 +2,7 @@
 title: Nuclear-UAP Correlation
 type: concept
 created: 2026-04-13
-updated: 2026-05-01
+updated: 2026-05-13
 ---
 
 # Nuclear-UAP Correlation
@@ -24,6 +24,7 @@ This study is significant because it provides the first peer-reviewed, quantitat
 ## Other Evidence
 
 - Military witnesses across decades have reported UAP activity concentrated around nuclear weapons facilities and testing sites
+- [[lue-elizondo|Lue Elizondo]] testified to [[house-oversight-committee|House Oversight]] on Nov 13, 2024 that confirmed UAP technology may "interfere with our nuclear equities" ([[src-elizondo-house-hearing-2024-11]])
 - Marco Rubio stated: "We've had repeated instances of something operating in the airspace over restricted nuclear facilities"
 - Colorado sightings near Lockheed Martin facility (January 2025) fit the pattern of UAP near sensitive defense/industrial sites
 - The FY2026 NDAA provisions requiring UAP intercept briefings include activity near military installations, many of which house nuclear assets
@@ -63,3 +64,4 @@ See also [[drone-incursions]].
 - [[src-spy-drones-nuclear-triad-2026-04]] -- Malmstrom AFB spy balloon and drone swarm incidents
 - [[src-uk-mod-uap-no-threat-2024]] -- UK MoD reaffirms "no military threat" amid USAFE-AFA RAF incursion reporting
 - [[src-uk-airspace-defense-gap-2024-11]] -- UK GBAD capability gaps; AWE sites and Lakenheath B61 storage flagged as undefended
+- [[src-elizondo-house-hearing-2024-11]] -- Elizondo's "nuclear equities" framing in November 2024 House Oversight testimony

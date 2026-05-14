@@ -2,7 +2,7 @@
 title: Technosignatures
 type: concept
 created: 2026-04-16
-updated: 2026-05-10
+updated: 2026-05-14
 ---
 
 **Technosignatures** are observable signs of technology that would indicate the presence of an intelligent civilization — as distinct from [[biosignatures]], which indicate the presence of life without requiring intelligence or technology.
@@ -15,6 +15,15 @@ updated: 2026-05-10
 - **Megastructures** (Dyson-sphere-like signatures in IR excess)
 - **Waste heat** from stellar-scale civilizations
 - **Nighttime artificial light** — see [[nighttime-light-emissions]]; primary calibration target for [[terrestrial-technosignature]] characterization via [[viirs-dnb]] on [[suomi-npp]] ([[src-terrestrial-technosignatures-satellites-2026-04]])
+
+## Broadband leakage (BRaTs, 2026)
+
+[[michael-a-garrett]]'s May 2026 arXiv preprint introduces the **BRaTs** (Broadband Radio Technosignatures) framework ([[src-brats-radio-technosignatures-2026-05]]) as a complement to narrowband SETI. The empirical motivation is that modern terrestrial RF infrastructure has shifted away from narrowband beacons toward distributed wideband digital systems (cellular, Wi-Fi, satellite constellations), so narrowband-only surveys risk classifying real civilizational leakage as unstructured noise. BRaTs uses a tiered pipeline:
+
+1. **Wide-field survey** — next-gen arrays ([[ska|SKA]] and precursors) for initial broadband detection.
+2. **VLBI follow-up** — [[vlbi|Very Long Baseline Interferometry]] for sub-milliarcsecond imaging.
+
+Because broadband continuum emission is largely Doppler-drift insensitive, long "SETI Deep Fields" become viable, extending [[kardashev-scale|Kardashev Type I]] leakage detection volume to **~100 pc**. Candidates are discriminated from extragalactic radio sources by joint criteria: high brightness temperature, negligible circular polarization, spectral non-uniformity, interstellar scintillation, and astrometric co-motion with nearby stars/exoplanets.
 
 ## Detection pipelines
 
@@ -31,7 +40,7 @@ A modern narrowband technosignature search applies filters like:
 
 - [[breakthrough-listen]] — the most comprehensive ongoing technosignature survey
 - VLA + MeerKAT K2-18b search (2023, results 2026) — broad, deep null result on a single hycean target ([[src-k2-18b-technosignature-null-2026]])
-- Upcoming: SKA (Square Kilometre Array) and ngVLA (next-generation Very Large Array)
+- Upcoming: [[ska|SKA]] (Square Kilometre Array) and ngVLA (next-generation Very Large Array); SKA + [[vlbi]] is the central platform for [[src-brats-radio-technosignatures-2026-05|BRaTs]] broadband leakage surveys
 
 ## Interpretation of null results
 
@@ -54,3 +63,4 @@ Earth's outgoing technosignatures — most directly its [[nighttime-light-emissi
 - [[src-plasma-technosignature-scattering-2026]]
 - [[src-interplanetary-habitable-zone-2026]]
 - [[src-terrestrial-technosignatures-satellites-2026-04]]
+- [[src-brats-radio-technosignatures-2026-05]]

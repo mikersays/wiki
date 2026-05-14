@@ -1,11 +1,69 @@
 ---
 title: Log
-updated: 2026-05-12
+updated: 2026-05-14
 ---
 
 # Log
 
 Chronological record of wiki activity. Each entry uses the format `## [YYYY-MM-DD] action | description` for easy parsing.
+
+## [2026-05-14] ingest | UFO news sweep (4 articles, /ufo-news, parallel)
+
+Fetched via /ufo-news. Six search agents dispatched in parallel; triage surfaced 9 candidates after dedupe against existing vault. Of 9 dispatched fetch agents, **4 saved** + **5 failed/dropped**:
+
+- ✅ [[src-alien-biology-detection-method-2026-05]] — UC Riverside News (Jules Bernstein, May 11): Yoffe & Klenner *Nature Astronomy* statistical agnostic-biosignature method using amino-acid and fatty-acid richness/evenness across ~100 datasets
+- ✅ [[src-brats-radio-technosignatures-2026-05]] — Astrobiology.com (Keith Cowing, May 13): Garrett arXiv 2605.10212 introducing BRaTs (Broadband Radio Technosignatures), an SKA + VLBI hierarchical framework extending Kardashev Type I detection volume to ~100 pc
+- ✅ [[src-curiosity-rock-pulled-mars-2026-05]] — ScienceDaily/NASA (May 10): Curiosity's April 25 "Atacama" rock-stuck-to-drill-sleeve incident in Gale Crater, freed May 1 with combined steep-angle + rotation + vibration maneuver
+- ✅ [[src-faa-drone-rule-critical-infrastructure-2026-05]] — AirSight (May 6): FAA's May 6 2026 NPRM creating the **UAFR** airspace designation for critical-infrastructure drone restrictions; codifies Remote ID receiving capability as the federal baseline
+
+**New entity pages (8):** [[fabian-klenner]], [[gideon-yoffe]], [[uc-riverside]], [[weizmann-institute-of-science]], [[michael-a-garrett]], [[ska]], [[national-security-memorandum-22]], [[airsight]]
+
+**New concept pages (6):** [[amino-acids]], [[fatty-acids]], [[kardashev-scale]], [[vlbi]], [[unmanned-aircraft-flight-restriction]], [[remote-id]]
+
+**Updated pages:** [[agnostic-biosignature]] (added Yoffe-Klenner statistical-diversity method as second framework alongside ELSI), [[biosignatures]] (sample-level diversity statistics subsection), [[technosignatures]] (BRaTs broadband leakage section + SKA/VLBI source cross-link), [[seti]] (concrete BRaTs framing in Broadband SETI subsection), [[terrestrial-technosignature]] (BRaTs as wideband-leakage motivation), [[curiosity-rover]] (April 25–May 1 Atacama drill incident), [[gale-crater]] (Atacama drill incident backlink), [[faa]] (May 2026 UAFR rulemaking section), [[counter-uas]] (civilian regulatory baseline section + UAFR/Remote-ID cross-links), [[drone-incursions]] (May 6 UAFR timeline entry).
+
+**Cross-connections:**
+- **Two complementary agnostic-biosignature methods now in vault.** Yoffe & Klenner's sample-level diversity statistics ([[src-alien-biology-detection-method-2026-05]]) joins Smith & Sinapayen's ELSI population-level statistics ([[src-panspermia-agnostic-biosignature-2026-04]]) on a single [[agnostic-biosignature]] page — both bypass single-gas false-positive problems, but operate at different scales and assumptions. Stackable.
+- **Civilian / military C-UAS authority pair.** The FAA UAFR rule ([[src-faa-drone-rule-critical-infrastructure-2026-05]]) is the civilian/critical-infrastructure analogue to the [[counter-act|COUNTER Act]]'s military-base authority expansion — first time the vault treats civilian and military C-UAS regulatory tracks as a single coherent response to the 2023–2026 [[drone-incursions|incursion pattern]].
+- **Mars [[curiosity-rover|Curiosity]] platform now has both an organics-result thread and an operational-engineering thread for the same April–May 2026 period** — the [[src-curiosity-mars-life-molecules-2026-04|TMAH organics paper]] and the [[src-curiosity-rock-pulled-mars-2026-05|Atacama drill incident]] both reference [[gale-crater]] and the same drilling apparatus.
+- **Modern broadband-leakage SETI now anchored.** [[src-brats-radio-technosignatures-2026-05|BRaTs]] formalizes what previous [[technosignatures]] / [[terrestrial-technosignature]] pages noted implicitly: terrestrial RF is shifting from narrowband broadcast toward distributed wideband digital infrastructure, which standard narrowband SETI may discard as noise. [[ska]], [[vlbi]], [[kardashev-scale]] enter the vault for the first time.
+
+**Contradictions / mismatches flagged:**
+- None new — the BRaTs and Yoffe-Klenner methods are framed as complementary to existing approaches, not as replacements.
+
+**Failed (5) and dropped (1):**
+- ❌ TIME "What's Inside" PURSUE explainer (https://time.com/article/2026/05/11/whats-inside-new-government-ufo-files/) — HTTP 403.
+- ❌ War.gov primary PURSUE press release (https://www.war.gov/News/Releases/...) — HTTP 403. Primary source remains unfetched; only secondary coverage in vault.
+- ❌ CNN Politics "Pentagon releases initial batch of declassified UFO files" — WebFetch returned truncated content with body missing.
+- ❌ NBC News "Pentagon releases declassified UFO files" — HTTP 403.
+- 🗑 Schumer/Rounds JFK-style UAP declassification amendment (democrats.senate.gov) — Phase-1 search agent claimed the press release was dated 2026-05-13, but Phase-3 fetch confirmed the page is the **2023-07-14 original UAPDA introduction**, not a fresh 2026 amendment. Saved file deleted; not ingested. (Same hallucination warning surfaced in the [2026-05-13] sweep.)
+
+**Skill change:** None this sweep.
+
+**Suggested follow-ups:**
+- **Retry the TIME / CNN / NBC PURSUE coverage** via alternate fetcher. Three of the top-five U.S. mainstream framings of Release 01 are still unfetched.
+- **War.gov primary release** is the highest-value remaining primary source for the May 8 launch; the existing vault relies entirely on secondary outlets for the Hegseth/Gabbard/Patel/Isaacman quotes. Worth a manual fetch or curl-based workaround.
+- **Real Schumer-Rounds FY27 NDAA amendment status.** Two consecutive sweeps have now turned up the stale 2023 press release rather than a fresh 2026 reintroduction. Either the amendment hasn't been reintroduced (in which case [[src-uap-transparency-stalls-2025-12]] is still the latest state) or fresh primary-source coverage is hard to surface via WebSearch. Worth a dedicated congressional-calendar / congress.gov search.
+- **BRaTs follow-on**. The arXiv preprint (2605.10212) is now anchored, but the vault has no entity page for the [[michael-a-garrett]] paper's institutional home or for SKA precursors (MeerKAT, ASKAP). Future astrobiology sweeps should look for SKA-precursor technosignature surveys building toward the BRaTs pipeline.
+- **Yoffe-Klenner follow-on**. The *Nature Astronomy* paper isn't yet directly linked in the vault (we have the UC Riverside press release). When the formal paper URL becomes accessible, ingest as a co-source under the same entity cluster.
+
+## [2026-05-13] ingest | UFO news sweep (3 articles, /ufo-news, parallel)
+
+Fetched via /ufo-news. 7 search tracks dispatched in parallel; 6 initial candidates surfaced. All 6 initial WebFetch attempts blocked (The Hill / NewsNation / TIME / Japan Times / IBTimes UK retry / NPR returned 403/402/timeout). Retry round found scrape-friendly alternates for 3 of 6; 1 dropped (Flying Magazine — redundant with existing Apollo coverage and reconstructed not verbatim); 2 SKIPPED (NewsNation Immaculate Constellation article = November 2024 rehash already subsumed by existing vault content; NPR K2-18b "biosignature doubt" piece = misdated 2025 article, no genuine April 2026 reanalysis paper distinct from existing technosignature-null coverage).
+
+New sources:
+- [[src-elizondo-house-hearing-2024-11]] — Yahoo/The Hill/NewsNation: Lue Elizondo's Nov 13 2024 House Oversight joint subcommittee UAP testimony and post-hearing CUOMO debrief; "UAP are real," 1950s radar 10–13k mph trans-medium objects, nuclear-equities national-security framing
+- [[src-japan-pentagon-uap-trove-reaction-2026-05]] — IBTimes UK (May 13 2026): Chief Cabinet Secretary [[minoru-kihara]] confirms Tokyo is reviewing PURSUE Release 01 including [[dow-uap-pr47]] (2023 INDOPACOM IR formation near Japan) and the 2024 "football-shaped" object; situates against Japan's ~80-member bipartisan UAP lawmaker group and Chinese spy-balloon context — first foreign-government on-record formal engagement with PURSUE
+- [[src-loeb-pentagon-uap-release-best-yet-2026-05]] — Avi Loeb (Medium, May 10 2026) on PURSUE Release 01: enumerates 161 records (82 DoW / 56 FBI / 12 NASA / 8 State / 28 videos / 14 images), 46 Luna-demanded videos still pending, [[galileo-project]] team concludes none require exotic origin (images = optics/human-made; videos heavily redacted; Apollo lunar lights = asteroid-impact flashes or optical artifacts), 1947 flying-disc letter highlighted, "best is yet to come," quotes Trump's "Have fun and enjoy!"
+
+New entities/concepts: [[aatip]], [[rich-johnson]], [[dow-uap-pr47]].
+
+Updated: [[lue-elizondo]], [[house-oversight-committee]], [[newsnation]], [[nuclear-uap-correlation]], [[minoru-kihara]] (role change: Defense Minister 2024 → Chief Cabinet Secretary 2026), [[japan]], [[japan-uap-parliamentary-group]] (added ~80-lawmaker size), [[us-indo-pacific-command]], [[avi-loeb]], [[galileo-project]], [[pursue]], [[anna-paulina-luna]], [[donald-trump]], [[lunar-uap-historical-claims]].
+
+Cross-connections this sweep:
+- **PURSUE Release 01 international reaction arc**: Japan formally confirms review (Kihara) — first foreign-government on-record engagement with PURSUE; pairs with [[src-twz-pursue-shrug-2026-05]] (Trevithick's "Japan football object = Chinese balloon" reading) for an arc on the INDOPACOM cluster.
+- **PURSUE Release 01 scientific reception**: Loeb's null-on-exotic conclusion adds a Galileo-Project-backed skeptical-scientific bucket to the existing media spectrum (alongside [[mick-west]]/Metabunk and [[joseph-trevithick]]/TWZ).
+- **Nov 13 2024 House Oversight hearing**: now has both [[src-elizondo-house-hearing-2024-11]] (CUOMO debrief) and [[src-gallaudet-house-testimony-2024-11]] (written testimony) source pages — fills a multi-month gap in vault hearing coverage and predates the Feb 2026 disclosure-directive era.
 
 ## [2026-05-12] ingest | UFO news sweep (3 articles, /ufo-news, parallel)
 

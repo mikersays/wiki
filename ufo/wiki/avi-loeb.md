@@ -2,7 +2,7 @@
 title: Avi Loeb
 type: entity
 created: 2026-04-16
-updated: 2026-05-12
+updated: 2026-05-13
 ---
 
 **Avi Loeb** is a Harvard astrophysicist and co-founder (with [[frank-laukien]], July 2021) of the [[galileo-project]], a scientific initiative searching for extraterrestrial technological artifacts. Loeb directed Harvard's Institute for Theory and Computation for 20 years.
@@ -27,6 +27,18 @@ He illustrates the verify-don't-dismiss methodology with a Galileo Project case 
 
 In [[src-galileo-project-uap-capability-2026-03]], Loeb announces a major instrumentation milestone: Galileo can now measure distances to airborne objects to better than 10% via 10-km-baseline multi-station observation, enabling true 3D velocity and acceleration (see [[uap-triangulation]]). He frames this as a **scientific alternative to government [[uap-disclosure]]** — civilian instruments can independently verify whether an object lies outside human-tech performance envelopes regardless of file release. Loeb identifies the unknown camera-to-object distance as the "Achilles Heel" of past congressional UAP videos and offers to sit on a review board for any classified UAP satellite data.
 
+## PURSUE Release 01 review (May 2026)
+
+In a Medium essay published **May 10, 2026** ([[src-loeb-pentagon-uap-release-best-yet-2026-05]]), Loeb gave the first independent scientific readout of the May 8 [[pursue|PURSUE Release 01]]. His [[galileo-project]] team enumerated **161 records** — 82 [[department-of-war]], 56 [[fbi]], 12 [[nasa]], 8 [[department-of-state]], 28 videos, 14 images — and concluded that **none of the released items requires an exotic origin**: images resolve as camera-optics reflections or human-made objects, video details are heavily redacted, and the [[apollo-12|Apollo]] [[apollo-17|lunar lights]] are most plausibly asteroid-impact flashes (per Artemis II reports) or optical artifacts ([[lunar-uap-historical-claims]]).
+
+Loeb framed the release's biggest impact as **psychological** — legitimizing UAP as mainstream scientific and security discourse — and stressed "**the best is yet to come**," because higher-quality data requires longer bureaucratic vetting. He flagged that the **46 videos demanded by [[anna-paulina-luna]]** ([[src-luna-46-uap-videos-demand-2026-03]]) are not in this tranche and "will likely be released in future batches." A 1947 letter to the Air Force chief of staff on flying discs was singled out as historical evidence of decades-long, cross-agency UAP documentation.
+
+> "After reviewing the new files, my research team concluded that none of the objects is sufficiently extraordinary to require an exotic origin." — Avi Loeb (May 10, 2026)
+
+> "The best is yet to come, because higher quality data will take more vetting by layers of government bureaucracy before it is released." — Avi Loeb (May 10, 2026)
+
+Loeb did roughly two dozen TV interviews on the release including Newsmax, where he was asked to "represent humanity" in a future alien encounter — he framed contact as "the most romantic and the most impactful question in science." He also quoted [[donald-trump|President Trump]]'s "Have fun and enjoy!" framing of the release.
+
 ## Panspermia and directed panspermia (March 2026)
 
 In a March 19 2026 Medium essay ([[src-loeb-panspermia-impact-survival-2026-03]]), Loeb argues that newly published ~2 GPa microbe-pressure-survival data, combined with [[deinococcus-radiodurans]]'s tolerance for interplanetary transit, materially strengthens the natural [[panspermia]] case. He extends the argument to **[[directed-panspermia]]** — proposing humans attach a microbe-nutrient-power capsule to an [[interstellar-objects|interstellar object]] like [[3i-atlas]] to deliberately seed exoplanet habitable zones. Loeb invokes Mars meteorite [[alh84001]], the seven-planet [[trappist-1]] system, the [[ryugu]] DNA-base detection (via [[spherex]] organics on 3I/ATLAS for the interstellar-object angle), and the "we are all Martians" [[luca]] hypothesis ~4.2 Gya.
@@ -41,3 +53,4 @@ He also raises a speculative "Trojan Horse" framing — that some interstellar o
 - [[src-trump-tpusa-ufo-tease-2026-04]]
 - [[src-loeb-panspermia-impact-survival-2026-03]]
 - [[src-newsnation-elizondo-pandoras-box-2026-02]]
+- [[src-loeb-pentagon-uap-release-best-yet-2026-05]]

@@ -1,6 +1,6 @@
 ---
 title: Index
-updated: 2026-05-12
+updated: 2026-05-14
 ---
 
 # Wiki Index
@@ -20,14 +20,17 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[src-aas-nova-wd-0806b-atmosphere-2026-04]] — AAS Nova (Lexi Gault, Apr 3 2026) on Lew et al. *AJ* JWST NIRCam+NIRSpec retrieval of cold directly imaged white-dwarf companion [[wd-0806b]]; first observational altitude-dependent K_zz in an exoplanet atmosphere; CO₂/CO/NH₃ detections
 - [[src-active-moons-review-2026-04]] — Astrobiology.com summary of 2026 NCCR PlanetS Legacy Book chapter on outgassing of Io, Europa, Enceladus, Triton, and Io-like exomoons; frames plumes as accessible biosignature windows
 - [[src-age-of-disclosure-review-2025-03]] — Variety's Owen Gleiberman reviews The Age of Disclosure (SXSW 2025): 34 senior officials including Rubio, Clapper, Rounds, Mellon, and Stratton claim direct UAP knowledge; reviewer skeptical of evidence
+- [[src-alien-biology-detection-method-2026-05]] — UC Riverside News (Jules Bernstein, May 11 2026) on Yoffe & Klenner *Nature Astronomy* statistical biosignature method: amino-acid/fatty-acid richness + evenness distinguishes biotic from abiotic samples across ~100 datasets; instrument-agnostic; captures preservation degree
 - [[src-al-jazeera-pursue-uap-files-2026-05]] — Al Jazeera (May 8, 2026) Global-South framing of PURSUE Release 01: foregrounds Rep. Thomas Massie's "ultimate weapon of mass distraction" critique, links to the JFK/RFK/MLK and Epstein-files distraction narratives, and reproduces the Pentagon's "physical object" caption on the Apollo 17 triangular-dots photo and a Sep 2023 FBI drone-pilot "linear object" interview
 - [[src-barksdale-drones-recap-2026-04]] — DroneXL recap of Barksdale March 9-15 drone incursions; adds Sen. Cassidy's five-flights/one-hobbyist/two-recovered disclosure and Charles Hoffman's "period of drones" framing
 - [[src-alien-gov-domains-2026-03]] — White House registers alien.gov and aliens.gov as first visible artifacts of Trump's UAP disclosure directive
 - [[src-alpha-centauri-a-exoplanet-2026]] — JWST MIRI detects candidate Saturn-like gas giant orbiting Alpha Centauri A, closest habitable-zone exoplanet if confirmed
 - [[src-anduril-army-20b-counter-drone-idiq-2026-03]] — Breaking Defense: Army awards Anduril $87M Lattice C2 task order — first under a new $20B/10-year enterprise IDIQ contract vehicle for JIATF-401 counter-drone mission
 - [[src-biosignature-gas-flux-inference-2026-04]] — Wogan et al. propose surface-flux inference via photochemical-climate model inversion; ~80% of CH₄ posterior consistent with life on synthetic TRAPPIST-1 e spectrum
+- [[src-brats-radio-technosignatures-2026-05]] — Astrobiology.com (Keith Cowing, May 13 2026) summary of Garrett arXiv 2605.10212 proposing BRaTs (Broadband Radio Technosignatures): hierarchical SKA+VLBI pipeline detecting planetary-scale leakage out to ~100 pc for Kardashev Type I; 5-parameter discriminator (brightness temperature, polarization, spectral non-uniformity, scintillation, astrometric co-motion)
 - [[src-counter-drone-middle-east-jiatf-2026-04]] — DefenseScoop: JIATF-401 commits >$600M to counter-drones; ~$350M to CENTCOM/Operation Epic Fury in first month, with overlap to FIFA 2026 and homeland defense
 - [[src-curiosity-mars-life-molecules-2026-04]] — Curiosity SAM/TMAH wet chemistry detects >20 organics in Gale Crater clays, including a DNA-precursor-like nitrogen compound and benzothiophene
+- [[src-curiosity-rock-pulled-mars-2026-05]] — ScienceDaily/NASA: Curiosity's drill accidentally pulled a 13 kg rock ("Atacama") out of Gale Crater on April 25, 2026; freed after multi-day vibration/rotation/angle maneuvers on May 1; first time a rock has stuck to the drill sleeve in mission history
 - [[src-debrief-pursue-launch-2026-05]] — The Debrief (Micah Hanks) on the May 8 PURSUE Phase 1 launch: updated 62-HQ-83894 FBI file, AARO-assessed imagery, Apollo-era NASA photos with "areas of interest" highlights, 2023 federal-law-enforcement orange-orb case; Luna's "great first step" and second-tranche signal; assesses limited new insight
 - [[src-directed-energy-5-bases-pilot-2026-05]] — Stars and Stripes: JIATF-401 announces 5-base directed-energy C-UAS pilot (HEL + HPM) at Kitsap, Bliss, Huachuca, Grand Forks, Whiteman; 180-day fielding goal; cites Guillot's 350-detections/100-installations Feb 2025 figure and NORTHCOM's "almost daily" framing
 - [[src-brazil-uap-senate-hearings-2026]] — Brazilian Senate June 2022 UAP hearing: 1986 radar mass-sighting, Operation Prato, and calls for Gillibrand-style disclosure legislation
@@ -41,12 +44,14 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[src-drone-incursions-base-jamming-2026-03]] — DefenseScoop: NORTHCOM FAK engages jamming protocol against multiple drone incursions at undisclosed strategic U.S. base since Operation Epic Fury began
 - [[src-drone-incursions-epic-fury-2026-03]] — The War Zone: multi-wave drone incursions at Barksdale B-52 base March 9-15 2026; Guillot SASC disclosures on detection/defeat trends
 - [[src-dow-uap-files-release-2026-05]] — Department of War announces PURSUE (Presidential Unsealing and Reporting System for UAP Encounters); first WAR.GOV/UFO release with on-record statements from Hegseth, Gabbard (ODNI), Patel (FBI), and Isaacman (NASA); interagency participants include DOE
+- [[src-elizondo-house-hearing-2024-11]] — Yahoo/The Hill/NewsNation: Lue Elizondo's Nov 13 2024 House Oversight joint UAP testimony and post-hearing CUOMO debrief; "UAP are real," 1950s radar 10–13k mph trans-medium objects, nuclear-equities concern
 - [[src-elizondo-motorcycle-crash-2026-04]] — Lue Elizondo survives near-fatal Wyoming motorcycle crash on March 17, 2026; hospitalized one week with life-threatening injuries
 - [[src-epic-fury-drone-defeat-2026-03]] — Defense News: Guillot discloses FAK defeated drone over strategic installation in opening hours of Operation Epic Fury; 11-soldier crew, Anduril Wisp/Heimdal/Pulsar sensors, ~25% detect-to-defeat rate
 - [[src-epic-fury-update-2026-04]] — SOF News April 24 update on Operation Epic Fury: economic-phase blockade, IRGC tanker seizures, Mojtaba Khamenei succession, and Ukrainian Sky Map C-UAS deployed to Prince Sultan AB to plug U.S. counter-drone gap
 - [[src-esa-enceladus-life-mission-2025]] — ESA proposes orbiter-lander mission to Saturn's moon Enceladus to search for life in its subsurface ocean
 - [[src-euronews-trump-162-ufo-files-2026-05]] — Euronews (Sertac Aktan, May 9 2026) European framing of PURSUE Release 01; surfaces [[paul-peyerl]] FBI account of a 1944 Black Forest Nazi disc-aircraft (engineer "Kuehr"); Trump Truth Social "decide for themselves" framing
 - [[src-european-uap-day-third-2026-03]] — EuroUFO's Edoardo Russo on the third European UAP Day: 2025 EU-level developments — UAP Coalition Netherlands MEP meetings (De Masi April, Mandl September), 24→36-scientist ERA Act feedback on stigma, Space Act feedback, third SOL Symposium in Baveno (Italy), DG RTD consultation, launch of the Euro UFO Index
+- [[src-faa-drone-rule-critical-infrastructure-2026-05]] — AirSight (May 6 2026) analysis of the FAA's proposed Unmanned Aircraft Flight Restriction (UAFR) rule: new airspace designation for 16 NSM-22 critical-infrastructure sectors, four §74.56 protective requirements including mandatory Remote ID receiving capability, no new detect/mitigate authority; docket FAA-2026-4558, comments due July 6 2026
 - [[src-fortune-aldrin-apollo-11-uap-2026-05]] — Fortune/AP wire (Kim & Binkley, May 9 2026): Aldrin's 1969 "sizeable object" Apollo 11 quote leads PURSUE coverage; Tajik cable, Aegean orb, FBI drone-pilot interview, Apollo 17 triangle, 1948 Netherlands; Kirkpatrick "diffraction pattern" rebuttal; Luna/Burchett/Sol Foundation reactions
 - [[src-galileo-project-uap-capability-2026-03]] — Avi Loeb announces Galileo Project sub-10% UAP-distance precision via 10-km multi-station triangulation; framed as scientific alternative to government disclosure
 - [[src-gallaudet-house-testimony-2024-11]] — Gallaudet's Nov 13 2024 House Oversight written testimony: 2015 Roosevelt near-miss email and "Go Fast" FLIR, AARO "influence operation" allegation, and three-pillar disclosure recommendation
@@ -56,6 +61,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[src-hegseth-fy27-posture-testimony-2026-04]] — SecWar Hegseth's April 29, 2026 FY27 DoW posture testimony to House Armed Services: AARO named UAP "focal point," AHI CFT realigned to OUSW(R&E) with ~$3M HAVANA Act payments, drone dominance and autonomous warfare named FY27 priorities, Golden Dome for America launched
 - [[src-immaculate-constellation-whistleblower-2025]] — Matthew Brown publicly confirms classified UAP surveillance program "Immaculate Constellation"
 - [[src-interplanetary-habitable-zone-2026]] — Scharf (NASA Ames) proposes Interplanetary Habitable Zone framework; TRAPPIST-1 civilizations extinct within 45 years due to radiation
+- [[src-japan-pentagon-uap-trove-reaction-2026-05]] — IBTimes UK (May 13 2026): Chief Cabinet Secretary Minoru Kihara confirms Tokyo is reviewing PURSUE Release 01, including DOW-UAP-PR47 (2023 INDOPACOM IR formation near Japan) and the 2024 "football-shaped" object; situates against Japan's 80-member bipartisan UAP lawmaker group and Chinese spy-balloon context
 - [[src-japan-uap-strategy-proposal-2026-03]] — Japanese parliamentary group proposes specialized UAP government body under Cabinet Secretariat, paralleling Sky Canada Project
 - [[src-jiatf-401-marketplace-romania-2026-04]] — U.S. Army announces Romania joins the JIATF-401 Marketplace to procure C-UAS; builds on UK deal and Army secretary's 25-partner-nation goal by end of summer 2026
 - [[src-jwst-biosignature-prospects-2025]] — Seager et al. PNAS perspective: JWST can nominate but not confirm biosignature-gas candidates; field must accept "parallel interpretations" until next-gen telescopes
@@ -66,6 +72,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[src-leonard-david-pursue-column-2026-05]] — Leonard David's *Inside Outer Space* column on the May 8 PURSUE launch: Hegseth/Isaacman quotes, Gemini 7 Borman bogey transcript, Apollo 12 five-Areas photo, Apollo 17 Cernan/Schmitt accounts; flags Enigma Labs mirror at pentagonufofiles.io
 - [[src-loeb-wh-uap-videos-skeptic-2026-04]] — Avi Loeb on the WH/DoW UAP-video release: calls for raw satellite data, warns most intriguing classified-sensor data likely withheld, offers 1g isotope test
 - [[src-loeb-panspermia-impact-survival-2026-03]] — Avi Loeb (Medium, Mar 19 2026) on a new ~2 GPa microbe pressure-survival study, *Deinococcus radiodurans*, ALH84001, Ryugu DNA-base detection, and a directed-panspermia proposal to seed exoplanets via a capsule attached to 3I/ATLAS
+- [[src-loeb-pentagon-uap-release-best-yet-2026-05]] — Avi Loeb (Medium, May 10 2026) on PURSUE Release 01: enumerates 161 records (82 DoW / 56 FBI / 12 NASA / 8 State / 28 videos / 14 images), 46 Luna-demanded videos still pending, Galileo Project finds none require exotic origin (optics/redactions/asteroid-flash Apollo lights), 1947 flying-disc letter, "best is yet to come," Trump's "Have fun and enjoy!"
 - [[src-luna-46-uap-videos-demand-2026-03]] — Luna's March 31 letter to SecWar Hegseth demanding 46 named UAP videos from AARO by April 14, 2026
 - [[src-luna-nonhuman-origin-pod-force-one-2026-04]] — Newsweek (Apr 29): Luna on Miranda Devine's *Pod Force One* says she observed SCIF evidence "of nonhuman origin and creation," pledges a press conference on declassification, avoids "aliens"; DoW reiterates AARO/WH coordination
 - [[src-luna-uap-deadline-missed-2026-04]] — Newsweek (Apr 16): Luna on OAN describes White House escalation after Pentagon silence; AARO confirms coordination on UAP release; Hegseth pledges full compliance
@@ -130,6 +137,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[3i-atlas]] — Third confirmed interstellar object; SPHEREx-detected organics; Loeb's directed-panspermia carrier candidate
 - [[3rd-infantry-regiment]] — U.S. Army's "Old Guard"; trained on Bumblebee V1 at Fort Belvoir, April 2026
 - [[aaro]] — All-domain Anomaly Resolution Office, the Pentagon's UAP investigation body established in 2022
+- [[aatip]] — Advanced Aerospace Threat Identification Program; DoD predecessor program led by Lue Elizondo, focused on national-security implications of military UAP encounters
 - [[americans-for-safe-aerospace]] — Ryan Graves's organization pushing FAA-mandated UAP reporting; endorsed by Gallaudet
 - [[abbas-araghchi]] — Iranian Foreign Minister; named as prospective negotiator at the stalled April 2026 Islamabad ceasefire talks
 - [[abdallah-zaki]] — Sedimentologist (former Caltech postdoc, now UT Austin Jackson School fellow); co-author of 2026 Nature paper proposing continental-shelf evidence for an ancient Martian ocean
@@ -137,6 +145,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[aiaa]] — American Institute of Aeronautics and Astronautics, aerospace engineering society backing UAP research standards
 - [[alexander-pavlov]] — NASA Goddard space scientist; led 2026 Martian ice amino-acid survival study showing pure ice preserves organics 10× better than ice-soil mixtures
 - [[air-force-research-laboratory]] — USAF R&D lab headquartered at Wright-Patterson; develops advanced aerospace materials and propulsion
+- [[airsight]] — Counter-UAS industry vendor (AirGuard Remote ID detection); published May 2026 analysis of FAA UAFR rule
 - [[aj-gevaerd]] — Brazil's leading UAP researcher; presented country's UAP history to the Senate in June 2022
 - [[akrotiri-and-dhekelia]] — UK Sovereign Base Areas in Cyprus; within range of Iranian ballistic missiles per 2024 parliamentary debate
 - [[alexandro-wiggins]] — Active-duty Navy SCPO; first active-duty Navy official to testify publicly before Congress about UAP; reported 2023 USS Jackson Tic Tac incident
@@ -202,6 +211,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[department-of-national-defence]] — Canadian DND; minimal Sky Canada Project engagement; investigates only credible-threat or SAR cases
 - [[department-of-war]] — Trump-era rebrand of the U.S. Department of Defense; AARO's parent department
 - [[disclosure-day-film]] — Upcoming Steven Spielberg feature film cited in May 2026 Fortune/AP UAP coverage as a cultural marker
+- [[dow-uap-pr47]] — 2023 USINDOPACOM infrared PURSUE Release 01 record showing several contrasting objects in formation near Japanese airspace; subject of Japan's May 2026 review
 - [[disclosure-foundation]] — Nonprofit advocating UAP transparency through legal action and policy; led by [[jordan-flowers]]
 - [[donald-bolduc]] — Retired U.S. Army BG (SF); April 2026 critic arguing Operation Epic Fury exposed strategic gaps and lacked an exit strategy
 - [[donald-trump]] — 47th U.S. President; issued February 2026 directive to release UAP/alien files
@@ -225,6 +235,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[euro-ufo-network]] — EuroUFO.net pan-European ufology federation; publisher of the European UAP Day annual recaps
 - [[europa-clipper]] — NASA orbiter mission to Jupiter's moon Europa, launched October 2024
 - [[faa]] — Federal Aviation Administration, formalized UAP terminology and mandatory reporting in October 2025
+- [[fabian-klenner]] — UC Riverside planetary scientist; co-author of the 2026 *Nature Astronomy* statistical agnostic-biosignature paper
 - [[fabio-de-masi]] — MEP (Germany); filed Dec 2024 EU Commission UAP question; met UAP Coalition Netherlands April 2025
 - [[fbi]] — Federal Bureau of Investigation; April 2026 reviewing Burlison referral of Sullivan's death and reportedly multiple aerospace-personnel cases
 - [[fort-belvoir]] — U.S. Army installation in Virginia; site of the April 2026 Bumblebee V1 C-UAS exercise
@@ -242,6 +253,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[george-knapp]] — Veteran investigative journalist who worked with Corbell to supply Congress with UAP file intelligence
 - [[gj-887]] — Nearby M dwarf 10.7 ly away hosting at least four (possibly five) planets, including habitable-zone super-Earth GJ 887 d
 - [[gj-887-d]] — Super-Earth (~6 M⊕, 51-day orbit) in GJ 887's habitable zone; 2nd-closest confirmed habitable-zone planet
+- [[gideon-yoffe]] — Weizmann Institute postdoc; first author of the 2026 *Nature Astronomy* diversity-statistics biosignature paper
 - [[glass-darkly-films]] — Sam Sorich's Catholic film production company; producing the late-2026 Vatican UAP documentary
 - [[grand-forks-afb]] — USAF base in North Dakota; one of two USAF sites in the May 2026 JIATF-401 directed-energy C-UAS pilot
 - [[glen-vanherck]] — Retired Gen., NORAD/NORTHCOM commander during Dec 2023 Langley drone swarm and 2023 Chinese spy balloon shootdown
@@ -327,6 +339,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[max-planck-institute-for-astronomy]] — MPIA (Heidelberg); led 2026 JWST Epsilon Indi Ab study; contributed MIRI filter-wheel hardware; Roman partner
 - [[micah-hanks]] — Journalist/editor at The Debrief; covered the May 8, 2026 PURSUE launch
 - [[mike-wall]] — Senior writer at Space.com; covered May 8 2026 PURSUE Release 01 with a video-supercut framing
+- [[michael-a-garrett]] — Radio astronomer / SETI researcher; lead author of the 2026 BRaTs broadband-technosignature framework
 - [[michael-lamb]] — Caltech professor of geology; co-author of 2026 Nature paper identifying the topographic signature of early Martian oceans
 - [[mick-west]] — Independent UAP-skeptic researcher and founder of Metabunk; opened the May 2026 PURSUE Release 01 analysis thread; "more dots, more parallax"
 - [[mike-rogers]] — U.S. Rep. (R-AL); House Armed Services chair; imposed "Four Corners" precondition for UAPDA inclusion in FY2026 NDAA
@@ -346,6 +359,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[nasa-jpl]] — NASA Jet Propulsion Laboratory; operates Curiosity and Perseverance rovers
 - [[nasic]] — National Air and Space Intelligence Center; Wright-Patterson tenant analyzing foreign aerospace systems
 - [[national-research-council-canada]] — NRC; held Canadian UAP-report intake 1967–1995; archive now at Library and Archives Canada
+- [[national-security-memorandum-22]] — White House memo defining 16 critical-infrastructure sectors; scaffolds FAA UAFR eligibility
 - [[naval-base-kitsap]] — U.S. Navy base in Washington state; ballistic-missile sub homeport; Navy site in the May 2026 JIATF-401 directed-energy C-UAS pilot
 - [[naval-meteorology-and-oceanography-command]] — U.S. Navy command Gallaudet led during the Jan 2015 Roosevelt exercise
 - [[neretva-vallis]] — Ancient river valley feeding Jezero Crater; site of Cheyava Falls biosignature minerals and 2026 nickel-rich iron sulfide bedrock
@@ -385,6 +399,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[raf-mildenhall]] — Suffolk USAF 100th ARW base; targeted in Nov 2024 UAP/drone incursion wave
 - [[robert-powell]] — SCU researcher advocating for civilian UAP detection infrastructure
 - [[rosalind-franklin-rover]] — ESA ExoMars rover slated to carry TMAH-style wet-chemistry organic detection inherited from Curiosity
+- [[rich-johnson]] — NewsNation/The Hill reporter; authored Nov 14 2024 syndicated recap of Lue Elizondo's CUOMO debrief after the House Oversight UAP hearing
 - [[robert-salas]] — Retired USAF Captain who testified on nuclear-site UAP events at Brazil's 2022 Senate hearing; claims 1967 Malmstrom ICBM-disabling incident
 - [[roger-wicker]] — R-MS Senator, Senate Armed Services chair; says Pentagon is "mystified" by drone incursions
 - [[roger-wiens]] — Purdue EAPS professor; SuperCam team; lab built nickel calibration standards for the 2026 Neretva Vallis paper
@@ -393,6 +408,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[ronald-reagan]] — 40th U.S. President; reported pre-presidential UFO sightings; 1987 UN "alien threat" remark
 - [[shubham-kanodia]] — Carnegie Science astronomer; JWST GEMS Survey co-lead; 2023 TESS confirmation and 2026 atmosphere paper on TOI-5205 b
 - [[simon-muller]] — University of Zurich; TOI-5205 b interior-model co-author
+- [[ska]] — Square Kilometre Array; next-generation wide-field radio array; central instrument for BRaTs deep-field leakage surveys
 - [[spitzer-space-telescope]] — NASA infrared space telescope (2003–2020); IRAC discovered WD 0806b in 2011
 - [[sue-gough]] — Pentagon spokesperson; on-record source for the "exceeds 2,000 UAP cases" / "1,000 in Active Archive" AARO figures (Feb 2026)
 - [[ross-coulthart]] — Australian investigative journalist; prominent UAP disclosure reporter; covered Elizondo motorcycle crash
@@ -447,6 +463,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[trappist-1]] — Red dwarf hosting seven rocky planets; IHZ model finds advanced civilizations there extinct within ~45 years due to radiation
 - [[trappist-1-e]] — Rocky habitable-zone exoplanet orbiting TRAPPIST-1 (~39 ly); prime JWST atmospheric characterization target
 - [[university-of-zurich]] — Home of Muller and Helled; interior modeling for TOI-5205 b
+- [[uc-riverside]] — University of California, Riverside; Klenner home institution; issued the May 2026 alien-biology-detection release
 - [[triton]] — Neptune's largest moon; retrograde captured body with cryovolcanic plumes and possible subsurface ocean; flagged as morphologically distinct active moon
 - [[tulsi-gabbard]] — Director of National Intelligence under Trump; co-leads the ODNI/DoW joint UAP declassification effort announced May 2026
 - [[turning-point-usa]] — Conservative youth political organization; hosted the April 2026 Phoenix conference where Trump previewed imminent UAP disclosure
@@ -473,6 +490,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[vishal-gajjar]] — SETI Institute astronomer; lead author of the 2026 stellar plasma technosignature broadening study
 - [[white-sands-missile-range]] — U.S. Army range in southern NM; "exponential" rise in unidentified drone incursions cited as motivating example for the COUNTER Act
 - [[whiteman-afb]] — Missouri USAF base hosting B-2 Spirit stealth bombers used in Operation Epic Fury strikes on Iran
+- [[weizmann-institute-of-science]] — Israeli research institute (Rehovot); Yoffe home institution
 - [[william-neil-mccasland]] — Retired USAF Maj. Gen., former AFRL commander at Wright-Patterson; missing from Albuquerque as of March 2026
 - [[wd-0806b]] — Second-coldest directly imaged exoplanet; orbits white dwarf WD 0806-661 at 2,500 AU; JWST 2026 atmosphere retrieval with first altitude-dependent K_zz
 - [[white-dwarf]] — Stellar remnant of low/intermediate-mass stars; host class for WD 0806b
@@ -486,6 +504,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[agnostic-biosignature]] — Life-detection strategy using population-level statistics rather than specific chemical markers; minimizes false positives; applicable to large exoplanet surveys
 - [[alh84001]] — Mars meteorite that reached Earth without interior heating >40 °C since ejection; cited as evidence for panspermia survival pathway
 - [[alien-gov-portal]] — The alien.gov and aliens.gov domains registered by the White House in March 2026 as part of Trump's UAP disclosure rollout
+- [[amino-acids]] — Protein building blocks; diversity/evenness profile distinguishes biological from abiotic samples (Yoffe & Klenner, 2026)
 - [[anomalous-health-incidents]] — DoW-tracked Havana Syndrome cluster; AHI Cross-Functional Team realigned to OUSW(R&E); first HAVANA Act payments (~$3M) approved under Trump
 - [[autonomous-warfare]] — Domain Hegseth identifies as a competitor-investment area (China/Russia); paired with drone dominance in FY27 DoW posture
 - [[army-enterprise-contracts]] — Army's firm-fixed-price IDIQ consolidation pattern (Mar 2026): 14 vehicles, 118 contracts collapsed (88% reduction); Anduril $20B and Palantir $10B as anchor awards
@@ -513,6 +532,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[exoplanet-atmosphere-models]] — Forward and retrieval models used to interpret exoplanet spectra; cloud physics is a known gap
 - [[exoplanet-habitability]] — Conditions enabling planets outside our solar system to support life
 - [[false-positive-biosignatures]] — Abiotic pathways that mimic biosignature gases (e.g., CO₂ photolysis producing O₂/O₃), complicating exoplanet life detection
+- [[fatty-acids]] — Lipid building blocks; abiotic pools more evenly distributed than biological ones (inverse of amino acids); Yoffe & Klenner 2026 diversity biosignature
 - [[fbi-case-file-62-hq-83894]] — FBI 1947–1968 file on unidentified objects and "flying discs"; 18 sub-documents including Oak Ridge TN reports; centerpiece of the May 8, 2026 PURSUE Release 01
 - [[gemini-7]] — Dec 1965 Borman/Lovell mission; "bogey at ten o'clock high" transcript released as part of May 2026 PURSUE — earliest formally-released U.S. crewed-spaceflight UAP record
 - [[skylab]] — First U.S. space station (1973–1979); 1973 Technical Crew Debriefing released as part of May 2026 PURSUE
@@ -534,6 +554,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[interstellar-objects]] — 1I/ʻOumuamua, 2I/Borisov, 3I/ATLAS class; both natural panspermia vectors and Loeb's "Trojan Horse" technological-payload hypothesis
 - [[japan-uap-framework]] — Japan's emerging whole-of-government UAP policy framework under the Cabinet Secretariat
 - [[jiatf-401-marketplace]] — Army-run C-UAS procurement marketplace; opened to UK and Romania with a 25-partner-nation goal by end of summer 2026
+- [[kardashev-scale]] — Classification of civilizations by energy use (Type I/II/III); BRaTs targets Type I leakage out to ~100 pc
 - [[kona-blue]] — Officially acknowledged proposed DHS program to reverse-engineer recovered alien technology (never launched)
 - [[lattice-c2]] — Anduril's AI-enabled open-architecture C2 software; March 2026 became JIATF-401 C-UAS C2 backbone via $87M task order under the $20B enterprise IDIQ
 - [[lens-flare-explanations]] — Survey of lens flare, internal reflections, and sensor floaters as prosaic UAP imagery explanations
@@ -558,6 +579,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[radar-clutter-windfarms]] — Sensor clutter from offshore wind farms creating radar blackout zones, especially across UK east coast and North Sea
 - [[radial-velocity]] — Doppler-wobble exoplanet detection method used by HARPS and ESPRESSO
 - [[reaper-uas]] — MQ-9 Reaper-type UAS; dominant IR-video platform across PURSUE Release 01
+- [[remote-id]] — 14 CFR part 89 broadcast Remote ID; codified as the federal baseline for facility-side drone sensing under the FAA UAFR rule
 - [[roswell-incident]] — 1947 New Mexico crash event foundational to modern UFO lore; alleged debris path to Wright-Patterson
 - [[ryugu]] — Carbonaceous near-Earth asteroid sampled by Hayabusa2; analyses identified all five DNA bases in returned material
 - [[saturn-magnetosphere]] — Rotation-dominated, Enceladus-mass-loaded magnetosphere with afternoon-sector cusp; aligns Saturn with Jupiter rather than Earth
@@ -593,6 +615,8 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[uap-stigma]] — Social and professional costs of engaging with UAP topics, a primary barrier to progress
 - [[uap-triangulation]] — Multi-station synchronized observation enabling 3D position/velocity/acceleration of UAP, resolving the unknown-distance limitation of single-camera video
 - [[uap-whistleblower-protections]] — Legal safeguards for individuals disclosing information about government UAP programs to Congress
+- [[unmanned-aircraft-flight-restriction]] — New FAA airspace designation (May 2026 NPRM) for critical-infrastructure drone restrictions; Standard and Special variants
+- [[vlbi]] — Very Long Baseline Interferometry; high-resolution follow-up tier in the BRaTs framework; sub-milliarcsecond astrometric co-motion test
 - [[venus]] — Second planet from the Sun; cloud-deck habitability target and recipient of modeled Earth panspermia transfer
 - [[venus-life-equation]] — Izenberg et al. 2021 framework L = O × R × C for estimating extant Venusian-life likelihood
 - [[unidentified-submerged-objects]] — Anomalous objects observed in or operating beneath water; central to Gallaudet's ocean-scrutiny advocacy

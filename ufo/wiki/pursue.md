@@ -2,7 +2,7 @@
 title: PURSUE — Presidential Unsealing and Reporting System for UAP Encounters
 type: concept
 created: 2026-05-08
-updated: 2026-05-12
+updated: 2026-05-13
 ---
 
 
@@ -44,6 +44,7 @@ Established in response to [[donald-trump]]'s Truth Social directive dated 2026-
   - **Measured / interagency-frame:** CBS ([[src-uap-files-rollout-interagency-2026-05]]).
   - **Disclosure-community deep-dive:** [[the-debrief]] ([[src-debrief-pursue-launch-2026-05]]) — assesses Release 01 as a centralized repository of previously-partial records with limited genuinely new insight.
   - **Skeptical:** AP/WaPo ([[src-uap-files-public-conclusions-2026-05]]); [[the-war-zone]] ([[src-twz-pursue-shrug-2026-05]]) — "nothing groundbreaking," Apollo 17 image likely a visual artifact, "football-shaped" Japan object consistent with a balloon; **Scientific American** ([[src-sciam-pursue-skeptics-2026-05]]) — [[sean-kirkpatrick]] "playhouse politics theater company" and [[mick-west]] "more dots, more parallax."
+  - **Skeptical-scientific (Galileo Project):** [[avi-loeb]] Medium essay ([[src-loeb-pentagon-uap-release-best-yet-2026-05]]) — independent enumeration of **161 records** (82 DoW / 56 FBI / 12 NASA / 8 State / 28 videos / 14 images), **null on exotic origin** after Galileo Project team review (images = optics; videos heavily redacted; Apollo lunar lights = asteroid-impact flashes or optical artifacts). Loeb's framing: biggest impact is "psychological" — legitimizing UAP as mainstream discourse — and "**the best is yet to come**" since higher-quality data needs longer vetting.
   - **Frame-by-frame debunker:** Metabunk thread led by [[mick-west]] ([[src-metabunk-pursue-analysis-2026-05]]) — Reaper-UAS [[infrared-imagery|IR]] / [[parallax]] / [[lens-flare-explanations|optical-artifact]] critique; specific identifications of **PR-19 = "Baghdad Phantom"** (already leaked by [[jeremy-corbell]] in 2023) and **PR-48 = candidate offshore wind turbines**.
   - **Aerospace-trade video survey:** [[space-com|Space.com]] / [[mike-wall]] ([[src-space-com-pursue-video-trove-2026-05]]) — ~30-clip supercut on Space.com YouTube; walks through the [[centcom]] Syria Oct 2024 "ball of white light" (DoW-UAP-D32), an [[us-indo-pacific-command|INDOPACOM]] 9-sec "football-shaped body with three radial projections," and a 100-second 2024 INDOPACOM windmill-array clip.
   - **AP-wire syndication:** Kim & Binkley AP wire republished as Fortune ([[src-fortune-aldrin-apollo-11-uap-2026-05]]) and across Newsweek ([[src-newsweek-luna-teases-disclosure-2026-05]]) — Aldrin Apollo 11 "sizeable object" lede, Tajik 1994 cable, Aegean orb, Apollo 17 triangle; [[sean-kirkpatrick]] "diffraction pattern" and "arm-chair pseudoscience" critique; [[sol-foundation]] calls for legislation mandating thorough review.
@@ -68,6 +69,7 @@ Established in response to [[donald-trump]]'s Truth Social directive dated 2026-
 - **Global South / political-distraction framing**: Al Jazeera (May 8, 2026) foregrounds Rep. [[thomas-massie]]'s February "**ultimate weapon of mass distraction**" critique and explicitly links PURSUE to the parallel JFK/RFK/MLK release pattern ("offered few new details beyond what was already known") and to the [[jeffrey-epstein]]-files distraction narrative ([[src-al-jazeera-pursue-uap-files-2026-05]]). First Republican lawmaker on record dismissing PURSUE.
 - **US military-readership wire**: Stars and Stripes (May 8, 2026; Phillip Walter Wellman) is the **only Release-01 wire to enumerate all three combatant commands** — [[us-indo-pacific-command]], [[centcom]], and [[us-european-command]] — as contributors of "unresolved" UAP videos, and the only one to lead with [[apollo-12]] (vs. [[apollo-17]]) for the included lunar imagery ([[src-stripes-pursue-uap-files-2026-05]]).
 - **European framing**: [[euronews|Euronews]] (May 9, 2026) describes the portal's design as "decidedly retro" — black-and-white military imagery, typewriter-font statements — and lifts [[paul-peyerl]]'s FBI account of a 1944 Black Forest Nazi disc-aircraft as the lead anchor of the tranche ([[src-euronews-trump-162-ufo-files-2026-05]]). Trump's Truth Social framing — release lets the public "decide for themselves" — is reproduced as the formal **public-judges-evidence** framing.
+- **Japan formal review (May 13, 2026)**: Chief Cabinet Secretary [[minoru-kihara]] confirms Tokyo is reviewing the [[pursue|PURSUE Release 01]] trove alongside U.S. and partner governments, focused on the [[us-indo-pacific-command|INDOPACOM]] records near Japanese airspace including the 2023 IR clip [[dow-uap-pr47]] and the 2024 "football-shaped" object; Japan's [[japan-uap-parliamentary-group|80-member bipartisan parliamentary group]] cited as institutional backdrop ([[src-japan-pentagon-uap-trove-reaction-2026-05]]). First foreign-government on-record confirmation of formal PURSUE engagement.
 
 ## Pre-launch volume framing (Feb 2026)
 

@@ -2,7 +2,7 @@
 title: Terrestrial Technosignature
 type: concept
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-05-14
 ---
 
 # Terrestrial Technosignature
@@ -14,7 +14,7 @@ A **terrestrial technosignature** is an observable signature of human industrial
 - **Nighttime artificial light** — see [[nighttime-light-emissions]]; observable with [[viirs-dnb|VIIRS DNB]] on [[suomi-npp]] / NOAA-20 / NOAA-21. Ground-truthed by [[christopher-kyba]]'s 2014–2022 global analysis.
 - **Atmospheric industrial gases** — long-lived halocarbons (CFCs, HCFCs) and NO₂ as biosignature-orthogonal civilization markers.
 - **Waste heat / thermal anomalies** — Dyson-sphere-style infrared excess; localized urban heat islands at smaller scales.
-- **Radio leakage** — narrowband terrestrial transmissions; subject of decades of [[seti]] / [[breakthrough-listen]] work and the [[plasma-technosignature-scattering|interstellar plasma scattering]] caveat.
+- **Radio leakage** — narrowband terrestrial transmissions; subject of decades of [[seti]] / [[breakthrough-listen]] work and the [[plasma-technosignature-scattering|interstellar plasma scattering]] caveat. The empirical shift on Earth from narrowband broadcast toward distributed wideband digital infrastructure (cellular, Wi-Fi, satellite constellations) is the motivating observation for the May 2026 **[[src-brats-radio-technosignatures-2026-05|BRaTs]]** broadband-leakage framework ([[michael-a-garrett]], [[ska]] + [[vlbi]] pipeline).
 
 ## Calibration role
 
@@ -33,3 +33,4 @@ The motivating idea is that Earth itself is the only confirmed inhabited planet,
 ## Sources
 
 - [[src-terrestrial-technosignatures-satellites-2026-04]]
+- [[src-brats-radio-technosignatures-2026-05]]

@@ -2,7 +2,7 @@
 title: Biosignatures
 type: concept
 created: 2026-04-13
-updated: 2026-05-07
+updated: 2026-05-14
 ---
 
 # Biosignatures
@@ -72,6 +72,10 @@ Mission implication: future Mars landers should drill into clean buried ice, not
 
 [[harrison-b-smith]] and [[lana-sinapayen]] ([[earth-life-science-institute]], April 2026) propose detecting life through **statistical correlations across exoplanet populations** rather than individual-planet chemical markers. The method assumes [[panspermia]] and environmental modification, using agent-based simulations to recover life-influenced planet clusters. Designed to minimize [[false-positive-biosignatures|false positives]] and avoid assuming any specific biochemistry. Applicable to large future surveys ([[habitable-worlds-observatory]]). See [[src-panspermia-agnostic-biosignature-2026-04]] and [[agnostic-biosignature]].
 
+### Sample-Level Diversity Statistics (Yoffe & Klenner, 2026)
+
+A second [[agnostic-biosignature|agnostic]] approach, complementary to the ELSI population method, was published by [[gideon-yoffe]] ([[weizmann-institute-of-science]]) and [[fabian-klenner]] ([[uc-riverside]]) in *Nature Astronomy* (May 2026, [[src-alien-biology-detection-method-2026-05]]). It classifies a single sample as biological or abiotic by computing the **richness** and **evenness** of its [[amino-acids|amino-acid]] and [[fatty-acids|fatty-acid]] pools. Biological amino-acid pools are more diverse and more even than abiotic ones; fatty-acid pools show the inverse pattern. Validated across ~100 datasets including microbes, fossilized dinosaur eggshells, [[bennu-asteroid|Bennu]] and Murchison meteorites, and lab abiotic syntheses. Instrument-agnostic.
+
 ## Solar-system contamination prior
 
 Per [[src-venus-panspermia-earth-origin-2026-04]], a [[jhuapl]]/[[sandia-national-laboratories]] team using the [[venus-life-equation]] estimates ~100 viable Earth-derived cells per year may reach [[venus]]'s clouds via natural impact-spallation [[panspermia]] (~20 billion over 1 Gyr). Any positive Venus-cloud life detection therefore carries a non-trivial Earth-contamination prior — see [[false-positive-biosignatures]]. The same "panspermia contamination" failure mode applies to other tightly-coupled systems such as [[trappist-1]].
@@ -97,3 +101,6 @@ A May 3, 2026 syndicated report claims [[nasa]] has partnered with seven (unname
 - [[technosignatures]]
 - [[false-positive-biosignatures]]
 - [[toi-1130b]], [[mini-neptune]], [[high-mean-molecular-weight-atmosphere]]
+- [[amino-acids]], [[fatty-acids]]
+- [[fabian-klenner]], [[gideon-yoffe]]
+- [[src-alien-biology-detection-method-2026-05]]

@@ -2,7 +2,7 @@
 title: Luis "Lue" Elizondo
 type: entity
 created: 2026-04-13
-updated: 2026-05-12
+updated: 2026-05-13
 ---
 
 # Luis "Lue" Elizondo
@@ -25,6 +25,16 @@ Key statements:
 - "Drones can do now what in 2017 we could only dream of"
 - "Disclosure and transparency is a process -- it's not an event"
 - Expressed confidence: "I think we're going to see potentially even more progress this year than we have in the last seven"
+
+### House Oversight Testimony (Nov 13, 2024)
+
+Per [[src-elizondo-house-hearing-2024-11]] (Yahoo/The Hill/NewsNation, Nov 14, 2024), Elizondo testified before two [[house-oversight-committee]] subcommittees at the joint UAP hearing and called it a "win-win" for the country in a same-night [[newsnation]] *CUOMO* debrief with Chris Cuomo. Headline claims:
+
+- "UAP are real" and advanced technologies not made by the U.S. or any other government are monitoring sensitive military installations worldwide.
+- Documents submitted to Congress show "beyond a shadow of a doubt" the issue dates to the **early 1950s**, with radar capturing objects doing 10,000–13,000 mph, executing immediate right-angle and 180-degree turns, and entering/exiting atmosphere and water (trans-medium).
+- The U.S. has "absolutely" confirmed technology operating in controlled airspace and over sensitive installations, possibly interfering with "nuclear equities" ([[nuclear-uap-correlation]]).
+
+> "Let me be clear: UAP are real. Advanced technologies not made by our government, or any other government, are monitoring sensitive military installations around the globe." — Lue Elizondo (Nov 13, 2024)
 
 ### "Tremendous undertaking" framing (Feb 2026)
 
@@ -72,3 +82,4 @@ Per NBC News reporting on Trump's TPUSA tease, Elizondo testified at a Wednesday
 - [[src-elizondo-motorcycle-crash-2026-04]]
 - [[src-trump-ufo-files-interesting-2026-04]]
 - [[src-newsnation-elizondo-pandoras-box-2026-02]]
+- [[src-elizondo-house-hearing-2024-11]]

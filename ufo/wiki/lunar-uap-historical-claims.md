@@ -2,7 +2,7 @@
 title: Lunar UAP Historical Claims
 type: concept
 created: 2026-05-08
-updated: 2026-05-10
+updated: 2026-05-13
 ---
 
 # Lunar UAP Historical Claims
@@ -56,6 +56,7 @@ Record `255_413270` — undated NASA paper (no incident date). The only Release 
 
 - **IVA debris / ice-flake hypothesis (mainstream):** the most commonly invoked benign interpretation for "particles drifting past the window" descriptions during Apollo missions is intra-vehicular debris (water droplets, ice flakes from sublimating waste, cabin particulate) backlit by the sun. This is the framing that has historically dominated NASA's own reading of similar transcripts.
 - **External-object hypothesis:** Pentagon's Release 01 caption on the Apollo 17 surface photo notes "no consensus" but flags a "physical object" reading as preliminarily indicated. Whether this refers to an *external* object on/near the lunar surface (vs. a sensor or film artifact) is unclear from the captions captured so far.
+- **Asteroid-impact-flash / optical-artifact (Loeb):** in his May 10 PURSUE review ([[src-loeb-pentagon-uap-release-best-yet-2026-05]]), [[avi-loeb]] argues Apollo "lights above the lunar surface" are most plausibly **asteroid-impact flashes** — citing Artemis II astronaut reports — or camera-optical artifacts. This is the vault's strongest skeptical-scientific reading of the lunar imagery to date.
 
 ## Status
 
@@ -66,4 +67,4 @@ Record `255_413270` — undated NASA paper (no incident date). The only Release 
 
 - [[apollo-11]] · [[apollo-12]] · [[apollo-17]] · [[gemini-7]] · [[skylab]] · [[nasa]] · [[pursue]] · [[pursue-release-01-catalog]]
 - [[src-trump-uap-apollo-photos-2026-05]] · [[src-uap-files-rollout-interagency-2026-05]] · [[src-uap-files-public-conclusions-2026-05]] · [[src-pursue-portal-launch-2026-05]]
-- [[src-leonard-david-pursue-column-2026-05]] · [[src-twz-pursue-shrug-2026-05]] · [[src-sciam-pursue-skeptics-2026-05]] · [[src-sunday-guardian-162-files-2026-05]] · [[src-metabunk-pursue-analysis-2026-05]] · [[src-debrief-pursue-launch-2026-05]] · [[src-fortune-aldrin-apollo-11-uap-2026-05]] · [[src-newsweek-luna-teases-disclosure-2026-05]]
+- [[src-leonard-david-pursue-column-2026-05]] · [[src-twz-pursue-shrug-2026-05]] · [[src-sciam-pursue-skeptics-2026-05]] · [[src-sunday-guardian-162-files-2026-05]] · [[src-metabunk-pursue-analysis-2026-05]] · [[src-debrief-pursue-launch-2026-05]] · [[src-fortune-aldrin-apollo-11-uap-2026-05]] · [[src-newsweek-luna-teases-disclosure-2026-05]] · [[src-loeb-pentagon-uap-release-best-yet-2026-05]]

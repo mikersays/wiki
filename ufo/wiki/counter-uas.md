@@ -2,7 +2,7 @@
 title: Counter-UAS
 type: concept
 created: 2026-04-29
-updated: 2026-05-07
+updated: 2026-05-14
 ---
 
 # Counter-UAS
@@ -42,6 +42,15 @@ Two new mechanisms expanded the C-UAS procurement architecture:
 - **[[army-enterprise-contracts|Army enterprise IDIQ]]** ($20B / 10 years to [[anduril]], March 2026) — consolidates 120 prior Army-Anduril contracts into a single Pentagon-wide ordering ceiling; first task order is $87M for [[lattice-c2|Lattice]] C2 software supporting JIATF-401 ([[src-anduril-army-20b-counter-drone-idiq-2026-03]]).
 - **[[jiatf-401-marketplace|JIATF-401 Marketplace]]** — Army-run procurement marketplace opening to NATO partners; UK was the first, [[romania]] the second (April 2026), with a stated goal of 25 partner nations by end of summer 2026 ([[src-jiatf-401-marketplace-romania-2026-04]]).
 
+## Civilian regulatory baseline (May 2026)
+
+The [[faa]] published a May 6 2026 notice of proposed rulemaking creating a new airspace designation, the **[[unmanned-aircraft-flight-restriction|Unmanned Aircraft Flight Restriction (UAFR)]]** ([[src-faa-drone-rule-critical-infrastructure-2026-05]]). Two key implications for the C-UAS architecture:
+
+- **Remote ID receiving capability** ([[remote-id]]) is codified as the federal baseline sensing layer that any critical-infrastructure operator must already have in place before applying for airspace protection.
+- The UAFR is a **legal designation only** — it does not grant new detection/mitigation authority. Defeat authority still flows from 6 U.S.C. 124n, 10 U.S.C. 130i, and the legislative track below.
+
+The UAFR is the civilian/critical-infrastructure analogue to the [[counter-act|COUNTER Act]]'s military-base authority expansion.
+
 ## Legislative authority track
 
 Authority to defeat unidentified drones over U.S. territory is expanding via statute:
@@ -80,3 +89,8 @@ UK has no equivalent of JIATF-401 or [[flyaway-kit]] for homeland counter-sUAS. 
 - [[cartel-drone-threat]]
 - [[romania]]
 - [[united-kingdom]]
+- [[unmanned-aircraft-flight-restriction]]
+- [[remote-id]]
+- [[national-security-memorandum-22]]
+- [[airsight]]
+- [[faa]]
