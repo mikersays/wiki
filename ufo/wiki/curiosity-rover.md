@@ -2,7 +2,7 @@
 title: Curiosity Rover
 type: entity
 created: 2026-04-29
-updated: 2026-05-14
+updated: 2026-05-15
 ---
 
 # Curiosity Rover
@@ -18,6 +18,10 @@ Curiosity carries the [[sample-analysis-at-mars]] (SAM) instrument suite, which 
 In April 2026, an international team led by [[amy-williams]] (University of Florida) and including [[jennifer-eigenbrode]] of [[nasa-goddard]] published in *Nature Communications* that SAM detected more than 20 [[organic-molecules-mars|organic molecules]] in Glen Torridon mudstone drilled in 2020 — including a nitrogen-containing compound structurally similar to DNA-precursor bases and the sulfur-bearing aromatic **benzothiophene**. The detection used a one-shot **TMAH** wet derivatization run, the first such chemistry experiment performed on another planet. SAM carried only ~two cups of TMAH, forcing a high-stakes single-site choice ([[src-curiosity-mars-life-molecules-2026-04]]).
 
 The team cannot distinguish biological, geological, or meteoritic origins; resolution requires [[mars-sample-return]]. The TMAH approach has been adopted for ESA's [[rosalind-franklin-rover]] (Mars, **2028 launch**) and NASA's [[dragonfly-mission]] (Titan, **2027 launch**) per the TIME-published follow-up by [[jeffrey-kluger]] ([[src-mars-organics-fresh-clues-2026-04]]). Kluger's piece adds explicit [[exogenous-organics]] context: 2025 *Nature Astronomy* findings of 14 protein-forming amino acids in [[bennu-asteroid|Bennu]] samples, and [[hexamethylenetetramine]] in the [[murchison-meteorite|Murchison meteorite]] (1969). [[amy-williams]] frames the result as consistent with a combined "in-situ + exogenous" origin-of-life model.
+
+## Boxwork-region panorama (Nov–Dec 2025)
+
+Per [[src-mars-two-sides-panoramas-2026-04]], Curiosity captured a 360-degree panorama (1,031 images, Nov 9 – Dec 7 2025) of a **boxwork-ridge** region in the foothills of **Mount Sharp** — low ridges resembling giant spiderwebs formed by ancient groundwater depositing erosion-resistant minerals along bedrock fractures. The piece also surfaces an earlier Curiosity-team finding that the iron carbonate **siderite** may store CO₂ from a thicker early Martian atmosphere. By the April 2026 panorama release, Curiosity had **left the boxwork region** and was ascending into a sulfate-enriched layer of Mount Sharp.
 
 ## 2026 "Atacama" drill incident
 
@@ -43,3 +47,4 @@ On April 25, 2026, Curiosity attempted to drill a [[gale-crater|Gale Crater]] ro
 - [[src-curiosity-mars-life-molecules-2026-04]]
 - [[src-mars-organics-fresh-clues-2026-04]]
 - [[src-curiosity-rock-pulled-mars-2026-05]]
+- [[src-mars-two-sides-panoramas-2026-04]]

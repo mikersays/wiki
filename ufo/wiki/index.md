@@ -1,6 +1,6 @@
 ---
 title: Index
-updated: 2026-05-14
+updated: 2026-05-15
 ---
 
 # Wiki Index
@@ -32,6 +32,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[src-curiosity-mars-life-molecules-2026-04]] — Curiosity SAM/TMAH wet chemistry detects >20 organics in Gale Crater clays, including a DNA-precursor-like nitrogen compound and benzothiophene
 - [[src-curiosity-rock-pulled-mars-2026-05]] — ScienceDaily/NASA: Curiosity's drill accidentally pulled a 13 kg rock ("Atacama") out of Gale Crater on April 25, 2026; freed after multi-day vibration/rotation/angle maneuvers on May 1; first time a rock has stuck to the drill sleeve in mission history
 - [[src-debrief-pursue-launch-2026-05]] — The Debrief (Micah Hanks) on the May 8 PURSUE Phase 1 launch: updated 62-HQ-83894 FBI file, AARO-assessed imagery, Apollo-era NASA photos with "areas of interest" highlights, 2023 federal-law-enforcement orange-orb case; Luna's "great first step" and second-tranche signal; assesses limited new insight
+- [[src-defensescoop-pursue-not-disclosure-2026-05]] — DefenseScoop (Brandi Vincent, May 14 2026) "Data alone is not disclosure" reaction roundup on PURSUE Release 01 with on-record voices from Mellon (Disclosure Foundation chair), Gallaudet, Graves, Flowers, Enigma Labs's Rojas, and Australian researcher Lavac; "War Department official" articulates rolling-release cadence and government non-determination posture
 - [[src-directed-energy-5-bases-pilot-2026-05]] — Stars and Stripes: JIATF-401 announces 5-base directed-energy C-UAS pilot (HEL + HPM) at Kitsap, Bliss, Huachuca, Grand Forks, Whiteman; 180-day fielding goal; cites Guillot's 350-detections/100-installations Feb 2025 figure and NORTHCOM's "almost daily" framing
 - [[src-brazil-uap-senate-hearings-2026]] — Brazilian Senate June 2022 UAP hearing: 1986 radar mass-sighting, Operation Prato, and calls for Gillibrand-style disclosure legislation
 - [[src-burlison-commends-trump-uap-release-2026-05]] — Burlison House press release commending Trump's May 8 PURSUE UAP file launch; codifies "disclosure president" framing and verbatim interagency-participant list
@@ -80,6 +81,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[src-mars-ancient-ocean-zaki-lamb-2026-04]] — Caltech's Zaki & Lamb (Nature, April 2026) identify a continental-shelf-like topographic band in Mars's northern hemisphere as evidence for a long-lived ancient ocean covering ~1/3 of the planet
 - [[src-mars-organics-fresh-clues-2026-04]] — TIME's Jeffrey Kluger on the Curiosity SAM/TMAH organics result with added Bennu/Murchison meteorite-delivery framing and forward-looking Rosalind Franklin (2028) and Dragonfly (2027) follow-on missions
 - [[src-mars-perseverance-biosignature-2025]] — Perseverance rover discovers potential biosignature minerals in Cheyava Falls rock on Mars
+- [[src-mars-two-sides-panoramas-2026-04]] — Astrobiology.com (Keith Cowing, Apr 28 2026) recap of paired 360-degree Curiosity (1,031-image boxwork mosaic on Mount Sharp) and Perseverance ("Lac de Charmes" outside Jezero rim) panoramas; status update on cores, organics, dust-devil sparks, and Mars surface auroras
 - [[src-metabunk-pursue-analysis-2026-05]] — Mick West's Metabunk thread on PURSUE Release 01: Reaper-UAS IR-and-parallax dominance (flarkey), PR-19 already leaked by Corbell (Ferriter), PR-48 = offshore wind turbines / lens artifacts / sensor floaters (Giddierone, John J.), "area of contrast" terminology (Jack), Apollo-era repackaging concerns (Harabeck)
 - [[src-nasa-seven-firms-biosignature-2026-05]] — Thin moneycontrol.com syndicated report on a claimed NASA partnership with seven (unnamed) tech firms for Mars/ocean-worlds biosignature detection; no firms named and no direct quotes
 - [[src-newsnation-elizondo-pandoras-box-2026-02]] — NewsNation/CUOMO (Michael Ramsey, Feb 21 2026): Elizondo calls Trump's Feb 19 disclosure directive a "tremendous undertaking" that could "dwarf the Epstein files" in volume; Coulthart cautions it's review-only, not declassification; Von Rennenkampff "day-after" framing; Loeb on raw-material verification
@@ -226,6 +228,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[elisabeth-matthews]] — MPIA astronomer; lead author of 2026 JWST Epsilon Indi Ab water-ice-clouds paper
 - [[enceladus]] — Saturn's ~500 km icy moon with a global subsurface ocean, south-polar plumes, and inferred seafloor hydrothermal activity
 - [[enceladus-orbilander]] — NASA mission concept ranked top priority by the 2022 planetary science decadal survey for late-2030s launch
+- [[enigma-labs]] — Data/analytics company operating a public UAP reporting platform (>200,000 civilian sightings); mirrored PURSUE Release 01 at pentagonufofiles.io and is cross-referencing official cases against the civilian database
 - [[epsilon-indi-a]] — Sun-like K-type star ~12 ly away (constellation Indus); host of directly-imaged Jupiter analogue Epsilon Indi Ab
 - [[epsilon-indi-ab]] — Cold gas giant (~7.6 M_Jup, ~1 R_Jup, 200-300 K) orbiting Epsilon Indi A at ~4× Jupiter's orbital separation; JWST 2026 inference of water ice clouds
 - [[eric-burlison]] — Rep. (R-MO); introduced UAP Disclosure Act of 2025 and publicly released Yemen orb Hellfire video
@@ -599,6 +602,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[planetary-migration]] — Disk-torque/scattering/resonance-driven orbital drift; 2:1 resonance of TOI-1130 system canonical convergent-migration architecture
 - [[planetary-protection]] — Doctrine of preventing biological contamination of habitable bodies; Cassini Grand Finale as canonical case
 - [[prebiotic-chemistry]] — Pre-life chemical conditions (catalytic metals, reduced S, organic C) supporting emergence of microbial metabolism; invoked by 2026 Manelski Mars nickel paper
+- [[psyops-disinformation]] — Alleged 1950s-era U.S. government practice of fabricating false UAP documents to mask classified weapons programs; provenance hazard for PURSUE-era releases per Jordan Flowers
 - [[pursue]] — Presidential Unsealing and Reporting System for UAP Encounters; DoW-run public records portal at war.gov/UFO launched May 8, 2026 to release unresolved UAP records on a rolling basis under Trump's Feb 19 directive
 - [[supercam]] — Perseverance LIBS/Raman/VISIR instrument suite; first detected Neretva Vallis nickel
 - [[theological-uap-framing]] — Religious/eschatological interpretations of UAP disclosure (demonic, Nephilim, rapture-cover, spiritual-demon, interdimensional, Catholic-Magisterium engagement)

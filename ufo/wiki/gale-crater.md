@@ -2,7 +2,7 @@
 title: Gale Crater
 type: entity
 created: 2026-04-29
-updated: 2026-05-14
+updated: 2026-05-15
 ---
 
 # Gale Crater
@@ -16,6 +16,10 @@ A ~154-km Martian impact crater and the [[curiosity-rover|Curiosity Rover]] land
 A clay-mineral-rich region within Gale, formed in liquid water and exceptional at preserving organic matter. Curiosity drilled mudstone samples here in 2020 that, in the April 2026 [[sample-analysis-at-mars|SAM]]/TMAH wet-chemistry experiment, yielded more than 20 [[organic-molecules-mars|organic molecules]] including a DNA-precursor-like nitrogen compound and benzothiophene ([[src-curiosity-mars-life-molecules-2026-04]]).
 
 Contrast with [[perseverance-rover]]'s Jezero Crater landing site, which was selected to find biosignatures rather than primarily assess habitability.
+
+## Boxwork-region panorama (Nov–Dec 2025)
+
+Per [[src-mars-two-sides-panoramas-2026-04]], a Curiosity 360-degree mosaic (1,031 images, Nov 9 – Dec 7 2025) captures a region of **boxwork ridges** on Mount Sharp's foothills — low ridges resembling giant spiderwebs, formed by groundwater depositing erosion-resistant minerals along bedrock fractures. By the April 28 2026 release, Curiosity had left the boxwork region and was climbing into a sulfate-enriched Mount Sharp layer.
 
 ## 2026 "Atacama" drill incident
 
@@ -34,3 +38,4 @@ On April 25, 2026, [[curiosity-rover|Curiosity]] attempted to drill a Gale rock 
 - [[src-curiosity-mars-life-molecules-2026-04]]
 - [[src-mars-organics-fresh-clues-2026-04]]
 - [[src-curiosity-rock-pulled-mars-2026-05]]
+- [[src-mars-two-sides-panoramas-2026-04]]

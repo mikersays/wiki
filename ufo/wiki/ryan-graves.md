@@ -2,7 +2,7 @@
 title: Ryan Graves
 type: entity
 created: 2026-04-13
-updated: 2026-04-13
+updated: 2026-05-15
 ---
 
 # Ryan Graves
@@ -20,8 +20,13 @@ updated: 2026-04-13
 - [[aiaa]] UAP Integration Committee (chair)
 - [[americans-for-safe-aerospace]] (founder)
 
+## PURSUE Release 01 — evaluation framework (May 2026)
+
+Per [[src-defensescoop-pursue-not-disclosure-2026-05]], Graves articulates the **"data alone is not disclosure"** standard: useful releases require *"clear provenance, sensor context, metadata, chain of custody, date and location, and enough operational context to allow serious independent analysis."* Ambiguous imagery without that surrounding data "is hard for pilots, researchers, or the public to evaluate responsibly." Stated goal: *"a durable, credible reporting and analysis process, not just periodic releases of low-context files."* Through PURSUE, [[americans-for-safe-aerospace]] is mining for **aviation-safety-relevant records** — sensor data, pilot and aircrew reports, operational-hazard analyses, and process changes that let commercial and military aviators report encounters without stigma.
+
 ## Sources
 
 - [[src-uap-landscape-2025]] -- Profiled as key figure
 - [[src-ufo-research-progress-2025]] -- Perspective on UAP as national security issue
 - [[src-uap-military-intercepts-ndaa-2026]] -- Americans for Safe Aerospace referenced as advocacy organization
+- [[src-defensescoop-pursue-not-disclosure-2026-05]] -- PURSUE evaluation framework

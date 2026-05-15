@@ -2,7 +2,7 @@
 title: UAP Reporting Infrastructure
 type: concept
 created: 2026-04-13
-updated: 2026-05-09
+updated: 2026-05-15
 ---
 
 # UAP Reporting Infrastructure
@@ -17,8 +17,8 @@ updated: 2026-05-09
 - FY2026 NDAA provisions consolidating reporting across federal agencies to eliminate duplication
 
 ### Civilian
-- **Enigma app** -- Citizen reporting app; documented over 9,000 USO sightings within 10 miles of U.S. shorelines since August 2025
-- [[americans-for-safe-aerospace]] -- Pilot-led organization; received over 700 reports in 2025 (doubled from 2024)
+- **[[enigma-labs|Enigma Labs]] app** -- Citizen reporting app; documented over 9,000 USO sightings within 10 miles of U.S. shorelines since August 2025. As of May 2026 the platform's public sightings database has **passed 200,000 reports**, and Enigma is cross-referencing PURSUE Release 01 cases against it for location/time clusters ([[src-defensescoop-pursue-not-disclosure-2026-05]]).
+- [[americans-for-safe-aerospace]] -- Pilot-led organization; received over 700 reports in 2025 (doubled from 2024); mining [[pursue]] for aviation-safety-relevant records ([[src-defensescoop-pursue-not-disclosure-2026-05]])
 - [[scu]] -- Advocates for independent civilian sensor networks
 
 ### International
@@ -74,3 +74,4 @@ AARO's 2025 UAP Workshop whitepaper ([[src-aaro-uap-data-collection-whitepaper-2
 - [[src-canada-sky-canada-project-2025-02]] -- Canadian Sky Canada Project preliminary report and political prospects
 - [[src-canada-sky-canada-final-2025-07]] -- Sky Canada Project final report (July 2025)
 - [[src-european-uap-day-third-2026-03]] -- EU-level engagement and pan-European reporting infrastructure
+- [[src-defensescoop-pursue-not-disclosure-2026-05]] -- Enigma Labs 200,000-sightings benchmark and ASA's PURSUE-era aviation-safety focus

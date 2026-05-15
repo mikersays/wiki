@@ -2,7 +2,7 @@
 title: UAP Disclosure
 type: concept
 created: 2026-04-13
-updated: 2026-05-12
+updated: 2026-05-15
 ---
 
 # UAP Disclosure
@@ -105,6 +105,10 @@ This means the Trump directive's main practical effect was to **trigger publicat
 The Pentagon promises rolling tranches "every few weeks." Skeptics warn that prior JFK/RFK/MLK record releases "revealed little beyond what was already known" and that UAP videos are easily misread by non-specialists. [[anna-paulina-luna]]'s 46 demanded videos ([[src-luna-46-uap-videos-demand-2026-03]]) are pledged for "a later release." [[steven-greer]]'s [[the-disclosure-project]] held a competing/parallel NPC press conference the same day ([[src-greer-disclosure-event-npc-2026-05]]).
 
 **Sources:** [[src-dow-uap-files-release-2026-05]], [[src-pursue-portal-launch-2026-05]], [[src-uap-files-rollout-interagency-2026-05]], [[src-trump-uap-apollo-photos-2026-05]], [[src-uap-files-public-conclusions-2026-05]], [[src-war-department-uap-declassification-2026-05]]. Per-record catalog: [[pursue-release-01-catalog]].
+
+### May 14, 2026 — "Data alone is not disclosure"
+
+DefenseScoop's Brandi Vincent ([[src-defensescoop-pursue-not-disclosure-2026-05]]) aggregates the UAP-research-community **evaluation framework** for PURSUE-era releases: [[ryan-graves]]'s standard requires "clear provenance, sensor context, metadata, chain of custody, date and location, and enough operational context to allow serious independent analysis"; [[chris-mellon]]'s reading credits the release for putting on the record that decades of UAP data collection happened in secret ("that is no longer deniable") while flagging that the IC's integrated analytical product remains unreleased; [[tim-gallaudet]] sets the test as future declassification of the Pentagon/IC classified videos/sonar/radar/FLIR he is "aware of"; [[jordan-flowers]] introduces a [[psyops-disinformation|provenance hazard]] (1950s disinformation laundering). A "War Department official" formally articulates the rolling-release cadence and the **government non-determination posture** ("not providing any comment or assessment… so the American people can make up their own minds"). This is the most coherent post-launch statement of the [[pursue]] effort's *political-operational* design.
 
 ## Key Tensions
 

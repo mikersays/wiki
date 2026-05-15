@@ -2,7 +2,7 @@
 title: Department of War
 type: entity
 created: 2026-04-16
-updated: 2026-05-07
+updated: 2026-05-15
 ---
 
 **Department of War (DoW)** is the Trump-era rebrand of the U.S. Department of Defense. "Secretary of War" replaces "Secretary of Defense" in official DoW communications; [[pete-hegseth]] holds the office.
@@ -18,6 +18,8 @@ Secretary [[pete-hegseth]]'s April 29, 2026 written posture testimony to the [[h
 ## PURSUE Launch (May 8, 2026)
 
 DoW launched [[pursue]] (Presidential Unsealing and Reporting System for UAP Encounters) at `war.gov/UFO` on May 8, 2026 — the first concrete records-release vehicle under Trump's February directive. Release 01: 162 files (108 redacted) drawn from [[fbi]], [[nasa]], the State Department, and [[department-of-energy]], with [[odni]] coordination. DoW is the lead agency; [[pete-hegseth]] is the on-record principal ("These files, hidden behind classifications, have long fueled justified speculation"). PURSUE handles **unresolved** cases; [[aaro]] retains statutory resolved-case reporting. See [[src-dow-uap-files-release-2026-05]] and [[src-pursue-portal-launch-2026-05]].
+
+Per a "War Department official" in [[src-defensescoop-pursue-not-disclosure-2026-05]] (May 14), additional PURSUE files will be released **"on a rolling basis"** and the government will *not* provide comment or assessment on individual files "so that the American people can make up their own minds." This is the first explicit on-record articulation of both the **rolling-tranche cadence** and the **non-determination public posture**.
 
 ### DoW contribution: 82 records (mostly CENTCOM mission reports)
 
@@ -62,3 +64,4 @@ The **"Observer Assessment: Benign"** finding is consistent across most CENTCOM 
 - [[src-trump-uap-apollo-photos-2026-05]]
 - [[src-uap-files-public-conclusions-2026-05]]
 - [[src-war-department-uap-declassification-2026-05]]
+- [[src-defensescoop-pursue-not-disclosure-2026-05]] — "War Department official" formally articulates the rolling-release cadence and government-non-determination posture for PURSUE

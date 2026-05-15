@@ -2,7 +2,7 @@
 title: Tim Gallaudet
 type: entity
 created: 2026-05-01
-updated: 2026-05-01
+updated: 2026-05-15
 ---
 
 # Tim Gallaudet
@@ -38,7 +38,12 @@ Briefed Capitol Hill (hosted by [[uap-disclosure-fund|UAP Disclosure Fund]] + [[
 - [[galileo-project]] research affiliate
 - UAP Disclosure Fund supporter
 - [[sol-foundation]] senior strategic advisor
-- Endorses [[ryan-graves|Americans for Safe Aerospace]]
+- [[disclosure-foundation]] advisor (per [[src-defensescoop-pursue-not-disclosure-2026-05]])
+- [[americans-for-safe-aerospace]] advisor (per [[src-defensescoop-pursue-not-disclosure-2026-05]])
+
+## On PURSUE Release 01 (May 2026)
+
+Per [[src-defensescoop-pursue-not-disclosure-2026-05]], sets the future-release standard: declassifying the classified Pentagon/IC videos/sonar/radar/FLIR he is "aware of" — of UAP "clearly objects of nonhuman origin due to their structure and performance characteristics" — is the test of "true transparency." Quote: *"If any of those are released, we will know whether or not true transparency is the objective."*
 
 ## April 2026 Kirkpatrick clash
 
@@ -51,3 +56,4 @@ Public dispute with former [[aaro]] director [[sean-kirkpatrick]]. Kirkpatrick a
 - [[src-age-of-disclosure-review-2025-03]]
 - [[src-gallaudet-kirkpatrick-clash-2026-04]]
 - [[src-uap-legislation-disclosure-efforts-2025]]
+- [[src-defensescoop-pursue-not-disclosure-2026-05]]

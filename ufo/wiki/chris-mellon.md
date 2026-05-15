@@ -2,7 +2,7 @@
 title: Christopher Mellon
 type: entity
 created: 2026-04-13
-updated: 2026-05-01
+updated: 2026-05-15
 ---
 
 # Christopher Mellon
@@ -41,6 +41,10 @@ Mellon's former senior DoD position lends institutional credibility to disclosur
 
 Per [[src-trump-uap-files-delay-2026-03]], Mellon confirmed to CNN that interagency meetings have begun to scope the release. He urged tempered expectations — the review is line-by-line, trained security officers are scarce, and the challenge is balancing transparency with protecting war-fighting capabilities.
 
+## Disclosure Foundation chairman (May 2026)
+
+Per [[src-defensescoop-pursue-not-disclosure-2026-05]], Mellon **chairs the [[disclosure-foundation]] board**. On the May 8 [[pursue]] Release 01: "We view [this initial release] as a meaningful step towards transparency, not because it resolves the major questions, but because it puts something important on the record... That is no longer deniable." Adds that the Foundation takes the release "at face value as a genuine transparency effort — while remaining clear-eyed that genuine efforts can still fall short." Notes the IC has "almost certainly" already done sophisticated integrated analytical work on PURSUE data that has not yet been released.
+
 ## Sources
 
 - [[src-uap-legislation-disclosure-efforts-2025]]
@@ -50,3 +54,4 @@ Per [[src-trump-uap-files-delay-2026-03]], Mellon confirmed to CNN that interage
 - [[src-uap-expert-briefing-2025-05]]
 - [[src-gallaudet-house-testimony-2024-11]]
 - [[src-age-of-disclosure-review-2025-03]]
+- [[src-defensescoop-pursue-not-disclosure-2026-05]]

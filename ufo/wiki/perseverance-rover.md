@@ -2,7 +2,7 @@
 title: Perseverance Rover
 type: entity
 created: 2026-04-13
-updated: 2026-05-06
+updated: 2026-05-15
 ---
 
 # Perseverance Rover
@@ -31,7 +31,16 @@ Per [[src-perseverance-neretva-nickel-rocks-2026-04]] ([[henry-manelski]] et al.
 
 ## Sample Collection
 
-Perseverance has collected **27 rock cores** as of the Nature publication, all intended for return to Earth via [[mars-sample-return]].
+Perseverance has collected **27 rock cores** as of the Neretva Vallis *Nature Communications* publication, all intended for return to Earth via [[mars-sample-return]]. (Note: the April 28 2026 Astrobiology.com panorama piece [[src-mars-two-sides-panoramas-2026-04]] cites **23 onboard cores plus a 10-tube cached backup depot** — likely a different time-of-counting; the 23-count appears to refer to cores carried onboard after the depot was dropped.)
+
+## "Lac de Charmes" panorama and surface firsts (Dec 2025–Apr 2026)
+
+Per [[src-mars-two-sides-panoramas-2026-04]], Perseverance captured a 360-degree panorama (980 images, Dec 18 2025 – Jan 25 2026) at a site nicknamed **"Lac de Charmes"** outside the rim of [[jezero-crater|Jezero Crater]] — some of the oldest terrain in the solar system. Two surface firsts from the same period:
+
+- **First audio of electrical sparks in dust devils**, caught by Perseverance's microphones — a long-theorized phenomenon now observed directly.
+- **First visible-light auroras from another planet's surface**, captured by a Perseverance camera.
+
+Next target: a site called **"Singing Canyon."**
 
 ## Key Personnel
 
@@ -61,3 +70,4 @@ Operates concurrently with [[curiosity-rover]] in [[gale-crater]] (since 2012). 
 - [[nasa]]
 - [[nasa-jpl]]
 - [[src-perseverance-neretva-nickel-rocks-2026-04]]
+- [[src-mars-two-sides-panoramas-2026-04]]

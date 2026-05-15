@@ -1,11 +1,37 @@
 ---
 title: Log
-updated: 2026-05-14
+updated: 2026-05-15
 ---
 
 # Log
 
 Chronological record of wiki activity. Each entry uses the format `## [YYYY-MM-DD] action | description` for easy parsing.
+
+## [2026-05-15] ingest | UFO news sweep (2 articles, /ufo-news, parallel)
+
+Fetched via /ufo-news. Seven search agents dispatched in parallel; triage surfaced 8 candidates after dedupe against existing vault. Of 8 dispatched fetch agents, **2 saved** + **6 failed/dropped**:
+
+- ✅ [[src-defensescoop-pursue-not-disclosure-2026-05]] — DefenseScoop (Brandi Vincent, May 14): "Data alone is not disclosure" — UAP research community reactions to PURSUE Release 01 with on-record voices from Mellon ([[disclosure-foundation]] chair), Gallaudet, Graves, Flowers, [[enigma-labs]] consultant Rojas, and Australian researcher Lavac; "War Department official" formalizes the rolling-release cadence and government non-determination posture
+- ✅ [[src-mars-two-sides-panoramas-2026-04]] — Astrobiology.com (Keith Cowing, Apr 28): Paired 360° panoramas from Curiosity (1,031-image boxwork mosaic on Mount Sharp) and Perseverance ("Lac de Charmes" outside Jezero rim); status update on cores, organics, dust-devil sparks, and Mars surface auroras
+- ❌ House Oversight "Restoring Public Trust" hearing page — SKIPPED: duplicate of Sept 9 2025 hearing already covered as [[src-uap-whistleblower-hearing-2025]]
+- ❌ Three NewsNation pieces (Graves "influx of people coming forward," Coulthart Reality Check on the PURSUE videos, Elizondo "Trump briefed on UAPs" disclosure-tour) — HTTP 403 PerimeterX bot wall; not retrievable via WebFetch
+- ❌ Japan Times "Tokyo analyzing Pentagon UFO trove" — paywalled (HTTP 402); Japan-angle already covered by IBTimes UK in [[src-japan-pentagon-uap-trove-reaction-2026-05]]
+- ❌ Astrobiology.com "Terrestrial Technosignatures" — SKIPPED: duplicate of [[src-terrestrial-technosignatures-satellites-2026-04]]
+
+**New entity pages (1):** [[enigma-labs]]
+
+**New concept pages (1):** [[psyops-disinformation]]
+
+**Updated pages:** [[pursue]] (Disclosure-community reaction-roundup bullet under Reception), [[aaro]] (AARO as PURSUE declassification coordinator — first explicit on-record framing), [[department-of-war]] (rolling-release cadence + government non-determination posture quoted), [[chris-mellon]] (named [[disclosure-foundation]] board chair), [[disclosure-foundation]] (Mellon as board chair + June 2026 Disclosure Forum), [[tim-gallaudet]] ([[disclosure-foundation]] / [[americans-for-safe-aerospace]] advisor roles confirmed; "true transparency" test quote), [[ryan-graves]] ("Data alone is not disclosure" evaluation framework), [[jordan-flowers]] ([[psyops-disinformation]] provenance hazard), [[americans-for-safe-aerospace]] (PURSUE-era aviation-safety mining), [[sol-foundation]] (Gallaudet advisor re-confirmed), [[uap-disclosure]] ("Data alone is not disclosure" section), [[uap-reporting-infrastructure]] (Enigma 200k-sightings benchmark), [[brandi-vincent]] (May 14 byline), [[curiosity-rover]] / [[gale-crater]] (Nov–Dec 2025 boxwork panorama + Mount Sharp sulfate layer), [[perseverance-rover]] / [[jezero-crater]] ("Lac de Charmes" panorama, dust-devil-spark audio, surface auroras, "Singing Canyon" next), [[mars-sample-return]] (23-onboard-cores + 10-tube-depot note).
+
+**Cross-connections:**
+
+- **PURSUE reception spectrum**: [[src-defensescoop-pursue-not-disclosure-2026-05]] joins the established PURSUE-reaction cluster ([[src-debrief-pursue-launch-2026-05]] · [[src-sciam-pursue-skeptics-2026-05]] · [[src-twz-pursue-shrug-2026-05]] · [[src-metabunk-pursue-analysis-2026-05]] · [[src-leonard-david-pursue-column-2026-05]] · [[src-loeb-pentagon-uap-release-best-yet-2026-05]]) but is distinctive as the **only six-voice on-record disclosure-community statement** with all of Mellon, Gallaudet, Graves, and Flowers in one piece — and the first to articulate the [[psyops-disinformation]] provenance-laundering concern as a top-tier PURSUE-era issue.
+- **AARO/DoW handoff clarified**: The "War Department official" quote in DefenseScoop maps neatly onto the existing [[aaro]] / [[pursue]] resolved-vs-unresolved division of labor — AARO coordinates declassification of identified DoW files; AARO continues statutory case resolution; resolved cases post to aaro.mil. This is the first explicit *operational* framing rather than the formal-launch language from May 8.
+- **Enigma Labs anchored**: The earlier [[src-leonard-david-pursue-column-2026-05]] mention of Enigma's pentagonufofiles.io mirror is now backed by an entity page and a 200,000-sightings benchmark; positions Enigma as the civilian-sightings counterpart to [[americans-for-safe-aerospace]]'s pilot-witness network in the [[uap-reporting-infrastructure]] graph.
+- **Mars rover panoramas**: The Apr 28 Astrobiology piece fills a gap in coverage between [[src-curiosity-mars-life-molecules-2026-04]] (drilled-organics result), [[src-perseverance-neretva-nickel-rocks-2026-04]] (nickel/prebiotic chemistry), [[src-curiosity-rock-pulled-mars-2026-05]] (Atacama drill incident), and [[src-mars-ancient-ocean-zaki-lamb-2026-04]] (ancient ocean) by providing a narrative status update at the macro-mission scale, including two surface firsts (dust-devil-spark audio, Mars visible-light surface aurora) not previously in the vault.
+
+**Note on 23-vs-27 core counts:** The Astrobiology panorama piece cites Perseverance carrying **23 cores onboard plus a 10-tube cached backup depot**, while the existing [[perseverance-rover]] / [[mars-sample-return]] pages cite **27 rock cores** as of the Sept 2025 Neretva Nature publication. Most plausibly the 23 figure refers to cores carried onboard *after* the depot drop; pages updated with a reconciliation note rather than overwriting.
 
 ## [2026-05-14] ingest | UFO news sweep (4 articles, /ufo-news, parallel)
 

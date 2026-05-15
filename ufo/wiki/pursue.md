@@ -2,7 +2,7 @@
 title: PURSUE — Presidential Unsealing and Reporting System for UAP Encounters
 type: concept
 created: 2026-05-08
-updated: 2026-05-13
+updated: 2026-05-15
 ---
 
 
@@ -48,6 +48,7 @@ Established in response to [[donald-trump]]'s Truth Social directive dated 2026-
   - **Frame-by-frame debunker:** Metabunk thread led by [[mick-west]] ([[src-metabunk-pursue-analysis-2026-05]]) — Reaper-UAS [[infrared-imagery|IR]] / [[parallax]] / [[lens-flare-explanations|optical-artifact]] critique; specific identifications of **PR-19 = "Baghdad Phantom"** (already leaked by [[jeremy-corbell]] in 2023) and **PR-48 = candidate offshore wind turbines**.
   - **Aerospace-trade video survey:** [[space-com|Space.com]] / [[mike-wall]] ([[src-space-com-pursue-video-trove-2026-05]]) — ~30-clip supercut on Space.com YouTube; walks through the [[centcom]] Syria Oct 2024 "ball of white light" (DoW-UAP-D32), an [[us-indo-pacific-command|INDOPACOM]] 9-sec "football-shaped body with three radial projections," and a 100-second 2024 INDOPACOM windmill-array clip.
   - **AP-wire syndication:** Kim & Binkley AP wire republished as Fortune ([[src-fortune-aldrin-apollo-11-uap-2026-05]]) and across Newsweek ([[src-newsweek-luna-teases-disclosure-2026-05]]) — Aldrin Apollo 11 "sizeable object" lede, Tajik 1994 cable, Aegean orb, Apollo 17 triangle; [[sean-kirkpatrick]] "diffraction pattern" and "arm-chair pseudoscience" critique; [[sol-foundation]] calls for legislation mandating thorough review.
+  - **Disclosure-community reaction roundup:** DefenseScoop ([[brandi-vincent]], May 14 — [[src-defensescoop-pursue-not-disclosure-2026-05]]) on-record voices from [[chris-mellon]] (Disclosure Foundation chair), [[tim-gallaudet]], [[ryan-graves]], [[jordan-flowers]], [[enigma-labs]] consultant Rojas, and Australian researcher Lavac — "historic — yet incomplete." Confirms **~160 files with at least 100 redacted** (independent enumeration roughly tracking the Pentagon 162 / Loeb 161 numbers); rolling-release cadence and government-non-determination posture formalized by a "War Department official." Surfaces [[psyops-disinformation|1950s-era provenance laundering]] as a top-tier concern.
   - **Congressional primary source:** [[eric-burlison]]'s House office press release ([[src-burlison-commends-trump-uap-release-2026-05]]) — formal "disclosure president" framing and verbatim interagency-participant list.
   - **Theological framing:** Rep. [[lauren-boebert]] ("more spiritual… demonic") plus [[anna-paulina-luna]]'s Book of Enoch / Watchers references contribute a Christian-eschatological strand to post-PURSUE discourse — see [[theological-uap-framing]] and [[src-newsweek-luna-teases-disclosure-2026-05]].
   - **File-content inventory:** Sunday Guardian ([[src-sunday-guardian-162-files-2026-05]]) — format breakdown ~120 PDFs / 28 videos / ~14 photographs; surfaces a 1967 Chesapeake "transparent craft / undersized creatures" entry inside [[fbi-case-file-62-hq-83894]].

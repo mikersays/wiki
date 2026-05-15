@@ -2,14 +2,14 @@
 title: Sol Foundation
 type: entity
 created: 2026-05-01
-updated: 2026-05-10
+updated: 2026-05-15
 ---
 
 # Sol Foundation
 
 Stanford-associated UAP research and policy organization. Advocates a whole-of-government UAP approach including a designated cabinet-department coordinator. Publications cited in [[tim-gallaudet|Gallaudet's]] November 2024 testimony include "Beneath the Surface" (on [[unidentified-submerged-objects]]) and "UAP in Crowded Skies."
 
-Senior strategic advisors include [[tim-gallaudet]] ([[src-gallaudet-house-testimony-2024-11]]).
+Senior strategic advisors include [[tim-gallaudet]] ([[src-gallaudet-house-testimony-2024-11]]; re-confirmed in [[src-defensescoop-pursue-not-disclosure-2026-05]]).
 
 ## Third SOL Symposium — Baveno, Italy (October 2025)
 
@@ -24,3 +24,4 @@ In Fortune/AP coverage of [[pursue]] Release 01 ([[src-fortune-aldrin-apollo-11-
 - [[src-gallaudet-house-testimony-2024-11]]
 - [[src-european-uap-day-third-2026-03]]
 - [[src-fortune-aldrin-apollo-11-uap-2026-05]]
+- [[src-defensescoop-pursue-not-disclosure-2026-05]]

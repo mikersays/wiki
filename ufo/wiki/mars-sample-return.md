@@ -2,7 +2,7 @@
 title: Mars Sample Return
 type: concept
 created: 2026-04-13
-updated: 2026-05-01
+updated: 2026-05-15
 ---
 
 # Mars Sample Return
@@ -21,7 +21,7 @@ The rover's instruments (PIXL and SHERLOC) can identify suggestive mineral patte
 
 ## Samples Available
 
-As of September 2025, [[perseverance-rover]] has collected **27 rock cores**, including the critical **"Sapphire Canyon"** sample from the Cheyava Falls formation containing potential biosignatures (vivianite, greigite, organic carbon in "leopard spot" patterns).
+As of September 2025, [[perseverance-rover]] has collected **27 rock cores**, including the critical **"Sapphire Canyon"** sample from the Cheyava Falls formation containing potential biosignatures (vivianite, greigite, organic carbon in "leopard spot" patterns). The April 28 2026 Astrobiology.com piece [[src-mars-two-sides-panoramas-2026-04]] cites **23 cores carried onboard plus a 10-tube cached backup depot** — interpreted as cores remaining onboard after the depot drop.
 
 ## Mission Status
 
@@ -45,3 +45,4 @@ The Mars Sample Return mission faces **budget and timeline challenges** but rema
 - [[abdallah-zaki]]
 - [[michael-lamb]]
 - [[src-mars-ancient-ocean-zaki-lamb-2026-04]]
+- [[src-mars-two-sides-panoramas-2026-04]]
