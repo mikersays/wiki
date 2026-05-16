@@ -793,3 +793,39 @@ Fetched via /ufo-news. Six search agents dispatched in parallel; triage surfaced
 - **GEMS / forbidden-exoplanet** is now seeded but thin. Future ingests should look for additional GEMS Survey results as JWST Cycle 2 papers continue to publish; pair with the existing [[toi-1130b]] / [[epsilon-indi-ab]] cold-giant comparison set.
 - **Altitude-dependent K_zz follow-on**. The Wallack/Kanodia M-dwarf starspot-correction technique mentioned in [[src-sciencedaily-forbidden-exoplanet-atmosphere-2026-04]] is a methodology paper distinct from the TOI-5205 b result. Worth tracking when it lands.
 - **Schumer/Rounds NDAA amendment status**. The 2023 press release is stale, but the underlying UAPDA-style amendment may be live again in FY27 NDAA discussions. Cross-reference with the [[src-uap-transparency-stalls-2025-12]] coverage to detect whether the amendment was reintroduced.
+
+
+## [2026-05-16] ingest | UFO news sweep (4 articles, /ufo-news, parallel)
+
+Fetched via /ufo-news. **7 search agents** dispatched in parallel across congressional-hearings, AARO, whistleblowers, pentagon-dod, primary-sources, astrobiology, incidents, and international tracks. Triage surfaced **7 candidates** after dedupe against existing vault (the May 8 PURSUE Release 01 thread is already covered by 16+ source pages, so most search results were duplicates). Of the 7 fetch agents dispatched, **4 saved** + **2 skipped (duplicates)** + **1 failed**:
+
+- ✅ [[src-aviation-week-pursue-transparency-2026-05]] — Aviation Week (Everstine & Norris, May 8) trade-press take on PURSUE Release 01: aerospace-industry framing of MQ-9 Reaper dominance, SWIR-only Greece 434kt diamond, F-15E X-band jamming from Turkish border, May 2022 Russian Su-27/Su-35 close approach to MQ-9 over Syria
+- ✅ [[src-fox-helicopter-near-miss-orbs-2026-05]] — Fox News (Morgan Phillips, May 11) single-incident deep-dive on the PURSUE FBI Form 302 "super-hot" orb helicopter near-miss: ~10 ft closest approach, ~20 mi pursuit, 4–5 flaring orbs across ~30 min
+- ✅ [[src-mineral-false-positives-biosignatures-2026-05]] — Parkinson, Kaltenegger, Biller, Lach & McMahon (Cornell/Edinburgh, Astrobiology.com May 13): sulfide minerals, tectosilicates, and potassium ferrocyanide reproduce the ~700 nm photosynthesis red edge, introducing a surface-mineral false-positive class for HWO biopigment searches
+- ✅ [[src-l-98-59-d-sulphur-magma-world-2026-05]] — BBC Sky at Night (Jamie Middleton, May 10): Oxford-led Nicholls/Pierrehumbert paper finds L 98-59 d (1.6 R⊕, M-dwarf, 35 ly) is a sulphur-rich global magma-ocean world, proposed as a new small-planet class
+
+**New entity pages (10):** [[aviation-week]], [[lisa-kaltenegger]], [[carl-sagan-institute]], [[university-of-edinburgh]], [[l-98-59]], [[l-98-59-d]], [[harrison-nicholls]], [[raymond-pierrehumbert]], [[university-of-oxford]]
+
+**New concept pages (3):** [[photosynthesis-red-edge]], [[magma-ocean-world]], [[sulphur-atmosphere]]
+
+**Cross-connections:**
+- **Same FBI 302, three outlets, three framings.** The "super-hot orb / helicopter / ~20-mile pursuit / 4–5 flaring orbs" account now appears in three vault sources with three different angles: Fox ([[src-fox-helicopter-near-miss-orbs-2026-05]]) does a single-incident deep dive; Fortune/AP ([[src-fortune-aldrin-apollo-11-uap-2026-05]]) packages it as the "Aegean orb"; Aviation Week ([[src-aviation-week-pursue-transparency-2026-05]]) enumerates it as a heavily redacted 2025 FBI-to-AARO entry. The three accounts likely describe the same FBI Form 302; location was not confirmed by Fox.
+- **Aviation Week is the only PURSUE source to date naming SWIR sensor modality.** The CENTCOM-submitted Greece diamond-UAP clip is **only** detectable on short-wave infrared (~1–2.5 µm), distinct from the standard MTS-B mid/long-wave IR critique. This is methodologically meaningful — the existing [[infrared-imagery]] page can now distinguish multiple IR bands rather than treating "IR" as a monolith.
+- **New surface biosignature false-positive class.** The Parkinson/Kaltenegger paper expands [[false-positive-biosignatures]] from gas-phase abiotic O₂ ([[src-oxygen-false-positive-biosignatures-2026-03]]) to surface mineralogy. Together with [[src-panspermia-agnostic-biosignature-2026-04]] (statistical agnostic biosignatures), the vault now has three distinct robustness-against-false-positives strategies represented.
+- **Fourth small-planet category proposed.** [[magma-ocean-world]] joins rocky / gaseous / water-rich as a fourth class. L 98-59 d's likely formation pathway from a [[mini-neptune]] precursor closes a loop with the existing [[high-mean-molecular-weight-atmosphere]] page (heavy sulphur atmosphere as a high-μ exemplar alongside [[toi-1130b]]).
+- **Aerospace-trade reception of PURSUE.** Aviation Week's MQ-9-and-sensor framing is the **first** PURSUE source in the vault to ask whether future tranches will disclose **full-resolution sensor data, collection methodology, classification rationale, or analytic conclusions** — a posture distinct from both the political-disclosure outlets (Fortune, Fox, Sunday Guardian) and the skeptical outlets (TWZ, Scientific American, Metabunk).
+
+**Contradictions / mismatches flagged:**
+- **None new.** The Fox News helicopter-near-miss account is consistent with the Aegean / Greece / Aviation Week renderings; differences are framing, not factual.
+
+**Skipped / failed (3):**
+- ⏭ DefenseScoop counter-drone task force pilot directed-energy 5 installations (May 8) — duplicate of [[src-directed-energy-5-bases-pilot-2026-05]] (Stars and Stripes coverage of the same JIATF-401 announcement, already in vault).
+- ⏭ ScienceDaily "hidden chemical signature that could reveal alien life" (May 12) — duplicate of [[src-alien-biology-detection-method-2026-05]] (UC Riverside / Yoffe & Klenner Nature Astronomy paper, already in vault).
+- ❌ TIME "The Pentagon Just Released Its UFO Files. Here's What's Inside" (May 11) — HTTP 403 bot-block / paywall. Magazine-level synthesis of PURSUE Release 01 not captured.
+
+**Suggested follow-ups:**
+- **TIME PURSUE synthesis retry**. A magazine-level digest of the PURSUE files a week after release would round out the reception ledger; retry via alternate fetcher or via wire pickups that quote the TIME piece directly.
+- **PURSUE Release 02 watch**. Aviation Week and other PURSUE sources flag rolling-release cadence; future ingests should bias toward Release 02 file-by-file content rather than additional Release 01 recaps.
+- **JWST L 98-59 d direct-imaging paper**. The BBC Sky at Night write-up summarizes modeling; tracking the underlying Nicholls et al. arXiv preprint when it lands would strengthen the [[magma-ocean-world]] entry.
+- **Habitable Worlds Observatory mineral-false-positive impact**. The Parkinson paper directly affects HWO target selection; worth watching for NASA/HWO project responses or follow-on Kaltenegger group publications characterizing additional mineral mimics.
+- **Japan PURSUE-reaction follow-on retry.** The last sweep flagged Japan Times as the highest-value paywalled loss; this sweep added IBTimes UK coverage as [[src-japan-pentagon-uap-trove-reaction-2026-05]] before triage, so the international thread is now anchored — but the primary Japan Times account remains uncaptured.

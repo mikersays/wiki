@@ -2,7 +2,7 @@
 title: PURSUE — Presidential Unsealing and Reporting System for UAP Encounters
 type: concept
 created: 2026-05-08
-updated: 2026-05-15
+updated: 2026-05-16
 ---
 
 
@@ -40,7 +40,8 @@ Established in response to [[donald-trump]]'s Truth Social directive dated 2026-
 ## Reception
 
 - Media framing has split across a wider spectrum than the launch-day wires:
-  - **Enthusiastic / aerospace-trade neutral:** Fox, Examiner ([[src-trump-uap-apollo-photos-2026-05]], [[src-war-department-uap-declassification-2026-05]]), and Leonard David ([[src-leonard-david-pursue-column-2026-05]]).
+  - **Enthusiastic / aerospace-trade neutral:** Fox, Examiner ([[src-trump-uap-apollo-photos-2026-05]], [[src-war-department-uap-declassification-2026-05]], [[src-fox-helicopter-near-miss-orbs-2026-05]]), and Leonard David ([[src-leonard-david-pursue-column-2026-05]]).
+  - **Aerospace trade press — sensor-modality framing:** [[aviation-week|Aviation Week]] (Everstine & Norris, [[src-aviation-week-pursue-transparency-2026-05]]) — first PURSUE source to name **short-wave infrared (SWIR)** as the only band detecting the Greece CENTCOM diamond UAP; enumerates additional [[reaper-uas|MQ-9]] incidents (UAE 2024 "hot spherical object," May 2022 Russian Su-27/Su-35 close approach over Syria, F-15E X-band jamming from Turkish border); raises **full-resolution sensor data, collection methodology, classification rationale,** and **analytic conclusions** as open questions for future tranches — a posture distinct from both political-disclosure and skeptical framings.
   - **Measured / interagency-frame:** CBS ([[src-uap-files-rollout-interagency-2026-05]]).
   - **Disclosure-community deep-dive:** [[the-debrief]] ([[src-debrief-pursue-launch-2026-05]]) — assesses Release 01 as a centralized repository of previously-partial records with limited genuinely new insight.
   - **Skeptical:** AP/WaPo ([[src-uap-files-public-conclusions-2026-05]]); [[the-war-zone]] ([[src-twz-pursue-shrug-2026-05]]) — "nothing groundbreaking," Apollo 17 image likely a visual artifact, "football-shaped" Japan object consistent with a balloon; **Scientific American** ([[src-sciam-pursue-skeptics-2026-05]]) — [[sean-kirkpatrick]] "playhouse politics theater company" and [[mick-west]] "more dots, more parallax."

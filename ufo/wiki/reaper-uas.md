@@ -2,7 +2,7 @@
 title: MQ-9 Reaper UAS
 type: concept
 created: 2026-05-08
-updated: 2026-05-08
+updated: 2026-05-16
 ---
 
 # MQ-9 Reaper UAS
@@ -21,6 +21,12 @@ The **MQ-9 Reaper** (and similar medium-altitude long-endurance UAS) is a recurr
 
 - **PR-19** = "Baghdad Phantom" (previously leaked unredacted by [[jeremy-corbell]] in 2023 — Reaper-platform IR).
 - **PR-48** = candidate offshore wind turbines / [[lens-flare-explanations|lens artifacts]] / sensor floaters.
+
+[[aviation-week|Aviation Week]] (Everstine & Norris, [[src-aviation-week-pursue-transparency-2026-05]]) independently confirms Reaper dominance as the trade-press read of Release 01 and surfaces additional Reaper-specific incidents:
+
+- **Greece, CENTCOM-submitted MQ-9 clip** — 1m05s of a "diamond-shaped" object moving at 434 kt (500 mph), **only detectable via short-wave infrared (SWIR)** — a sensor-modality observation distinct from the standard MTS-B mid/long-wave IR critique.
+- **UAE 2024 special-operations MQ-9** — "hot, spherical object" with "vertical unwavering probe."
+- **May 2022 western Syria MQ-9** — Russian Su-27 or Su-35 flew close beneath the drone (intercept-approach during a contested-airspace sortie).
 
 ## Related
 
