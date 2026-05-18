@@ -2,7 +2,7 @@
 title: Shahed Drone
 type: concept
 created: 2026-04-29
-updated: 2026-04-29
+updated: 2026-05-17
 ---
 
 # Shahed Drone
@@ -15,6 +15,10 @@ During [[operation-epic-fury|the U.S.-led campaign against Iran (Feb 2026–)]],
 
 [[tom-karako]] (CSIS): "It's a hard problem. It's a wicked hard problem. But at the same time, it's not bleeding edge rocket surgery to shoot down Shaheds either."
 
+## Cost-curve datapoint (April 2026)
+
+Per Army Secretary [[dan-driscoll]]'s April 16 2026 House Defense Appropriations testimony ([[src-army-counter-drone-marketplace-stateside-2026-04]]), the Army purchased **13,000 [[merops-interceptor|Merops interceptors]]** at ~$15k/unit in the opening days of [[operation-epic-fury]] specifically to counter Shaheds, which run ~$45k+ per unit on the Iranian side — a defender-favorable cost-curve point at scale.
+
 ## Related Pages
 
 - [[counter-uas]]
@@ -22,4 +26,6 @@ During [[operation-epic-fury|the U.S.-led campaign against Iran (Feb 2026–)]],
 - [[jiatf-401]]
 - [[centcom]]
 - [[coyote-interceptor]]
+- [[merops-interceptor]]
 - [[drone-incursions]]
+- [[src-army-counter-drone-marketplace-stateside-2026-04]]

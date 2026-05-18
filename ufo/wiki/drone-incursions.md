@@ -2,7 +2,7 @@
 title: Drone Incursions Over U.S. Military Sites
 type: concept
 created: 2026-04-16
-updated: 2026-05-14
+updated: 2026-05-17
 ---
 
 **Drone incursions** refer to the 2019-2026 pattern of unexplained or unauthorized small unmanned aerial system (sUAS) activity over U.S. military bases, nuclear facilities, and critical infrastructure. The pattern sits in the grey zone between conventional air-defense concerns and [[uap-reporting-infrastructure|UAP reporting]].
@@ -26,6 +26,7 @@ updated: 2026-05-14
 - **Feb 2026** — [[el-paso-international-airport]] TFR (purported [[cartel-drone-threat|cartel drone]]) and [[fort-hancock]] DoD-laser-vs-[[customs-and-border-protection|CBP]]-drone incident — both attributed by Vasquez to FAA/DoD/[[department-of-homeland-security|DHS]] miscommunication during unapproved C-UAS testing in protected airspace ([[src-counter-act-secure-skies-bills-2026-04]])
 - **Apr 2026** — [[fort-belvoir]] / NCR — [[3rd-infantry-regiment]] trains on [[bumblebee-counter-uas|Bumblebee V1]] in joint [[jiatf-401]] / [[jtf-ncr]] exercise ([[src-bumblebee-v2-ncr-counterdrone-2026-04]])
 - **May 7, 2026** — [[jiatf-401]] announces 5-base [[directed-energy-weapons]] [[counter-uas]] pilot at [[naval-base-kitsap]], [[fort-bliss]], [[fort-huachuca]], [[grand-forks-afb]], and [[whiteman-afb]], 180-day fielding goal; cites 350 detections across ~100 installations in the prior year (Guillot, Feb 2025) and "almost daily" NORTHCOM framing ([[src-directed-energy-5-bases-pilot-2026-05]])
+- **Apr 16, 2026** — Army Secretary [[dan-driscoll]] tells House Defense Appropriations that the [[jiatf-401-marketplace]] is being leveraged for the FIFA World Cup 2026, America 250, and the 2028 LA Summer Olympics; state/local/federal law enforcement now eligible to buy, 350 police departments synced at [[joint-base-myer-henderson-hall]], $100M committed for FIFA across 11 cities. [[tom-karako]]: "Super Bowl-style bubbles over lots of things all year round." [[merops-interceptor|Merops]] cost-curve datapoint disclosed (13,000 units at ~$15k/unit vs Shahed) ([[src-army-counter-drone-marketplace-stateside-2026-04]])
 - **May 6, 2026** — [[faa]] publishes notice of proposed rulemaking creating the **[[unmanned-aircraft-flight-restriction|UAFR]]** airspace designation for critical-infrastructure sites under [[national-security-memorandum-22|NSM-22]]; codifies [[remote-id|Remote ID]] receiving capability as the federal baseline civilian-side sensing layer ([[src-faa-drone-rule-critical-infrastructure-2026-05]])
 
 ## FY27 budget framing (April 2026)

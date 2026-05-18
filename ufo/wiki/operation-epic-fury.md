@@ -2,7 +2,7 @@
 title: Operation Epic Fury
 type: concept
 created: 2026-04-16
-updated: 2026-04-29
+updated: 2026-05-17
 ---
 
 **Operation Epic Fury** is the U.S.-led, Israel-coordinated military campaign against Iran initiated by [[donald-trump|President Trump]] on **Feb. 28, 2026**. Public reporting describes strikes against Iranian leadership, naval and air power, manufacturing, and nuclear infrastructure. [[whiteman-afb|Whiteman AFB]] B-2s conducted the bomber strikes.
@@ -41,3 +41,4 @@ In Hegseth's April 29, 2026 FY27 [[department-of-war]] posture testimony to the 
 - [[src-counter-drone-middle-east-jiatf-2026-04]]
 - [[src-epic-fury-update-2026-04]]
 - [[src-hegseth-fy27-posture-testimony-2026-04]]
+- [[src-army-counter-drone-marketplace-stateside-2026-04]] — Army Secretary Driscoll discloses 13,000 [[merops-interceptor|Merops]] at ~$15k/unit bought in the opening days of the Iran war; CENTCOM is also a named buyer through the [[jiatf-401-marketplace]].

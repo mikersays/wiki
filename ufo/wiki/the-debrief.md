@@ -2,7 +2,7 @@
 title: The Debrief
 type: entity
 created: 2026-05-08
-updated: 2026-05-08
+updated: 2026-05-17
 ---
 
 # The Debrief
@@ -13,6 +13,7 @@ Cited frequently on the disclosure beat for **rapid analytic coverage** of major
 
 ## Coverage in this vault
 
+- [[src-debrief-aaro-course-correcting-2024-11]] — [[micah-hanks]] *Intelligence Brief* (Nov 21, 2024) on AARO's Kosloski-era turn vs. the Kirkpatrick era.
 - [[src-debrief-pursue-launch-2026-05]] — [[micah-hanks]] on the May 8, 2026 [[pursue]] launch: assesses Phase 1 as a centralized repository with limited new insight; relays [[anna-paulina-luna]]'s "great first step" reaction and second-tranche signal.
 - [[src-canada-sky-canada-project-2025-02]] — earlier cite (Canada Sky Canada Project political prospects).
 

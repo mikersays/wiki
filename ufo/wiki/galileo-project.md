@@ -27,6 +27,10 @@ Loeb frames these capabilities as a **scientific alternative to government [[uap
 
 Verify, don't dismiss. Loeb cites a 2026 case ([[src-loeb-wh-uap-videos-skeptic-2026-04]]) in which a postdoc's triangulation analysis of an apparent zig-zag object 5.6 km away was traced to a software-malfunction artifact during periods of missing camera data — the kind of careful follow-through the project wants to make standard.
 
+## Public skepticism on Maussan-era artifacts
+
+UAP researcher [[julia-mossbridge]] (University of San Diego) publicly urged that the [[buga-sphere]] be submitted to Galileo-Project-grade controlled, reproducible analysis rather than press-conference unveilings — citing the project as the appropriate scientific bar for recovered-artifact claims ([[src-buga-sphere-ibtimes-ball-from-nowhere-2026-03]]).
+
 ## Engagements
 
 The Galileo Project participated in [[aaro]]'s August 2025 UAP narrative-data workshop organized by [[aui]] ([[src-aaro-uap-data-collection-whitepaper-2026-03]]), alongside [[nuforc]], [[scu]], and [[uapx]]. Loeb has offered to share Galileo's hardware/software lessons with the Pentagon and to sit on any review board analyzing classified UAP satellite imagery.

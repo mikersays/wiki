@@ -2,7 +2,7 @@
 title: Sean Kirkpatrick
 type: entity
 created: 2026-05-01
-updated: 2026-05-10
+updated: 2026-05-17
 ---
 
 # Sean Kirkpatrick
@@ -31,3 +31,4 @@ The Fortune/AP wire ([[src-fortune-aldrin-apollo-11-uap-2026-05]]) adds Kirkpatr
 - [[src-trump-pentagon-uap-files-2026-05]]
 - [[src-sciam-pursue-skeptics-2026-05]]
 - [[src-fortune-aldrin-apollo-11-uap-2026-05]]
+- [[src-debrief-aaro-course-correcting-2024-11]] — [[micah-hanks]] explicitly contrasts the Kirkpatrick-era "error-ridden historical report" with the Kosloski posture

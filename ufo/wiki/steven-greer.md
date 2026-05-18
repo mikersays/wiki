@@ -2,7 +2,7 @@
 title: Steven Greer
 type: entity
 created: 2026-05-08
-updated: 2026-05-08
+updated: 2026-05-17
 ---
 
 # Steven Greer
@@ -13,7 +13,8 @@ updated: 2026-05-08
 
 - **2001-05-09:** Foundational Disclosure Project briefing; ~20 named witnesses; treated as a milestone of civilian UAP advocacy regardless of evidentiary value.
 - **2013:** Citizen Hearing on Disclosure (broader event, multiple advocates including Greer).
-- **2026-05-08:** "Disclosure Event" — 25th-anniversary NPC press conference featuring three anonymous active/former military witnesses (Army Green Beret, two Marines), plus [[jaime-maussan]] presenting the "Buga Sphere" with a claimed ~12,560-year resin-dating result. See [[src-greer-disclosure-event-npc-2026-05]].
+- **2025-06:** Joint press conference with [[jaime-maussan]] and Rep. [[eric-burlison]] introducing the [[buga-sphere|Buga Sphere]] to U.S. audiences ([[src-buga-sphere-ibtimes-ball-from-nowhere-2026-03]]). Generated coverage but no verifiable evidence.
+- **2026-05-08:** "Disclosure Event" — 25th-anniversary NPC press conference featuring three anonymous active/former military witnesses (Army Green Beret, two Marines), plus [[jaime-maussan]] presenting the [[buga-sphere|Buga Sphere]] with a claimed ~12,560-year resin-dating result. See [[src-greer-disclosure-event-npc-2026-05]].
 
 ## Recurring Themes
 
@@ -24,10 +25,12 @@ updated: 2026-05-08
 
 ## Notable Caveats
 
-- Mainstream science has rejected several Greer-promoted artifacts (e.g. the "Atacama humanoid" was identified as a human fetus with skeletal abnormalities).
+- Mainstream science has rejected several Greer-promoted artifacts (e.g. the "Atacama humanoid" was identified as a human fetus with skeletal abnormalities; the [[nazca-mummies|Nazca mummies]] were assessed as bone/glue composites).
 - Greer's 2026 NPC event ran the same day as the Pentagon [[pursue]] release — competing/parallel narrative, not coordinated.
-- The [[buga-sphere|Buga Sphere]] preliminary finding co-presented with Maussan ([[jaime-maussan]]) lacks named methodology, chain of custody, or laboratory.
+- The [[buga-sphere|Buga Sphere]] preliminary finding co-presented with Maussan ([[jaime-maussan]]) lacks named methodology, [[chain-of-custody|chain of custody]], or laboratory. The [[university-of-georgia]] has not confirmed the claimed ~12,560-year AMS [[radiocarbon-dating]] result, and named Colombian astronomers ([[santiago-vargas]], [[marino-guarin]], [[oscar-amaya-montoya]], [[lauren-flor-torres]]) uniformly reject the ET framing — see [[src-buga-sphere-carbon-dating-debunk-2026-04]], [[src-buga-sphere-el-pais-cali-maussan-handoff-2025-10]], [[src-buga-sphere-infobae-true-origin-2025-10]], [[src-buga-sphere-ibtimes-ball-from-nowhere-2026-03]].
 
 ## Related
 
-- [[the-disclosure-project]] · [[jaime-maussan]] · [[lue-elizondo]] · [[david-grusch]] · [[immaculate-constellation-whistleblower-2025]] · [[crash-retrieval-programs]] · [[uap-disclosure]]
+- [[the-disclosure-project]] · [[jaime-maussan]] · [[eric-burlison]] · [[lue-elizondo]] · [[david-grusch]] · [[immaculate-constellation-whistleblower-2025]]
+- [[buga-sphere]] · [[valdias-sphere]] · [[nazca-mummies]] · [[julia-mossbridge]]
+- [[crash-retrieval-programs]] · [[uap-disclosure]]

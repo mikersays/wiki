@@ -2,7 +2,7 @@
 title: Joint Interagency Task Force 401 (JIATF-401)
 type: entity
 created: 2026-04-29
-updated: 2026-05-07
+updated: 2026-05-17
 ---
 
 # Joint Interagency Task Force 401 (JIATF-401)
@@ -39,6 +39,16 @@ Per [[src-bumblebee-v2-ncr-counterdrone-2026-04]]:
 
 Per [[src-anduril-army-20b-counter-drone-idiq-2026-03|Breaking Defense]]: JIATF-401 selected [[anduril]]'s [[lattice-c2|Lattice]] software as the C-UAS C2 backbone in an **$87M task order** — the first task order under [[anduril]]'s new **$20B / 10-year** firm-fixed-price [[army-enterprise-contracts|enterprise IDIQ]]. The vehicle consolidates 120 prior Army-Anduril contracts and is open to Pentagon-wide ordering. Sits alongside the [[jiatf-401-marketplace]] (allied procurement) as twin pillars of JIATF-401's expanded procurement architecture.
 
+## April 2026 — Marketplace cumulative sales + stateside-events expansion
+
+Per [[src-army-counter-drone-marketplace-stateside-2026-04|Drew Lawrence / DefenseScoop]], Army Secretary [[dan-driscoll]] told the House Defense Appropriations subcommittee on April 16 2026 that **~$13M** of C-UAS tech has moved through the [[jiatf-401-marketplace]] since launch — buyers spanning the southern-border task force, [[centcom|CENTCOM]] (under [[operation-epic-fury]]), and homeland-defense services. Crucially:
+
+- **State, local, and federal law enforcement** are now eligible marketplace buyers, with purchases already made.
+- **350 state/local police departments** have been brought through [[joint-base-myer-henderson-hall]] to sync them into a shared "sight picture" for cross-jurisdiction drone monitoring.
+- JIATF-401 has committed **$100M** to FIFA World Cup 2026 mobile C-UAS coverage across 11 cities / 9 states.
+- Marketplace tooling is being routed to harden **America 250** and the **2028 LA Summer Olympics**; [[tom-karako]] frames this as "Super Bowl-style bubbles over lots of things all year round."
+- The doctrinal motivator cited is [[operation-spider-web]] (2025 Ukrainian truck-launched drone strike on Russian strategic aircraft).
+
 ## April 2026 — JIATF-401 Marketplace partner expansion
 
 Per [[src-jiatf-401-marketplace-romania-2026-04|U.S. Army release]]: the Secretary of the Army and [[romania]]'s Minister of National Defense signed an agreement enabling Romania to procure C-UAS capabilities through the [[jiatf-401-marketplace]]. Romania becomes the second named partner nation after the [[united-kingdom]]. The Army secretary's stated goal is **25 partner nations by end of summer 2026**. Brig. Gen. [[matt-ross]] frames the marketplace as scaling the C-UAS industrial base "from the tactical edge to critical infrastructure protection."
@@ -72,6 +82,11 @@ Per [[src-jiatf-401-marketplace-romania-2026-04|U.S. Army release]]: the Secreta
 - [[src-anduril-army-20b-counter-drone-idiq-2026-03]]
 - [[src-jiatf-401-marketplace-romania-2026-04]]
 - [[src-directed-energy-5-bases-pilot-2026-05]]
+- [[src-army-counter-drone-marketplace-stateside-2026-04]]
+- [[dan-driscoll]]
+- [[joint-base-myer-henderson-hall]]
+- [[merops-interceptor]]
+- [[operation-spider-web]]
 - [[directed-energy-weapons]]
 - [[scott-mclellan]]
 - [[naval-base-kitsap]]

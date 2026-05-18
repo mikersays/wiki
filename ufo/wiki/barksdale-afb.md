@@ -2,7 +2,7 @@
 title: Barksdale Air Force Base
 type: entity
 created: 2026-04-19
-updated: 2026-04-29
+updated: 2026-05-17
 ---
 
 **Barksdale Air Force Base** is a U.S. Air Force installation in Louisiana, home of the 2nd Bomb Wing and a portion of the U.S. B-52 Stratofortress fleet. Barksdale stores nuclear weapons and constitutes a key component of the airborne leg of the U.S. nuclear triad under [[us-stratcom|STRATCOM]].
@@ -21,6 +21,7 @@ According to [[stephen-bryen]]'s April 2026 analysis ([[src-spy-drones-nuclear-t
 - [[src-spy-drones-nuclear-triad-2026-04]]
 - [[src-barksdale-drones-recap-2026-04]]
 - [[src-counter-drone-middle-east-jiatf-2026-04]]
+- [[src-army-counter-drone-marketplace-stateside-2026-04]] — DefenseScoop cites Barksdale's March 2026 shelter-in-place as motivating evidence behind expanded stateside C-UAS marketplace use.
 
 ## Related
 

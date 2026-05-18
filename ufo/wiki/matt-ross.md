@@ -2,7 +2,7 @@
 title: Matt Ross
 type: entity
 created: 2026-05-06
-updated: 2026-05-07
+updated: 2026-05-17
 ---
 
 **Matt Ross** is a U.S. Army Brigadier General serving as director of [[jiatf-401]] as of April 2026. He has framed the [[jiatf-401-marketplace]] as a tool for scaling the C-UAS industrial base "from the tactical edge to critical infrastructure protection in our homeland and for our allies and partners," in announcing [[romania]]'s entry to the marketplace (see [[src-jiatf-401-marketplace-romania-2026-04]]).
@@ -23,3 +23,4 @@ Per [[src-directed-energy-5-bases-pilot-2026-05]], Ross announced on May 7 2026 
 - [[matt-mellor]]
 - [[src-jiatf-401-marketplace-romania-2026-04]]
 - [[src-directed-energy-5-bases-pilot-2026-05]]
+- [[src-army-counter-drone-marketplace-stateside-2026-04]] — Ross quoted on the marketplace as a "critical step forward in our whole-of-government approach to countering the threat of unmanned systems" alongside the $13M cumulative-sales disclosure.

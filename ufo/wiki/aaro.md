@@ -2,7 +2,7 @@
 title: All-domain Anomaly Resolution Office (AARO)
 type: entity
 created: 2026-04-13
-updated: 2026-05-15
+updated: 2026-05-17
 ---
 
 # All-domain Anomaly Resolution Office (AARO)
@@ -106,6 +106,7 @@ Per [[src-war-department-uap-release-2026-04]], a [[department-of-war|Department
 - [[src-trump-uap-apollo-photos-2026-05]]
 - [[src-war-department-uap-declassification-2026-05]]
 - [[src-defensescoop-pursue-not-disclosure-2026-05]]
+- [[src-debrief-aaro-course-correcting-2024-11]] — [[micah-hanks]] op-ed framing the Kosloski-era turn as a "new hope"
 
 ## PURSUE Relationship (May 2026)
 

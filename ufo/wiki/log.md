@@ -1,11 +1,51 @@
 ---
 title: Log
-updated: 2026-05-15
+updated: 2026-05-17
 ---
 
 # Log
 
 Chronological record of wiki activity. Each entry uses the format `## [YYYY-MM-DD] action | description` for easy parsing.
+
+## [2026-05-17] ingest | UFO news sweep — Buga Sphere focus (6 articles, /ufo-news, parallel)
+
+Fetched via `/ufo-news buga sphere`. Six parallel search agents dispatched (origin/recovery, scientific analysis, debunking, Greer/Maussan presentation, Colombian government/military response, prior-cases pattern). Triage surfaced 8 candidates after dedupe against existing vault (the May 2026 NPC event is already covered as [[src-greer-disclosure-event-npc-2026-05]]). Eight parallel fetch agents dispatched; **6 saved + 2 failed** (HTTP 403 on factually.co and cybernews.com). Six parallel analysis agents then produced structured source pages + entity/concept updates.
+
+**New source pages (6):**
+
+- ✅ [[src-buga-sphere-uga-carbon-date-claim-2025-10]] — PRISM MarketView (Gerry Griffith, Oct 24 2025) promoting the Greer/Maussan ~12,560-year University of Georgia AMS claim
+- ✅ [[src-buga-sphere-carbon-dating-debunk-2026-04]] — Astrophyzix (Orion A. Vega, Apr 25 2026) methodological rebuttal: dating organic resin does not date the inorganic sphere; no UGA documentation
+- ✅ [[src-buga-sphere-el-pais-cali-maussan-handoff-2025-10]] — El País (Cali) (Santiago Cruz Hoyos, Oct 12 2025) primary investigative reconstruction of the chain of custody from José Arias Restrepo → David Vélez "El Potro" → Germany Company (Cali) → Maussan; named scientific rebuttals from four Colombian astronomers
+- ✅ [[src-buga-sphere-infobae-true-origin-2025-10]] — Infobae (Jhoan Pardo, Oct 13 2025) convergent scientific verdict: a recent Earth-made artifact / publicity stunt; competing Bogotá-2011-experiment provenance claim
+- ✅ [[src-buga-sphere-ibtimes-ball-from-nowhere-2026-03]] — IBTimes Singapore (Mar 19 2026) skeptical scorecard; flags the **June 2025 Greer/Burlison press conference** as an earlier U.S. introduction; Julia Mossbridge calls it "kind of like an art project"
+- ✅ [[src-buga-sphere-maussan-tv-valdias-report-2026-05]] — Medium (Edward Lithium, May 10 2026) recap of Maussan's *No Humano* segment introducing a SECOND Colombian sphere ([[valdias-sphere|Valdías Mountain Range Sphere]]) recovered near Medellín
+- ❌ Factually.co XRF/SEM/MS tests article — HTTP 403, dropped
+- ❌ Cybernews Mossbridge superplastic-forming theory — HTTP 403, dropped (Mossbridge position partially captured via the IBTimes piece)
+
+**Two filename fixes** during merge: `src-buga-sphere-el-pais-cali-maussan-handoff-2025-06.md` → `-2025-10.md` and `src-buga-sphere-uga-carbon-date-claim-2026-04.md` → `-2025-10.md` to align with article-publication dates.
+
+**New entity pages (14):** [[buga-sphere]] · [[valdias-sphere]] · [[buga]] · [[germany-company]] · [[university-of-georgia]] · [[nazca-mummies]] · [[jose-arias-restrepo]] · [[david-velez-el-potro]] · [[william-zuniga]] · [[santiago-vargas]] · [[marino-guarin]] · [[oscar-amaya-montoya]] · [[lauren-flor-torres]] · [[julia-mossbridge]]
+
+**New concept pages (2):** [[radiocarbon-dating]] · [[chain-of-custody]]
+
+**Updated pages:** [[jaime-maussan]] (expanded into a full 2025–2026 Buga/Valdías arc with timeline and Colombian-scientific rebuttal), [[steven-greer]] (added June 2025 Buga press conference; reinforced Nazca-mummies precedent), [[the-disclosure-project]] (Buga rebuttals + Colombian-astronomer rejection), [[eric-burlison]] (June 2025 Buga press conference participation), [[galileo-project]] (Mossbridge call for Galileo-grade analysis), [[src-greer-disclosure-event-npc-2026-05]] (cross-linked entire Buga/Valdías source cluster).
+
+**Cross-connections:**
+
+- **Single Maussan circuit, two artifacts.** The Buga Sphere (Mar 2025 → Mexico City National Auditorium reveal Mar 15 2026 → NPC May 8 2026) and the [[valdias-sphere|Valdías Sphere]] (May 2026) are both Colombian-recovered, both delivered to Maussan in Mexico, both lack named labs. The Valdías source ([[src-buga-sphere-maussan-tv-valdias-report-2026-05]]) explicitly contrasts release strategies: Buga's piecemeal claims invited the rebuttals now in the vault, so Maussan declares Valdías will be a single end-of-investigation release.
+- **June 2025 Greer/Burlison/Maussan press conference** ([[src-buga-sphere-ibtimes-ball-from-nowhere-2026-03]]) was the first U.S. introduction of the Buga Sphere — a Greer/Burlison joint appearance not previously cataloged in the vault and now reflected on [[eric-burlison]] and [[steven-greer]].
+- **Colombian scientific consensus.** Four named astronomers ([[santiago-vargas]], [[marino-guarin]], [[oscar-amaya-montoya]], [[lauren-flor-torres]]) appear in both El País (Cali) and Infobae pieces with consistent positions — terrestrial origin, optical-fiber components, absence of atmospheric-entry crust, no published peer-reviewed analysis. This is a rare named-skeptic cluster orthogonal to U.S. skeptics like [[julia-mossbridge]] and [[avi-loeb]] / [[galileo-project]].
+- **University of Georgia claim is unsourced**: Marino Guarín ([[src-buga-sphere-el-pais-cali-maussan-handoff-2025-10]]) and Astrophyzix ([[src-buga-sphere-carbon-dating-debunk-2026-04]]) independently note that no UGA / CAIS lab report, named PI, methodology, or peer-reviewed publication exists for the 12,560-year claim — despite it being the centerpiece of the [[src-greer-disclosure-event-npc-2026-05]] presentation and the [[src-buga-sphere-uga-carbon-date-claim-2025-10]] PRISM MarketView amplification.
+- **Naming reconciliation.** Earlier external coverage occasionally conflates the intermediary with "José Luis Velázquez." El País (Cali) is the primary investigative source and consistently uses **David Vélez "El Potro"**; that is now the canonical name on the wiki (with a naming note on [[david-velez-el-potro]]).
+
+**Contradictions inside the vault:** the [[buga-sphere]] page now sets the position that the 12,560-year UGA AMS claim and the "non-human" framing are unverified and disputed — this is the same posture already present on [[jaime-maussan]] and [[src-greer-disclosure-event-npc-2026-05]]. No internal contradictions introduced.
+
+**Suggested follow-ups:**
+
+- Watch for an *actual* UGA CAIS statement (either confirming or denying involvement) — this is the single most decisive open evidentiary thread.
+- The Maussan-announced *Interstellar* and *Tercer Milenio* Valdías-Sphere segments are pro-Maussan primary sources worth tracking even as advocacy.
+- The Bogotá-2011-experiment laboratory claim is a thread no source has yet investigated — a Colombian-press follow-up would clarify a key alternative provenance.
+- The June 2025 Greer/Maussan/Burlison joint press conference itself has no dedicated source in the vault — only second-hand references in IBTimes; a direct primary source on that event would round out [[eric-burlison]]'s Buga involvement.
 
 ## [2026-05-15] ingest | UFO news sweep (2 articles, /ufo-news, parallel)
 
@@ -829,3 +869,44 @@ Fetched via /ufo-news. **7 search agents** dispatched in parallel across congres
 - **JWST L 98-59 d direct-imaging paper**. The BBC Sky at Night write-up summarizes modeling; tracking the underlying Nicholls et al. arXiv preprint when it lands would strengthen the [[magma-ocean-world]] entry.
 - **Habitable Worlds Observatory mineral-false-positive impact**. The Parkinson paper directly affects HWO target selection; worth watching for NASA/HWO project responses or follow-on Kaltenegger group publications characterizing additional mineral mimics.
 - **Japan PURSUE-reaction follow-on retry.** The last sweep flagged Japan Times as the highest-value paywalled loss; this sweep added IBTimes UK coverage as [[src-japan-pentagon-uap-trove-reaction-2026-05]] before triage, so the international thread is now anchored — but the primary Japan Times account remains uncaptured.
+
+## [2026-05-17] ingest | UFO news sweep (2 articles)
+
+Fetched via `/ufo-news`. 7 parallel search agents dispatched; surviving candidates after dedupe vs the heavily-saturated PURSUE coverage: **3**. One (NBC News PURSUE) failed at fetch with HTTP 403. Two articles successfully ingested.
+
+**New sources:**
+- [[src-debrief-aaro-course-correcting-2024-11]] — Micah Hanks/The Debrief *Intelligence Brief* (Nov 21 2024) framing AARO's FY2024 report and Kosloski Senate testimony as a post-Kirkpatrick course correction. Date-correction note: agent initially saved with a `2026-04` suffix; renamed to `2024-11` after verifying the article date.
+- [[src-army-counter-drone-marketplace-stateside-2026-04]] — DefenseScoop (Drew Lawrence, Apr 16 2026) on Army Secretary Driscoll's House Defense Appropriations testimony expanding the JIATF-401 marketplace to stateside high-profile events (FIFA 2026, America 250, LA 2028) and state/local/federal law enforcement; $13M cumulative sales; 350 police synced at Joint Base Myer-Henderson Hall; Karako's "Super Bowl bubbles all year round" framing; Merops cost-curve disclosure (13,000 units @ ~$15k).
+
+**New entities:**
+- [[dan-driscoll]] — U.S. Secretary of the Army (April 2026); JIATF-401 marketplace expansion lead
+- [[joint-base-myer-henderson-hall]] — Joint Army/Marine base; JIATF-401 state/local police sync venue
+
+**New concepts:**
+- [[merops-interceptor]] — Low-cost (~$15k/unit) Army interceptor; 13,000 bought against Iranian Shaheds
+
+**Updated:**
+- [[jon-kosloski]] — added Hanks "course correction" framing + media-call quote on downgrading interesting cases
+- [[aaro]] — added Debrief op-ed citation under sources
+- [[micah-hanks]] / [[the-debrief]] — added Nov 2024 column to coverage list (predates the May 2026 PURSUE byline)
+- [[sean-kirkpatrick]] — added Hanks contrast with the Kirkpatrick "error-ridden historical report" era
+- [[kirsten-gillibrand]] — added Nov 2024 hearing questioning detail (her questions surfaced Kosloski's unresolved-case descriptions)
+- [[jiatf-401]] / [[jiatf-401-marketplace]] — added the stateside-events / state-local LE third line of effort (now overseas-allies + DoD-internal + stateside)
+- [[matt-ross]] — added "whole-of-government" marketplace quote
+- [[tom-karako]] — added "Super Bowl bubbles all year round" framing
+- [[shahed-drone]] — added Merops cost-curve datapoint
+- [[operation-epic-fury]] — added marketplace as procurement channel for CENTCOM
+- [[operation-spider-web]] — added Driscoll's explicit citation of Spider Web as doctrinal motivator for stateside-events C-UAS
+- [[barksdale-afb]] — added DefenseScoop's use of March 2026 shelter-in-place as motivating evidence
+- [[drone-incursions]] — added Apr 16 2026 timeline entry
+
+**Skipped / failed (1+ many dupes):**
+- ❌ NBC News "Pentagon releases declassified UFO files… held by the government for decades" (May 8) — HTTP 403 bot-block. National-TV-network voice on PURSUE Release 01 not captured.
+- ⏭ Bulk of PURSUE candidates (CNN, CBS News, ExecutiveGov, Japan Times duplicate of IBTimes UK, Vision Times, etc.) — duplicates of the 24+ PURSUE sources already in the vault.
+- ⏭ Drone-incursion / Epic Fury / JIATF-401 Romania / Sky Canada Project / Liberation Times "Transparency Stalls" — all already covered.
+
+**Suggested follow-ups:**
+- **NBC News PURSUE fetch retry.** Future sweeps should retry via wire-pickup outlets or alternate URLs to add a national-TV-network voice to the otherwise saturated PURSUE ledger.
+- **AARO Historical Record Review Volume 2 watch.** Search agents noted Volume 2 appears unreleased; track aaro.mil and DoW press releases for issuance.
+- **Marketplace "shared sight picture" implementation.** Driscoll's claim that all marketplace users "agree to use the same sight picture" lacks a published technical mechanism — track JIATF-401 / Anduril Lattice integration disclosures.
+- **Merops product details.** Manufacturer, range, payload, control mode, and whether the 13,000-unit buy ran through the marketplace or a parallel Army channel remain undisclosed.
