@@ -2,7 +2,7 @@
 title: Breakthrough Listen
 type: entity
 created: 2026-04-13
-updated: 2026-04-16
+updated: 2026-05-18
 ---
 
 # Breakthrough Listen
@@ -36,6 +36,10 @@ This transforms [[seti]] from retrospective analysis into real-time monitoring.
 
 - **Dr. Andrew Siemion**: Principal Investigator, Oxford University
 - **Peter Ma**: Led the AI research (University of Toronto / UC Berkeley)
+
+## Sub-programs
+
+- **[[blipss|BLIPSS — Breakthrough Listen Investigation for Periodic Spectral Signals]]** — Cornell + [[seti-institute]] + Breakthrough Listen collaboration; 4–8 GHz [[green-bank-telescope|GBT]] search of the [[galactic-center|Galactic Center]] for [[periodic-spectral-signal|narrowband periodic pulse trains]] (distinct from CW narrowband beacons). Lead: [[akshay-suresh]] (Cornell); advisor: [[vishal-gajjar]]; GBT Project Scientist: [[steve-croft]]. Paper: Suresh et al., *Astronomical Journal* ([[src-seti-galactic-center-search-2025-07]]).
 
 ## Parallel Efforts
 

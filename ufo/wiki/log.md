@@ -910,3 +910,68 @@ Fetched via `/ufo-news`. 7 parallel search agents dispatched; surviving candidat
 - **AARO Historical Record Review Volume 2 watch.** Search agents noted Volume 2 appears unreleased; track aaro.mil and DoW press releases for issuance.
 - **Marketplace "shared sight picture" implementation.** Driscoll's claim that all marketplace users "agree to use the same sight picture" lacks a published technical mechanism — track JIATF-401 / Anduril Lattice integration disclosures.
 - **Merops product details.** Manufacturer, range, payload, control mode, and whether the 13,000-unit buy ran through the marketplace or a parallel Army channel remain undisclosed.
+
+## [2026-05-18] ingest | UFO news sweep (7 articles)
+
+Fetched via `/ufo-news`. 7 parallel search agents dispatched across congressional, AARO/Pentagon, whistleblowers, drone-incursions, astrobiology, PURSUE-followup, and international tracks. Of 12 surviving triage candidates, 7 successfully ingested in parallel; 5 failed (NBC News HTTP 403 retry-fail, CNN truncated, Japan Times paywalled, The Hill HTTP 403, NewsNation Burlison HTTP 403/451). Bias of this sweep: filling national-news-outlet gaps in the PURSUE Release 01 ledger and surfacing primary-source / new-program material outside the saturated PURSUE thread.
+
+**New sources:**
+- [[src-npr-pursue-release-2026-05]] — NPR (Bill Chappell, May 8 2026) explainer-register PURSUE Release 01 wire; uniquely foregrounds the November 1948 USAF Top Secret cable with Swedish-intelligence consultation, the 1955 Sen. Richard Russell Soviet train-window sighting (with Lt. Col. E. U. Hathaway), and the September 2023 FBI ovaloid-treeline interview as an explicit UAP-stigma case; published war.gov/info → war.gov/ufo correction note.
+- [[src-abc-pursue-release-2026-05]] — ABC News (Luis Martinez & Steve Beynon, May 8 2026) broadcast-network launch-day wire on PURSUE Release 01; distinctive analytical lead is a military-operations geographic-clustering thesis (sightings track sensor-deployment density). Direct recipient of the Kirkpatrick "playhouse politics theater company" statement.
+- [[src-schumer-rounds-uap-colloquy-2023]] — Primary-source transcript of the December 13, 2023 Senate floor colloquy between Majority Leader Schumer and Sen. Mike Rounds on the UAP Disclosure Act; named the FY2024 NDAA conference's stripped-down outcome (National Archives mandate retained; UAP Records Review Board and recovered-material/biological-remains provision rejected); previously cited only secondarily via [[src-uap-transparency-stalls-2025-12]].
+- [[src-breaking-defense-army-1b-counter-drone-2026-05]] — Breaking Defense (Carley Welch, May 15 2026); Army FY27 budget breakdown requesting **$994M discretionary** for small counter-UAS (~2x FY26's $596M baseline). Eight line items including 24 NGCM / Freedom Eagle-1 (AeroVironment), two E-HEL directed-energy systems, and the legacy FoCUS program.
+- [[src-habitable-exoplanet-size-limit-2026-05]] — Phys.org (Andy Tomaswick, May 11 2026) on Hill et al. (UC Riverside) arXiv preprint introducing **STEHM (Smaller Than Earth Habitability Model)**; couples Jeans/XUV atmospheric escape with stagnant-lid interior cooling and volcanic outgassing to set ~0.8 R⊕ as the lower habitability size limit. Three rare exception channels (large carbon budget, low core-radius fraction, cold start).
+- [[src-seti-galactic-center-search-2025-07]] — SETI Institute press release (July 16 2025; previously uningested) announcing **BLIPSS — Breakthrough Listen Investigation for Periodic Spectral Signals**; Cornell + SETI Institute + Breakthrough Listen 4–8 GHz Galactic Center search on the Green Bank Telescope. Suresh et al. paper accepted in *Astronomical Journal*. First comprehensive search optimized for narrowband periodic pulse trains (distinct from CW narrowband beacons and broadband pulsars).
+- [[src-peepss-hwo-spectrograph-2026-04]] — Astrobiology.com summary (Apr 29 2026) of Markees et al. arXiv:2604.23126 introducing **PEEPSS — Photonic-Enabled ExoPlanet Spectroscopic Sensor** for the [[habitable-worlds-observatory|HWO]]; integrated photonic-lantern-fed spectrograph + focal-plane wavefront sensor eliminates non-common-path errors and reduces NIR coronagraph inner working angle.
+
+**New entities:**
+- [[npr]], [[bill-chappell]] — NPR + its first vault byline.
+- [[abc-news]], [[luis-martinez]], [[steve-beynon]] — ABC News + its launch-day byline pair.
+- [[richard-russell]], [[e-u-hathaway]] — 1955 Soviet-train sighting witnesses surfaced via PURSUE.
+- [[aerovironment]], [[breaking-defense]], [[carley-welch]] — defense vendor + trade-press source.
+- [[michelle-l-hill]] — UCR planetary scientist; lead author of STEHM.
+- [[blipss]], [[akshay-suresh]], [[steve-croft]] — Galactic Center SETI program + lead + GBT project scientist.
+- [[green-bank-telescope]], [[galactic-center]] — observatory + target.
+- [[peepss]], [[genevieve-markees]] — HWO instrument concept + lead author.
+
+**New concepts:**
+- [[next-generation-cuas-missile]] (NGCM / Freedom Eagle-1)
+- [[enduring-high-energy-laser]] (E-HEL)
+- [[family-of-counter-uas]] (FoCUS)
+- [[stehm-model]] (Smaller Than Earth Habitability Model)
+- [[periodic-spectral-signal]] (narrowband periodic pulse-train technosignature class)
+- [[photonic-lantern]] (astrophotonic mode-conversion enabling tech for PEEPSS)
+
+**Updated:**
+- [[pursue]] — added NPR and ABC News under reception (explainer + broadcast-network voices); added Russell 1955 and 1948 USAF Top Secret cable as Release-01 records newly foregrounded by NPR.
+- [[chuck-schumer]], [[mike-rounds]] — replaced secondary [[src-uap-transparency-stalls-2025-12]] reference to the Dec 2023 colloquy with direct primary-source citation [[src-schumer-rounds-uap-colloquy-2023]]; added quoted text.
+- [[uap-disclosure-act]] — added "December 2023 — Schumer-Rounds floor colloquy" section sourced to the primary-source transcript.
+- [[seti-institute]], [[breakthrough-listen]], [[vishal-gajjar]] — added BLIPSS / [[periodic-spectral-signal]] sub-program; Gajjar's advisor role connected to [[akshay-suresh]]'s lead authorship.
+- [[habitable-worlds-observatory]] — added PEEPSS instrument concept and STEHM target-list-floor filter alongside the existing mineral-false-positive filter.
+- [[exoplanet-habitability]] — added "Lower size limit (STEHM)" subsection positioned alongside the Interplanetary Habitable Zone framework as a complementary 2026 reframing (atmospheric retention vs civilizational sustainability).
+- [[uc-riverside]] — added Hill / STEHM alongside the existing Yoffe-Klenner agnostic-biosignature attribution.
+- [[jiatf-401]] — added "May 2026 — Army FY27 small-counter-UAS budget breakdown" section enumerating the 8-line $994M portfolio, with cross-links to NGCM, E-HEL, FoCUS, and AeroVironment.
+
+**Cross-connections / contradictions flagged:**
+- **PURSUE ledger nearly complete on national outlets.** The NPR and ABC News additions fill two long-standing gaps in the launch-day national-news ledger (alongside Fortune, Fox, AP, CBS, NBC-still-failed, CNN-still-failed). NPR is the **only** ingested PURSUE wire to explicitly tie a release record to the [[uap-stigma]] thesis; ABC is the **only** one to lead with a geographic-clustering thesis.
+- **Senate primary source on UAPDA acquired.** The vault now contains the canonical December 2023 Schumer-Rounds colloquy text. This is a primary-source replacement for the previously-only-secondary citation in [[src-uap-transparency-stalls-2025-12]]; the colloquy is the document Liberation Times was implicitly contrasting Schumer's later muted posture against.
+- **Counter-UAS ledger now spans contract ceiling ($20B Anduril IDIQ) + procurement channel (JIATF-401 marketplace) + FY27 dollar-itemized portfolio ($994M Breaking Defense breakdown).** The three sources are now fully orthogonal and citable distinctly.
+- **STEHM + IHZ + mineral-false-positives** form a 2026 trifecta of HWO target-list filters representing three orthogonal axes: per-planet atmospheric retention (STEHM), system-scale civilizational sustainability (IHZ), and surface biopigment-PRE false positives (Parkinson et al.). All three now wire back to [[habitable-worlds-observatory]].
+- **Periodic-spectral-signal joins narrowband-CW, pulsars, FRBs, and broadband-leakage** as a distinct technosignature class. Combined with [[src-brats-radio-technosignatures-2026-05]] (broadband leakage) and [[src-plasma-technosignature-scattering-2026]] (signal scattering), BLIPSS rounds out the vault's coverage of the 2025–2026 SETI signal-class diversification.
+- **No new contradictions** with existing wiki content. ABC's geographic-clustering thesis is consistent with [[src-twz-pursue-shrug-2026-05]] sensor-density implicit framing; NPR's Swedish-intel quote and 1955 Russell record are new corroborating material rather than contradictions.
+
+**Skipped / failed (5):**
+- ❌ NBC News PURSUE retry (May 8) — HTTP 403 bot-block, same as prior sweep; national-TV-network voice still uncaptured.
+- ❌ CNN PURSUE (May 8) — WebFetch returned only headline with body truncated/unavailable on multiple attempts.
+- ❌ Japan Times "Tokyo analyzing Pentagon UFO file trove" (May 11) — HTTP 402 paywall. The previously-flagged "highest-value paywalled loss" remains uncaptured; vault retains [[src-japan-pentagon-uap-trove-reaction-2026-05]] (IBTimes UK) as the only Japan-anchored PURSUE-reaction source.
+- ❌ The Hill "House GOP probes UAP private-contractor programs" (Apr 14) — HTTP 403; Google cache fallback also returned no content.
+- ❌ NewsNation "Rep. Burlison targets private labs in UAP search" (May 18) — HTTP 403/451 across multiple fetch routes.
+
+**Suggested follow-ups:**
+- **NBC and CNN PURSUE retries** remain the two largest outstanding national-news gaps in the otherwise heavily-saturated PURSUE ledger. Consider wire-pickup or alternate-URL strategies on a future sweep.
+- **Burlison private-labs target list.** NewsNation's May 18 story — if recoverable — would extend the [[eric-burlison]] thread past the Sullivan referral into active aerospace/private-contractor lab targeting; worth retry via alternate outlet or [[the-debrief]] pickup.
+- **PURSUE Release 02** is reportedly scheduled for early June 2026. Future sweeps should bias toward file-by-file Release 02 content rather than additional Release 01 recaps.
+- **AARO Historical Record Review Volume 2 watch** continues — no signal this cycle.
+- **Hill et al. STEHM arXiv preprint** is referenced by Phys.org / Universe Today summary; pulling the underlying preprint would strengthen the [[stehm-model]] page with specific equations and the magnetic-field caveat.
+- **Markees et al. PEEPSS** institutional affiliations and SPIE proceedings should be ingested into the dedicated [[peepss]] page on a future cycle — author affiliations were not stated in the Astrobiology.com summary.
+- **BLIPSS results paper** (accepted *Astronomical Journal*) — when the AJ version is publicly available, ingest as a separate primary source for any null/candidate results.

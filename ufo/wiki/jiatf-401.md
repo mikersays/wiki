@@ -2,7 +2,7 @@
 title: Joint Interagency Task Force 401 (JIATF-401)
 type: entity
 created: 2026-04-29
-updated: 2026-05-17
+updated: 2026-05-18
 ---
 
 # Joint Interagency Task Force 401 (JIATF-401)
@@ -49,6 +49,21 @@ Per [[src-army-counter-drone-marketplace-stateside-2026-04|Drew Lawrence / Defen
 - Marketplace tooling is being routed to harden **America 250** and the **2028 LA Summer Olympics**; [[tom-karako]] frames this as "Super Bowl-style bubbles over lots of things all year round."
 - The doctrinal motivator cited is [[operation-spider-web]] (2025 Ukrainian truck-launched drone strike on Russian strategic aircraft).
 
+## May 2026 — Army FY27 small-counter-UAS budget breakdown
+
+Per [[src-breaking-defense-army-1b-counter-drone-2026-05|Breaking Defense / Carley Welch, May 15 2026]], the Army's FY27 budget request itemizes **$994M discretionary** for small-counter-UAS (sUAS) procurement — roughly double FY26's $596M baseline ($336M discretionary + $260M reconciliation). Eight line items:
+
+- **$414M** — operational sUAS (c-UAS batteries, expeditionary mobile platforms and sensors).
+- **$165M** — "fixed" homeland/installation defense and sUAS logistics.
+- **$132M** — effectors: 800 kinetic + 29 non-kinetic + **24 [[next-generation-cuas-missile|NGCM / Freedom Eagle-1]]** units ([[aerovironment]]).
+- **$108M** — squad / individual soldier dismounted systems.
+- **$80M** — brigade-and-below Group 1/2 sUAS defense.
+- **$66M** — directed energy: **two [[enduring-high-energy-laser|E-HEL]]** systems, IBCS-M interoperable.
+- **$24M** — 12 expeditionary + 10 mobile launchers for one c-UAS battery.
+- **~$5M** — [[family-of-counter-uas|FoCUS]] ground readiness / logistics.
+
+This is the first FY27 dollar-itemized procurement breakdown in the vault — distinct from the [[src-anduril-army-20b-counter-drone-idiq-2026-03|$20B Anduril Lattice IDIQ]] (a contract ceiling) and the [[jiatf-401-marketplace]] cumulative-sales line.
+
 ## April 2026 — JIATF-401 Marketplace partner expansion
 
 Per [[src-jiatf-401-marketplace-romania-2026-04|U.S. Army release]]: the Secretary of the Army and [[romania]]'s Minister of National Defense signed an agreement enabling Romania to procure C-UAS capabilities through the [[jiatf-401-marketplace]]. Romania becomes the second named partner nation after the [[united-kingdom]]. The Army secretary's stated goal is **25 partner nations by end of summer 2026**. Brig. Gen. [[matt-ross]] frames the marketplace as scaling the C-UAS industrial base "from the tactical edge to critical infrastructure protection."
@@ -83,6 +98,11 @@ Per [[src-jiatf-401-marketplace-romania-2026-04|U.S. Army release]]: the Secreta
 - [[src-jiatf-401-marketplace-romania-2026-04]]
 - [[src-directed-energy-5-bases-pilot-2026-05]]
 - [[src-army-counter-drone-marketplace-stateside-2026-04]]
+- [[src-breaking-defense-army-1b-counter-drone-2026-05]]
+- [[next-generation-cuas-missile]]
+- [[enduring-high-energy-laser]]
+- [[family-of-counter-uas]]
+- [[aerovironment]]
 - [[dan-driscoll]]
 - [[joint-base-myer-henderson-hall]]
 - [[merops-interceptor]]

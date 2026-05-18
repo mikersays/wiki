@@ -2,7 +2,7 @@
 title: Exoplanet Habitability
 type: concept
 created: 2026-04-13
-updated: 2026-05-07
+updated: 2026-05-18
 ---
 
 # Exoplanet Habitability
@@ -34,6 +34,10 @@ JWST has begun resolving the formation pathways of [[mini-neptune|mini-Neptune]]
 - **[[radial-velocity|Radial velocity]]**: Measuring stellar reflex motion (how GJ 887 d was confirmed)
 - **[[direct-imaging|Direct imaging]]**: Blocking starlight to observe the planet directly; used for the [[jwst]] MIRI coronagraph candidate at [[alpha-centauri-a]] ([[src-alpha-centauri-a-exoplanet-2026]])
 - **Atmospheric modeling**: Comparing observed spectra to predicted chemical compositions — essential for ruling out [[false-positive-biosignatures]]
+
+## Lower size limit (STEHM)
+
+[[michelle-l-hill]] et al. ([[uc-riverside]], 2026) introduce the [[stehm-model|Smaller Than Earth Habitability Model (STEHM)]], which couples Jeans/XUV atmospheric escape with stagnant-lid interior cooling and volcanic outgassing to set a **~0.8 Earth-radii lower size limit** for habitable-zone exoplanets. Sub-0.7 R⊕ worlds lose atmospheres in ≲400 Myr (≤30 Myr at 0.5 R⊕). Three rare exceptions can rescue smaller worlds: a large initial carbon budget, a low core-radius fraction, or a "cold start" mantle. STEHM and the [[interplanetary-habitable-zone|IHZ]] are complementary 2026 reframings — STEHM filters per-planet atmospheric retention; IHZ filters system-scale civilizational sustainability. See [[src-habitable-exoplanet-size-limit-2026-05]].
 
 ## Interplanetary Habitable Zone
 

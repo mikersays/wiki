@@ -2,12 +2,16 @@
 title: UAP Disclosure Act
 type: concept
 created: 2026-05-01
-updated: 2026-05-07
+updated: 2026-05-18
 ---
 
 # UAP Disclosure Act
 
-Senate-led UAP transparency legislation championed by Sen. Chuck Schumer with support from Sen. [[mike-rounds]]. Senate-passed in 2023 as part of the FY2024 NDAA. Its [[uap-records-review-board|UAP Records Review Board]] (UAP RRB) provisions — modeled on the JFK Records Review Board, with eminent-domain authority over UAP materials held by private contractors — were **deleted in the FY2024 NDAA conference** under opposition from defense-industry allies, and again omitted from the FY2025 cycle.
+Senate-led UAP transparency legislation championed by Sen. Chuck Schumer with support from Sen. [[mike-rounds]]. Senate-passed in 2023 as part of the FY2024 NDAA. Its [[uap-records-review-board|UAP Records Review Board]] (UAP RRB) provisions — modeled on the **JFK Assassination Records Collection Act of 1992**, with authority over UAP materials held by private contractors — were **deleted in the FY2024 NDAA conference** under opposition from defense-industry allies, and again omitted from the FY2025 cycle.
+
+## December 2023 — Schumer-Rounds floor colloquy
+
+The primary-source text of the December 13, 2023 Senate floor colloquy ([[src-schumer-rounds-uap-colloquy-2023]]) names the FY2024 NDAA conference's stripped-down outcome: the National Archives received a legal mandate to gather UAP records government-wide, but the **presidentially-appointed, Senate-confirmed citizen review board** and the **requirement that the government recover UAP material or biological remains** "provided to private entities in the past and thereby hidden from Congress" were both rejected. Schumer characterizes the loss as leaving declassification "largely up to the same entities that have blocked and obfuscated their disclosure for decades." Rounds confirms data exists at "more than just the Department of Defense, but by other agencies of the federal government as well."
 
 [[tim-gallaudet]] (in his Nov 2024 House Oversight testimony) and the [[uap-disclosure-fund]] / [[sol-foundation]] continue to advocate for revival of the RRB provisions ([[src-gallaudet-house-testimony-2024-11]]).
 
@@ -29,6 +33,7 @@ At the January 2026 [[varginha-incident]] 30th-anniversary press conference host
 
 ## Sources
 
+- [[src-schumer-rounds-uap-colloquy-2023]]
 - [[src-gallaudet-house-testimony-2024-11]]
 - [[src-uap-whistleblower-hearing-2025]]
 - [[src-burlison-marching-orders-2026-01]]
