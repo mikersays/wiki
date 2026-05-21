@@ -2,7 +2,7 @@
 title: Europa Clipper
 type: entity
 created: 2026-04-13
-updated: 2026-05-05
+updated: 2026-05-20
 ---
 
 # Europa Clipper
@@ -19,6 +19,10 @@ updated: 2026-05-05
 ## Significance for Ocean Worlds Research
 
 Europa Clipper is an orbiter (no lander) but will provide critical data about [[ocean-worlds]] exploration. According to [[src-esa-enceladus-life-mission-2025]], the mission's findings will complement the proposed [[esa]] Enceladus mission and help refine techniques for detecting life on icy moons.
+
+## Interpretive groundwork — InvOW (2026)
+
+The five-year [[invow|Investigating Ocean Worlds]] project (PI [[chris-german]] / [[whoi]]) explicitly times itself to Europa Clipper's 2030 arrival, building the interpretive framework needed to distinguish biological from non-biological organic-carbon signals in any plume-sample or surface data the mission returns ([[src-whoi-invow-ocean-worlds-2026-05]]).
 
 ## Biosignature Survival on Europa
 

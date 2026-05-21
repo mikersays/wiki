@@ -2,7 +2,7 @@
 title: Ocean Worlds
 type: concept
 created: 2026-04-13
-updated: 2026-05-09
+updated: 2026-05-20
 ---
 
 # Ocean Worlds
@@ -46,7 +46,7 @@ Research by Alexander Pavlov (NASA Goddard, 2024):
 
 ## Research Programs
 
-- **Investigating Ocean Worlds (InvOW)**: Five-year [[nasa]] project (2026-2031) led by Woods Hole Oceanographic Institution, improving analysis of carbon-rich molecules as biological indicators.
+- **[[invow|Investigating Ocean Worlds (InvOW)]]**: Five-year (2026–2031) [[nasa]] project ~$5M led by [[whoi|Woods Hole Oceanographic Institution]]; PI [[chris-german]], Deputy PI [[tori-hoehler]] ([[center-for-life-detection]], [[nasa-ames-research-center]]); 16-laboratory consortium. Three-domain framework (rocky subseafloor → ocean → icy cryosphere) targets the **organic-carbon signal-to-noise problem** — on distant ocean worlds, non-biological organics may dominate biological signal, inverting Earth's regime. Times explicitly to [[europa-clipper]]'s 2030 arrival. Successor to the prior [[exow|Exploring Ocean Worlds (ExOW)]] initiative ([[src-whoi-invow-ocean-worlds-2026-05]]).
 - **Seven-firm biosignature partnership (May 2026, unverified)**: Syndicated reporting describes a [[nasa]] private-public initiative targeting Europa, Enceladus, and Mars [[biosignatures|biosignature]] detection — including ice-penetrating probes and plume samplers. Source thin (no firms named, no quotes); pending primary-source confirmation ([[src-nasa-seven-firms-biosignature-2026-05]]).
 
 ## See Also
@@ -72,7 +72,14 @@ Research by Alexander Pavlov (NASA Goddard, 2024):
 - [[dragonfly-mission]]
 - [[esa]]
 - [[nasa]]
+- [[whoi]]
+- [[chris-german]]
+- [[tori-hoehler]]
+- [[invow]]
+- [[exow]]
+- [[center-for-life-detection]]
 - [[src-cassini-huygens-ocean-worlds-2026-04]]
 - [[src-esa-enceladus-life-mission-2025]]
 - [[src-active-moons-review-2026-04]]
 - [[src-nasa-seven-firms-biosignature-2026-05]]
+- [[src-whoi-invow-ocean-worlds-2026-05]]

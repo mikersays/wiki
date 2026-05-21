@@ -2,7 +2,7 @@
 title: Mick West
 type: entity
 created: 2026-05-08
-updated: 2026-05-08
+updated: 2026-05-20
 ---
 
 # Mick West
@@ -32,7 +32,12 @@ In the same news cycle, [[src-sciam-pursue-skeptics-2026-05]] quoted West summar
 - [[sean-kirkpatrick]] · [[avi-loeb]] · [[jeremy-corbell]]
 - [[pursue]] · [[pursue-release-01-catalog]]
 
+## Outside citations
+
+[[aravindan-neelakandan]]'s May 16, 2026 [[swarajya|Swarajya]] essay ([[src-swarajya-disclosure-distraction-2026-05]]) explicitly credits West / Metabunk with already replicating the sensor artifacts behind several flagship PURSUE clips — using West's debunking as the foundation for a broader [[psychological-uap-framing]] pivot.
+
 ## Sources
 
 - [[src-metabunk-pursue-analysis-2026-05]]
 - [[src-sciam-pursue-skeptics-2026-05]]
+- [[src-swarajya-disclosure-distraction-2026-05]]

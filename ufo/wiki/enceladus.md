@@ -2,7 +2,7 @@
 title: Enceladus
 type: entity
 created: 2026-05-05
-updated: 2026-05-05
+updated: 2026-05-20
 ---
 
 # Enceladus
@@ -20,6 +20,10 @@ Saturn's sixth-largest moon, ~500 km across, with a global subsurface liquid-wat
 - **[[enceladus-orbilander]]** — NASA concept ranked top priority by the 2022 planetary science decadal survey; targeted for the late 2030s.
 - **ESA Enceladus mission** — scoping under [[esa]]'s Voyage 2050 program. ([[src-esa-enceladus-life-mission-2025]])
 - The 2017 Cassini [[grand-finale]] plunge was a [[planetary-protection]] decision specifically to keep Enceladus uncontaminated for future life-detection missions.
+
+## Interpretive groundwork (2026)
+
+NASA's **[[invow|Investigating Ocean Worlds]]** project (PI [[chris-german]] / [[whoi]], Deputy PI [[tori-hoehler]] / [[center-for-life-detection]]) is specifically building organic-biosignature interpretation infrastructure for ocean worlds including Enceladus — addressing the [[false-positive-biosignatures|signal-to-noise problem]] where non-biological organics may dominate biological signal on distant ocean worlds ([[src-whoi-invow-ocean-worlds-2026-05]]).
 
 ## Related pages
 

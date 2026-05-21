@@ -975,3 +975,44 @@ Fetched via `/ufo-news`. 7 parallel search agents dispatched across congressiona
 - **Hill et al. STEHM arXiv preprint** is referenced by Phys.org / Universe Today summary; pulling the underlying preprint would strengthen the [[stehm-model]] page with specific equations and the magnetic-field caveat.
 - **Markees et al. PEEPSS** institutional affiliations and SPIE proceedings should be ingested into the dedicated [[peepss]] page on a future cycle — author affiliations were not stated in the Astrobiology.com summary.
 - **BLIPSS results paper** (accepted *Astronomical Journal*) — when the AJ version is publicly available, ingest as a separate primary source for any null/candidate results.
+
+## [2026-05-20] ingest | UFO news sweep (5 articles)
+
+Fetched via /ufo-news. Triaged 6 candidates from 7 parallel search tracks; 5 successfully ingested (1 fetch failed). New sources: [[src-perennial-autonomy-jiatf-401-500m-2026-05]], [[src-abscicon26-media-tips-1-2026-05]], [[src-whoi-invow-ocean-worlds-2026-05]], [[src-gizmodo-find-ufos-pentagon-videos-2026-05]], [[src-swarajya-disclosure-distraction-2026-05]].
+
+**New pages created (33):**
+- Entities: [[perennial-autonomy]], [[hornet-strike-drone]], [[whoi]], [[chris-german]], [[tori-hoehler]], [[center-for-life-detection]], [[american-geophysical-union]], [[abscicon26]], [[keith-cowing]], [[astrobiology-com]], [[gizmodo]], [[matt-novak]], [[dow-uap-pr38]], [[war-gov-ufo-portal]], [[swarajya]], [[aravindan-neelakandan]], [[jacques-vallee]], [[jeffrey-kripal]], [[whitley-strieber]], [[carl-jung]]
+- Concepts: [[invow]], [[exow]], [[assembly-theory]], [[magnetotactic-bacteria]], [[infrared-photosynthesis]], [[disclosure-as-distraction]], [[psychological-uap-framing]], [[control-system-hypothesis]], [[alien-abduction-phenomenon]]
+
+**Updated:**
+- [[jiatf-401]] — added "May 2026 — Perennial Autonomy $500M three-year IDIQ" section consolidating Merops, Bumblebee V1/V2, and Hornet under one Perennial Autonomy procurement vehicle.
+- [[merops-interceptor]] — identified [[perennial-autonomy]] as the manufacturer (resolved prior "open questions" attribution); added the $500M IDIQ inclusion.
+- [[bumblebee-counter-uas]] — identified Perennial Autonomy as the manufacturer; added the Feb 2026 $5.2M and May 2026 $500M IDIQ procurement history.
+- [[nasa-ames-research-center]] — added [[center-for-life-detection]] (Hoehler dir.) and InvOW deputy-PI role; also added [[caleb-scharf]] as home-institution scientist (closes a long-open backlink).
+- [[ocean-worlds]] — expanded the InvOW entry with full PI/Deputy-PI/co-I details, the three-domain framework, the signal-to-noise inversion thesis, and the Europa-Clipper 2030-arrival timing.
+- [[enceladus]] — added InvOW interpretive-groundwork paragraph.
+- [[europa-clipper]] — added InvOW 2030-arrival timing context.
+- [[biosignatures]] — added an "AbSciCon26 community marker" section (assembly theory, magnetotactic bacteria, IR-photosynthesis, hycean early Earth, subseafloor microbes, Sharpe NHI analog) and an "Ocean-world organic-carbon signal-to-noise" section.
+- [[false-positive-biosignatures]] — added "Ocean-world organic-carbon background" and "Agnostic-detection countermeasures" subsections (assembly theory + agnostic statistical methods).
+- [[donald-trump]] — added Novak/Gizmodo distraction-framing reading of Trump's casual PURSUE posture.
+- [[mick-west]] — added Swarajya outside-citation noting West's debunks were the foundation for Neelakandan's psychological-framing pivot.
+- [[thomas-massie]] — added [[disclosure-as-distraction]] concept anchor and Novak/Neelakandan downstream adopters.
+
+**Cross-connections / contradictions flagged:**
+- **Perennial Autonomy emerges as the single thread tying Merops, Bumblebee, and Hornet together.** The vault previously treated these as three orthogonal C-UAS items; this sweep resolves them into one OEM portfolio under one $500M JIATF-401 IDIQ. Merops's prior "open questions" attribution gap is now closed.
+- **InvOW is the institutional 2026 organizing project for ocean-worlds biosignature interpretation.** Replaces the earlier vault stub mention with a fully-attributed PI/Deputy-PI/co-I lineup, the three-domain framework, and the Europa-Clipper-2030 timing driver. Complements [[esa-enceladus-life-mission-2025]] (ESA Voyage 2050) and [[src-nasa-seven-firms-biosignature-2026-05]] (thin syndicated NASA-firms claim, still unverified).
+- **Disclosure-as-distraction matures from a single quote (Massie) into a multi-source thesis.** [[disclosure-as-distraction]] now consolidates Massie (Al Jazeera), Novak (Gizmodo), Neelakandan (Swarajya), Morilla (IBTimes Apollo-anomalies-hidden), with [[chris-mellon|Mellon]] / [[tim-gallaudet|Gallaudet]] / [[ryan-graves|Graves]] / [[anna-paulina-luna|Luna]] as the counterweight.
+- **Psychological-UAP-framing is the first vault concept page covering the Jung/Vallée/Kripal/Strieber lineage.** Adds a third interpretive axis alongside the existing [[theological-uap-framing]] (demonic/religious) and the materialist crash-retrieval frame. [[carl-sagan]] is referenced as a sceptic who acknowledged Jung's lens — Sagan currently lacks his own page (only [[carl-sagan-institute]] exists), flagged for follow-up.
+- **AbSciCon26 is the May 2026 astrobiology-community community snapshot.** Threads converge with existing vault material: assembly-theory feeds [[agnostic-biosignature]] / [[false-positive-biosignatures]]; Sharpe humpback-whale "missed NHI signals" parallels [[src-brats-radio-technosignatures-2026-05]] technosignature work; Rimmer hycean early Earth ties to [[k2-18b]] / [[hycean-worlds]]; Brazelton subseafloor microbes ties to ocean-worlds biology. No contradictions flagged.
+
+**Skipped / failed (1):**
+- ❌ USNI News "Report to Congress on U.S. Aircraft Combat Losses in Operation Epic Fury" (May 20) — HTTP 403 Forbidden, news.usni.org blocked WebFetch. Highest-value miss this sweep — primary-source combat-loss reporting would have anchored the [[operation-epic-fury]] thread independently of the existing SOF/DefenseScoop secondaries.
+
+**Suggested follow-ups:**
+- **USNI Epic Fury combat-loss report** is the highest-value retry candidate; alternative fetch via Internet Archive cache, alternate USNI mirror, or pickup via Defense News / Breaking Defense recap.
+- **AbSciCon26 Media Tips 2 / 3** — Astrobiology.com is reproducing AGU's tipsheet series; subsequent tipsheets (planned across the May 17–22 conference window) should be ingested as they land.
+- **InvOW arXiv / mission concept paper** — if Chris German / WHOI publish a project overview paper distinct from the press release, that would deserve its own ingest as primary technical source.
+- **AARO Historical Record Review Volume 2 watch** continues — no signal this cycle.
+- **PURSUE Release 02 watch** — reportedly scheduled for early June 2026; expect a substantial new ingest cycle when it lands.
+- **Burlison private-labs target list** still uncaptured (previously flagged; NewsNation May 18 still HTTP 403/451).
+- **[[carl-sagan]]** lacks a dedicated entity page despite [[carl-sagan-institute]] existing and [[carl-jung]]/[[src-swarajya-disclosure-distraction-2026-05]] now referencing him — flag for backfill on a future maintenance pass.

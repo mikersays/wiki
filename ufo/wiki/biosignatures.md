@@ -2,7 +2,7 @@
 title: Biosignatures
 type: concept
 created: 2026-04-13
-updated: 2026-05-14
+updated: 2026-05-20
 ---
 
 # Biosignatures
@@ -90,17 +90,32 @@ JWST mini-Neptune retrievals also help calibrate the H₂-rich vs volatile-rich 
 
 A May 3, 2026 syndicated report claims [[nasa]] has partnered with seven (unnamed) tech firms to advance biosignature-detection capability for Mars and [[ocean-worlds]]; source quality is thin (no firms named, no quotes, no nasa.gov citation), pending primary-source confirmation ([[src-nasa-seven-firms-biosignature-2026-05]]).
 
+## Community marker: AbSciCon26 (May 2026)
+
+The biennial **[[abscicon26|Astrobiology Science Conference]]** (Madison WI, May 17–22 2026; ~900 contributions) groups community work under four umbrellas — biosignatures, Earth extremes, evolution, exoplanets / habitable zones. Tipsheet-1 vault-relevant threads: [[assembly-theory]] (Janin), [[magnetotactic-bacteria]] (Wolfe-Simon), [[infrared-photosynthesis]] (Shiradhonkar), [[hycean-worlds|hycean early Earth]] (Rimmer), subseafloor microbiology (Brazelton), Sharpe humpback-whale [[technosignatures|"missed NHI signals"]] SETI analog. See [[src-abscicon26-media-tips-1-2026-05]].
+
+## Ocean-world organic-carbon signal-to-noise
+
+The 2026 NASA [[invow|Investigating Ocean Worlds]] project (PI [[chris-german]], [[whoi]]) explicitly targets the inverse signal-to-noise problem on distant ocean worlds — where non-biological organics may dominate biological signal, treating organic-carbon background as a [[false-positive-biosignatures|false-positive]] class ([[src-whoi-invow-ocean-worlds-2026-05]]).
+
 ## See Also
 
 - [[astrobiology]]
 - [[exoplanet-habitability]]
 - [[ocean-worlds]]
+- [[invow]]
 - [[seti]]
 - [[k2-18b]]
 - [[hycean-worlds]]
 - [[technosignatures]]
 - [[false-positive-biosignatures]]
+- [[assembly-theory]]
+- [[magnetotactic-bacteria]]
+- [[infrared-photosynthesis]]
+- [[abscicon26]]
 - [[toi-1130b]], [[mini-neptune]], [[high-mean-molecular-weight-atmosphere]]
 - [[amino-acids]], [[fatty-acids]]
 - [[fabian-klenner]], [[gideon-yoffe]]
 - [[src-alien-biology-detection-method-2026-05]]
+- [[src-abscicon26-media-tips-1-2026-05]]
+- [[src-whoi-invow-ocean-worlds-2026-05]]

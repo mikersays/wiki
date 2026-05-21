@@ -2,7 +2,7 @@
 title: Joint Interagency Task Force 401 (JIATF-401)
 type: entity
 created: 2026-04-29
-updated: 2026-05-18
+updated: 2026-05-20
 ---
 
 # Joint Interagency Task Force 401 (JIATF-401)
@@ -48,6 +48,16 @@ Per [[src-army-counter-drone-marketplace-stateside-2026-04|Drew Lawrence / Defen
 - JIATF-401 has committed **$100M** to FIFA World Cup 2026 mobile C-UAS coverage across 11 cities / 9 states.
 - Marketplace tooling is being routed to harden **America 250** and the **2028 LA Summer Olympics**; [[tom-karako]] frames this as "Super Bowl-style bubbles over lots of things all year round."
 - The doctrinal motivator cited is [[operation-spider-web]] (2025 Ukrainian truck-launched drone strike on Russian strategic aircraft).
+
+## May 2026 — Perennial Autonomy $500M three-year IDIQ
+
+Per [[src-perennial-autonomy-jiatf-401-500m-2026-05|GovConWire, May 19 2026]], the [[department-of-war]] announced JIATF-401's award of a potential **$500M three-year IDIQ** to [[perennial-autonomy]] for enterprise C-UAS support. Bundles three Perennial product lines already fielded within [[centcom]] AOR:
+
+- [[merops-interceptor|Merops]] — low-cost kinetic interceptor against [[shahed-drone|Shahed-class]] OWA UAS.
+- [[bumblebee-counter-uas|Bumblebee]] V1 (kinetic effector) and V2 (FPV interceptor).
+- [[hornet-strike-drone|Hornet]] midrange strike drone.
+
+Builds on a separate **$5.2M Feb 2026** Bumblebee V2 agreement. Framed as a procurement accelerator complementing the [[jiatf-401-marketplace]]; all systems pair computer vision + RF sensing + secure comms with human-in-the-loop lethal-force decisions.
 
 ## May 2026 — Army FY27 small-counter-UAS budget breakdown
 
@@ -99,6 +109,9 @@ Per [[src-jiatf-401-marketplace-romania-2026-04|U.S. Army release]]: the Secreta
 - [[src-directed-energy-5-bases-pilot-2026-05]]
 - [[src-army-counter-drone-marketplace-stateside-2026-04]]
 - [[src-breaking-defense-army-1b-counter-drone-2026-05]]
+- [[src-perennial-autonomy-jiatf-401-500m-2026-05]]
+- [[perennial-autonomy]]
+- [[hornet-strike-drone]]
 - [[next-generation-cuas-missile]]
 - [[enduring-high-energy-laser]]
 - [[family-of-counter-uas]]
