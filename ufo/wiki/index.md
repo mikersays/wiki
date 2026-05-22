@@ -59,6 +59,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[src-drone-incursions-base-jamming-2026-03]] — DefenseScoop: NORTHCOM FAK engages jamming protocol against multiple drone incursions at undisclosed strategic U.S. base since Operation Epic Fury began
 - [[src-drone-incursions-epic-fury-2026-03]] — The War Zone: multi-wave drone incursions at Barksdale B-52 base March 9-15 2026; Guillot SASC disclosures on detection/defeat trends
 - [[src-dow-uap-files-release-2026-05]] — Department of War announces PURSUE (Presidential Unsealing and Reporting System for UAP Encounters); first WAR.GOV/UFO release with on-record statements from Hegseth, Gabbard (ODNI), Patel (FBI), and Isaacman (NASA); interagency participants include DOE
+- [[src-dow-pursue-release-02-2026-05]] — DoW primary-source PURSUE Release 02 press release (May 22 2026, Sean Parnell): >1B war.gov/ufo hits, Release 03 explicitly previewed, March 6 2026 eight-House-Rep 51-record letter (distinct from Luna's March 31 46-video track), AARO-authored "areas of contrast" video descriptions, formal "no-redactions-on-UAP-content" policy
 - [[src-elizondo-house-hearing-2024-11]] — Yahoo/The Hill/NewsNation: Lue Elizondo's Nov 13 2024 House Oversight joint UAP testimony and post-hearing CUOMO debrief; "UAP are real," 1950s radar 10–13k mph trans-medium objects, nuclear-equities concern
 - [[src-elizondo-motorcycle-crash-2026-04]] — Lue Elizondo survives near-fatal Wyoming motorcycle crash on March 17, 2026; hospitalized one week with life-threatening injuries
 - [[src-epic-fury-drone-defeat-2026-03]] — Defense News: Guillot discloses FAK defeated drone over strategic installation in opening hours of Operation Epic Fury; 11-soldier crew, Anduril Wisp/Heimdal/Pulsar sensors, ~25% detect-to-defeat rate
@@ -642,6 +643,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[artemis-ii]] — NASA crewed lunar-flyby mission; April–May 2026 dark-side-of-Moon imagery cited by Loeb as null result against lunar-UAP claims
 - [[courthouse-news-service]] — National legal/courts/government wire; reporter Benjamin S. Weiss bylined the May 2026 religious-Republican PURSUE-reactions piece
 - [[benjamin-s-weiss]] — Courthouse News Service Washington reporter; bylined the May 15 2026 "Angels and aliens?" Capitol-corridor interview piece
+- [[sean-parnell]] — Assistant to the Secretary of War for Public Affairs and Chief Pentagon Spokesman; on-record principal for the PURSUE Release 02 DoW press release (@SeanParnellASW)
 
 ## Concepts
 

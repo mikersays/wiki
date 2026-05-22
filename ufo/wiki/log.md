@@ -7,6 +7,30 @@ updated: 2026-05-22
 
 Chronological record of wiki activity. Each entry uses the format `## [YYYY-MM-DD] action | description` for easy parsing.
 
+## [2026-05-22] ingest | DoW Release 02 primary source recovered (1 article, Playwright + mirror fallback)
+
+Re-attempted the war.gov Release 02 press release that 403'd in the prior sweep, this time using the updated `/ufo-news` skill's 3-tier fetch strategy (WebFetch → Playwright MCP → verbatim mirror search).
+
+- WebFetch: HTTP 403 (Akamai).
+- Playwright: confirmed Akamai "Access Denied" block.
+- **Mirror fallback succeeded**: two independent verbatim mirrors (JD Rucker lede + MilitarySpot full text) matched word-for-word in overlap. Saved as [[src-dow-pursue-release-02-2026-05]] with original war.gov URL preserved and mirror chain documented in the article body.
+
+The fetch agent also discovered that **DoW article 4480582** (the URL the previous sweep targeted) is actually the Release 01 article — not Release 02. The real Release 02 article number is **4499305**. The previous "SKIPPED: duplicate" return on 4480582 was therefore correct in spirit (it would have been a Release 01 duplicate), even though it bounced us off the wrong URL.
+
+**New source page (1):** [[src-dow-pursue-release-02-2026-05]]
+
+**New entity page (1):** [[sean-parnell]] — Assistant to the Secretary of War for Public Affairs / Chief Pentagon Spokesman (@SeanParnellASW)
+
+**Existing pages updated (4):** [[pursue]] (added "Release 02 — DoW primary source" subsection with March 6 eight-House-Rep letter, AARO classified-network identification, areas-of-contrast video walkthrough, Release 03 preview, and formal no-redactions-on-UAP-content policy) · [[aaro]] (March 6 letter response, "areas of contrast" register codification) · [[war-gov-ufo-portal]] (>1B hits now triple-sourced) · [[rolling-release-cadence]] (Release 03 primary-source preview added)
+
+**Newly surfaced material in the DoW primary source vs prior secondary coverage:**
+
+- **March 6, 2026 — Eight-House-Rep letter requesting 51 UAP-related records.** This is a *new* congressional pressure track in the vault — distinct from Luna's March 31 letter ([[src-luna-46-uap-videos-demand-2026-03]]), broader in scope (51 records vs 46 videos), and predating it by ~25 days. None of the secondary Release 02 coverage in this sweep surfaced this detail.
+- **Formal "no redactions on UAP-nature content" policy.** First explicit government statement of the non-redaction posture as policy (per Trump's directive). Redactions limited to eyewitness identities, facility locations, and non-UAP-relevant military-site info.
+- **Sean Parnell** as the on-record DoW spokesperson — new principal, not previously in the vault.
+- **AARO-authored "areas of contrast" video descriptions** codify the [[mick-west]] / Metabunk sensor-faithful terminology in official government language.
+- **Release 03 explicitly previewed** by Parnell ("announced in the near future").
+
 ## [2026-05-22] ingest | PURSUE Release 02 focus sweep (3 articles, /ufo-news, parallel)
 
 Fetched via `/ufo-news PURSUE release 2`. Five parallel search agents dispatched (release-02-content, release-02-reactions, release-02-politics, release-02-international, release-02-aaro-primary). Triage dropped overlap with the same-day Release-02 ingest of the Washington Times / Debrief preview / DefenseScoop "data alone is not disclosure"; 7 candidates survived → **3 saved, 4 failed/skipped**.

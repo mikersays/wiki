@@ -87,6 +87,16 @@ Released exactly **14 days** after Release 01 — operationalizing the [[rolling
 - **Posture (unchanged):** "unresolved cases," Pentagon non-determination, "we welcome the application of private sector analysis."
 - **Pre-release portal signals (May 21):** the "Release 01" page heading was shortened to "Release"; the site briefly listed up to **140 blank file-listing pages** before reverting — anticipated by [[micah-hanks]] in [[the-debrief|The Debrief]] ([[src-debrief-pursue-next-batch-preview-2026-05]]).
 
+### Release 02 — DoW primary source
+
+[[department-of-war]] press release attributed to [[sean-parnell|Sean Parnell]] (Assistant to the Secretary of War for Public Affairs / Chief Pentagon Spokesman) — [[src-dow-pursue-release-02-2026-05]]. Notable details:
+
+- **March 6, 2026 — Eight U.S. House Reps formally requested 51 UAP-related records** held by DoW and the IC. This is a **distinct congressional pressure track** from [[anna-paulina-luna]]'s March 31 46-video letter ([[src-luna-46-uap-videos-demand-2026-03]]) — predating Luna's letter by ~25 days and broader in scope.
+- [[aaro]] is named as the entity that identified responsive materials "held on a classified network." DoW caveat: "Many of these materials lack a substantiated chain-of-custody."
+- Specific record walkthrough of the **"4 UAP Formation Iran 26 Aug 2022"** video: CENTCOM AOR, IR sensor, classified-network upload June 2024. DoW-authored video description uses the sensor-faithful "**areas of contrast**" register matching [[mick-west]]/Metabunk terminology ([[src-metabunk-pursue-analysis-2026-05]]).
+- **Redaction policy formalized**: redactions protect only eyewitness identities, facility locations, and non-UAP-relevant military-site info. **No redactions** are applied to information about "the nature or existence of any encounter reported as a UAP" per Trump's directive — first explicit government statement of the non-redaction-on-UAP-content posture.
+- **Release 03 explicitly previewed**: "actively working on the third release," "announced in the near future."
+
 ### Release 02 — Newsweek-surfaced specifics
 
 Corroborated and expanded by [[newsweek|Newsweek]] (Castro & Robinson, [[src-newsweek-pursue-release-02-2026-05]]):

@@ -3,7 +3,7 @@ name: ufo-news
 description: Search the web for the latest UFO/UAP/alien/non-human-intelligence news and ingest the results into the `ufo/` vault using parallel agent teams. Optionally accepts a focus topic to narrow the search (e.g. "grusch", "aaro", "congressional hearings"). Use when the user wants to pull in fresh UFO/UAP coverage.
 argument-hint: "[optional topic focus]"
 user-invocable: true
-allowed-tools: Agent WebSearch WebFetch Read Write Edit Glob Grep Bash(mv *) Bash(date *) Bash(ls *)
+allowed-tools: Agent WebSearch WebFetch Read Write Edit Glob Grep Bash(mv *) Bash(date *) Bash(ls *) mcp__playwright__browser_navigate mcp__playwright__browser_snapshot mcp__playwright__browser_evaluate mcp__playwright__browser_wait_for mcp__playwright__browser_press_key mcp__playwright__browser_close mcp__playwright__browser_handle_dialog mcp__playwright__browser_navigate_back mcp__playwright__browser_network_requests
 effort: high
 vault: ufo
 ---
@@ -85,7 +85,20 @@ Collect all subagent outputs. Then:
 
 For each chosen URL, **dispatch one `Agent` (general-purpose) in parallel** — one message, N tool calls. Each agent's prompt:
 
-> You are one of several parallel fetch agents. URL: `<url>`. Use `WebFetch` to retrieve the article. Extract: headline, author(s), publication date (YYYY-MM-DD), outlet, full article body (strip ads/nav/related-links, keep paragraphs intact), and 1-3 notable direct quotes.
+> You are one of several parallel fetch agents. URL: `<url>`. Today is `<today's date>`.
+>
+> **Fetch strategy — try in order, stop when one yields full verbatim text:**
+>
+> 1. **`WebFetch`** first — fast, no browser overhead. Works for most outlets.
+> 2. **Playwright MCP** as fallback when WebFetch returns HTTP 403, Cloudflare challenge, paywall stub, or near-empty content. A real browser session bypasses most user-agent / bot blocks WebFetch hits (war.gov, newsnationnow.com, time.com are recurring offenders). Flow:
+>    - `mcp__playwright__browser_navigate` to the URL.
+>    - `mcp__playwright__browser_wait_for` if the page is slow / JS-rendered.
+>    - `mcp__playwright__browser_snapshot` to get the accessibility tree (best for clean article text), **or** `mcp__playwright__browser_evaluate` with `() => document.querySelector('article')?.innerText || document.body.innerText` to extract the article body.
+>    - If a paywall / cookie / consent modal blocks you, try `mcp__playwright__browser_handle_dialog` or click-to-dismiss via `mcp__playwright__browser_evaluate`. Do NOT log in or submit credentials.
+>    - `mcp__playwright__browser_close` when done.
+> 3. **Mirror search** as last resort — `WebSearch` for the exact headline + `site:archive.org` / `site:archive.today` / known reputable mirror. **Only use mirrors that carry verbatim content; never paraphrases or summaries.** Verify the mirror text against the original headline before trusting it.
+>
+> Extract: headline, author(s), publication date (YYYY-MM-DD), outlet, full article body (strip ads/nav/related-links, keep paragraphs intact), and 1-3 notable direct quotes.
 >
 > Write the result to `ufo/raw/inbox/src-<kebab-topic>-<yyyy>[-mm].md` using this format — nothing else:
 >
@@ -105,7 +118,7 @@ For each chosen URL, **dispatch one `Agent` (general-purpose) in parallel** — 
 >
 > Naming: kebab-case topic slug, no outlet name, no spelled-out month. Include `-mm` only if a `yyyy`-only filename would collide. Before writing, `ls ufo/raw/ ufo/raw/inbox/` to check for collisions — if the file would duplicate an existing source, DON'T write; return "SKIPPED: duplicate of <existing>".
 >
-> If the fetch fails or returns paywalled/empty content, DON'T write a file. Return "FAILED: <reason>". Don't fabricate.
+> If **all three** fetch strategies fail or only return paywalled/empty content, DON'T write a file. Return "FAILED: <reason — which strategies tried>". Don't fabricate.
 >
 > Return one line: `SAVED: ufo/raw/inbox/<filename>` or `SKIPPED: ...` or `FAILED: ...`.
 
@@ -225,6 +238,8 @@ Summarize to the user:
 - **Source pages are per-agent safe** (unique paths) — fetch agents may write directly to `ufo/raw/inbox/`.
 - **Dedupe twice**: once at triage (before fetching), once at fetch (before writing) — the world may have added dupes between phases.
 - **No fabrication**: if a subagent says `FAILED`, it's failed. Don't invent content.
+- **Playwright is a fallback, not the default**: it's slower and heavier than WebFetch. Only escalate to Playwright when WebFetch is blocked. The fetch agents handle this internally — the main agent should not invoke Playwright in Phase 1 (search) or Phase 4 (analysis is read-only on local files).
+- **Search via Playwright is rarely worth it**: WebSearch covers most discovery. Only reach for `mcp__playwright__browser_navigate` in Phase 1 if a specific outlet's in-site search or topic landing page is required and search engines won't surface it.
 - **Respect `CLAUDE.md`**: top-level for shared schema, `ufo/CLAUDE.md` for vault scope. Filenames, frontmatter, wikilinks, index/log format all follow those conventions.
 - **Wikilinks stay inside `ufo/`** — never link across vault boundaries.
 - **Freshness bias**: last 30 days unless the user explicitly asks for historical sweeps.
