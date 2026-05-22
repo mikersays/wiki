@@ -2,7 +2,7 @@
 title: Apollo 11
 type: entity
 created: 2026-05-08
-updated: 2026-05-10
+updated: 2026-05-22
 ---
 
 # Apollo 11
@@ -23,6 +23,8 @@ Surfaced May 9, 2026 via the AP wire ([[src-fortune-aldrin-apollo-11-uap-2026-05
 
 [[sean-kirkpatrick]]'s skeptical frame in Fortune — "arm-chair pseudoscience" warning against unsupported releases — applied to the broader Release-01 set rather than D4 specifically.
 
+[[avi-loeb]] (May 11, 2026 *The Hill's Rising* interview — [[src-loeb-two-ufo-interpretations-2026-05]]) advances a specific prosaic reading: **Aldrin's flashes are most plausibly cosmic rays**. He pairs the cosmic-ray reading with [[artemis-ii]]'s recent dark-side-of-the-Moon imagery (April–May 2026), which shows no anomalous orbital lights — taking the broader Apollo lunar-light family as either asteroid impacts or optical artifacts.
+
 See [[lunar-uap-historical-claims]] for the umbrella concept (competing IVA-debris vs. anomalous interpretations of crew transcripts).
 
 ## Related
@@ -30,3 +32,4 @@ See [[lunar-uap-historical-claims]] for the umbrella concept (competing IVA-debr
 - [[buzz-aldrin]] · [[apollo-12]] · [[apollo-17]] · [[skylab]] · [[gemini-7]] · [[nasa]]
 - [[lunar-uap-historical-claims]] · [[pursue]] · [[pursue-release-01-catalog]]
 - [[src-pursue-portal-launch-2026-05]] · [[src-fortune-aldrin-apollo-11-uap-2026-05]] · [[src-newsweek-luna-teases-disclosure-2026-05]]
+- [[src-loeb-two-ufo-interpretations-2026-05]] — Loeb's cosmic-ray reading of Aldrin's flashes; Artemis II dark-side imagery null

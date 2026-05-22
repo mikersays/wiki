@@ -2,7 +2,7 @@
 title: Galileo Project
 type: entity
 created: 2026-04-13
-updated: 2026-05-13
+updated: 2026-05-22
 ---
 
 # Galileo Project
@@ -39,6 +39,10 @@ The Galileo Project participated in [[aaro]]'s August 2025 UAP narrative-data wo
 
 After the May 8, 2026 [[pursue|PURSUE Release 01]], Loeb's Galileo Project team reviewed all 161 records and **found nothing requiring an exotic origin** — images resolve as optics/reflections or human-made objects, video details are heavily redacted, and the [[apollo-12|Apollo]] [[apollo-17|lunar lights]] are most plausibly asteroid-impact flashes or optical artifacts ([[lunar-uap-historical-claims]]). Loeb reiterated his "million-times-smaller budget" framing — that civilian instruments could pursue the same questions independently if appropriately funded ([[src-loeb-pentagon-uap-release-best-yet-2026-05]]).
 
+### Active communication with AARO (confirmed May 2026)
+
+Per Loeb's May 11, 2026 *The Hill's Rising* interview ([[src-loeb-two-ufo-interpretations-2026-05]]), the Galileo Project is in **active communication with [[aaro]]** — first explicit confirmation in the vault. The same interview reiterates that Galileo uses **three observatories** to derive distance / velocity / acceleration of each tracked object and test against human-tech performance envelopes — pairing the [[uap-triangulation]] methodology with the AARO interagency channel.
+
 ## Panspermia line of work (2026)
 
 Per [[src-loeb-panspermia-impact-survival-2026-03]], Loeb's research group has produced peer-reviewed papers on [[panspermia]] feasibility across [[trappist-1]], the Milky Way, and the Galactic center. The March 2026 essay extends this into [[directed-panspermia]] — proposing a microbe-nutrient-power capsule attached to an [[interstellar-objects|interstellar object]] like [[3i-atlas]] as a deliberate exoplanet-seeding mechanism. Loeb pairs this with the speculative "Trojan Horse" framing that some interstellar objects could carry technological payloads.
@@ -60,3 +64,4 @@ Per [[src-loeb-panspermia-impact-survival-2026-03]], Loeb's research group has p
 - [[src-aaro-uap-data-collection-whitepaper-2026-03]]
 - [[src-loeb-panspermia-impact-survival-2026-03]]
 - [[src-loeb-pentagon-uap-release-best-yet-2026-05]]
+- [[src-loeb-two-ufo-interpretations-2026-05]] — three-observatories detail + active AARO communication confirmation

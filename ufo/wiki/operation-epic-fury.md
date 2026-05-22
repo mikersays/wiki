@@ -2,7 +2,7 @@
 title: Operation Epic Fury
 type: concept
 created: 2026-04-16
-updated: 2026-05-17
+updated: 2026-05-22
 ---
 
 **Operation Epic Fury** is the U.S.-led, Israel-coordinated military campaign against Iran initiated by [[donald-trump|President Trump]] on **Feb. 28, 2026**. Public reporting describes strikes against Iranian leadership, naval and air power, manufacturing, and nuclear infrastructure. [[whiteman-afb|Whiteman AFB]] B-2s conducted the bomber strikes.
@@ -30,6 +30,10 @@ Per [[src-epic-fury-update-2026-04]]:
 - UAE absorbed 2,819 Iranian missile/drone attacks Feb 28–Apr 14 (most of any nation; Israel: 1,357).
 - Retired BG [[donald-bolduc]] critique: tactical wins, strategic gaps, no exit strategy.
 
+## First U.S. combat use of LUCAS (March 2026)
+
+Per Pentagon CTO statements reported in [[src-shield-ai-lucas-drone-swarm-2026-05]], [[centcom]] used the [[lucas-drone|LUCAS]] one-way attack drone in combat for the **first time** during Operation Epic Fury — the first operational deployment of the Iranian-clone OWA UAS the U.S. military has built. Pairing announced in May 2026: [[shield-ai]]'s [[hivemind]] swarm-autonomy software was selected to act as LUCAS's "AI pilot," with a fall 2026 capability demonstration planned.
+
 ## FY27 Posture Reference (April 2026)
 
 In Hegseth's April 29, 2026 FY27 [[department-of-war]] posture testimony to the [[house-armed-services-committee]], Operation Epic Fury is acknowledged as ongoing — cited alongside Operations Rough Rider, Midnight Hammer, and Absolute Resolve as proof of "second-to-none operational flexibility" ([[src-hegseth-fy27-posture-testimony-2026-04]]).
@@ -42,3 +46,4 @@ In Hegseth's April 29, 2026 FY27 [[department-of-war]] posture testimony to the 
 - [[src-epic-fury-update-2026-04]]
 - [[src-hegseth-fy27-posture-testimony-2026-04]]
 - [[src-army-counter-drone-marketplace-stateside-2026-04]] — Army Secretary Driscoll discloses 13,000 [[merops-interceptor|Merops]] at ~$15k/unit bought in the opening days of the Iran war; CENTCOM is also a named buyer through the [[jiatf-401-marketplace]].
+- [[src-shield-ai-lucas-drone-swarm-2026-05]] — DefenseScoop on first CENTCOM combat use of [[lucas-drone|LUCAS]] one-way attack drone during Epic Fury; Shield AI [[hivemind]] selected for swarm autonomy.

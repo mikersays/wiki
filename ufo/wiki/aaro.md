@@ -2,7 +2,7 @@
 title: All-domain Anomaly Resolution Office (AARO)
 type: entity
 created: 2026-04-13
-updated: 2026-05-17
+updated: 2026-05-22
 ---
 
 # All-domain Anomaly Resolution Office (AARO)
@@ -111,6 +111,8 @@ Per [[src-war-department-uap-release-2026-04]], a [[department-of-war|Department
 ## PURSUE Relationship (May 2026)
 
 The May 8, 2026 [[pursue]] launch creates an explicit **resolved/unresolved division of labor** in the federal UAP architecture: [[pursue]] (DoW-led) handles **unresolved** cases and rolling document releases; AARO retains statutory **resolved-case** reporting. The PURSUE portal's only "Learn More" link routes to `aaro.mil`, formalizing AARO as the public landing for case-resolution work. AARO's 2024 historical report finding (no evidence of recovered ET tech or biologics) is repeatedly cited by mainstream coverage as the institutional baseline against which PURSUE's substantive ceiling will be judged ([[src-uap-files-rollout-interagency-2026-05]], [[src-uap-files-public-conclusions-2026-05]]).
+
+In Release 02 ([[src-newsweek-pursue-release-02-2026-05]]), AARO is identified as the entity that **assembled the released Pentagon footage of the 2023 [[lake-huron-shootdown-2023|Lake Huron shootdown]]** in response to lawmaker requests, and **flagged a 2022 submarine-vicinity transmedium-sphere clip** for further analysis. Per [[avi-loeb]]'s May 11, 2026 *The Hill's Rising* interview ([[src-loeb-two-ufo-interpretations-2026-05]]), the [[galileo-project]] is in **active communication with AARO** — first explicit confirmation in the vault of civilian-research-team coordination with the office.
 
 Per a "War Department official" cited in [[src-defensescoop-pursue-not-disclosure-2026-05]]: *"AARO is responsible for coordinating the declassification of identified DOW files. AARO also prepares DOW files and files provided by other agencies for posting on war.gov/ufo. AARO will continue to conduct its statutory mission of detecting, identifying, analyzing, and resolving UAP. Any encounters described in these releases that are resolved in the future will be posted on aaro.mil."* This is the first explicit on-record framing of AARO as the **interagency declassification coordinator** for the PURSUE pipeline.
 

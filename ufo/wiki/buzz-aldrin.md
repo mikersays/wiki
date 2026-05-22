@@ -2,7 +2,7 @@
 title: Buzz Aldrin
 type: entity
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-05-22
 ---
 
 # Buzz Aldrin
@@ -25,9 +25,14 @@ The "could be a laser" line is the headline AP-wire quote in [[src-fortune-aldri
 
 Aldrin has historically been cited for past Apollo 11 UAP commentary; PURSUE Release 01 marks the first wiki-cited surfacing of his actual debriefing transcript content rather than later interviews.
 
+## Skeptical scientific reading (May 2026)
+
+[[avi-loeb]] (May 11, 2026 *The Hill's Rising* — [[src-loeb-two-ufo-interpretations-2026-05]]) offers a new prosaic explanation for Aldrin's flashes: **cosmic rays**. Combined with [[artemis-ii]]'s recent dark-side-of-the-Moon imagery (April–May 2026, no anomalous orbital lights), Loeb argues the broader Apollo lunar-light family is most plausibly asteroid impacts or optical artifacts (see [[lunar-uap-historical-claims]]).
+
 ## Sources
 
 - [[src-fortune-aldrin-apollo-11-uap-2026-05]]
 - [[src-newsweek-luna-teases-disclosure-2026-05]]
 - [[src-trump-uap-apollo-photos-2026-05]]
 - [[src-leonard-david-pursue-column-2026-05]]
+- [[src-loeb-two-ufo-interpretations-2026-05]]

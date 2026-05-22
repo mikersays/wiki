@@ -2,7 +2,7 @@
 title: Anna Paulina Luna
 type: entity
 created: 2026-04-13
-updated: 2026-05-13
+updated: 2026-05-22
 ---
 
 # Anna Paulina Luna
@@ -57,6 +57,22 @@ In an April 29, 2026 episode of New York Post columnist [[miranda-devine]]'s *Po
 
 Luna pre-announced [[pursue]] Release 01 with a cryptic "**8 a.m.**" X post ([[src-newsweek-luna-teases-disclosure-2026-05]]) and directed followers to a [[joe-rogan]] episode featuring [[tim-burchett]] and to the **Book of Enoch** (Watchers / Nephilim) — her first explicit Enoch citation in this wiki, anchoring her commentary on the Christian-eschatological side of [[theological-uap-framing]] alongside Rep. [[lauren-boebert]]. Post-launch reactions: "a massive first step in the right direction"; said additional videos would follow ([[src-fortune-aldrin-apollo-11-uap-2026-05]]).
 
+## "Biblically accurate angel" post (May 2026)
+
+Shortly after the May 8 PURSUE files dropped, Luna posted an image of a "biblically accurate" angel — interlocking rings studded with eyes and wings. Commenters on X linked the image to the 2013 Middle East IR "eight-pointed star" UAP clip ([[dow-uap-pr38]]). Luna told [[courthouse-news-service|Courthouse News Service]] in a Capitol-corridor interview that the post was **"unrelated"** to the [[department-of-war]] release and only "a modern-day interpretation" of angelic form ([[src-religious-republicans-uap-files-2026-05]]) — a measured walk-back contrasting with her same-day Book-of-Enoch pointer.
+
+## Harvard meeting with Avi Loeb (April–May 2026)
+
+Per [[avi-loeb]] in his May 11, 2026 *The Hill's Rising* interview ([[src-loeb-two-ufo-interpretations-2026-05]]), Luna **visited Loeb's Harvard office "a few weeks ago"** for an extended in-person discussion. This is the first vault evidence of direct Luna–Loeb engagement on UAP transparency, formalizing the rhetorical alignment already present in their respective May 2026 PURSUE commentary.
+
+## May 15, 2026 — Joint Kosloski–Burlison review session
+
+Per Luna's X post the same day (preserved in [[src-debrief-pursue-next-batch-preview-2026-05]]), Luna, AARO director [[jon-kosloski]], and Rep. [[eric-burlison]] completed review of **"40+ videos set for declassification"** ahead of [[pursue]] Release 02. Luna's post is her **first explicit endorsement of Kosloski**, after months of "documented liar"-tier criticism of his predecessor [[sean-kirkpatrick]]:
+
+> "We are standing with the NEW and very QUALIFIED Director of AARO who now has my full support and has proven through action that he is working in good faith on declass efforts."
+
+This pivots Luna's posture: from adversary to qualified ally of AARO leadership, at least under Kosloski. The reviewed videos are expected in PURSUE Release 02 (May 22, 2026 — see [[src-pentagon-second-batch-ufo-release-2026-05]]).
+
 ## April 24, 2026 UAP Hearing
 
 Luna chaired a second hearing on April 24, 2026: "Restoring Public Trust Through UAP Transparency and Whistleblower Protection" — the official primary-source record of which is at [[src-uap-transparency-hearing-2026-04]]. Featured additional military witnesses ([[jeffrey-nuccetelli]], [[dylan-borland]], [[alexandro-wiggins]]) and Rep. [[eric-burlison]]'s public release of MQ-9/Yemen orb footage. (Note: analysis agent originally assessed this as the September 9, 2025 hearing; the April 24, 2026 date is from the hearing page URL.)
@@ -83,3 +99,8 @@ Luna chaired a second hearing on April 24, 2026: "Restoring Public Trust Through
 - [[src-debrief-pursue-launch-2026-05]] — May 8, 2026: Luna calls PURSUE Release 01 "a great first step" and signals a second tranche, including her demanded videos, may arrive within weeks
 - [[src-newsweek-luna-teases-disclosure-2026-05]] — May 8, 2026: Luna's "8 a.m." pre-launch tease, Rogan/Burchett pointer, and explicit Book of Enoch reference
 - [[src-fortune-aldrin-apollo-11-uap-2026-05]] — May 9, 2026: AP wire quotes Luna saying additional videos will be released later
+- [[src-debrief-pursue-next-batch-preview-2026-05]] — May 15, 2026 joint Luna–Kosloski–Burlison "40+ videos" review session; first explicit Luna endorsement of Kosloski
+- [[src-pentagon-second-batch-ufo-release-2026-05]] — May 22, 2026 PURSUE Release 02 (delivers on the rolling-tranche pledge)
+- [[src-newsweek-pursue-release-02-2026-05]] — Newsweek Release 02 wire
+- [[src-loeb-two-ufo-interpretations-2026-05]] — Loeb's *The Hill's Rising* transcript naming Luna's Harvard office visit
+- [[src-religious-republicans-uap-files-2026-05]] — Courthouse News "biblically accurate angel" walkback

@@ -2,7 +2,7 @@
 title: PURSUE — Presidential Unsealing and Reporting System for UAP Encounters
 type: concept
 created: 2026-05-08
-updated: 2026-05-18
+updated: 2026-05-22
 ---
 
 
@@ -75,6 +75,43 @@ Established in response to [[donald-trump]]'s Truth Social directive dated 2026-
 - **US military-readership wire**: Stars and Stripes (May 8, 2026; Phillip Walter Wellman) is the **only Release-01 wire to enumerate all three combatant commands** — [[us-indo-pacific-command]], [[centcom]], and [[us-european-command]] — as contributors of "unresolved" UAP videos, and the only one to lead with [[apollo-12]] (vs. [[apollo-17]]) for the included lunar imagery ([[src-stripes-pursue-uap-files-2026-05]]).
 - **European framing**: [[euronews|Euronews]] (May 9, 2026) describes the portal's design as "decidedly retro" — black-and-white military imagery, typewriter-font statements — and lifts [[paul-peyerl]]'s FBI account of a 1944 Black Forest Nazi disc-aircraft as the lead anchor of the tranche ([[src-euronews-trump-162-ufo-files-2026-05]]). Trump's Truth Social framing — release lets the public "decide for themselves" — is reproduced as the formal **public-judges-evidence** framing.
 - **Japan formal review (May 13, 2026)**: Chief Cabinet Secretary [[minoru-kihara]] confirms Tokyo is reviewing the [[pursue|PURSUE Release 01]] trove alongside U.S. and partner governments, focused on the [[us-indo-pacific-command|INDOPACOM]] records near Japanese airspace including the 2023 IR clip [[dow-uap-pr47]] and the 2024 "football-shaped" object; Japan's [[japan-uap-parliamentary-group|80-member bipartisan parliamentary group]] cited as institutional backdrop ([[src-japan-pentagon-uap-trove-reaction-2026-05]]). First foreign-government on-record confirmation of formal PURSUE engagement.
+
+## Release 02 (May 22, 2026)
+
+Released exactly **14 days** after Release 01 — operationalizing the [[rolling-release-cadence|rolling-release cadence]] that DoW officials had previewed in the days after launch. Confirmed by [[washington-times|The Washington Times]] (Mike Glenn, [[src-pentagon-second-batch-ufo-release-2026-05]]).
+
+- **Headline anecdote:** Form 302-style report of a senior U.S. intelligence officer pursuing "glowing orbs" near a sensitive U.S. military facility; object rose from the ground, approached within 10 feet of the helicopter under night-vision, split in two, outran the chase.
+- **Earliest-era newly declassified files:** 200+ sightings of "green orbs," "discs," and "fireballs" at [[sandia-new-mexico|Sandia, NM]] (1948–1950) by the U.S. Air Force and the [[armed-forces-special-weapons-project]] — the **densest documented early UAP–nuclear-facility cluster on record**.
+- **1973 [[cia]] document:** Soviet intelligence source at the [[sary-shagan]] missile-defense test range in Kazakhstan observed a "luminous, bright-green unidentified object" forming "concentric circles" over several minutes before silently dissipating.
+- **Portal traffic:** war.gov/UFO has logged **more than 1 billion hits** since the May 8 launch (Pentagon officials).
+- **Posture (unchanged):** "unresolved cases," Pentagon non-determination, "we welcome the application of private sector analysis."
+- **Pre-release portal signals (May 21):** the "Release 01" page heading was shortened to "Release"; the site briefly listed up to **140 blank file-listing pages** before reverting — anticipated by [[micah-hanks]] in [[the-debrief|The Debrief]] ([[src-debrief-pursue-next-batch-preview-2026-05]]).
+
+### Release 02 — Newsweek-surfaced specifics
+
+Corroborated and expanded by [[newsweek|Newsweek]] (Castro & Robinson, [[src-newsweek-pursue-release-02-2026-05]]):
+
+- **Lake Huron 2023 shootdown footage actually released** — Pentagon footage assembled by [[aaro]] in response to lawmaker requests; framed as "one of the clearest military engagement clips" in the archive (see [[lake-huron-shootdown-2023]]; [[aesir11]]).
+- **Apollo 12 post-mission medical-debrief audio**: [[pete-conrad|Conrad]], [[richard-gordon|Gordon]], and [[alan-bean|Bean]] describe eyes-closed "flashes" during sleep periods; NASA later concluded internal visual effects (cosmic-ray phosphenes) — not external light sources.
+- **Sandia, NM file inventory**: 116 pages, 209 reports, residual copper powder investigations, fed into [[project-grudge|Project Grudge]] (1949 USAF program).
+- **2022 Iran IR clip**: four objects over water near Iran.
+- **2024 [[u-s-coast-guard|U.S. Coast Guard]] recording** of an aircraft-proximity UAP over the southeastern U.S.
+- **2022 submarine-vicinity transmedium clip**: several spherical objects entering/exiting water — flagged by AARO for further analysis ([[transmedium-uap]]; [[unidentified-submerged-objects]]).
+- **Helicopter Form 302 (late-2025)** new detail: "two large orbs" forming a **distinct triangle** before disappearing — same encounter family as [[src-fox-helicopter-near-miss-orbs-2026-05]] with new triangle-formation detail.
+
+## Release 02 — Preview content (Luna 46 videos)
+
+Per [[micah-hanks]]'s May 21 2026 preview ([[src-debrief-pursue-next-batch-preview-2026-05]]), up to **46 [[aaro]]-held UAP videos** demanded in [[anna-paulina-luna]]'s March 31, 2026 letter ([[src-luna-46-uap-videos-demand-2026-03]]) are slated for release. Named clips include:
+
+- **August 26, 2022** — four-object formation over Iran.
+- **2021** — Syrian "instant acceleration" object.
+- **March 25, 2022** — multiple spherical [[unidentified-submerged-objects|USOs]] near a U.S. submarine ("in and out of water"); "UAP USO formation Wiley 2X Zinc" → [[transmedium-uap]].
+- **November 23, 2020** — sphere over Afghanistan in/out of clouds; **2022** "erratic" sphere; "pulsing" sphere over water; three-video April 12 2021 spherical sequence.
+- **2022** [[reaper-uas|MQ-9 Reaper]] EO capture of a "[[metallic-orb]]" — AARO 2025 mission brief: "consistent with other 'metallic orb' observations in the region."
+- **October 15, 2022** — cigar-shaped / fat spherical UAP; a [[hc-144-ocean-sentry|USCG HC-144 Ocean Sentry]] FLIR capture of a [[tic-tac-uap|Tic Tac-shaped]] object.
+- **October 29, 2020** — three [[fast-mover|"fast mover"]] UAPs observed by U.S. personnel.
+- **AARO-resolved cases** in the queue: the **January 26, 2023 [[eglin-afb-diamond-formation-2023|Eglin AFB diamond-formation]]** (AARO: "very likely an ordinary object," lighting-balloon hypothesis with "moderate confidence" — critiqued by [[mick-west]] as under-evidenced; see [[lighting-balloon-hypothesis]]); the **February 12, 2023 [[lake-huron-shootdown-2023|Lake Huron AIM-9X shootdown]]** filmed by F-16C pilot callsign [[aesir11|AESIR11]] — per [[sean-kirkpatrick]]'s April 27 2026 [[center-for-naval-analyses]] talk, one of the early-2023 hobbyist-balloon shootdowns.
+- **Luna–Kosloski–Burlison joint May 15, 2026 review:** [[anna-paulina-luna]], [[jon-kosloski]], and [[eric-burlison]] completed review of "40+ videos set for declassification"; Luna's X post expresses "full support" for Kosloski's good-faith declass efforts — the first explicit Luna endorsement of Kosloski.
 
 ## Pre-launch volume framing (Feb 2026)
 

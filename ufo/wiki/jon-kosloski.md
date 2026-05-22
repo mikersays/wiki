@@ -2,7 +2,7 @@
 title: Jon Kosloski
 type: entity
 created: 2026-04-14
-updated: 2026-05-17
+updated: 2026-05-22
 ---
 
 # Jon Kosloski
@@ -34,6 +34,10 @@ Kosloski has taken a notably different approach from predecessor Sean Kirkpatric
 - Deployed the **Gremlin** prototype sensor system for UAP detection
 - Announced plans for a civilian public reporting mechanism
 
+## May 15, 2026 — Luna and Burlison endorsement
+
+Per Luna's X post that day (preserved in [[src-debrief-pursue-next-batch-preview-2026-05]]), Kosloski joined Reps. [[anna-paulina-luna]] and [[eric-burlison]] for a review of "40+ videos set for declassification" — the queue feeding [[pursue]] Release 02. Luna's accompanying message is her **first explicit endorsement of Kosloski**, after months of pointed criticism of predecessor [[sean-kirkpatrick]]. The pivot positions Kosloski as a credible AARO interlocutor for the disclosure caucus and marks AARO's continued institutional role even as H.R. 8197 ([[src-aaro-shutdown-bill-2026]]) remains pending.
+
 ## Sources
 
 - [[src-aaro-kosloski-testimony-2024]]
@@ -41,3 +45,4 @@ Kosloski has taken a notably different approach from predecessor Sean Kirkpatric
 - [[src-aaro-full-operational-capability-2024]]
 - [[src-aaro-uap-data-collection-whitepaper-2026-03]] — Delivered opening remarks at the Aug 2025 [[aui]] UAP narrative-data workshop
 - [[src-debrief-aaro-course-correcting-2024-11]] — [[micah-hanks]] op-ed framing Kosloski's posture as a post-Kirkpatrick course correction
+- [[src-debrief-pursue-next-batch-preview-2026-05]] — May 15 2026 Luna–Kosloski–Burlison "40+ videos" review session and Luna's first explicit endorsement

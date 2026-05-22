@@ -2,7 +2,7 @@
 title: MQ-9 Reaper UAS
 type: concept
 created: 2026-05-08
-updated: 2026-05-16
+updated: 2026-05-22
 ---
 
 # MQ-9 Reaper UAS
@@ -28,8 +28,14 @@ The **MQ-9 Reaper** (and similar medium-altitude long-endurance UAS) is a recurr
 - **UAE 2024 special-operations MQ-9** — "hot, spherical object" with "vertical unwavering probe."
 - **May 2022 western Syria MQ-9** — Russian Su-27 or Su-35 flew close beneath the drone (intercept-approach during a contested-airspace sortie).
 
+## 2022 metallic-orb EO capture (per AARO 2025 mission brief)
+
+Per [[micah-hanks]] previewing [[pursue]] Release 02 ([[src-debrief-pursue-next-batch-preview-2026-05]]), [[aaro]]'s 2025 mission brief described a **2022 MQ-9 Reaper electro-optical capture** of a [[metallic-orb]] whose characteristics were "consistent with other 'metallic orb' observations in the region." Reinforces the Reaper-imagery dominance theme — both for IR features and for the metallic-orb shape class recurring across CENTCOM-AOR observations.
+
 ## Related
 
 - [[parallax]] · [[infrared-imagery]] · [[lens-flare-explanations]]
 - [[pursue]] · [[pursue-release-01-catalog]]
 - [[mick-west]]
+- [[metallic-orb]]
+- [[src-debrief-pursue-next-batch-preview-2026-05]]

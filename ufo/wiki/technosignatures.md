@@ -2,7 +2,7 @@
 title: Technosignatures
 type: concept
 created: 2026-04-16
-updated: 2026-05-14
+updated: 2026-05-22
 ---
 
 **Technosignatures** are observable signs of technology that would indicate the presence of an intelligent civilization — as distinct from [[biosignatures]], which indicate the presence of life without requiring intelligence or technology.
@@ -56,6 +56,15 @@ An additional factor: **[[stellar-plasma-scattering]]** — stellar wind plasma 
 
 Earth's outgoing technosignatures — most directly its [[nighttime-light-emissions]] measured by [[viirs-dnb]] — function as a working ground-truth model for what an alien observer might detect from a comparably industrialized exoplanet. See [[terrestrial-technosignature]] for the full subclass list (nighttime light, atmospheric industrial gases, waste heat, RF leakage) and [[christopher-kyba]]'s 2014–2022 global VIIRS DNB analysis ([[src-terrestrial-technosignatures-satellites-2026-04]]). The [[esa]]-proposed [[earth-explorer-13]] dedicated night-lights satellite would deepen this calibration.
 
+## AbSciCon26 forward-looking threads (May 2026)
+
+The second [[abscicon26|AbSciCon26]] media tipsheet ([[src-abscicon26-media-tips-2-2026-05]]) surfaces several speculative-edge technosignature threads under active conference discussion:
+
+- **Stellar plasma scattering of alien radio** — extends the near-source signal-distortion problem already covered in [[src-plasma-technosignature-scattering-2026]].
+- **Spider pulsars as escape ships** — speculative civilizational use of binary millisecond pulsars.
+- **Detectable megamirrors around exoplanets** — software pipelines being designed to identify large reflective megastructures.
+- **Exo-Earth detectability** — which exoplanets could observe Earth's biosignature/technosignature via transit photometry.
+
 ## Sources
 
 - [[src-k2-18b-technosignature-null-2026]]
@@ -64,3 +73,4 @@ Earth's outgoing technosignatures — most directly its [[nighttime-light-emissi
 - [[src-interplanetary-habitable-zone-2026]]
 - [[src-terrestrial-technosignatures-satellites-2026-04]]
 - [[src-brats-radio-technosignatures-2026-05]]
+- [[src-abscicon26-media-tips-2-2026-05]]

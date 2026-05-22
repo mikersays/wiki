@@ -2,7 +2,7 @@
 title: Mick West
 type: entity
 created: 2026-05-08
-updated: 2026-05-20
+updated: 2026-05-22
 ---
 
 # Mick West
@@ -36,8 +36,17 @@ In the same news cycle, [[src-sciam-pursue-skeptics-2026-05]] quoted West summar
 
 [[aravindan-neelakandan]]'s May 16, 2026 [[swarajya|Swarajya]] essay ([[src-swarajya-disclosure-distraction-2026-05]]) explicitly credits West / Metabunk with already replicating the sensor artifacts behind several flagship PURSUE clips — using West's debunking as the foundation for a broader [[psychological-uap-framing]] pivot.
 
+## Critique of AARO's lighting-balloon hypothesis (May 2026)
+
+In comments to [[the-debrief|The Debrief]] previewing [[pursue]] Release 02 ([[src-debrief-pursue-next-batch-preview-2026-05]]), West directly criticized [[aaro]]'s preferred prosaic explanation for the [[eglin-afb-diamond-formation-2023|January 26, 2023 Eglin AFB diamond-formation]] incident:
+
+> "The lighting balloon hypothesis always felt like something someone at AARO liked, but wasn't really supported by much evidence."
+
+This pushes back against the [[lighting-balloon-hypothesis]] pattern in AARO case resolutions — a notable instance of a leading skeptic critiquing an AARO explanation as under-supported (rather than the more common reverse).
+
 ## Sources
 
 - [[src-metabunk-pursue-analysis-2026-05]]
 - [[src-sciam-pursue-skeptics-2026-05]]
 - [[src-swarajya-disclosure-distraction-2026-05]]
+- [[src-debrief-pursue-next-batch-preview-2026-05]]

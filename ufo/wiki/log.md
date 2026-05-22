@@ -1,11 +1,77 @@
 ---
 title: Log
-updated: 2026-05-17
+updated: 2026-05-22
 ---
 
 # Log
 
 Chronological record of wiki activity. Each entry uses the format `## [YYYY-MM-DD] action | description` for easy parsing.
+
+## [2026-05-22] ingest | PURSUE Release 02 focus sweep (3 articles, /ufo-news, parallel)
+
+Fetched via `/ufo-news PURSUE release 2`. Five parallel search agents dispatched (release-02-content, release-02-reactions, release-02-politics, release-02-international, release-02-aaro-primary). Triage dropped overlap with the same-day Release-02 ingest of the Washington Times / Debrief preview / DefenseScoop "data alone is not disclosure"; 7 candidates survived → **3 saved, 4 failed/skipped**.
+
+**New source pages (3):**
+
+- ✅ [[src-newsweek-pursue-release-02-2026-05]] — Newsweek (Castro & Robinson, May 22 2026) Release 02 wire: Pentagon Lake Huron 2023 shootdown footage released ("clearest military engagement clip"), 116-page Sandia NM 1948–1950 file (209 reports, residual copper powder, Project Grudge), Apollo 12 medical-debrief eyes-closed flashes (cosmic-ray phosphenes), 2022 Iran IR formation, 2024 Coast Guard southeastern-U.S. clip, 2022 submarine-vicinity transmedium spheres flagged by AARO, CENTCOM AOR 2018–2023.
+- ✅ [[src-loeb-two-ufo-interpretations-2026-05]] — Avi Loeb Medium / *The Hill's Rising* transcript (May 11 2026): two-interpretations framing (adversarial human-made vs 1-in-a-million non-human, either way a serious matter); cosmic-ray reading of Aldrin's Apollo 11 flashes; Artemis II dark-side-of-Moon imagery debunks lunar-UAP claims; Galileo Project uses three observatories and is in active communication with AARO; Luna visited Loeb's Harvard office a few weeks prior; Loeb cameo in *Sol Hershkowitz's Guide to Extraterrestrial Life*.
+- ✅ [[src-religious-republicans-uap-files-2026-05]] — Courthouse News (Benjamin S. Weiss, May 15 2026): Christian-Republican readings of PURSUE Release 01 — Luna's "biblically accurate angel" post (on-record denial it was UAP-related), Boebert's explicit Nephilim/fallen-angels/"demonic" framing, Burlison's stick-to-scripture "underscores the Christian worldview" moderation, Burchett's Ezekiel "wheel within a wheel" and Genesis 1:1 open cosmology.
+
+**Failed/skipped (4):**
+
+- ❌ war.gov primary-source Release 02 press release (article 4480582) — HTTP 403 on war.gov and across mirror options (Internet Archive, globalsecurity.org, military mirrors); no verbatim text available without fabrication.
+- ❌ NewsNation Release 02 wire — HTTP 403 on newsnationnow.com.
+- ❌ NewsNation "UAP Disclosure Not a Sprint—It's a Marathon" (ex-Pentagon official) — HTTP 403 on newsnationnow.com.
+- ⏭ The Debrief "Pentagon Poised to Release New Batch of UAP Videos Under PURSUE Initiative" — fetch agent assessed as a duplicate Intelligence-Brief column of the existing [[src-debrief-pursue-next-batch-preview-2026-05]] (same author/date/outlet, links back to the existing piece).
+
+**New entity pages (11):** [[newsweek]] · [[amanda-castro]] · [[matthew-robinson]] · [[project-grudge]] · [[pete-conrad]] · [[richard-gordon]] · [[alan-bean]] · [[u-s-coast-guard]] · [[artemis-ii]] · [[courthouse-news-service]] · [[benjamin-s-weiss]]
+
+**New concept pages (1):** [[nephilim]]
+
+**Existing pages updated (~14):** [[avi-loeb]] (two-interpretations framing, Luna Harvard visit, Galileo-AARO comms, Artemis II Moon argument, Aldrin cosmic-ray reading) · [[anna-paulina-luna]] ("biblically accurate angel" walkback + Loeb Harvard visit) · [[lauren-boebert]] (explicit Nephilim framing) · [[eric-burlison]] (stick-to-scripture theological framing) · [[tim-burchett]] (Ezekiel + Genesis open cosmology) · [[theological-uap-framing]] (Burchett/Burlison/Boebert layers + Luna angel post) · [[galileo-project]] (three-observatories detail + active AARO comms) · [[apollo-11]] (Loeb cosmic-ray reading) · [[apollo-12]] (Conrad/Gordon/Bean medical-debrief audio) · [[buzz-aldrin]] (Loeb cosmic-ray reading) · [[lunar-uap-historical-claims]] (Artemis II reinforcement + Apollo 12 medical-debrief) · [[lake-huron-shootdown-2023]] (footage **actually released** in Release 02, not just previewed) · [[sandia-new-mexico]] (116-page file, residual copper powder, Project Grudge) · [[pursue]] (Release 02 Newsweek-surfaced specifics section) · [[rolling-release-cadence]] (multi-source confirmation) · [[war-gov-ufo-portal]] (multi-sourced >1B hits) · [[aaro]] (Lake Huron assembly + submarine flag + Galileo-comms confirmation) · [[pete-hegseth]] (additional Release 02 quote + Newsweek line) · [[centcom]] (CENTCOM AOR 2018-2023 in PURSUE 02) · [[department-of-war]] (Newsweek Release 02 corroboration)
+
+**Cross-connections surfaced:**
+
+- The **Lake Huron 2023 shootdown** moved from "previewed for Release 02" ([[src-debrief-pursue-next-batch-preview-2026-05]]) to "actually released in Release 02" ([[src-newsweek-pursue-release-02-2026-05]]) — closing the long-standing [[the-war-zone|War Zone]] non-release critique on the early-2023 shootdown imagery.
+- The **Apollo cosmic-ray phosphene reading** now spans both Apollo 11 (Aldrin, via Loeb on *The Hill's Rising*) and Apollo 12 (Conrad/Gordon/Bean, via the Release 02 medical-debrief audio surfaced by Newsweek). The phosphene framing is becoming the consensus prosaic explanation for Apollo "flashes" claims.
+- **Avi Loeb ↔ Anna Paulina Luna** is now a documented direct relationship: Luna visited Loeb's Harvard office in April–May 2026 for an extended discussion. Pairs with Loeb's two-interpretations framing being adopted into the Luna-led disclosure cluster.
+- **Galileo Project ↔ AARO**: Loeb confirms the project is in active communication with AARO — the first explicit civilian-research-team / AARO coordination on record, complementing the existing AARO/AUI workshop track ([[src-aaro-uap-data-collection-whitepaper-2026-03]]).
+- **Theological framing now has three distinct Republican registers**: Boebert's [[nephilim|Nephilim]]/demonic, Burlison's stick-to-scripture "Christian worldview" moderation, and Burchett's Ezekiel/Genesis open cosmology — all sourced to a single Courthouse News piece.
+
+**Suggested follow-ups:**
+
+- Retry the war.gov Release 02 primary-source press release in 48–72h when mirror sites may stabilize, or via a different fetch route.
+- Open a per-record catalog for PURSUE Release 02 paralleling [[pursue-release-01-catalog]] once a full inventory surfaces.
+- Watch for international (BBC, Guardian, Le Monde, Japan Times, Globo) Release 02 coverage — the international track was sparse at sweep time.
+- Track whether the **46 Luna-demanded videos** actually land in Release 03+ as Loeb anticipates "within the next month."
+
+## [2026-05-22] ingest | UFO news sweep (6 articles, /ufo-news, parallel)
+
+Fetched via `/ufo-news`. Eight parallel search agents dispatched across tracks (congressional-hearings, AARO, whistleblowers, pentagon-dod, primary-sources, astrobiology, incidents, international). Triage dropped overlap with existing PURSUE / Barksdale / AbSciCon coverage; **7 candidates survived → 6 saved, 1 failed** (TIME paywalled / HTTP 403). Six parallel analysis agents produced structured source pages + entity/concept updates.
+
+**New source pages (6):**
+
+- ✅ [[src-shield-ai-lucas-drone-swarm-2026-05]] — DefenseScoop (Drew F. Lawrence, May 20 2026): Pentagon selects Shield AI's Hivemind as the swarm/AI-pilot stack for LUCAS one-way attack drone (Iranian clone, first CENTCOM combat use during Epic Fury); fall 2026 demo; FY27 $53.6B autonomy + $21B C-UAS/CCA.
+- ✅ [[src-debrief-pursue-next-batch-preview-2026-05]] — The Debrief (Micah Hanks, May 21 2026): preview of imminent PURSUE Release 02 with up to 46 AARO-held videos (Iran 2022 formation, Wiley 2X Zinc USO, Eglin AFB diamond, Lake Huron AIM-9X / AESIR11); Luna–Kosloski–Burlison May 15 joint review.
+- ✅ [[src-pentagon-second-batch-ufo-release-2026-05]] — Washington Times (Mike Glenn, May 22 2026): PURSUE Release 02 — Sandia NM 1948–1950 200+ green-orb/disc/fireball cluster (USAF + AFSWP), 1973 CIA Sary Shagan Soviet-source UAP, helicopter glowing-orbs Form 302; >1B war.gov/ufo hits since May 8.
+- ✅ [[src-abscicon26-media-tips-2-2026-05]] — AGU Newsroom (May 17 2026): second AbSciCon26 tipsheet — robot explorers (Icefin, Mars-caves heli-drone, 15 m drill), 2026 COSPAR icy-worlds Planetary Protection update (1,000-year biological-exploration period), technosignatures (spider pulsars, megamirrors, plasma scattering), astrobiologist-safety session.
+- ✅ [[src-france-national-assembly-uap-conference-2026-05]] — Sentinel News (Baptiste Friscourt, May 18 2026): first-ever French National Assembly UAP symposium June 29 2026, organized by MP Arnaud Saint-Martin (LFI) with OPECST vice president Pierre Henriet (HOR); CNES + GEIPAN support.
+- ✅ [[src-jiatf-401-counter-drone-homeland-guidance-2026-01]] — DoW (Jan 26 2026): foundational primary-source release on JIATF-401's SecWar-signed Dec 8 2025 homeland C-UAS guidance under 10 USC 130i; 60-day installation-specific SOP deadline; earliest on-record Matt Ross "defining threat for our time" quotes.
+- ❌ TIME magazine PURSUE explainer — HTTP 403 on time.com, dropped.
+
+**New entity pages (33):** [[shield-ai]] · [[hivemind]] · [[lucas-drone]] · [[defense-autonomous-warfare-group]] · [[drew-lawrence]] · [[aesir11]] · [[lake-huron-shootdown-2023]] · [[eglin-afb-diamond-formation-2023]] · [[hc-144-ocean-sentry]] · [[center-for-naval-analyses]] · [[sandia-new-mexico]] · [[armed-forces-special-weapons-project]] · [[sary-shagan]] · [[cia]] · [[mike-glenn]] · [[washington-times]] · [[cospar]] · [[outer-space-treaty]] · [[icefin]] · [[robin-wordsworth]] · [[samuel-howell]] · [[jennifer-blank]] · [[henry-wolf]] · [[joey-palmowski]] · [[arnaud-saint-martin]] · [[pierre-henriet]] · [[french-national-assembly]] · [[opecst]] · [[cnes]] · [[baptiste-friscourt]] · [[sentinel-news]] · [[10-usc-130i]] · [[installation-commanders]] · [[joint-c-suas-university]]
+
+**New concept pages (11):** [[drone-swarm]] · [[transmedium-uap]] · [[metallic-orb]] · [[tic-tac-uap]] · [[fast-mover]] · [[lighting-balloon-hypothesis]] · [[icy-worlds-protection-policy]] · [[mars-caves]] · [[astrobiology-safety]] · [[synthetic-biology-spaceflight]] · [[rolling-release-cadence]]
+
+**Existing pages updated (~22):** [[pursue]] (added Release 02 section + Luna-Kosloski-Burlison May 15 review + 46-video preview) · [[anna-paulina-luna]] (May 15 endorsement of Kosloski) · [[jon-kosloski]] (first explicit Luna endorsement) · [[eric-burlison]] (joint review participation) · [[micah-hanks]] (Release 02 preview byline) · [[the-debrief]] (Release 02 preview) · [[mick-west]] (direct lighting-balloon-hypothesis critique quote) · [[sean-kirkpatrick]] (April 27 2026 CNA hobbyist-balloon framing) · [[reaper-uas]] (2022 metallic-orb EO capture per AARO 2025 mission brief) · [[centcom]] (first combat use of LUCAS) · [[operation-epic-fury]] (LUCAS combat debut + Hivemind selection) · [[autonomous-warfare]] (FY27 $53.6B autonomy line) · [[drone-dominance]] (FY27 $53.6B + $21B + LUCAS operational realization) · [[pete-hegseth]] (May 22 Release 02 statement + Dec 8 2025 C-UAS guidance signing) · [[department-of-war]] (Release 02 section + Dec 2025 C-UAS guidance section) · [[war-gov-ufo-portal]] (>1B hits, rolling cadence, Release 02) · [[jiatf-401]] (Dec 2025/Jan 26 foundational guidance section) · [[matt-ross]] (earliest on-record quotes) · [[counter-uas]] (Dec 2025 guidance reference) · [[geipan]] (June 29 National Assembly symposium support + tri-ministerial oversight detail) · [[roger-wiens]] (AbSciCon26 lava-tube heli-drone) · [[technosignatures]] (AbSciCon26 forward threads — spider pulsars, megamirrors) · [[planetary-protection]] (2026 COSPAR icy-worlds update) · [[unidentified-submerged-objects]] (PURSUE Release 02 USO clips)
+
+**Filename note:** the JIATF-401 piece was published Jan 26, 2026 (older than the 30-day default), but was kept because it is the foundational primary-source guidance that subsequent JIATF-401 / counter-UAS coverage in the vault references back to. Filename uses `-2026-01` accordingly.
+
+**Cross-connections surfaced:**
+- The two PURSUE-related sources (`debrief-next-batch-preview` and `pentagon-second-batch`) bracket the Release 01 → Release 02 transition: a May 21 preview by The Debrief anticipating a tranche by week's end, followed by the actual Release 02 drop on May 22 — confirming the 14-day rolling cadence.
+- The Shield AI / LUCAS / Hivemind story links into the existing autonomous-warfare + drone-dominance + JIATF-401 + Operation Epic Fury cluster as the headline offensive-capability program for FY27.
+- The JIATF-401 Jan 26 primary source provides upstream backing for the ~6 existing JIATF-401 / counter-UAS source pages in the vault, including the May 7 directed-energy 5-base pilot and the May 19 Perennial Autonomy $500M IDIQ.
+- The France National Assembly symposium adds a third European data point alongside `src-european-uap-day-third-2026-03` and `src-academic-uap-stigma-2026-04` for the institutional-legitimation thread, paralleling the Sky Canada Project and Japan UAP parliamentary group.
 
 ## [2026-05-17] ingest | UFO news sweep — Buga Sphere focus (6 articles, /ufo-news, parallel)
 

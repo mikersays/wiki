@@ -2,7 +2,7 @@
 title: Counter-UAS
 type: concept
 created: 2026-04-29
-updated: 2026-05-14
+updated: 2026-05-22
 ---
 
 # Counter-UAS
@@ -26,6 +26,8 @@ Doctrine, sensors, and effectors for detecting, tracking, and defeating small un
 ## Institutional posture
 
 [[jiatf-401]] (Joint Interagency Task Force 401) is the Pentagon's Army-led C-UAS capability builder. Per April 2026 reporting, JIATF-401 has committed >$600M total, with ~$350M to [[operation-epic-fury]] in just the first month. Domestic spend includes the southern border and the 2026 FIFA World Cup across 11 host cities ([[src-counter-drone-middle-east-jiatf-2026-04]]).
+
+The foundational homeland-mission instrument is the **December 8, 2025** SecWar-signed [[jiatf-401]] guidance under [[10-usc-130i]] — directing [[installation-commanders]] to issue installation-specific SOPs within 60 days; published via DoW press release on January 26, 2026 ([[src-jiatf-401-counter-drone-homeland-guidance-2026-01]]). The guidance also names the [[joint-c-suas-university|JCU]] training pipeline and the [[jiatf-401-marketplace]] materiel concept.
 
 Pentagon officials have publicly described U.S. C-UAS capability as "lagging," and SOF News reports the U.S. has "suffered casualties and damage to high-value aircraft and military equipment" from Iranian drones ([[src-epic-fury-update-2026-04]]). [[tom-karako]] argues the [[drone-incursions|drone problem]] has been "artificially divided" between overseas combat and homeland defense.
 
@@ -94,3 +96,12 @@ UK has no equivalent of JIATF-401 or [[flyaway-kit]] for homeland counter-sUAS. 
 - [[national-security-memorandum-22]]
 - [[airsight]]
 - [[faa]]
+- [[10-usc-130i]]
+- [[installation-commanders]]
+- [[joint-c-suas-university]]
+- [[lucas-drone]]
+- [[shield-ai]]
+- [[hivemind]]
+- [[drone-swarm]]
+- [[src-jiatf-401-counter-drone-homeland-guidance-2026-01]]
+- [[src-shield-ai-lucas-drone-swarm-2026-05]]

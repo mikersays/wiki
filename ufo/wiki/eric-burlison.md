@@ -2,7 +2,7 @@
 title: Eric Burlison
 type: entity
 created: 2026-04-25
-updated: 2026-05-10
+updated: 2026-05-22
 ---
 
 **Rep. Eric Burlison** (R-MO) is a leading UAP legislative figure in the 119th Congress, serving on the House Oversight Committee alongside [[anna-paulina-luna]] and [[tim-burchett]].
@@ -27,6 +27,18 @@ His office issued a **formal House press release** the same day ([[src-burlison-
 - Cites "years of classified briefings, whistleblower interviews, and oversight work" as personal background.
 - Newsweek's May 8 coverage ([[src-newsweek-luna-teases-disclosure-2026-05]]) attributes a parallel "historic first step in what I trust will be just one of many" line to Burlison.
 
+## Theological framing of UAP (May 2026)
+
+In a Capitol-corridor interview reported by [[courthouse-news-service|Courthouse News Service]] ([[src-religious-republicans-uap-files-2026-05]]), Burlison engages the theological frame directly for the first time in the vault — declining to dismiss Boebert's [[nephilim|Nephilim/demonic]] reading but advising scriptural caution:
+
+> "The Bible, for example, doesn't say that Satan has a tail, horns and a pitchfork… I think we need to stick to the facts, stick to what the Bible really says. That gives me a lot of comfort, because of the things that I've seen and been briefed on — it does fit, really even underscores the Christian worldview."
+
+He speculates that Old-Testament writers may have witnessed UAP-like phenomena, while maintaining his own approach is "more secular" and truth-seeking. Places him as a moderate Republican voice in the [[theological-uap-framing]] cluster between Boebert's demonic register and Burchett's open-cosmology Ezekiel/Genesis reading.
+
+## May 15, 2026 — Joint Luna–Kosloski review session
+
+Per [[anna-paulina-luna]]'s X post that day (preserved in [[src-debrief-pursue-next-batch-preview-2026-05]]), Burlison joined Luna and AARO director [[jon-kosloski]] for a review of "**40+ videos set for declassification**" — the queue feeding [[pursue]] Release 02. This places Burlison alongside Luna in the formal video-clearance loop, extending his role beyond legislative drafting into operational declassification review.
+
 ## Related Pages
 
 - [[src-uap-transparency-hearing-2026-04]]
@@ -45,3 +57,5 @@ His office issued a **formal House press release** the same day ([[src-burlison-
 - [[src-burlison-commends-trump-uap-release-2026-05]] — primary source: official House press release
 - [[src-newsweek-luna-teases-disclosure-2026-05]]
 - [[pursue]]
+- [[src-debrief-pursue-next-batch-preview-2026-05]] — May 15 2026 joint review session and PURSUE Release 02 preview
+- [[src-religious-republicans-uap-files-2026-05]] — May 15 2026 Courthouse News stick-to-scripture / "underscore the Christian worldview" theological framing

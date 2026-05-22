@@ -2,12 +2,21 @@
 title: Joint Interagency Task Force 401 (JIATF-401)
 type: entity
 created: 2026-04-29
-updated: 2026-05-20
+updated: 2026-05-22
 ---
 
 # Joint Interagency Task Force 401 (JIATF-401)
 
 U.S. Army-led Pentagon task force chartered to build out the U.S. military's [[counter-uas|counter-unmanned-aerial-system]] capability across both overseas-combat and homeland-defense missions. Director (April 2026): Brig. Gen. [[matt-ross]]; deputy director (May 2026): Col. [[scott-mclellan]]; lead acquisitions specialist: Maj. [[matt-mellor]]; spokesperson: Lt. Col. [[adam-scher]]. Framed as the [[department-of-war]]'s lead organization for rapidly fielding C-UAS systems and aligning allied approaches.
+
+## Foundational homeland C-UAS guidance (Dec 2025 / Jan 2026)
+
+The foundational primary source for JIATF-401's homeland mission is the **December 8, 2025** SecWar-signed counter-UAS guidance, announced via DoW press release on **January 26, 2026** ([[src-jiatf-401-counter-drone-homeland-guidance-2026-01]]). The guidance:
+
+- Runs on the authority of [[10-usc-130i|10 U.S. Code § 130i]] — DoD's detect-and-mitigate authority over UAS threats to covered facilities.
+- Directs [[installation-commanders]] to issue installation-specific operating procedures within **60 days**.
+- Names three institutional supports JIATF-401 provides to commanders: [[joint-c-suas-university]] (JCU) training, transparent knowledge sharing, and the [[jiatf-401-marketplace|materiel marketplace]] (the earliest on-record naming of the marketplace concept).
+- Earliest on-record Matt Ross quotes: "drones are a defining threat for our time," "countering drones does not start and stop at the fence line," "hardware alone is not sufficient."
 
 ## April 2026 commitments
 
@@ -110,6 +119,10 @@ Per [[src-jiatf-401-marketplace-romania-2026-04|U.S. Army release]]: the Secreta
 - [[src-army-counter-drone-marketplace-stateside-2026-04]]
 - [[src-breaking-defense-army-1b-counter-drone-2026-05]]
 - [[src-perennial-autonomy-jiatf-401-500m-2026-05]]
+- [[src-jiatf-401-counter-drone-homeland-guidance-2026-01]]
+- [[10-usc-130i]]
+- [[installation-commanders]]
+- [[joint-c-suas-university]]
 - [[perennial-autonomy]]
 - [[hornet-strike-drone]]
 - [[next-generation-cuas-missile]]

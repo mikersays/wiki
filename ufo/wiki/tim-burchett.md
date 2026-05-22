@@ -2,7 +2,7 @@
 title: Tim Burchett
 type: entity
 created: 2026-04-13
-updated: 2026-05-10
+updated: 2026-05-22
 ---
 
 # Tim Burchett
@@ -35,6 +35,14 @@ After Trump's [[turning-point-usa]] Phoenix tease, Burchett publicly thanked Tru
 
 After [[department-of-war]] launched [[pursue]] at `war.gov/UFO`, Burchett thanked Trump for "keeping his word" and counseled patience: "**Transparency won't all happen at once, it will take some time**" — framing the rollout as a multi-tranche project rather than a one-shot reveal ([[src-uap-files-public-conclusions-2026-05]]). Newsweek ([[src-newsweek-luna-teases-disclosure-2026-05]]) records a parallel "**a great start**" line and Burchett's "they don't give up that easy" assessment of cover-up culture (delivered on a [[joe-rogan]] episode that Rep. [[anna-paulina-luna]] explicitly directed her followers to ahead of the May 8 launch). The Fortune/AP wire ([[src-fortune-aldrin-apollo-11-uap-2026-05]]) corroborates the "keeping his word" line.
 
+## Ezekiel / Genesis open-cosmology framing (May 2026)
+
+In a Capitol-corridor interview with [[courthouse-news-service|Courthouse News Service]] ([[src-religious-republicans-uap-files-2026-05]]), Burchett said "I don't have a problem with" colleagues' biblical interpretations of PURSUE files, cited the Book of Ezekiel's "wheel within a wheel… like a gyroscope," and quoted Genesis 1:1:
+
+> "If you think we're the best that God can do then you've pretty much limited God… I think we try to confine God into some Americanized version and he's a lot bigger than that."
+
+This is the first in-vault placement of Burchett within the [[theological-uap-framing]] cluster — distinct from Boebert's [[nephilim|Nephilim/demonic]] register and Burlison's stick-to-scripture moderation, more "open cosmology."
+
 ## Sources
 
 - [[src-uap-legislation-disclosure-efforts-2025]]
@@ -46,3 +54,4 @@ After [[department-of-war]] launched [[pursue]] at `war.gov/UFO`, Burchett thank
 - [[src-war-department-uap-declassification-2026-05]]
 - [[src-newsweek-luna-teases-disclosure-2026-05]]
 - [[src-fortune-aldrin-apollo-11-uap-2026-05]]
+- [[src-religious-republicans-uap-files-2026-05]] — Ezekiel "wheel within a wheel" and Genesis 1:1 framing

@@ -2,7 +2,7 @@
 title: Sean Kirkpatrick
 type: entity
 created: 2026-05-01
-updated: 2026-05-17
+updated: 2026-05-22
 ---
 
 # Sean Kirkpatrick
@@ -23,6 +23,10 @@ After [[pursue]] Release 01 launched on May 8, 2026, Kirkpatrick told **Scientif
 
 The Fortune/AP wire ([[src-fortune-aldrin-apollo-11-uap-2026-05]]) adds Kirkpatrick's specific debunk of a 2013 Middle East **eight-pointed-star** video, which he attributes to "a hot jet engine producing a **diffraction pattern** in the camera." He restates the broader "arm-chair pseudoscience" warning: unsupported releases "only serve to fuel more speculation, conspiracy and arm-chair pseudoscience."
 
+## April 27, 2026 — CNA hobbyist-balloon framing
+
+In a presentation at the [[center-for-naval-analyses]] (April 27, 2026), Kirkpatrick characterized the early-2023 high-altitude shootdowns — including the **February 12, 2023 [[lake-huron-shootdown-2023|Lake Huron AIM-9X event]]** filmed by F-16C pilot callsign [[aesir11]] — as **hobbyist-balloon takedowns**. Cited by [[micah-hanks]] in his [[pursue]] Release 02 preview ([[src-debrief-pursue-next-batch-preview-2026-05]]). The framing extends Kirkpatrick's broader prosaic-explanation posture beyond his AARO tenure.
+
 ## Sources
 
 - [[src-gallaudet-kirkpatrick-clash-2026-04]]
@@ -32,3 +36,4 @@ The Fortune/AP wire ([[src-fortune-aldrin-apollo-11-uap-2026-05]]) adds Kirkpatr
 - [[src-sciam-pursue-skeptics-2026-05]]
 - [[src-fortune-aldrin-apollo-11-uap-2026-05]]
 - [[src-debrief-aaro-course-correcting-2024-11]] — [[micah-hanks]] explicitly contrasts the Kirkpatrick-era "error-ridden historical report" with the Kosloski posture
+- [[src-debrief-pursue-next-batch-preview-2026-05]] — April 27, 2026 CNA presentation; characterizes early-2023 shootdowns as hobbyist-balloon events

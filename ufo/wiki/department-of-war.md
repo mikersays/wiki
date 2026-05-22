@@ -2,7 +2,7 @@
 title: Department of War
 type: entity
 created: 2026-04-16
-updated: 2026-05-15
+updated: 2026-05-22
 ---
 
 **Department of War (DoW)** is the Trump-era rebrand of the U.S. Department of Defense. "Secretary of War" replaces "Secretary of Defense" in official DoW communications; [[pete-hegseth]] holds the office.
@@ -51,6 +51,21 @@ The `DOW-UAP-D` mission reports use a recurring set of fields. Sample fields pop
 
 The **"Observer Assessment: Benign"** finding is consistent across most CENTCOM mission reports — i.e. the operating military aircrews themselves did not assess the UAP as hostile. Notable exceptions and unusual entries (the bouncy-ball trajectory in D74, the close-approach orb encounters in [[usper-statement-2025-uap-encounter|USPER 2025]]) merit individual attention. Per-record content is in `ufo/raw/assets/pursue-release-01/text/` extracted from the local PDF mirror.
 
+## PURSUE Release 02 (May 22, 2026)
+
+Released exactly 14 days after Release 01, validating the [[rolling-release-cadence|rolling-tranche cadence]] articulated post-launch. Per [[washington-times|Washington Times]] (Mike Glenn, [[src-pentagon-second-batch-ufo-release-2026-05]]):
+
+- Headline: senior intelligence officer's Form 302 on pursuing "glowing orbs" near a sensitive U.S. military facility (helicopter; ~10 ft separation under night-vision; object split in two and outran the chase).
+- Earliest-era new files: 200+ [[sandia-new-mexico|Sandia, NM]] 1948–1950 sightings of green orbs, discs, and fireballs by USAF and the [[armed-forces-special-weapons-project]] — densest documented early UAP–nuclear cluster.
+- 1973 [[cia]] document on a Soviet source's observation of a bright-green concentric-circle UAP at the [[sary-shagan]] missile-defense test range.
+- **war.gov/ufo logged >1 billion hits** since May 8 launch.
+- Pentagon: "we welcome the application of private sector analysis, information, and expertise."
+- Corroborated by [[newsweek|Newsweek]] (Castro & Robinson, [[src-newsweek-pursue-release-02-2026-05]]) which adds: Pentagon footage of the 2023 [[lake-huron-shootdown-2023|Lake Huron AIM-9X shootdown]] released ("clearest military engagement clip"), Apollo 12 medical-debrief audio (cosmic-ray-phosphene "flashes" with eyes closed), 2022 Iran IR formation, 2024 [[u-s-coast-guard|U.S. Coast Guard]] southeastern-U.S. recording, and a 2022 submarine-vicinity transmedium-sphere clip flagged by [[aaro]].
+
+## Foundational counter-UAS guidance (Dec 8, 2025)
+
+[[pete-hegseth]] as SecWar signed the foundational JIATF-401 homeland counter-UAS guidance on **December 8, 2025**; DoW publicly announced via press release on **January 26, 2026** ([[src-jiatf-401-counter-drone-homeland-guidance-2026-01]]). The guidance operates under [[10-usc-130i]], directs [[installation-commanders]] to issue site-specific SOPs within 60 days, and introduces the [[joint-c-suas-university|JCU]] training pipeline and the [[jiatf-401-marketplace]] materiel concept. Underwrites the DoW C-UAS portfolio across [[jiatf-401]], [[operation-epic-fury]], and the May 2026 [[directed-energy-weapons]] 5-base pilot.
+
 ## Sources
 
 - [[src-war-department-uap-release-2026-04]]
@@ -65,3 +80,8 @@ The **"Observer Assessment: Benign"** finding is consistent across most CENTCOM 
 - [[src-uap-files-public-conclusions-2026-05]]
 - [[src-war-department-uap-declassification-2026-05]]
 - [[src-defensescoop-pursue-not-disclosure-2026-05]] — "War Department official" formally articulates the rolling-release cadence and government-non-determination posture for PURSUE
+- [[src-pentagon-second-batch-ufo-release-2026-05]] — Release 02 (May 22, 2026): Sandia 1948–50, Sary Shagan 1973, helicopter glowing-orb pursuit; >1B war.gov/ufo hits
+- [[src-newsweek-pursue-release-02-2026-05]] — Newsweek Release 02 companion wire surfacing Lake Huron 2023 footage, Apollo 12 medical-debrief audio, 2022 submarine transmedium clip, Coast Guard 2024 recording, 2022 Iran IR formation
+- [[src-religious-republicans-uap-files-2026-05]] — Courthouse News on the theological-Republican reception of the rolling PURSUE releases
+- [[src-debrief-pursue-next-batch-preview-2026-05]] — May 21 preview of imminent Release 02
+- [[src-jiatf-401-counter-drone-homeland-guidance-2026-01]] — foundational Dec 8 2025 SecWar-signed JIATF-401 homeland C-UAS guidance
