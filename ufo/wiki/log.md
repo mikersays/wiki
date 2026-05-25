@@ -7,6 +7,14 @@ updated: 2026-05-25
 
 Chronological record of wiki activity. Each entry uses the format `## [YYYY-MM-DD] action | description` for easy parsing.
 
+## [2026-05-25] ingest | UFO news sweep (2 articles)
+
+Fetched via /ufo-news. Searched 7 tracks in parallel; 25+ candidates dropped as already covered. 7 candidates survived triage; 4 dropped during fetch (3 had 2024 dates misreported by search, 1 DoD IG report was unrelated to UAP). 1 dropped as duplicate of existing Perseverance/Cheyava Falls coverage. 2 successfully ingested.
+New sources: [[src-orpheus-mars-volcanic-hopper-2026-04]], [[src-connecticut-uap-disclosure-bill-2026]]
+New entities: [[pascal-lee]], [[connor-bunn]], [[joe-hoxha]], [[aundre-bumgardner]]
+New concepts: [[state-level-uap-legislation]]
+Updated: [[seti-institute]], [[mars-caves]], [[biosignatures]], [[lunar-and-planetary-science-conference]], [[uap-disclosure]]
+
 ## [2026-05-25] ingest | UFO news sweep (9 articles)
 
 Fetched via /ufo-news. Ingested 9 sources in parallel (1 skipped as duplicate).

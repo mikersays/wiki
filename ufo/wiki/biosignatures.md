@@ -2,7 +2,7 @@
 title: Biosignatures
 type: concept
 created: 2026-04-13
-updated: 2026-05-20
+updated: 2026-05-25
 ---
 
 # Biosignatures
@@ -97,6 +97,10 @@ The biennial **[[abscicon26|Astrobiology Science Conference]]** (Madison WI, May
 ## Ocean-world organic-carbon signal-to-noise
 
 The 2026 NASA [[invow|Investigating Ocean Worlds]] project (PI [[chris-german]], [[whoi]]) explicitly targets the inverse signal-to-noise problem on distant ocean worlds — where non-biological organics may dominate biological signal, treating organic-carbon background as a [[false-positive-biosignatures|false-positive]] class ([[src-whoi-invow-ocean-worlds-2026-05]]).
+
+## Mars Subsurface: Volcanic Vents
+
+The Orpheus Mars hopper mission proposal ([[src-orpheus-mars-volcanic-hopper-2026-04]]) targets Cerberus Fossae volcanic vents — specifically "Vent #5" on Cerberus Tholus 1 — as extant-life biosignature sites. [[connor-bunn]] and [[pascal-lee]] ([[seti-institute]]) argue vents provide sustained heat and volatile circulation (including water vapor), making them superior to lava-tube skylights for astrobiology. See also [[mars-caves]].
 
 ## See Also
 

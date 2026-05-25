@@ -35,6 +35,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[src-army-counter-drone-marketplace-stateside-2026-04]] — DefenseScoop (Drew Lawrence, Apr 16 2026): Army Secretary Driscoll tells House Defense Appropriations that the JIATF-401 marketplace is being leveraged for FIFA World Cup 2026, America 250, and the 2028 LA Olympics; $13M cumulative sales, state/local/federal LE eligibility, 350 police synced at Joint Base Myer-Henderson Hall, $100M committed for FIFA; Karako's "Super Bowl bubbles all year round"; 13,000 Merops at ~$15k/unit vs Shahed
 - [[src-biosignature-gas-flux-inference-2026-04]] — Wogan et al. propose surface-flux inference via photochemical-climate model inversion; ~80% of CH₄ posterior consistent with life on synthetic TRAPPIST-1 e spectrum
 - [[src-brats-radio-technosignatures-2026-05]] — Astrobiology.com (Keith Cowing, May 13 2026) summary of Garrett arXiv 2605.10212 proposing BRaTs (Broadband Radio Technosignatures): hierarchical SKA+VLBI pipeline detecting planetary-scale leakage out to ~100 pc for Kardashev Type I; 5-parameter discriminator (brightness temperature, polarization, spectral non-uniformity, scintillation, astrometric co-motion)
+- [[src-connecticut-uap-disclosure-bill-2026]] — CT Mirror on Connecticut H.B. 5422 directing UConn to partner with state agencies to study UAP; bipartisan support; second state after New Jersey
 - [[src-counter-drone-middle-east-jiatf-2026-04]] — DefenseScoop: JIATF-401 commits >$600M to counter-drones; ~$350M to CENTCOM/Operation Epic Fury in first month, with overlap to FIFA 2026 and homeland defense
 - [[src-curiosity-mars-life-molecules-2026-04]] — Curiosity SAM/TMAH wet chemistry detects >20 organics in Gale Crater clays, including a DNA-precursor-like nitrogen compound and benzothiophene
 - [[src-curiosity-rock-pulled-mars-2026-05]] — ScienceDaily/NASA: Curiosity's drill accidentally pulled a 13 kg rock ("Atacama") out of Gale Crater on April 25, 2026; freed after multi-day vibration/rotation/angle maneuvers on May 1; first time a rock has stuck to the drill sleeve in mission history
@@ -119,6 +120,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[src-newsweek-pursue-release-02-2026-05]] — Newsweek (Castro & Robinson, May 22 2026) on PURSUE Release 02: Pentagon Lake Huron 2023 shootdown footage released ("clearest military engagement clip"), 116-page Sandia NM 1948–1950 file (209 reports, residual copper powder) feeding Project Grudge, Apollo 12 medical-debrief eyes-closed light flashes (cosmic-ray phosphenes), 2022 Iran IR formation, 2024 Coast Guard southeastern-U.S. clip, 2022 submarine-vicinity transmedium spheres flagged by AARO, CENTCOM AOR 2018–2023
 - [[src-northcom-drone-incursion-2026-03]] — NORTHCOM Flyaway Kit defeats drone over undisclosed strategic U.S. installation during opening hours of Operation Epic Fury
 - [[src-npr-pursue-release-2026-05]] — NPR (Bill Chappell, May 8 2026) explainer-register PURSUE Release 01 wire; uniquely foregrounds the November 1948 USAF Top Secret cable with Swedish-intelligence consultation, the 1955 Sen. Richard Russell Soviet train-window sighting (with Lt. Col. E. U. Hathaway), and the Sep 2023 FBI ovaloid-treeline interview that explicitly names witness stigma; published war.gov/info → war.gov/ufo correction
+- [[src-orpheus-mars-volcanic-hopper-2026-04]] — Bunn & Lee (SETI Institute) propose Orpheus, a Mars VTOL hopper to hunt extant-life biosignatures in Cerberus Fossae volcanic vents; presented at the 57th LPSC
 - [[src-oxygen-false-positive-biosignatures-2026-03]] — Photochemical modeling shows abiotic O₂ on Mars-like M-dwarf exoplanets peaks ~10x lower than prior estimates
 - [[src-panspermia-agnostic-biosignature-2026-04]] — ELSI researchers Smith & Sinapayen propose detecting life via statistical correlations across exoplanet populations (panspermia + environment-modification assumptions), bypassing single-gas false-positive problems
 - [[src-peepss-hwo-spectrograph-2026-04]] — Astrobiology.com summary of arXiv:2604.23126 (Markees et al., Apr 29 2026): PEEPSS — a photonic-lantern-fed integrated spectrograph + focal-plane wavefront sensor for HWO; eliminates non-common-path errors and reduces NIR coronagraph inner working angle, expanding habitable-zone exoplanet imaging
@@ -213,6 +215,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[anna-kelly]] — White House deputy press secretary; on-record spokesperson for Trump's UAP file-release directive
 - [[anna-paulina-luna]] — Rep. (R-FL), chairs the Task Force on Declassification of Federal Secrets; leading congressional UAP transparency advocate
 - [[area-51]] — Top-secret USAF facility at Groom Lake, Nevada; foundational UFO conspiracy locus; named target of VP Vance's stated investigation pledge
+- [[aundre-bumgardner]] — Connecticut state Rep. (D-Groton); H.B. 5422 cosponsor; submarine-district national-security framing
 - [[aui]] — Associated Universities Inc.; hosted and co-organized the Aug 2025 AARO UAP narrative-data workshop
 - [[atomic-weapons-establishment]] — UK nuclear-warhead organization (Aldermaston, Burghfield, Blacknest, Coulport); flagged as undefended by GBAD in 2024 parliamentary debate
 - [[avi-loeb]] — Harvard astrophysicist and founder of the Galileo Project; advocates for satellite-imagery UAP release
@@ -252,6 +255,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[carl-jung]] — Swiss psychologist; 1958 *Flying Saucers: A Modern Myth of Things Seen in the Skies* reads UFOs as mandala projections of the collective unconscious
 - [[centcom]] — U.S. Central Command; Middle East AOR; leads Operation Epic Fury
 - [[center-for-life-detection]] — NASA Ames program directed by Tori Hoehler; institutional home of the InvOW deputy-PI role
+- [[connor-bunn]] — SETI Institute researcher; co-author of the Orpheus Mars hopper mission proposal
 - [[chris-german]] — WHOI senior scientist; PI of the NASA Investigating Ocean Worlds (InvOW) project and predecessor ExOW initiative
 - [[chris-mellon]] — Former Deputy Assistant Secretary of Defense for Intelligence; key UAP disclosure advocate and congressional strategist
 - [[chris-rutkowski]] — Canadian UAP researcher; archived Transport Canada UAP reports 1999-2022; OCSA consultant
@@ -373,6 +377,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[jiatf-401]] — Army-led Joint Interagency Task Force 401, Pentagon's counter-drone capability builder
 - [[jimmy-carter]] — 39th U.S. President; reported a personal UFO sighting in Leary, Georgia in 1969 before his presidency
 - [[jim-clapper]] — Retired USAF Lt. Gen. and former Director of National Intelligence (2010–2017); on-camera in The Age of Disclosure (2025)
+- [[joe-hoxha]] — Connecticut state Rep. (R-Bristol); author of H.B. 5422, the state UAP study bill
 - [[joe-rogan]] — Podcast host (*The Joe Rogan Experience*); 2025 venue for Rep. Luna's "interdimensional beings" claim
 - [[joe-spielberger]] — Senior policy counsel at POGO; testified on UAP whistleblower protections at Sep 2025 hearing
 - [[joel-hurowitz]] — Stony Brook geologist; led 2025 Cheyava Falls biosignature paper and refined interpretation of 2026 Neretva Vallis nickel discovery
@@ -479,6 +484,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[offutt-afb]] — Nebraska USAF base; STRATCOM headquarters and NC3 hub; photographed by arrested Chinese national in March 2026
 - [[operation-prato]] — 1977 Brazilian government UAP investigation in Maranhão and Pará
 - [[palantir]] — Defense software firm; August 2025 recipient of $10B Army enterprise IDIQ, precedent for the March 2026 Anduril $20B award
+- [[pascal-lee]] — SETI Institute planetary scientist; co-author of the Orpheus Mars hopper mission proposal
 - [[palo-verde-nuclear-plant]] — Arizona nuclear plant, largest U.S. power producer; site of 2019 drone incursions
 - [[patrick-ryder]] — USAF Maj Gen and Pentagon press secretary; 26 Nov 2024 said UK base drone incursions were being "actively monitored"
 - [[perry-stone]] — Tennessee Pentecostal evangelist; April 2026 secondhand claim that pastors were briefed on imminent UFO disclosure; frames UAP as possibly demonic
@@ -777,6 +783,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[panspermia]] — Hypothesis that life spreads between planetary bodies; foundational assumption of population-statistics biosignature detection
 - [[periodic-spectral-signal]] — Narrowband periodic pulse-train technosignature class; distinct from CW narrowband beacons and broadband pulsars; energy-efficient interstellar comms hypothesis (BLIPSS search target)
 - [[photonic-lantern]] — Astrophotonic mode-conversion device coupling multimode telescope light into single-mode fibers; enabling technology for PEEPSS integrated coronagraphic spectroscopy
+- [[state-level-uap-legislation]] — U.S. state-level bills and laws establishing UAP research programs (NJ 2025 law, CT H.B. 5422)
 - [[stehm-model]] — Smaller Than Earth Habitability Model (Hill et al. 2026); ~0.8 R⊕ habitability size floor from coupled atmospheric-escape and stagnant-lid outgassing physics
 - [[post-main-sequence-evolution]] — Late stellar life-stages (red giant, AGB, white dwarf); frames how giant planets like WD 0806b survive their host's late life
 - [[parallax]] — Apparent positional shift across lines of sight; primary failure mode in single-sensor IR UAP analysis

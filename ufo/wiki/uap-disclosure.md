@@ -2,7 +2,7 @@
 title: UAP Disclosure
 type: concept
 created: 2026-04-13
-updated: 2026-05-15
+updated: 2026-05-25
 ---
 
 # UAP Disclosure
@@ -72,6 +72,13 @@ See also: [[uap-whistleblower-protections]], [[ndaa-uap-provisions]]
 ### Scientific Alternative
 
 Per [[src-galileo-project-uap-capability-2026-03]], [[avi-loeb]] argues the [[galileo-project]]'s March 2026 [[uap-triangulation]] milestone (sub-10% distance precision via 10-km baselines) provides a **scientific alternative to government disclosure**: civilian instruments can independently verify ET visitation regardless of whether classified files are released. He compares the dynamic to civilian astronomy not needing the Vatican's 1992 Galileo rehabilitation to know the Earth orbits the Sun.
+
+### State-Level Efforts
+
+U.S. states have begun legislating UAP research independently of federal programs. See [[state-level-uap-legislation]] for the full tracker. Key developments:
+
+- **New Jersey** enacted a higher-education UAP research center law (effective January 2026)
+- **Connecticut** H.B. 5422 (March 2026) would direct UConn to partner with state agencies for UAP study ([[src-connecticut-uap-disclosure-bill-2026]])
 
 ### International Parallels
 
