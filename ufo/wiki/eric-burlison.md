@@ -2,7 +2,7 @@
 title: Eric Burlison
 type: entity
 created: 2026-04-25
-updated: 2026-05-22
+updated: 2026-05-25
 ---
 
 **Rep. Eric Burlison** (R-MO) is a leading UAP legislative figure in the 119th Congress, serving on the House Oversight Committee alongside [[anna-paulina-luna]] and [[tim-burchett]].
@@ -39,6 +39,14 @@ He speculates that Old-Testament writers may have witnessed UAP-like phenomena, 
 
 Per [[anna-paulina-luna]]'s X post that day (preserved in [[src-debrief-pursue-next-batch-preview-2026-05]]), Burlison joined Luna and AARO director [[jon-kosloski]] for a review of "**40+ videos set for declassification**" — the queue feeding [[pursue]] Release 02. This places Burlison alongside Luna in the formal video-clearance loop, extending his role beyond legislative drafting into operational declassification review.
 
+## New Whistleblower and SCIF-First Strategy (Dec 2025)
+
+In a December 16, 2025 interview, Burlison confirmed a **new UAP whistleblower lead** who "might go public" but is not yet comfortable doing so, and revealed a strategic shift to **SCIF-first classified briefings** over public hearings — designed to let witnesses speak freely under classification protections before any public session ([[src-new-uap-whistleblower-scif-2026-05]]).
+
+> "Right now we're focused on getting some people in a SCIF... who would not be comfortable at this time going public."
+
+> "There's one person that's a new whistleblower that we have a lead on that might go public."
+
 ## Related Pages
 
 - [[src-uap-transparency-hearing-2026-04]]
@@ -59,3 +67,4 @@ Per [[anna-paulina-luna]]'s X post that day (preserved in [[src-debrief-pursue-n
 - [[pursue]]
 - [[src-debrief-pursue-next-batch-preview-2026-05]] — May 15 2026 joint review session and PURSUE Release 02 preview
 - [[src-religious-republicans-uap-files-2026-05]] — May 15 2026 Courthouse News stick-to-scripture / "underscore the Christian worldview" theological framing
+- [[src-new-uap-whistleblower-scif-2026-05]] — Dec 2025 new whistleblower lead and SCIF-first strategy

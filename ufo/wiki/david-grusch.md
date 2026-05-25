@@ -2,7 +2,7 @@
 title: David Grusch
 type: entity
 created: 2026-04-13
-updated: 2026-05-06
+updated: 2026-05-25
 ---
 
 # David Grusch
@@ -33,6 +33,10 @@ Testified under oath before the **House Oversight Committee** on July 26, 2023, 
 
 Continued public appearances including an interview on **The Megyn Kelly Show**, addressing [[crash-retrieval-programs]], legacy programs, and disinformation campaigns. [[lue-elizondo]] publicly vouched for him as "a patriot... a damn fine human being."
 
+## 2025–2026 Advisory Role
+
+In March 2025, [[eric-burlison]] hired Grusch as **Special Advisor** to the House Oversight Task Force on Declassification, advising on hearings and briefings into 2026. This represents a shift from public testimony to behind-the-scenes advisory work within the congressional UAP infrastructure ([[src-new-uap-whistleblower-scif-2026-05]]).
+
 ## Significance
 
 Grusch's testimony catalyzed the modern UAP disclosure movement and directly influenced legislation including the UAP Disclosure Act and FY2026 NDAA provisions. His claims about [[uap-reverse-engineering]] and [[non-human-intelligence]] materials form the foundation upon which subsequent whistleblowers like [[matthew-brown]] have built.
@@ -43,3 +47,4 @@ Grusch's testimony catalyzed the modern UAP disclosure movement and directly inf
 - [[src-immaculate-constellation-whistleblower-2025]]
 - [[src-wright-patterson-general-missing-2026-03]]
 - [[src-catholic-filmmaker-vatican-ufo-2026-04]] — Pius XII / 1933 Milan crash claim
+- [[src-new-uap-whistleblower-scif-2026-05]] — March 2025 Special Advisor appointment

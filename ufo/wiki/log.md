@@ -1,11 +1,19 @@
 ---
 title: Log
-updated: 2026-05-22
+updated: 2026-05-25
 ---
 
 # Log
 
 Chronological record of wiki activity. Each entry uses the format `## [YYYY-MM-DD] action | description` for easy parsing.
+
+## [2026-05-25] ingest | UFO news sweep (9 articles)
+
+Fetched via /ufo-news. Ingested 9 sources in parallel (1 skipped as duplicate).
+New sources: [[src-newsnation-pursue-release-02-2026-05]], [[src-newsweek-pursue-13-jets-star-object-2026-05]], [[src-new-uap-whistleblower-scif-2026-05]], [[src-disclosure-foundation-nsa-documents-2026-05]], [[src-abscicon26-nasa-dares-update-2026-05]], [[src-japan-times-pursue-sightings-near-japan-2026-05]], [[src-juno-europa-ice-shell-2026-01]], [[src-k2-18b-dms-insufficient-evidence-2025]], [[src-uap-disclosure-act-2026-proposed-2026-03]]
+New entities: [[hunt-willis]], [[nancy-mace]], [[nasa-dares]], [[juno]], [[scott-bolton]], [[steve-levin]], [[juice]], [[southwest-research-institute]], [[rafael-luque]], [[new-paradigm-institute]]
+New concepts: [[top-secret-umbra]], [[technologies-of-unknown-origin]]
+Updated: [[disclosure-foundation]], [[k2-18b]], [[david-grusch]], [[eric-burlison]]
 
 ## [2026-05-22] ingest | DoW Release 02 primary source recovered (1 article, Playwright + mirror fallback)
 
