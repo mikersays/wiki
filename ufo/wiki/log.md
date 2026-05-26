@@ -7,6 +7,35 @@ updated: 2026-05-25
 
 Chronological record of wiki activity. Each entry uses the format `## [YYYY-MM-DD] action | description` for easy parsing.
 
+## [2026-05-26] ingest | UFO news sweep iteration 4 (1 article)
+
+Fetched via /ufo-news (Ralph Loop iteration 4). Ingested 1 source.
+New sources: [[src-jiatf-401-marketplace-allies-expansion-2026-05]]
+Search space saturated — no breaking UAP/astrobiology news in last 48 hours; no PURSUE Release 03 yet.
+
+## [2026-05-26] ingest | UFO news sweep iteration 3 (2 articles)
+
+Fetched via /ufo-news (Ralph Loop iteration 3). Ingested 2 sources.
+New sources: [[src-nuclear-drone-triangular-object-2026-04]], [[src-dni-whistleblower-smears-intimidation-2026-03]]
+New entities: [[nuclear-regulatory-commission]]
+Updated: [[index]]
+
+## [2026-05-25] ingest | UFO news sweep iteration 2 (5 articles)
+
+Fetched via /ufo-news (Ralph Loop iteration 2). Ingested 5 sources in parallel.
+New sources: [[src-npr-astrophysicist-uap-reaction-2026-05]], [[src-csmonitor-ufo-transparency-debate-2026-05]], [[src-jwst-toi-199b-temperate-giant-2026-05]], [[src-nasa-rosalind-franklin-implementation-2026-04]], [[src-disclosure-day-contact-preparedness-2026-05]]
+New entities: [[adam-frank]], [[joseph-uscinski]]
+New concepts: [[oxia-planum]]
+Updated: [[rosalind-franklin-rover]], [[index]]
+
+## [2026-05-25] ingest | UFO news sweep (6 articles)
+
+Fetched via /ufo-news. Ingested 6 sources in parallel.
+New sources: [[src-technosignatures-review-2026-05]], [[src-ocean-worlds-biosignature-framework-2026-05]], [[src-elizondo-nasa-contradiction-2026-05]], [[src-pursue-diplomatic-cables-analysis-2026-05]], [[src-texas-counter-drone-senators-2026-03]], [[src-odni-fy2024-uap-annual-report-2024]]
+New entities: [[bill-nelson]], [[ted-cruz]], [[maria-cantwell]], [[gremlin]], [[oak-ridge-national-laboratory]], [[georgia-tech]]
+New concepts: [[barrow-scale]], [[abiotic-baseline]], [[carbon-isotope-biosignatures]], [[rotor-act]]
+Updated: [[lue-elizondo]], [[aaro]], [[index]]
+
 ## [2026-05-25] ingest | UFO news sweep (2 articles)
 
 Fetched via /ufo-news. Searched 7 tracks in parallel; 25+ candidates dropped as already covered. 7 candidates survived triage; 4 dropped during fetch (3 had 2024 dates misreported by search, 1 DoD IG report was unrelated to UAP). 1 dropped as duplicate of existing Perseverance/Cheyava Falls coverage. 2 successfully ingested.

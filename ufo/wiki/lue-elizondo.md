@@ -73,6 +73,10 @@ Source: [[src-elizondo-motorcycle-crash-2026-04]]
 
 Per NBC News reporting on Trump's TPUSA tease, Elizondo testified at a Wednesday Congressional hearing — characterized by NBC as describing UAPs that are in some cases "splitting aircraft formations right down the middle" ([[src-trump-ufo-files-interesting-2026-04]]). This is the first reported public Congressional appearance after the March 17 motorcycle crash and recovery. The likely underlying hearing is the April 24 Luna transparency hearing ([[src-uap-transparency-hearing-2026-04]]); date and committee should be confirmed against primary records.
 
+## NASA Contradiction Claim (May 2026)
+
+In a May 20, 2026 LAmag interview following [[pursue|PURSUE]] Release 01, Elizondo argued that newly released Apollo-era photographs and audio recordings contradict [[nasa]]'s longstanding public position — notably former Administrator [[bill-nelson]]'s 2023 statement — that NASA held no UAP-related material. He warned that "elements within our intelligence community are very much resisting the President's order and undermining the DNI." See [[src-elizondo-nasa-contradiction-2026-05]].
+
 ## Sources
 
 - [[src-uap-legislation-disclosure-efforts-2025]]
@@ -83,3 +87,4 @@ Per NBC News reporting on Trump's TPUSA tease, Elizondo testified at a Wednesday
 - [[src-trump-ufo-files-interesting-2026-04]]
 - [[src-newsnation-elizondo-pandoras-box-2026-02]]
 - [[src-elizondo-house-hearing-2024-11]]
+- [[src-elizondo-nasa-contradiction-2026-05]]

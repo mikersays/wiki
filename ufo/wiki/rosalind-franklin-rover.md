@@ -7,7 +7,9 @@ updated: 2026-05-09
 
 # Rosalind Franklin Rover
 
-ESA-led ExoMars rover scheduled for **2028 launch** (per [[jeffrey-kluger]] in [[src-mars-organics-fresh-clues-2026-04]]) after multiple delays. Will carry a 2-meter subsurface drill and a TMAH-style wet-chemistry organic-detection suite building on the April 2026 [[sample-analysis-at-mars|SAM]] success aboard [[curiosity-rover]] ([[src-curiosity-mars-life-molecules-2026-04]]).
+ESA-led ExoMars rover scheduled for **late 2028 launch** on a SpaceX Falcon Heavy. Will carry a 2-meter subsurface drill and the **Mars Organic Molecule Analyzer (MOMA)** instrument — including a NASA-provided mass spectrometer — building on the [[sample-analysis-at-mars|SAM]]/TMAH wet-chemistry heritage from [[curiosity-rover]]. Landing site: **[[oxia-planum]]**, a clay-rich terrain selected for subsurface life detection.
+
+In April 2026, [[nasa]] approved the **Rosalind Franklin Support and Augmentation (ROSA)** project to enter implementation, providing the launch service, braking engines, radioisotope heater units, and MOMA electronics ([[src-nasa-rosalind-franklin-implementation-2026-04]]).
 
 The mission is named after Rosalind Franklin, the X-ray crystallographer whose work was foundational to the discovery of DNA's structure.
 
@@ -28,3 +30,6 @@ The 2-meter drill targets organics shielded from cosmic-ray-induced destruction 
 - [[src-mars-organics-fresh-clues-2026-04]]
 - [[src-curiosity-mars-life-molecules-2026-04]]
 - [[src-mars-ancient-life-ice-survival-2026-02]]
+- [[src-nasa-rosalind-franklin-implementation-2026-04]]
+- [[oxia-planum]]
+- [[nasa]]

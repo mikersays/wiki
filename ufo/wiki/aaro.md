@@ -53,7 +53,7 @@ AARO is central to the [[uap-disclosure]] effort but has drawn criticism from tr
 ## Operational Milestones
 
 - **October 1, 2024:** Achieved full operational capability (FOC), possessing "the requisite personnel, expertise, facilities and tools to carry out its core mission" ([[src-aaro-full-operational-capability-2024]])
-- **November 2024:** Published FY2024 annual report; 1,600+ total cases, 757 new submissions, 900+ unresolved ([[src-aaro-fy2024-annual-report-2024]])
+- **November 2024:** Published FY2024 annual report via [[odni]]; exact total: **1,652** cases, 757 new submissions (708 air / 49 space / 0 maritime / 0 transmedium), 292 resolved to prosaic objects (including Starlink flares), 21 referred to IC/S&T partners, 444 in Active Archive. Partnered with [[oak-ridge-national-laboratory]] and [[georgia-tech]] for detection/analytical capabilities. 18 nuclear-facility incidents identified as drone activity. See primary source [[src-odni-fy2024-uap-annual-report-2024]] and secondary coverage [[src-aaro-fy2024-annual-report-2024]].
 - **2024–2025:** Deployed **Gremlin** prototype sensor system for 90-day baseline collection at an undisclosed national security site ([[src-aaro-fy2024-annual-report-2024]])
 - **May 2025:** Issued first contractor solicitation for classified case management system on JWICS network ([[src-aaro-case-management-system-2025]])
 
@@ -107,6 +107,7 @@ Per [[src-war-department-uap-release-2026-04]], a [[department-of-war|Department
 - [[src-war-department-uap-declassification-2026-05]]
 - [[src-defensescoop-pursue-not-disclosure-2026-05]]
 - [[src-debrief-aaro-course-correcting-2024-11]] — [[micah-hanks]] op-ed framing the Kosloski-era turn as a "new hope"
+- [[src-odni-fy2024-uap-annual-report-2024]] — primary-source ODNI/AARO FY2024 annual UAP report
 
 ## PURSUE Relationship (May 2026)
 
