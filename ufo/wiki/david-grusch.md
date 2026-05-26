@@ -41,6 +41,10 @@ In March 2025, [[eric-burlison]] hired Grusch as **Special Advisor** to the Hous
 
 Grusch's testimony catalyzed the modern UAP disclosure movement and directly influenced legislation including the UAP Disclosure Act and FY2026 NDAA provisions. His claims about [[uap-reverse-engineering]] and [[non-human-intelligence]] materials form the foundation upon which subsequent whistleblowers like [[matthew-brown]] have built.
 
+## Academic Assessment
+
+Per [[src-uap-reddit-disclosure-conspiracy-2026-05]] (Bastos & Duarte 2026), Grusch's whistleblower complaint and July 2023 congressional testimony are positioned as a pivotal [[uap-disclosure]] event that shifted mainstream discourse. The paper notes Grusch required whistleblower protection from "antagonistic forces within the US defense community" and references his refusal to interview with [[aaro]] in 2023 (as documented in [[chris-mellon]]–[[sean-kirkpatrick]] text exchanges).
+
 ## Sources
 
 - [[src-uap-reverse-engineering-claims-overview-2025]]
@@ -48,3 +52,4 @@ Grusch's testimony catalyzed the modern UAP disclosure movement and directly inf
 - [[src-wright-patterson-general-missing-2026-03]]
 - [[src-catholic-filmmaker-vatican-ufo-2026-04]] — Pius XII / 1933 Milan crash claim
 - [[src-new-uap-whistleblower-scif-2026-05]] — March 2025 Special Advisor appointment
+- [[src-uap-reddit-disclosure-conspiracy-2026-05]] — Academic assessment as pivotal disclosure event

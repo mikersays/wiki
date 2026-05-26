@@ -1,6 +1,6 @@
 ---
 title: Index
-updated: 2026-05-25
+updated: 2026-05-26
 ---
 
 # Wiki Index
@@ -115,6 +115,11 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[src-mars-organics-fresh-clues-2026-04]] — TIME's Jeffrey Kluger on the Curiosity SAM/TMAH organics result with added Bennu/Murchison meteorite-delivery framing and forward-looking Rosalind Franklin (2028) and Dragonfly (2027) follow-on missions
 - [[src-mars-perseverance-biosignature-2025]] — Perseverance rover discovers potential biosignature minerals in Cheyava Falls rock on Mars
 - [[src-mars-two-sides-panoramas-2026-04]] — Astrobiology.com (Keith Cowing, Apr 28 2026) recap of paired 360-degree Curiosity (1,031-image boxwork mosaic on Mount Sharp) and Perseverance ("Lac de Charmes" outside Jezero rim) panoramas; status update on cores, organics, dust-devil sparks, and Mars surface auroras
+- [[src-mh370-deep-sea-robots-search-2026-01]] — Scientific American on Malaysia's 2025 restart of the MH370 search using Ocean Infinity's autonomous deep-sea robot swarms
+- [[src-mh370-families-extend-search-2026-03]] — Voice370 urges Malaysia to extend Ocean Infinity's no-find-no-fee MH370 deep-sea search contract before June 2026 expiry
+- [[src-mh370-malaysia-resume-search-2025-12]] — NPR: Malaysia commissions Ocean Infinity to resume search for MH370 in the southern Indian Ocean on a $70M no-find-no-fee basis
+- [[src-mh370-ocean-infinity-conclusion-2026-03]] — Ocean Infinity concludes its latest MH370 Indian Ocean search after 151 days and 140,000 km² mapped without locating the aircraft
+- [[src-mh370-search-empty-2026-03]] — NPR/AP: renewed Ocean Infinity deep-sea search for MH370 (7,571 km² across two phases) comes up empty; families urge Malaysia to extend contract
 - [[src-metabunk-pursue-analysis-2026-05]] — Mick West's Metabunk thread on PURSUE Release 01: Reaper-UAS IR-and-parallax dominance (flarkey), PR-19 already leaked by Corbell (Ferriter), PR-48 = offshore wind turbines / lens artifacts / sensor floaters (Giddierone, John J.), "area of contrast" terminology (Jack), Apollo-era repackaging concerns (Harabeck)
 - [[src-mineral-false-positives-biosignatures-2026-05]] — Parkinson, Kaltenegger, Biller, Lach & McMahon (Cornell/Edinburgh, Astrobiology.com May 13 2026): sulfide minerals, tectosilicates, and potassium ferrocyanide reproduce the ~700 nm photosynthesis red edge, introducing a surface-mineral false-positive class for HWO biopigment searches
 - [[src-nasa-rosalind-franklin-implementation-2026-04]] — NASA approves ROSA implementation phase for ESA's Rosalind Franklin rover: Falcon Heavy launch, MOMA mass spectrometer, braking engines for 2028 Mars life-detection mission
@@ -180,6 +185,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[src-uap-ndaa-fy2026-intercept-provisions]] — FY2026 NDAA contains three provisions requiring AARO to brief Congress on UAP intercepts by NORAD and USNORTHCOM since 2004
 - [[src-uap-reverse-engineering-claims-overview-2025]] — Comprehensive overview of UAP reverse engineering and non-human technology claims as of 2025
 - [[src-uap-transparency-hearing-2026-04]] — Official House Oversight Committee record of the UAP transparency and whistleblower hearing; features first active-duty Navy UAP testimony and Yemen orb Hellfire video
+- [[src-uap-reddit-disclosure-conspiracy-2026-05]] — Bastos & Duarte peer-reviewed study: LLM-coded Reddit time-series analysis finds government UAP disclosures produce a measurable 'transparency effect' that suppresses conspiratorial narratives in r/UFO and r/UAP communities
 - [[src-uap-transparency-stalls-2025-12]] — Liberation Times (Dec 14 2025): UAPDA again excluded from FY2026 NDAA; Schumer/Rounds muted, Mike Rogers's "Four Corners" precondition on Burlison, alleged threats to Senate staff, plus uncorroborated Chinese-anti-gravitic-drone and Livelsberger-manifesto sourcing
 - [[src-uap-trump-disclosure-2026]] — Trump directs Pentagon to release UAP/alien files; Hegseth named point person; AARO caseload exceeds 2,000
 - [[src-uap-whistleblower-protection-act-2025-09]] — DefenseScoop previews the Burchett/Luna UAP Whistleblower Protection Act (H.R. 5060) and the Sept 9, 2025 House Oversight task-force hearing
@@ -288,6 +294,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[dan-driscoll]] — U.S. Secretary of the Army (April 2026); public principal for the JIATF-401 marketplace expansion to stateside events and state/local law enforcement
 - [[daniel-otis]] — CTV News journalist covering Canadian UAP since 2022; author of CTV's July 2025 Sky Canada Project final-report writeup
 - [[darrell-evans]] — Purdue researcher; developing temporal aerospace correlation tool linking civilian UAP sightings to Cape Canaveral launches; under peer review at Limina
+- [[david-fravor]] — Retired U.S. Navy Commander; pilot of the 2004 USS Nimitz Tic Tac encounter
 - [[david-grusch]] — Former USAF intelligence officer and most prominent UAP whistleblower; testified to Congress about crash retrieval programs
 - [[david-velez-el-potro]] — Cali, Colombia UAP enthusiast; cousin of José Arias Restrepo; shareholder in Germany Company; held the Buga Sphere for ~2 months before handing it to Jaime Maussan; source of the 12,560-year C-14 and "drovni" claims
 - [[department-of-energy]] — DOE; named PURSUE participant in the May 2026 DoW UAP files release; oversees Los Alamos and Sandia national labs
@@ -437,6 +444,8 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[lue-elizondo]] — Former AATIP director who catalyzed the modern UAP disclosure movement; survived near-fatal motorcycle crash March 2026
 - [[luis-martinez]] — ABC News senior national-security reporter; co-bylined PURSUE Release 01
 - [[lukas-mandl]] — MEP (Austria); met UAP Coalition Netherlands September 2025
+- [[majestic-12]] — Alleged 1947 secret committee; subject of 1980s AFOSI disinformation campaign using falsified documents
+- [[malaysia-airlines-flight-mh370]] — Boeing 777 that vanished March 8 2014 with 239 aboard; subject of multiple failed deep-sea searches; occasionally surfaces in UAP-adjacent discourse
 - [[malmstrom-afb]] — Montana USAF base operating 150 Minuteman III ICBMs; targeted by 2023 Chinese spy balloon and recurring drone swarms
 - [[marco-rubio]] — U.S. Senator (R-FL) and (2025-2026) Secretary of State; on-camera in The Age of Disclosure (2025) discussing UAPs
 - [[maria-cantwell]] — Democratic senator from Washington; Senate Commerce ranking member; critic of DOD/FAA coordination failures
@@ -464,6 +473,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[nuclear-regulatory-commission]] — Federal agency regulating civilian nuclear power; mandated by FY2022 NDAA to share UAP/drone reports with AARO
 - [[oak-ridge-national-laboratory]] — DOE national lab; AARO S&T partner for UAP detection capabilities; historical UAP records from the 1947-1968 FBI files
 - [[peepss]] — Photonic-Enabled ExoPlanet Spectroscopic Sensor; proposed photonic-lantern-fed integrated spectrograph + focal-plane wavefront sensor for the HWO NIR coronagraph (Markees et al. 2026)
+- [[richard-doty]] — Former AFOSI agent who ran disinformation campaigns against UFO researchers in the 1980s
 - [[richard-russell]] — U.S. Senator (D-GA) and 1955 Senate Armed Services Committee chair; lead witness in the 1955 Soviet-train "flying disc aircraft" cable surfaced in PURSUE Release 01
 - [[steve-beynon]] — ABC News reporter; co-byline on PURSUE Release 01 launch coverage
 - [[steve-croft]] — Breakthrough Listen
@@ -545,6 +555,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[ska]] — Square Kilometre Array; next-generation wide-field radio array; central instrument for BRaTs deep-field leakage surveys
 - [[spitzer-space-telescope]] — NASA infrared space telescope (2003–2020); IRAC discovered WD 0806b in 2011
 - [[sue-gough]] — Pentagon spokesperson; on-record source for the "exceeds 2,000 UAP cases" / "1,000 in Active Archive" AARO figures (Feb 2026)
+- [[robertson-panel]] — 1953 CIA-convened panel that recommended debunking UFO sightings; foundational to decades of government UFO disinformation
 - [[ross-coulthart]] — Australian investigative journalist; prominent UAP disclosure reporter; covered Elizondo motorcycle crash
 - [[royal-air-force]] — UK air service; runs QRA from RAF Coningsby and RAF Lossiemouth; hosts USAFE-AFA tenants on its base estate
 - [[royal-canadian-mounted-police]] — Canada's federal/national police; "first point of contact" for many Canadian UAP reports; welcomed Sky Canada Project recommendations
@@ -713,6 +724,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[carbon-isotope-biosignatures]] — Delta-13C ratios in CH4/CO2 as a life-detection marker; abiotic fractionation on ocean worlds introduces major interpretive uncertainty
 - [[cartel-drone-threat]] — Framing of international drug cartels and criminal actors as a primary domestic drone threat vector, distinct from foreign-state intelligence collection
 - [[control-system-hypothesis]] — Vallée's cybernetic feedback-loop model of the UAP phenomenon: presents absurd stimuli, reads cultural response, adjusts manifestations
+- [[confirmed-conspiracy-theory]] — Framework for once-speculative theories later substantiated by evidence; applied to UFO disinformation campaigns (Parker 2024)
 - [[chain-of-custody]] — Documented sequence of possession and analysis of a physical sample; recurring failure mode in Maussan / Greer / Disclosure Project artifact claims (Buga Sphere, Valdías Sphere, Nazca mummies)
 - [[counter-uas]] — Counter-UAS doctrine, sensors, and effectors for defeating sUAS threats; Pentagon described as "lagging" as of April 2026
 - [[coyote-interceptor]] — Raytheon kinetic counter-drone interceptor; primary CENTCOM hard-kill effector
@@ -782,7 +794,9 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[non-human-intelligence]] — The hypothesized non-human origin of anomalous craft and materials in UAP discourse
 - [[nuclear-triad]] — U.S. strategic nuclear deterrent (ICBMs, SLBMs, strategic bombers); all three legs targeted by documented Chinese intelligence collection as of 2026
 - [[nuclear-uap-correlation]] — Observed pattern of UAP activity near nuclear sites, supported by 2025 Palomar Observatory study
+- [[ocean-infinity]] — Texas-based marine robotics firm; conducted 2018 and 2025–2026 'no-find, no-fee' MH370 searches
 - [[ocean-worlds]] — Planetary bodies with subsurface liquid water oceans, prime astrobiology targets
+- [[ontological-shock]] — Transformative fracturing of worldviews triggered by UAP disclosure (Lomas 2025)
 - [[operation-epic-fury]] — U.S.-led February 2026 military operation against Iran; context for domestic drone-retaliation fears
 - [[organic-molecules-mars]] — Inventory of Martian organic compounds detected in situ and their ambiguous biological/geological/meteoritic origins
 - [[oxia-planum]] — Rosalind Franklin landing site on Mars; clay-rich terrain selected for subsurface life-detection drilling
@@ -826,6 +840,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[supercam]] — Perseverance LIBS/Raman/VISIR instrument suite; first detected Neretva Vallis nickel
 - [[theological-uap-framing]] — Religious/eschatological interpretations of UAP disclosure (demonic, Nephilim, rapture-cover, spiritual-demon, interdimensional, Catholic-Magisterium engagement)
 - [[top-secret-umbra]] — NSA classification designation for highly sensitive signals intelligence; applied to 300+ UFO reports released via Disclosure Foundation FOIA (May 2026)
+- [[transparency-effect]] — Measurable shift in online UAP communities from conspiratorial to transparency-focused discourse following government disclosures (Bastos & Duarte 2026)
 - [[transmission-spectroscopy]] — JWST's primary atmospheric-characterization technique; 1D averages of 3D atmospheric processes
 - [[uap-classification-guide]] — Mellon's claim of a post-2017 UAP-specific classification guide retroactively classifying UAP material as national-security-sensitive
 - [[uap-disclosure]] — Broad movement and policy efforts aimed at increasing government transparency about UAP/UFO
@@ -841,7 +856,8 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[uap-whistleblower-protections]] — Legal safeguards for individuals disclosing information about government UAP programs to Congress
 - [[unmanned-aircraft-flight-restriction]] — New FAA airspace designation (May 2026 NPRM) for critical-infrastructure drone restrictions; Standard and Special variants
 - [[vlbi]] — Very Long Baseline Interferometry; high-resolution follow-up tier in the BRaTs framework; sub-milliarcsecond astrometric co-motion test
-- [[venus]] — Second planet from the Sun; cloud-deck habitability target and recipient of modeled Earth panspermia transfer
+- [[venus]] — Second planet from the Sun
+- [[voice370]] — Advocacy group representing families of MH370 passengers and crew; cloud-deck habitability target and recipient of modeled Earth panspermia transfer
 - [[venus-life-equation]] — Izenberg et al. 2021 framework L = O × R × C for estimating extant Venusian-life likelihood
 - [[unidentified-submerged-objects]] — Anomalous objects observed in or operating beneath water; central to Gallaudet's ocean-scrutiny advocacy
 - [[uss-eisenhower-uap-incident]] — 2021 USS Dwight D. Eisenhower SH-60 Seahawk FLIR observation of a metallic sphere accelerating to the horizon, plus broader Eisenhower Strike Group F-18 UAP encounters

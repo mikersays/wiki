@@ -9,8 +9,9 @@ The **USS Nimitz UAP Incident** refers to a November 2004 encounter off San Dieg
 
 The associated FLIR video was among those officially released by the Pentagon in 2020 and has become one of the most cited modern U.S. military UAP encounters. It remains a cornerstone example in [[aaro]] briefings and in congressional hearings on [[uap-disclosure]].
 
-Retired Navy Cdr. David Fravor, former VFA-41 skipper, has testified publicly about the incident.
+Retired Navy Cdr. [[david-fravor]], former VFA-41 skipper, has testified publicly about the incident. According to [[src-uap-reddit-disclosure-conspiracy-2026-05]], Fravor's disclosure is described as a milestone in a "monumental looming UFO scandal" (Lomas et al. 2025). Unlike many UAP witnesses, Fravor states he has been "believed and relatively unharmed" by his account.
 
 ## Sources
 
 - [[src-wright-patterson-general-missing-2026-03]]
+- [[src-uap-reddit-disclosure-conspiracy-2026-05]] — Fravor's disclosure as milestone; Nimitz incident as key data point in transparency-effect analysis

@@ -12,6 +12,7 @@ updated: 2026-05-20
 ## Vault appearances
 
 - [[src-swarajya-disclosure-distraction-2026-05]] — invoked by Aravindan Neelakandan as the cybernetic underpinning of the PURSUE-as-mandala reading.
+- [[src-uap-reddit-disclosure-conspiracy-2026-05]] — Bastos & Duarte cite Vallée's three-category "cover-up" framework (negative attitudes, obfuscation, phenomenon's own silencing capacity) as foundational to understanding information suppression around UAP.
 
 ## Related pages
 

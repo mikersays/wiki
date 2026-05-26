@@ -61,6 +61,10 @@ Per [[src-catholic-filmmaker-vatican-ufo-2026-04]], former [[vatican-observatory
 - **[[stockholm-university]]** + **[[nordic-institute-theoretical-physics|NORDITA]]** — peer-reviewed UAP publications since 2017; latest in *Scientific Reports* (Oct 2025).
 - **[[geipan]]** (France, since 1977) — ~5,300 archived cases, 2-3% unexplained; longest continuously running government UAP program.
 
+## Historical roots — government disinformation campaigns
+
+Per [[src-uap-reddit-disclosure-conspiracy-2026-05]] (Bastos & Duarte 2026), the paper documents how government disinformation campaigns from the [[robertson-panel]] (1953) onward created and weaponized stigma to suppress UFO reporting and research. AFOSI agent [[richard-doty]] acknowledged feeding fabricated documents and staged sightings to UFO researchers in the 1980s (Pilkington 2010); the [[majestic-12]] forgeries were used to manipulate beliefs and deter researchers. Hector Quintanilla, the last head of [[project-blue-book]], admitted the USAF "routinely lied about UFO cases to protect classified programs" (Quintanilla 1974). The paper frames these as [[confirmed-conspiracy-theory|confirmed conspiracy theories]] whose legacy persists in the academic avoidance documented by Yingling et al. The [[transparency-effect]] — measurable shift toward constructive discourse following official disclosures — suggests that continued government transparency may be the most effective counter to stigma's root causes.
+
 ## Sources
 
 - [[src-ufo-research-progress-2025]] — Stigma identified as one of three key barriers
@@ -71,3 +75,4 @@ Per [[src-catholic-filmmaker-vatican-ufo-2026-04]], former [[vatican-observatory
 - [[src-catholic-filmmaker-vatican-ufo-2026-04]] — Vatican Observatory's institutional avoidance policy
 - [[src-european-uap-day-third-2026-03]] — EU ERA Act / Space Act / DG RTD engagement, MEP meetings
 - [[src-canada-sky-canada-final-2025-07]] — Sky Canada Project final-report destigmatization recommendations
+- [[src-uap-reddit-disclosure-conspiracy-2026-05]] — Historical disinformation campaigns as root cause; transparency effect as counter

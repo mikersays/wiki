@@ -1,11 +1,20 @@
 ---
 title: Log
-updated: 2026-05-25
+updated: 2026-05-26
 ---
 
 # Log
 
 Chronological record of wiki activity. Each entry uses the format `## [YYYY-MM-DD] action | description` for easy parsing.
+
+## [2026-05-26] ingest | MH370-focused UFO news sweep (6 articles)
+
+Fetched via /ufo-news MH370. Searched 5 tracks (MH370 UAP satellite video, investigation updates, conspiracy/UAP discourse, search technology, anniversary/families). 7 candidates survived triage; 6 ingested (1 skipped: 2020 court appeal, out of scope).
+
+New sources: [[src-mh370-search-empty-2026-03]], [[src-mh370-ocean-infinity-conclusion-2026-03]], [[src-mh370-families-extend-search-2026-03]], [[src-mh370-deep-sea-robots-search-2026-01]], [[src-mh370-malaysia-resume-search-2025-12]], [[src-uap-reddit-disclosure-conspiracy-2026-05]]
+New entities: [[malaysia-airlines-flight-mh370]], [[ocean-infinity]], [[voice370]], [[david-fravor]], [[richard-doty]], [[robertson-panel]], [[majestic-12]]
+New concepts: [[transparency-effect]], [[ontological-shock]], [[confirmed-conspiracy-theory]]
+Updated: [[uap-disclosure]], [[uap-stigma]], [[project-blue-book]], [[uss-nimitz-uap-incident]], [[david-grusch]], [[control-system-hypothesis]]
 
 ## [2026-05-26] ingest | UFO news sweep iteration 4 (1 article)
 
