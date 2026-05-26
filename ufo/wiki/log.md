@@ -7,6 +7,13 @@ updated: 2026-05-26
 
 Chronological record of wiki activity. Each entry uses the format `## [YYYY-MM-DD] action | description` for easy parsing.
 
+## [2026-05-26] ingest | UFO news sweep (8 articles)
+
+Fetched via /ufo-news. Searched 7 tracks, triaged to 8 candidates, ingested all 8 in parallel.
+New sources: [[src-barakah-nuclear-drone-attack-2026-05]], [[src-jiatf-401-counter-drone-privacy-guide-2026-03]], [[src-pentagon-faa-counter-drone-laser-agreement-2026-04]], [[src-raven-ai-tess-exoplanets-2026-05]], [[src-fast-3i-atlas-technosignature-search-2026-03]], [[src-missing-witness-disclosure-analysis-2026-05]], [[src-ufo-files-answer-obvious-question-2026-05]], [[src-sol-foundation-disclosure-statement-2026-05]]
+New entities: [[barakah-nuclear-energy-plant]], [[garry-nolan]], [[peter-skafish]], [[james-comer]]
+Cross-connections: Barakah drone attack ties to [[operation-epic-fury]] + [[nuclear-uap-correlation]] nuclear-site pattern; Pentagon-FAA laser agreement resolves Texas incidents from [[src-texas-counter-drone-senators-2026-03]]; Sol Foundation statement and Newsweek editorial offer opposing framings of PURSUE Release 01; missing-witness analysis deepens [[sullivan-whistleblower]] and [[uap-personnel-deaths-pattern]] threads.
+
 ## [2026-05-26] ingest | MH370-focused UFO news sweep (6 articles)
 
 Fetched via /ufo-news MH370. Searched 5 tracks (MH370 UAP satellite video, investigation updates, conspiracy/UAP discourse, search technology, anniversary/families). 7 candidates survived triage; 6 ingested (1 skipped: 2020 court appeal, out of scope).

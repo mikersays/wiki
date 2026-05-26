@@ -3,7 +3,7 @@ name: ufo-news
 description: Search the web for the latest UFO/UAP/alien/non-human-intelligence news and ingest the results into the `ufo/` vault using parallel agent teams. Optionally accepts a focus topic to narrow the search (e.g. "grusch", "aaro", "congressional hearings"). Use when the user wants to pull in fresh UFO/UAP coverage.
 argument-hint: "[optional topic focus]"
 user-invocable: true
-allowed-tools: Agent WebSearch WebFetch Read Write Edit Glob Grep Bash(mv *) Bash(date *) Bash(ls *) mcp__playwright__browser_navigate mcp__playwright__browser_snapshot mcp__playwright__browser_evaluate mcp__playwright__browser_wait_for mcp__playwright__browser_press_key mcp__playwright__browser_close mcp__playwright__browser_handle_dialog mcp__playwright__browser_navigate_back mcp__playwright__browser_network_requests
+allowed-tools: Agent WebSearch WebFetch Read Write Edit Glob Grep Bash(mv *) Bash(date *) Bash(ls *) Bash(git *) mcp__playwright__browser_navigate mcp__playwright__browser_snapshot mcp__playwright__browser_evaluate mcp__playwright__browser_wait_for mcp__playwright__browser_press_key mcp__playwright__browser_close mcp__playwright__browser_handle_dialog mcp__playwright__browser_navigate_back mcp__playwright__browser_network_requests
 effort: high
 vault: ufo
 ---
@@ -32,6 +32,7 @@ Phase 3  FETCH+SAVE   →  M agents in parallel  (one per chosen article)
 Phase 4  ANALYZE      →  M agents in parallel  (one per saved raw file)
 Phase 5  MERGE        →  main agent: serial write of shared files
 Phase 6  REPORT       →  main agent: summary + cross-connections
+Phase 7  PUSH         →  main agent: commit + push to main
 ```
 
 Launch parallel agents by sending **one message with multiple `Agent` tool calls** — this is how the harness runs them concurrently. Never serialize what can fan out.
@@ -226,6 +227,17 @@ Summarize to the user:
 - **Contradictions** between new stories and existing `ufo/wiki/` content.
 - Anything skipped or failed, and why.
 - Suggested follow-ups: gaps, missing primary sources, stories worth a dedicated `/query ufo ...`.
+
+---
+
+## Phase 7 — Push to main
+
+After the report, commit all changes and push to `main`:
+
+1. Stage all new and modified files under `ufo/` (raw files, wiki pages, index, log).
+2. Create a commit with message: `Update YYYY-MM-DD` (using today's date).
+3. Push to `origin main`.
+4. Confirm the push succeeded. If it fails (e.g. diverged remote), pull with rebase first, then retry.
 
 ---
 
