@@ -23,15 +23,21 @@ Per [[src-directed-energy-5-bases-pilot-2026-05]], Ross announced on May 7 2026 
 
 > "Countering unlawful and adversarial drone activity is a homeland defense imperative. There is no 'silver bullet' to address this challenge, and this pilot program integrates cutting-edge technology into the department's broader counterdrone toolkit."
 
+## May 2026 — Perennial $500M IDIQ
+
+Per [[src-dronexl-perennial-interceptor-doctrine-2026-05]], Ross said the [[perennial-autonomy]] partnership gives the joint force "state-of-the-art, counter-UAS capability to remain lethal on today's modern battlefield," tied to the $500M three-year IDIQ award.
+
 ## Related Pages
 
 - [[jiatf-401]]
 - [[jiatf-401-marketplace]]
 - [[counter-uas]]
 - [[directed-energy-weapons]]
+- [[perennial-autonomy]] · [[merops-interceptor]]
 - [[scott-mclellan]]
 - [[matt-mellor]]
 - [[src-jiatf-401-marketplace-romania-2026-04]]
 - [[src-directed-energy-5-bases-pilot-2026-05]]
+- [[src-dronexl-perennial-interceptor-doctrine-2026-05]]
 - [[src-army-counter-drone-marketplace-stateside-2026-04]] — Ross quoted on the marketplace as a "critical step forward in our whole-of-government approach to countering the threat of unmanned systems" alongside the $13M cumulative-sales disclosure.
 - [[src-jiatf-401-counter-drone-homeland-guidance-2026-01]] — earliest on-record Matt Ross quotes; "defining threat for our time."

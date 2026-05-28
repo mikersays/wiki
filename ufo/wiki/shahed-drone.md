@@ -17,7 +17,7 @@ During [[operation-epic-fury|the U.S.-led campaign against Iran (Feb 2026–)]],
 
 ## Cost-curve datapoint (April 2026)
 
-Per Army Secretary [[dan-driscoll]]'s April 16 2026 House Defense Appropriations testimony ([[src-army-counter-drone-marketplace-stateside-2026-04]]), the Army purchased **13,000 [[merops-interceptor|Merops interceptors]]** at ~$15k/unit in the opening days of [[operation-epic-fury]] specifically to counter Shaheds, which run ~$45k+ per unit on the Iranian side — a defender-favorable cost-curve point at scale.
+Per Army Secretary [[dan-driscoll]]'s April 16 2026 House Defense Appropriations testimony ([[src-army-counter-drone-marketplace-stateside-2026-04]]), the Army purchased **13,000 [[merops-interceptor|Merops interceptors]]** at ~$15k/unit in the opening days of [[operation-epic-fury]] specifically to counter Shaheds, which run ~$45k+ per unit on the Iranian side — a defender-favorable cost-curve point at scale. [[src-dronexl-perennial-interceptor-doctrine-2026-05]] cites a $30k–50k Shahed range and crystallizes the doctrine in a quote from Ukraine's Lt. Col. Pavlo Verkhovod: "There is little point in shooting down 100% of the drones if the interceptor costs more than the target."
 
 ## Related Pages
 
@@ -29,3 +29,4 @@ Per Army Secretary [[dan-driscoll]]'s April 16 2026 House Defense Appropriations
 - [[merops-interceptor]]
 - [[drone-incursions]]
 - [[src-army-counter-drone-marketplace-stateside-2026-04]]
+- [[src-dronexl-perennial-interceptor-doctrine-2026-05]]

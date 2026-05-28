@@ -23,3 +23,4 @@ updated: 2026-05-17
 
 - [[src-army-counter-drone-marketplace-stateside-2026-04]]
 - [[src-jiatf-401-marketplace-romania-2026-04]]
+- [[src-dronexl-perennial-interceptor-doctrine-2026-05]] — restates the 13,000-Merops @ ~$15K vs $30K–50K Shahed figure within the cost-curve doctrine argument

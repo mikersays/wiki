@@ -25,3 +25,4 @@ The co-occurrence of these three on early Mars is the strongest argument yet tha
 - [[src-perseverance-neretva-nickel-rocks-2026-04]]
 - [[src-curiosity-mars-life-molecules-2026-04]]
 - [[src-mars-perseverance-biosignature-2025]]
+- [[src-organics-forward-mars-life-search-2026-05]] — argues for a "parallel origin of life" on Mars >3.4 Gya given Earth-analogous early environments

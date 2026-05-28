@@ -32,3 +32,4 @@ Organic carbon delivered to a planetary surface by meteorites, comets, IDPs, or 
 - [[src-curiosity-mars-life-molecules-2026-04]]
 - [[src-loeb-panspermia-impact-survival-2026-03]]
 - [[src-venus-panspermia-earth-origin-2026-04]]
+- [[src-organics-forward-mars-life-search-2026-05]] — frames comet/asteroid organic delivery as feedstock for a possible parallel Martian origin of life

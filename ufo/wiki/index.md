@@ -1,6 +1,6 @@
 ---
 title: Index
-updated: 2026-05-26
+updated: 2026-05-28
 ---
 
 # Wiki Index
@@ -67,6 +67,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[src-drone-incursions-epic-fury-2026-03]] — The War Zone: multi-wave drone incursions at Barksdale B-52 base March 9-15 2026; Guillot SASC disclosures on detection/defeat trends
 - [[src-dow-uap-files-release-2026-05]] — Department of War announces PURSUE (Presidential Unsealing and Reporting System for UAP Encounters); first WAR.GOV/UFO release with on-record statements from Hegseth, Gabbard (ODNI), Patel (FBI), and Isaacman (NASA); interagency participants include DOE
 - [[src-dow-pursue-release-02-2026-05]] — DoW primary-source PURSUE Release 02 press release (May 22 2026, Sean Parnell): >1B war.gov/ufo hits, Release 03 explicitly previewed, March 6 2026 eight-House-Rep 51-record letter (distinct from Luna's March 31 46-video track), AARO-authored "areas of contrast" video descriptions, formal "no-redactions-on-UAP-content" policy
+- [[src-dronexl-perennial-interceptor-doctrine-2026-05]] — DroneXL (Haye Kesteloo, May 26 2026) doctrine/cost-curve read of the $500M Perennial JIATF-401 IDIQ: million-dollar-missile → $15K-Merops shift, White Stork→Project Eagle→Perennial chronology, 4,000+ Ukraine intercepts, Surveyor 280 km/h specs, $2,000–2,500 Wild Hornets Sting comparison, Twentyfour Industries Germany co-production, Lithuania 48-unit / NATO eastern-flank deployments, DOGE/Drone-Dominance consolidation narrative
 - [[src-elizondo-house-hearing-2024-11]] — Yahoo/The Hill/NewsNation: Lue Elizondo's Nov 13 2024 House Oversight joint UAP testimony and post-hearing CUOMO debrief; "UAP are real," 1950s radar 10–13k mph trans-medium objects, nuclear-equities concern
 - [[src-elizondo-motorcycle-crash-2026-04]] — Lue Elizondo survives near-fatal Wyoming motorcycle crash on March 17, 2026; hospitalized one week with life-threatening injuries
 - [[src-elizondo-nasa-contradiction-2026-05]] — LAmag interview: Elizondo says PURSUE Apollo-era materials contradict NASA's decades-long denial of holding UAP evidence; warns IC elements resisting the President's disclosure order
@@ -128,6 +129,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[src-missing-witness-disclosure-analysis-2026-05]] — Fliegerfaust analysis linking Luna's SCIF claims, Trump's file-release promises, Pentagon deadline misses, and the Sullivan/McCasland missing-witness pattern
 - [[src-nasa-rosalind-franklin-implementation-2026-04]] — NASA approves ROSA implementation phase for ESA's Rosalind Franklin rover: Falcon Heavy launch, MOMA mass spectrometer, braking engines for 2028 Mars life-detection mission
 - [[src-nasa-seven-firms-biosignature-2026-05]] — Thin moneycontrol.com syndicated report on a claimed NASA partnership with seven (unnamed) tech firms for Mars/ocean-worlds biosignature detection; no firms named and no direct quotes
+- [[src-nbc-pursue-firsthand-encounters-2026-05]] — NBC News (Strickler, Long, Goldman, Gains; May 22 2026) first-hand-testimony feature on PURSUE Release 02: senior ODNI officer's late-2025 orange-orb helicopter encounter that "chased" fighter jets ("virtually speechless"), 1970 Los Alamos green-lights letter, 1972 CIA USSR concentric-circles sighting, 2023 Lake Huron downing, and NASA audio (Carpenter's 1962 Mercury "snowflakes", Apollo 12 1969)
 - [[src-new-uap-whistleblower-scif-2026-05]] — UFOUAP reports House UAP Caucus has a new whistleblower lead and is pursuing SCIF-first classified briefings over public hearings; covers Grusch's Special Advisor role, FY2026 NDAA UAP provisions, and Trump's Feb 2026 disclosure directive
 - [[src-newsnation-elizondo-pandoras-box-2026-02]] — NewsNation/CUOMO (Michael Ramsey, Feb 21 2026): Elizondo calls Trump's Feb 19 disclosure directive a "tremendous undertaking" that could "dwarf the Epstein files" in volume; Coulthart cautions it's review-only, not declassification; Von Rennenkampff "day-after" framing; Loeb on raw-material verification
 - [[src-newsweek-pursue-13-jets-star-object-2026-05]] — Newsweek (Joe Edwards, May 21 2026) on Disclosure Foundation's FOIA release of 300+ NSA UFO intelligence reports, many formerly TOP SECRET UMBRA: 13 fighter jets chased a UFO, star-shaped object at high altitude, disc brighter than the sun; Hunt Willis pledges legal challenges to remaining redactions
@@ -140,6 +142,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[src-npr-pursue-release-2026-05]] — NPR (Bill Chappell, May 8 2026) explainer-register PURSUE Release 01 wire; uniquely foregrounds the November 1948 USAF Top Secret cable with Swedish-intelligence consultation, the 1955 Sen. Richard Russell Soviet train-window sighting (with Lt. Col. E. U. Hathaway), and the Sep 2023 FBI ovaloid-treeline interview that explicitly names witness stigma; published war.gov/info → war.gov/ufo correction
 - [[src-ocean-worlds-biosignature-framework-2026-05]] — Higgins et al. preprint: quantitative abiotic-baseline framework for ocean-world biosignatures; shows current uncertainties prevent definitive life detection via carbon isotopes or amino acid chirality on Enceladus
 - [[src-odni-fy2024-uap-annual-report-2024]] — Primary-source ODNI/AARO FY2024 annual UAP report: 757 new cases, 292 resolved to prosaic objects, Gremlin sensor deployed, 18 nuclear-site drone incidents, no ET evidence
+- [[src-organics-forward-mars-life-search-2026-05]] — Astrobiology.com (Keith Cowing, May 24 2026) organics-forward Mars life-search strategy: distinguishing biological (homochiral amino acids, C16/C18 fatty acids, chiral nucleobases) from abiotic (racemic, branched, isomer-rich) organic distributions; post-dynamo desiccation; possible parallel Martian genesis >3.4 Gya
 - [[src-orpheus-mars-volcanic-hopper-2026-04]] — Bunn & Lee (SETI Institute) propose Orpheus, a Mars VTOL hopper to hunt extant-life biosignatures in Cerberus Fossae volcanic vents; presented at the 57th LPSC
 - [[src-oxygen-false-positive-biosignatures-2026-03]] — Photochemical modeling shows abiotic O₂ on Mars-like M-dwarf exoplanets peaks ~10x lower than prior estimates
 - [[src-panspermia-agnostic-biosignature-2026-04]] — ELSI researchers Smith & Sinapayen propose detecting life via statistical correlations across exoplanet populations (panspermia + environment-modification assumptions), bypassing single-gas false-positive problems
@@ -333,6 +336,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[epsilon-indi-a]] — Sun-like K-type star ~12 ly away (constellation Indus); host of directly-imaged Jupiter analogue Epsilon Indi Ab
 - [[epsilon-indi-ab]] — Cold gas giant (~7.6 M_Jup, ~1 R_Jup, 200-300 K) orbiting Epsilon Indi A at ~4× Jupiter's orbital separation; JWST 2026 inference of water ice clouds
 - [[eric-burlison]] — Rep. (R-MO); introduced UAP Disclosure Act of 2025 and publicly released Yemen orb Hellfire video
+- [[eric-schmidt]] — Former Google CEO; founder of the defense startup launched as White Stork (2023), now Perennial Autonomy, maker of the Merops interceptor
 - [[eric-schmitt]] — U.S. Senator (R-MO) representing Whiteman AFB; questioned Guillot on drone defenses at SASC March 2026
 - [[esa]] — European Space Agency, pursuing an Enceladus life-hunting mission under Voyage 2050
 - [[espresso]] — High-precision radial-velocity spectrograph on the VLT used to help confirm GJ 887 d
@@ -447,6 +451,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[library-and-archives-canada]] — Canadian federal archive; holds the NRC's 1967–1995 UAP-report archive (~15,000 pages, ~9,500 digitized)
 - [[limina-journal]] — Double-blind peer-reviewed journal of UAP Studies operated by the Society for UAP Studies
 - [[lockheed-martin-skunkworks]] — Lockheed Martin Advanced Development Programs; subject of uncorroborated 2025 Liberation Times allegations of UAP-material custody on the Chesapeake Bay
+- [[los-alamos]] — Los Alamos, NM nuclear-lab site; a 1970 PURSUE letter reports 1948–1951 mountain green-lights, overlapping the New Mexico green-fireball / nuclear-site cluster
 - [[los-alamos-national-laboratory]] — SuperCam heritage lab; analyzed Purdue calibration standards for the 2026 nickel study
 - [[lunar-and-planetary-science-conference]] — Annual LPI/USRA planetary-science conference; venue for the 2026 JHUAPL/Sandia Earth-to-Venus panspermia study
 - [[luke-akehurst]] — UK Labour MP for North Durham; led 27 Nov 2024 Westminster Hall debate exposing UK GBAD gaps and Sky Sabre missile-procurement omission
@@ -546,6 +551,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[pope-pius-xii]] — Pope 1939-1958; alleged in Grusch's 2023 testimony to have backchanneled information about a 1933 Milan UFO crash to the U.S. government
 - [[project-blue]] — SETI Institute proposed telescope to directly image planets around Alpha Centauri A and B
 - [[project-magnet]] — Transport Canada UAP investigation effort (1950s); "quickly shut down"
+- [[project-mercury]] — First U.S. human-spaceflight program (1958–1963); source of PURSUE Release 02 Mercury-era astronaut UAP audio (Carpenter's "snowflakes")
 - [[project-second-storey]] — DND UAP committee (1950s); recommended ending Canadian military UAP investigations
 - [[purdue-university]] — Indiana research university; lead institution on the 2026 Neretva Vallis nickel paper; home of UAP researcher Darrell Evans
 - [[quick-reaction-alert]] — RAF QRA aircraft from RAF Coningsby and RAF Lossiemouth; intercepts aerial threats approaching UK airspace
@@ -583,6 +589,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[santiago-vargas]] — Colombian astrophysicist (Observatorio Astronómico, Universidad Nacional); identifies "very terrestrial" optical fibers in the Buga Sphere; calls it a publicity stunt
 - [[saugata-barat]] — Lead author of the 2026 JWST TOI-1130b transmission-spectrum paper
 - [[scott-bolton]] — Juno principal investigator at Southwest Research Institute
+- [[scott-carpenter]] — Mercury Seven astronaut whose 1962 Mercury-Atlas 7 "snowflakes" particle audio appears in PURSUE Release 02
 - [[scott-mclellan]] — Army Colonel; deputy director of JIATF-401 (May 2026); spokesperson on directed-energy C-UAS aviation safety
 - [[sky-map-c-uas]] — Ukrainian counter-drone C2 platform; first U.S. operational deployment at Prince Sultan AB, April 2026
 - [[scu]] — Scientific Coalition for UAP Studies, civilian scientific organization for UAP investigation
@@ -633,6 +640,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[triton]] — Neptune's largest moon; retrograde captured body with cryovolcanic plumes and possible subsurface ocean; flagged as morphologically distinct active moon
 - [[tulsi-gabbard]] — Director of National Intelligence under Trump; co-leads the ODNI/DoW joint UAP declassification effort announced May 2026
 - [[turning-point-usa]] — Conservative youth political organization; hosted the April 2026 Phoenix conference where Trump previewed imminent UAP disclosure
+- [[twentyfour-industries]] — Munich-based co-production partner building the Merops interceptor in Germany for European/NATO buyers
 - [[type-45-destroyer]] — Royal Navy AAW destroyer; six in service; UK's only ballistic-missile detect/track/partial-intercept platform
 - [[uap-coalition-netherlands]] — Dutch UAP advocacy org leading EU-institutional engagement; MEP meetings with De Masi (April 2025) and Mandl (September 2025), ERA Act feedback, EU Space Act feedback, DG RTD consultation
 - [[uap-disclosure-fund]] — Advocacy organization that co-hosted the May 1, 2025 Capitol Hill UAP expert summit with House Oversight
@@ -661,6 +669,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[whoi]] — Woods Hole Oceanographic Institution; private Massachusetts oceanographic research institute; lead institution of the NASA-funded InvOW project (2026–2031)
 - [[war-gov-ufo-portal]] — Department of War public UAP files portal at war.gov/UFO; launched May 8 2026 with PURSUE Release 01; mirrored by Enigma Labs at pentagonufofiles.io
 - [[weizmann-institute-of-science]] — Israeli research institute (Rehovot); Yoffe home institution
+- [[will-roper]] — Former Pentagon innovation chief recruited by Perennial Autonomy for the Merops program
 - [[william-neil-mccasland]] — Retired USAF Maj. Gen., former AFRL commander at Wright-Patterson; missing from Albuquerque as of March 2026
 - [[william-zuniga]] — Medellín-based UAP enthusiast and lead of an "international UFO hunters" organization; recovered the Valdías Mountain Range Sphere and delivered it to Jaime Maussan in May 2026
 - [[wd-0806b]] — Second-coldest directly imaged exoplanet; orbits white dwarf WD 0806-661 at 2,500 AU; JWST 2026 atmosphere retrieval with first altitude-dependent K_zz

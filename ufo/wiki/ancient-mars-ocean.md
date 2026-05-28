@@ -24,3 +24,4 @@ Long-running scientific debate over whether early Mars hosted a stable northern-
 - [[src-mars-ancient-ocean-zaki-lamb-2026-04]]
 - [[src-curiosity-mars-life-molecules-2026-04]]
 - [[src-mars-perseverance-biosignature-2025]]
+- [[src-organics-forward-mars-life-search-2026-05]] — reiterates a warmer/wetter ancient Mars with a magnetic shield, then post-dynamo atmospheric erosion and surface-water loss

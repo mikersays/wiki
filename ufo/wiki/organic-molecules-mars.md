@@ -29,6 +29,10 @@ The organic inventory cannot be uniquely attributed:
 
 Resolution likely requires [[mars-sample-return]] for laboratory analysis on Earth, where instruments can probe isotopic ratios, chirality, and structural detail beyond SAM's in-situ capability.
 
+## Organics-forward strategy
+
+[[src-organics-forward-mars-life-search-2026-05]] proposes resolving the ambiguity by reading **structure and distribution** rather than mere presence: terrestrial-style biology favors homochiral [[amino-acids|amino acids]], straight-chain C16/C18 [[fatty-acids|fatty acids]], and a defined nucleobase/ribose set, whereas abiotic synthesis ([[exogenous-organics|comet/asteroid-delivered]]) yields racemic amino acids, branched aliphatic acids, low-carbon hydrocarbons, and unused isomers. "Molecular fossils" carrying biological structural preferences could thus record an independent Martian genesis.
+
 ## Related Pages
 
 - [[curiosity-rover]]
@@ -38,6 +42,8 @@ Resolution likely requires [[mars-sample-return]] for laboratory analysis on Ear
 - [[mars-sample-return]]
 - [[biosignatures]]
 - [[false-positive-biosignatures]]
+- [[amino-acids]] · [[fatty-acids]] · [[exogenous-organics]] · [[prebiotic-chemistry]]
 - [[astrobiology]]
 - [[rosalind-franklin-rover]]
 - [[dragonfly-mission]]
+- [[src-organics-forward-mars-life-search-2026-05]]

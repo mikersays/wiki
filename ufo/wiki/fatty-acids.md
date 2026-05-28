@@ -14,10 +14,13 @@ Hydrocarbon-chain molecules with a carboxyl group; building blocks of cell membr
 - **Biological selectivity:** Living systems produce a relatively narrow, structured distribution of fatty acids (typically even-numbered carbon chains, length-selective by enzyme class).
 - **Abiotic synthesis:** Fischer-Tropsch-type and other prebiotic chemistries produce fatty acids with a broader, more *evenly distributed* range of chain lengths, including many that life does not use in quantity.
 - **Statistical-diversity biosignature ([[src-alien-biology-detection-method-2026-05]]):** Yoffe & Klenner (2026) report that fatty-acid distributions show the **inverse** pattern from [[amino-acids|amino acids]]: abiotic pools are *more even* than biological ones. Used jointly with amino-acid statistics, this provides a discriminator.
+- **Mars organics-forward context:** [[src-organics-forward-mars-life-search-2026-05]] notes biology favors straight-chain **C16/C18** carboxylic acids whereas abiotic synthesis yields highly branched aliphatic acids — another structural discriminator for a Martian biosignature.
 
 ## Related
 
 - [[amino-acids]]
 - [[agnostic-biosignature]]
 - [[biosignatures]]
+- [[organic-molecules-mars]]
 - [[src-alien-biology-detection-method-2026-05]]
+- [[src-organics-forward-mars-life-search-2026-05]]

@@ -41,6 +41,8 @@ NASA operates several missions and programs central to the search for [[biosigna
 
 NASA is a co-principal on the May 2026 [[pursue]] inaugural release. Administrator [[jared-isaacman]] gave a measured, data-driven on-record statement: "follow the data, and share what we learn… We will remain candid about what we know to be true, what we have yet to understand, and all that remains to be discovered." NASA's contribution to Release 01 includes [[apollo-12]] and [[apollo-17]] photographs and Apollo crew voice transcripts (the "very jagged, angular fragments that are tumbling" / "Fourth of July out of Ron's window" passages — see [[lunar-uap-historical-claims]]).
 
+Release 02 adds **seven NASA files** (per [[src-nbc-pursue-firsthand-encounters-2026-05]]), extending the astronaut-audio cluster back to [[project-mercury|Project Mercury]]: [[scott-carpenter|Scott Carpenter]]'s 1962 description of particles that "look exactly like snowflakes," plus further [[apollo-12]] crew audio.
+
 ## See Also
 
 - [[esa]]
@@ -51,5 +53,6 @@ NASA is a co-principal on the May 2026 [[pursue]] inaugural release. Administrat
 - [[src-cassini-huygens-ocean-worlds-2026-04]]
 - [[src-trump-pentagon-uap-files-2026-05]] — context: a White House event for NASA astronauts was the venue for Trump's May 3, 2026 UAP-release remarks.
 - [[src-nasa-seven-firms-biosignature-2026-05]]
-- [[jared-isaacman]] · [[apollo-12]] · [[apollo-17]] · [[lunar-uap-historical-claims]] · [[pursue]]
+- [[jared-isaacman]] · [[apollo-12]] · [[apollo-17]] · [[scott-carpenter]] · [[project-mercury]] · [[lunar-uap-historical-claims]] · [[pursue]]
 - [[src-dow-uap-files-release-2026-05]] · [[src-pursue-portal-launch-2026-05]] · [[src-uap-files-rollout-interagency-2026-05]] · [[src-trump-uap-apollo-photos-2026-05]] · [[src-uap-files-public-conclusions-2026-05]]
+- [[src-nbc-pursue-firsthand-encounters-2026-05]]

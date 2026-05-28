@@ -1167,3 +1167,34 @@ Fetched via /ufo-news. Triaged 6 candidates from 7 parallel search tracks; 5 suc
 - **PURSUE Release 02 watch** — reportedly scheduled for early June 2026; expect a substantial new ingest cycle when it lands.
 - **Burlison private-labs target list** still uncaptured (previously flagged; NewsNation May 18 still HTTP 403/451).
 - **[[carl-sagan]]** lacks a dedicated entity page despite [[carl-sagan-institute]] existing and [[carl-jung]]/[[src-swarajya-disclosure-distraction-2026-05]] now referencing him — flag for backfill on a future maintenance pass.
+
+## [2026-05-28] ingest | UFO news sweep (3 articles)
+
+Fetched via /ufo-news (no focus topic). Dispatched 8 parallel search tracks; most candidates were already covered (PURSUE Release 01/02, France June 29 symposium, AbSciCon26 tips, Perennial award, NDAA). Triage surfaced 5 candidates; 3 ingested, 1 skipped at fetch (Japan UFO office = a May 2025 article already referenced in [[src-japan-uap-strategy-proposal-2026-03]]), 1 dropped as out-of-window (The Debrief "CNES/GEIPAN conference" turned out to be a 2022 CAIPAN event, not fresh news).
+
+**New sources:** [[src-organics-forward-mars-life-search-2026-05]], [[src-nbc-pursue-firsthand-encounters-2026-05]], [[src-dronexl-perennial-interceptor-doctrine-2026-05]]
+
+**New entities:** [[scott-carpenter]], [[project-mercury]], [[los-alamos]], [[eric-schmidt]], [[will-roper]], [[twentyfour-industries]]
+
+**Updated:**
+- [[merops-interceptor]] — added Surveyor platform specs (fixed-wing, >280 km/h, pilot-cued→autonomous CV+RF), Ukraine provenance (4,000+ intercepts), $15K-vs-$2K Wild Hornets Sting cost-curve, German co-production; closed the prior "platform underspecified" open question.
+- [[perennial-autonomy]] — added White Stork→Project Eagle→Perennial corporate chronology, Schmidt/Roper leadership, European manufacturing.
+- [[shahed-drone]], [[drone-dominance]], [[matt-ross]], [[dan-driscoll]] — DroneXL cost-curve / consolidation-narrative citations + Verkhovod quote.
+- [[organic-molecules-mars]] — added "organics-forward strategy" section (structure/distribution discriminator).
+- [[amino-acids]], [[fatty-acids]], [[exogenous-organics]], [[prebiotic-chemistry]], [[ancient-mars-ocean]], [[astrobiology-com]], [[keith-cowing]] — Mars organics-forward cross-links.
+- [[odni]], [[cia]], [[nasa]], [[apollo-12]], [[lake-huron-shootdown-2023]], [[sandia-new-mexico]] — NBC PURSUE Release 02 first-hand-testimony cross-links.
+
+**Cross-connections / contradictions flagged:**
+- **The NBC orange-orb helicopter encounter is the same event already in [[src-fox-helicopter-near-miss-orbs-2026-05]] and [[src-newsweek-pursue-release-02-2026-05]]**, but NBC attributes it to an **ODNI memo** whereas Fox called it an **FBI Form 302** — conflicting document-of-origin labels for one late-2025 encounter; location withheld in all.
+- **NBC dates the CIA Soviet concentric-green-circles sighting to 1972**, while other Release 02 sources cite a **1973** CIA report on [[sary-shagan]]. Likely related Soviet-green-circle material; flagged as possibly distinct records, not asserted identical.
+- **The DroneXL piece resolves Merops's prior attribution gap into a full doctrine/cost-curve narrative** — companion analysis to the [[src-perennial-autonomy-jiatf-401-500m-2026-05]] award; institutionalizes Ukraine's cheap-interceptor math.
+- **The Mars organics-forward source reframes the existing [[organic-molecules-mars]] origin-ambiguity discussion** — structure/distribution (homochirality, C16/C18 chains, molecular fossils) over mere presence as the path to a Martian biosignature.
+
+**Skipped / dropped (2):**
+- ⏭️ Japan first-ever UFO office (Defence Blog) — fetch agent found it dated **May 2025**, the same proposal already referenced as a prior failed attempt in [[src-japan-uap-strategy-proposal-2026-03]]. Not a new development.
+- 🗑️ The Debrief "French space agency hosts international UAP conference" — turned out to recap the **2022 CAIPAN** conference (article dated 2022-10-28), outside the freshness window for a news sweep. Distinct, useful historical content (GEIPAN, NASA UAP study group formation, Vallée Trinity/Council Bluffs) — could be ingested on request as a standalone historical source.
+
+**Suggested follow-ups:**
+- **PURSUE Release 03 watch** — DoW previewed it "in the near future"; The Debrief (May 23) expects it within ~2 weeks. Likely the next big ingest cycle.
+- **CAIPAN 2022 / GEIPAN** — if the user wants historical depth, the dropped Debrief piece is a clean standalone ingest (would seed [[geipan]], CAIPAN, and a French-program entity cluster).
+- **Japan UAP office** — watch for an actual 2026 re-submission to Min. Nakatani distinct from the May 2025 attempt.

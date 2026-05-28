@@ -24,7 +24,12 @@ The May 2026 selection of [[shield-ai]]'s [[hivemind]] swarm-autonomy software a
 
 Hegseth's "drone dominance" framing is offensive (U.S. capability development) but pairs with the defensive posture documented in the [[drone-incursions]] and [[counter-uas]] threads — including the [[jiatf-401]] >$600M C-UAS commitment, the [[flyaway-kit]] homeland mission, and [[operation-epic-fury]] CENTCOM C-UAS spending. It also overlaps with [[autonomous-warfare]] as a competitor-investment area.
 
+## Procurement-consolidation narrative
+
+[[src-dronexl-perennial-interceptor-doctrine-2026-05]] traces a consolidation arc on the defensive (interceptor) side: DOGE seizing drone buying (Oct 2025) → Drone Dominance (~$1B, Dec 2025; hundreds of thousands of attritable small attack drones) → the Army's emergency 13,000-unit [[merops-interceptor|Merops]] buy → the **$500M [[perennial-autonomy]] IDIQ** ([[src-perennial-autonomy-jiatf-401-500m-2026-05]]) as a standing "enterprise-wide line of credit." It reads the pattern as institutionalizing Ukraine's cheap-interceptor cost doctrine.
+
 ## Sources
 
 - [[src-hegseth-fy27-posture-testimony-2026-04]]
 - [[src-shield-ai-lucas-drone-swarm-2026-05]]
+- [[src-dronexl-perennial-interceptor-doctrine-2026-05]]

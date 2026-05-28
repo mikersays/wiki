@@ -15,3 +15,4 @@ The AESIR11 in-cockpit footage was previewed for [[pursue]] Release 02 ([[src-de
 
 - [[src-debrief-pursue-next-batch-preview-2026-05]]
 - [[src-newsweek-pursue-release-02-2026-05]] — actual Release 02 footage publication
+- [[src-nbc-pursue-firsthand-encounters-2026-05]] — NBC notes the 2023 Lake Huron downing among released Release 02 videos; recovery status unclear from the footage

@@ -15,9 +15,10 @@ Per the May 22, 2026 [[pursue]] Release 02 ([[src-pentagon-second-batch-ufo-rele
 - Investigations into **residual copper powder** found at several sighting sites.
 - Material fed into [[project-grudge|Project Grudge]], the short-lived 1949 USAF UFO program (precursor to Project Blue Book).
 
-This is one of the densest documented early UAP–nuclear-facility clusters on record. The Sandia cluster reinforces the nuclear-equities framing [[lue-elizondo]] emphasized in his November 2024 House Oversight testimony ([[src-elizondo-house-hearing-2024-11]]).
+This is one of the densest documented early UAP–nuclear-facility clusters on record. The Sandia cluster reinforces the nuclear-equities framing [[lue-elizondo]] emphasized in his November 2024 House Oversight testimony ([[src-elizondo-house-hearing-2024-11]]). The nearby [[los-alamos|Los Alamos]] 1948–1951 mountain green-lights account (a 1970 letter surfaced in Release 02 — [[src-nbc-pursue-firsthand-encounters-2026-05]]) overlaps the same New Mexico green-fireball wave.
 
 ## Sources
 
 - [[src-pentagon-second-batch-ufo-release-2026-05]]
 - [[src-newsweek-pursue-release-02-2026-05]]
+- [[src-nbc-pursue-firsthand-encounters-2026-05]]
