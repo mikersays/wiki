@@ -2,7 +2,7 @@
 title: Directed-Energy Weapons (DEW)
 type: concept
 created: 2026-05-07
-updated: 2026-05-07
+updated: 2026-05-29
 ---
 
 # Directed-Energy Weapons
@@ -28,3 +28,4 @@ The February 2026 incident in which a DoD laser-based C-UAS engaged a [[customs-
 ## Sources
 
 - [[src-directed-energy-5-bases-pilot-2026-05]]
+- [[src-northcom-southern-border-counter-drone-sandbox-2026-05]] — FAA/DoD assessment cleared high-energy laser C-UAS for border use; confirms Feb 2026 El Paso closure was a laser firing

@@ -2,7 +2,7 @@
 title: Counter-UAS
 type: concept
 created: 2026-04-29
-updated: 2026-05-22
+updated: 2026-05-29
 ---
 
 # Counter-UAS
@@ -105,3 +105,4 @@ UK has no equivalent of JIATF-401 or [[flyaway-kit]] for homeland counter-sUAS. 
 - [[drone-swarm]]
 - [[src-jiatf-401-counter-drone-homeland-guidance-2026-01]]
 - [[src-shield-ai-lucas-drone-swarm-2026-05]]
+- [[src-northcom-southern-border-counter-drone-sandbox-2026-05]] — NORTHCOM's southern-border C-UAS "sandbox"; soldier-following portable C-UAS gap

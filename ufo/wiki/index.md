@@ -1,6 +1,6 @@
 ---
 title: Index
-updated: 2026-05-28
+updated: 2026-05-29
 ---
 
 # Wiki Index
@@ -58,6 +58,8 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[src-buga-sphere-uga-carbon-date-claim-2025-10]] — PRISM MarketView (Gerry Griffith, Oct 24 2025) promotional restatement of the Greer/Maussan claim that a UGA AMS lab dated Buga Sphere internal resin to 12,560 years (Younger Dryas); names no UGA personnel or methodology; directly contradicted by the Astrophyzix companion debunk
 - [[src-burlison-commends-trump-uap-release-2026-05]] — Burlison House press release commending Trump's May 8 PURSUE UAP file launch; codifies "disclosure president" framing and verbatim interagency-participant list
 - [[src-burlison-marching-orders-2026-01]] — DCNF coverage of Rep. Burlison at James Fox's January 2026 Varginha 30th-anniversary UAP press conference; calls for passage of the UAP Disclosure Act and standalone whistleblower protections
+- [[src-burlison-mitre-press-release-2026-05]] — Primary-source Burlison House press release (May 26 2026): legislative interrogatories to [[mitre]] (an FFRDC) on UAP-record custody/destruction; builds on the MIT Lincoln Laboratory Beacon Hill Study / "AF-ATIC-FILM, 03/52" letter; invokes FY2024 NDAA UAP Records Collection (NARA RG 615); demands preservation hold, records index, classified briefing; "FFRDCs cannot become private vaults for federal records"
+- [[src-burlison-mitre-uap-records-2026-05]] — DefenseScoop (Brandi Vincent, May 27 2026): The MITRE Corporation confirms it is reviewing archives to comply with Rep. Burlison's May 22 10-page records-production request for UAP/transmedium/crash-retrieval records and assets back to 1930; 40+ enumerated requests, FFRDC FOIA-exemption accountability angle, named contractor roster, 45-day unclassified-records deadline
 - [[src-canada-sky-canada-final-2025-07]] — CTV News (Daniel Otis) on the FINAL Sky Canada Project report (July 14 2025): dedicated CSA-led federal UAP service, Transport Canada destigmatization, public-records release, ~1,000 sightings/yr estimate; ~15,000 NRC archival pages at Library and Archives Canada
 - [[src-canada-sky-canada-project-2025-02]] — The Debrief on the political prospects of Canada's Sky Canada Project preliminary report (Jan 2025); MP Larry Maguire (Transport Canada vs CSA), Chris Rutkowski as OCSA consultant, 2023 Yukon shootdown framing
 - [[src-cassini-huygens-ocean-worlds-2026-04]] — Copernical retrospective on Cassini-Huygens as the institutional and scientific template for ocean-worlds astrobiology; covers the 1989-2017 mission arc and a 2026 Nature Communications paper revising Saturn's magnetosphere model — Defense Post: JIATF-401 + JTF-NCR train 3rd Infantry Regiment on Bumblebee V1 C-UAS at Fort Belvoir; JIATF-401 procures Fortem DroneHunter F700 and Bumblebee V2 FPV; March 2026 FAA high-energy laser test; U.S.-UK common C-UAS data standards
@@ -137,6 +139,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[src-newsnation-pursue-release-02-2026-05]] — NewsNation (Steph Whiteside, May 22 2026) on PURSUE Release 02: >40 lawmaker-requested videos including Eglin AFB and Lake Huron shootdown; 116-page Sandia NM 1948–1950 AFSWP file; 1973 CIA Soviet sighting; DOE incident report; Apollo 12 light-flash audio; Mercury-Atlas "light shavings"; submarine-tracking transmedium clip
 - [[src-newsweek-pursue-release-02-2026-05]] — Newsweek (Castro & Robinson, May 22 2026) on PURSUE Release 02: Pentagon Lake Huron 2023 shootdown footage released ("clearest military engagement clip"), 116-page Sandia NM 1948–1950 file (209 reports, residual copper powder) feeding Project Grudge, Apollo 12 medical-debrief eyes-closed light flashes (cosmic-ray phosphenes), 2022 Iran IR formation, 2024 Coast Guard southeastern-U.S. clip, 2022 submarine-vicinity transmedium spheres flagged by AARO, CENTCOM AOR 2018–2023
 - [[src-northcom-drone-incursion-2026-03]] — NORTHCOM Flyaway Kit defeats drone over undisclosed strategic U.S. installation during opening hours of Operation Epic Fury
+- [[src-northcom-southern-border-counter-drone-sandbox-2026-05]] — Breaking Defense (Carley Welch, May 20 2026): NORTHCOM's Gen. Guillot calls the southern border a "literal and figurative sandbox" for counter-drone tech via JIATF-401's buy-if-it-works vendor pipeline; cartel drones overfly troops "all the time," flags a missing soldier-following portable C-UAS, imports CENTCOM lessons; ties to the FAA/DoD high-energy-laser border clearance and the Feb 2026 El Paso laser-firing airspace closure
 - [[src-npr-astrophysicist-uap-reaction-2026-05]] — NPR *All Things Considered* (May 13 2026): astrophysicist Adam Frank dismisses PURSUE Release 01 as 'fuzzy blob videos,' demands scientific evidence for crash-retrieval claims
 - [[src-nuclear-drone-triangular-object-2026-04]] — NRC FOIA records reveal 22 drone incidents at U.S. nuclear plants (Sep 2022 - Feb 2023), including triangular object with spotlight at Susquehanna; historical Hanford UAP cases
 - [[src-npr-pursue-release-2026-05]] — NPR (Bill Chappell, May 8 2026) explainer-register PURSUE Release 01 wire; uniquely foregrounds the November 1948 USAF Top Secret cable with Swedish-intelligence consultation, the 1955 Sen. Richard Russell Soviet train-window sighting (with Lt. Col. E. U. Hathaway), and the Sep 2023 FBI ovaloid-treeline interview that explicitly names witness stigma; published war.gov/info → war.gov/ufo correction
@@ -503,8 +506,11 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[mona-nemer]] — Canada's Chief Science Advisor; sponsor of the Sky Canada Project preliminary and final reports
 - [[murchison-meteorite]] — 1969 Australian carbonaceous chondrite; canonical exogenous-organics evidence (amino acids, nucleobases, hexamethylenetetramine)
 - [[minot-afb]] — North Dakota nuclear bomber/ICBM base where NORTHCOM FAK was certified in October 2025 Global Thunder exercise
+- [[mit-lincoln-laboratory]] — MIT-operated FFRDC; subject of Burlison's prior Beacon Hill Study / "AF-ATIC-FILM, 03/52" UAP-records letter
+- [[mitre]] — The MITRE Corporation; not-for-profit FFRDC operator pressed by Rep. Burlison (May 2026) for UAP/crash-retrieval records back to 1930; confirmed it is reviewing its archives to comply
 - [[nancy-grace-roman-space-telescope]] — NASA wide-field telescope launching 2027 with coronagraph for direct-imaging exoplanets
 - [[nancy-mace]] — Rep. (R-SC); House UAP Caucus member pushing classified SCIF briefings with Rubio on UAP
+- [[nara]] — National Archives and Records Administration; statutory home of the UAP Records Collection (Record Group 615)
 - [[nasa]] — U.S. space agency operating Perseverance, Europa Clipper, JWST, and planning Mars Sample Return
 - [[nazca-mummies]] — Maussan's Sept 2023 Mexican Chamber of Deputies "non-human bodies"; forensically assessed as composites of human/animal bones, glue, synthetic rubber, and plant fibers; precedent reference for the Buga Sphere case
 - [[nasa-ames-research-center]] — NASA field center in Mountain View, CA; home of [[ben-lew]] and [[caleb-scharf]]
@@ -774,6 +780,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[fbi-case-file-62-hq-83894]] — FBI 1947–1968 file on unidentified objects and "flying discs"; 18 sub-documents including Oak Ridge TN reports; centerpiece of the May 8, 2026 PURSUE Release 01
 - [[gemini-7]] — Dec 1965 Borman/Lovell mission; "bogey at ten o'clock high" transcript released as part of May 2026 PURSUE — earliest formally-released U.S. crewed-spaceflight UAP record
 - [[skylab]] — First U.S. space station (1973–1979); 1973 Technical Crew Debriefing released as part of May 2026 PURSUE
+- [[ffrdc]] — Federally funded research and development centers (MITRE, CNA, JHUAPL, MIT Lincoln Lab); FOIA-exemption shield is the focus of Burlison's UAP records-accountability push
 - [[flyaway-kit]] — NORTHCOM transportable counter-drone sensor/effector package (FAK)
 - [[four-corners-ndaa-process]] — Informal precondition requiring HASC + SASC + HPSCI + SSCI chair-and-ranking-member concurrence for contested NDAA provisions; barrier to UAPDA inclusion
 - [[genkai-nuclear-uap-incident]] — Ongoing Japanese UAP case with discrepancies between Kyushu Electric utility records and Saga Prefectural Police account
@@ -868,6 +875,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[uap-disclosure-act]] — Schumer/Rounds-led transparency legislation; Senate-passed 2023; UAP RRB provisions deleted in FY2024 NDAA conference
 - [[uap-narrative-data]] — Qualitative witness/report data and its corpus-vs-narrative analytical framing, central to AARO's 2025 workshop whitepaper
 - [[uap-personnel-deaths-pattern]] — Alleged pattern of 11+ deaths/disappearances of UAP/aerospace-program personnel since 2022 (Sullivan, McCasland, Elizondo); unverified by federal authorities
+- [[uap-records-collection]] — FY2024 NDAA-mandated national UAP archive at NARA (Record Group 615); surviving "National-Archives-only" outcome of the UAP Disclosure Act
 - [[uap-records-review-board]] — Independent expert body proposed by the UAP Disclosure Act to review all UAP records regardless of classification
 - [[uap-reporting-infrastructure]] — Systems and protocols for collecting, categorizing, and investigating UAP sightings
 - [[uap-reverse-engineering]] — Alleged government programs to understand and replicate technology from recovered UAP

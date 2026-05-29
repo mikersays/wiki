@@ -2,7 +2,7 @@
 title: FAA (Federal Aviation Administration)
 type: entity
 created: 2026-04-13
-updated: 2026-05-14
+updated: 2026-05-29
 ---
 
 # FAA (Federal Aviation Administration)
@@ -45,3 +45,4 @@ The FAA's May 2025 integration with [[aaro]]'s case-management architecture refr
 
 - [[src-uap-landscape-2025]] -- Detailed coverage of Notice JO 7110.800 and AARO integration
 - [[src-faa-drone-rule-critical-infrastructure-2026-05]] -- May 2026 UAFR notice of proposed rulemaking
+- [[src-northcom-southern-border-counter-drone-sandbox-2026-05]] -- FAA/DoD assessment cleared high-energy laser C-UAS for southern-border use; El Paso laser-closure context

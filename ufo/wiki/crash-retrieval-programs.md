@@ -59,4 +59,5 @@ In April 2026 commentary ([[src-loeb-wh-uap-videos-skeptic-2026-04]], [[src-trum
 - [[src-wright-patterson-general-missing-2026-03]]
 - [[src-loeb-wh-uap-videos-skeptic-2026-04]]
 - [[src-trump-tpusa-ufo-tease-2026-04]]
+- [[src-burlison-mitre-press-release-2026-05]] — Burlison's MITRE interrogatories explicitly seek records on alleged legacy crash-retrieval / reverse-engineering programs and recovered materials
 - [[src-catholic-filmmaker-vatican-ufo-2026-04]] — Pius XII / 1933 Milan branch

@@ -2,7 +2,7 @@
 title: U.S. Central Command (CENTCOM)
 type: entity
 created: 2026-04-29
-updated: 2026-05-22
+updated: 2026-05-29
 ---
 
 # U.S. Central Command (CENTCOM)
@@ -47,3 +47,4 @@ Per the Pentagon CTO via DefenseScoop ([[src-shield-ai-lucas-drone-swarm-2026-05
 - [[shield-ai]]
 - [[hivemind]]
 - [[src-shield-ai-lucas-drone-swarm-2026-05]]
+- [[src-northcom-southern-border-counter-drone-sandbox-2026-05]] — NORTHCOM importing CENTCOM C-UAS lessons to the southern border

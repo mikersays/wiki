@@ -44,3 +44,4 @@ The credibility landscape is divided. Supporting factors include multiple indepe
 - [[src-uap-reverse-engineering-claims-overview-2025]]
 - [[src-immaculate-constellation-whistleblower-2025]]
 - [[src-uap-legislation-disclosure-efforts-2025]]
+- [[src-burlison-mitre-uap-records-2026-05]] — Burlison's MITRE records request seeks "technologies of unknown origin" and legacy reverse-engineering records from FFRDCs/contractors

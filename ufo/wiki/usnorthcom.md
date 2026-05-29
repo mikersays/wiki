@@ -2,7 +2,7 @@
 title: U.S. Northern Command (USNORTHCOM)
 type: entity
 created: 2026-04-13
-updated: 2026-05-10
+updated: 2026-05-29
 ---
 
 # U.S. Northern Command (USNORTHCOM)
@@ -28,6 +28,10 @@ See also [[drone-incursions]] and the foundational [[src-60-minutes-drone-swarms
 Per [[src-directed-energy-5-bases-pilot-2026-05]], NORTHCOM characterized drone incursions over U.S. military installations as **"almost daily"** in an October 2025 statement, complementing Guillot's February 2025 figure of 350 detections at ~100 installations in the prior year. This framing underwrote the May 2026 [[jiatf-401]] [[directed-energy-weapons]] 5-base pilot.
 
 See also: [[norad]], [[aaro]], [[ndaa-uap-provisions]], [[uap-disclosure]], [[gregory-guillot]], [[flyaway-kit]], [[glen-vanherck]], [[langley-afb]], [[barksdale-afb]], [[src-directed-energy-5-bases-pilot-2026-05]]
+
+## Southern border as a C-UAS "sandbox" (May 2026)
+
+At SOF Week in Tampa, [[gregory-guillot|Gen. Guillot]] described the U.S. southern border as "a literal and a figurative sandbox" for [[counter-uas|counter-drone]] technology, run through [[jiatf-401]]: vendors are invited to demonstrate systems at the border on a buy-if-it-works basis, with "hundreds of systems" already fielded there. He said NORTHCOM is importing lessons from [[centcom]] and flagged a capability gap — no portable C-UAS that can follow a patrolling soldier — while noting [[cartel-drone-threat|cartel drones]] overfly Marines and soldiers "all the time" ([[src-northcom-southern-border-counter-drone-sandbox-2026-05]]). The remarks followed an [[faa]]/DoD assessment clearing high-energy laser C-UAS for border use.
 
 ## NORTHCOM UAP records in PURSUE Release 01
 

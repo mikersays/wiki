@@ -2,7 +2,7 @@
 title: Eric Burlison
 type: entity
 created: 2026-04-25
-updated: 2026-05-25
+updated: 2026-05-29
 ---
 
 **Rep. Eric Burlison** (R-MO) is a leading UAP legislative figure in the 119th Congress, serving on the House Oversight Committee alongside [[anna-paulina-luna]] and [[tim-burchett]].
@@ -47,6 +47,14 @@ In a December 16, 2025 interview, Burlison confirmed a **new UAP whistleblower l
 
 > "There's one person that's a new whistleblower that we have a lead on that might go public."
 
+## May 2026 — MITRE / FFRDC UAP-records inquiry
+
+On May 26, 2026, Burlison's office announced ([[src-burlison-mitre-press-release-2026-05]]) that he had transmitted **legislative interrogatories and production requests** to [[mitre|The MITRE Corporation]], a [[ffrdc|federally funded research and development center]], seeking records on its potential custody, control, analysis, transfer, destruction, or withholding of UAP-related records — including recovered materials, [[transmedium-uap|transmedium]] data, and alleged legacy [[crash-retrieval-programs|crash-retrieval / reverse-engineering programs]] — dating back to 1930. DefenseScoop ([[src-burlison-mitre-uap-records-2026-05]]) reports MITRE confirmed it is reviewing its archives to comply.
+
+The request builds on a prior Burlison letter to [[mit-lincoln-laboratory|MIT Lincoln Laboratory]] over the Beacon Hill Study and the "AF-ATIC-FILM, 03/52" reel, and invokes the FY2024 NDAA [[uap-records-collection|UAP Records Collection]] ([[nara|NARA]] Record Group 615) transfer mandate. Burlison argues FFRDCs "cannot become private vaults for federal records" and demands a preservation hold, a records-location index, and a classified briefing for [[task-force-declassification-federal-secrets|Task Force]] members. This extends his whistleblower/FFRDC-accountability work into a concrete contractor-side records demand running parallel to the executive-branch [[pursue]] rollout.
+
+> "This inquiry does not require MITRE to accept any particular conclusion about the origin or nature of UAP. It requires MITRE to tell Congress what it knows, what it holds, what it has held, what it has transferred, what it has destroyed or was directed to destroy, and which federal sponsors or classification authorities control any responsive records."
+
 ## Related Pages
 
 - [[src-uap-transparency-hearing-2026-04]]
@@ -68,3 +76,9 @@ In a December 16, 2025 interview, Burlison confirmed a **new UAP whistleblower l
 - [[src-debrief-pursue-next-batch-preview-2026-05]] — May 15 2026 joint review session and PURSUE Release 02 preview
 - [[src-religious-republicans-uap-files-2026-05]] — May 15 2026 Courthouse News stick-to-scripture / "underscore the Christian worldview" theological framing
 - [[src-new-uap-whistleblower-scif-2026-05]] — Dec 2025 new whistleblower lead and SCIF-first strategy
+- [[src-burlison-mitre-press-release-2026-05]] — May 26 2026 primary-source MITRE/FFRDC records interrogatories
+- [[src-burlison-mitre-uap-records-2026-05]] — DefenseScoop coverage of the MITRE records request
+- [[mitre]]
+- [[ffrdc]]
+- [[mit-lincoln-laboratory]]
+- [[uap-records-collection]]

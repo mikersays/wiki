@@ -2,7 +2,7 @@
 title: UAP Disclosure Act
 type: concept
 created: 2026-05-01
-updated: 2026-05-18
+updated: 2026-05-29
 ---
 
 # UAP Disclosure Act
@@ -11,7 +11,7 @@ Senate-led UAP transparency legislation championed by Sen. Chuck Schumer with su
 
 ## December 2023 — Schumer-Rounds floor colloquy
 
-The primary-source text of the December 13, 2023 Senate floor colloquy ([[src-schumer-rounds-uap-colloquy-2023]]) names the FY2024 NDAA conference's stripped-down outcome: the National Archives received a legal mandate to gather UAP records government-wide, but the **presidentially-appointed, Senate-confirmed citizen review board** and the **requirement that the government recover UAP material or biological remains** "provided to private entities in the past and thereby hidden from Congress" were both rejected. Schumer characterizes the loss as leaving declassification "largely up to the same entities that have blocked and obfuscated their disclosure for decades." Rounds confirms data exists at "more than just the Department of Defense, but by other agencies of the federal government as well."
+The primary-source text of the December 13, 2023 Senate floor colloquy ([[src-schumer-rounds-uap-colloquy-2023]]) names the FY2024 NDAA conference's stripped-down outcome: the National Archives received a legal mandate to gather UAP records government-wide, but the **presidentially-appointed, Senate-confirmed citizen review board** and the **requirement that the government recover UAP material or biological remains** "provided to private entities in the past and thereby hidden from Congress" were both rejected. Schumer characterizes the loss as leaving declassification "largely up to the same entities that have blocked and obfuscated their disclosure for decades." Rounds confirms data exists at "more than just the Department of Defense, but by other agencies of the federal government as well." The surviving National-Archives mandate is the [[uap-records-collection|UAP Records Collection]] ([[nara]] Record Group 615); Rep. [[eric-burlison]]'s May 2026 interrogatories to the [[mitre|MITRE]] [[ffrdc]] operationalize it by extending records-preservation demands to private contractors ([[src-burlison-mitre-press-release-2026-05]], [[src-burlison-mitre-uap-records-2026-05]]).
 
 [[tim-gallaudet]] (in his Nov 2024 House Oversight testimony) and the [[uap-disclosure-fund]] / [[sol-foundation]] continue to advocate for revival of the RRB provisions ([[src-gallaudet-house-testimony-2024-11]]).
 
@@ -39,3 +39,5 @@ At the January 2026 [[varginha-incident]] 30th-anniversary press conference host
 - [[src-burlison-marching-orders-2026-01]]
 - [[src-uap-whistleblower-protection-act-2025-09]]
 - [[src-uap-transparency-stalls-2025-12]]
+- [[src-burlison-mitre-press-release-2026-05]]
+- [[src-burlison-mitre-uap-records-2026-05]]

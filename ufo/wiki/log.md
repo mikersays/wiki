@@ -1198,3 +1198,34 @@ Fetched via /ufo-news (no focus topic). Dispatched 8 parallel search tracks; mos
 - **PURSUE Release 03 watch** — DoW previewed it "in the near future"; The Debrief (May 23) expects it within ~2 weeks. Likely the next big ingest cycle.
 - **CAIPAN 2022 / GEIPAN** — if the user wants historical depth, the dropped Debrief piece is a clean standalone ingest (would seed [[geipan]], CAIPAN, and a French-program entity cluster).
 - **Japan UAP office** — watch for an actual 2026 re-submission to Min. Nakatani distinct from the May 2025 attempt.
+
+## [2026-05-29] ingest | UFO news sweep (3 articles)
+
+Fetched via /ufo-news (no focus topic). Dispatched 8 parallel search tracks; the vast majority of candidates were already covered (PURSUE Release 01/02 wire coverage, directed-energy 5-base pilot, AbSciCon26 tips, France June 29 symposium, AARO shutdown bill, SCIF whistleblower, mineral false-positives). Triage surfaced 4 novel candidates; 3 ingested, 1 skipped at fetch (the TWZ "Will Leave You Shrugging" URL resolved to the Release 01 piece already held as [[src-twz-pursue-shrug-2026-05]] — TWZ has no separate Release 02 "shrug" article).
+
+**New sources:** [[src-burlison-mitre-press-release-2026-05]] (primary), [[src-burlison-mitre-uap-records-2026-05]] (DefenseScoop), [[src-northcom-southern-border-counter-drone-sandbox-2026-05]]
+
+**New entities:** [[mitre]], [[mit-lincoln-laboratory]], [[nara]]
+
+**New concepts:** [[ffrdc]], [[uap-records-collection]]
+
+**Updated:**
+- [[eric-burlison]] — added the May 2026 MITRE/FFRDC records-inquiry section; ties FFRDC accountability to the FY2024 NDAA UAP Records Collection and the prior MIT Lincoln Laboratory letter.
+- [[task-force-declassification-federal-secrets]] — added the MITRE interrogatories as a Task Force action extending pressure from agencies to private contractors.
+- [[uap-disclosure-act]], [[uap-records-review-board]] — added the surviving-NARA-mandate framing; Burlison's MITRE/FFRDC demands operationalize the [[uap-records-collection]] (RG 615).
+- [[crash-retrieval-programs]], [[uap-reverse-engineering]] — MITRE letter explicitly seeks legacy crash-retrieval / reverse-engineering / "technologies of unknown origin" records.
+- [[center-for-naval-analyses]], [[jhuapl]] — linked the inline "FFRDC" description to the new [[ffrdc]] concept page.
+- [[gregory-guillot]], [[usnorthcom]], [[jiatf-401]] — added the May 20 SOF Week "southern border sandbox" remarks and the vendor buy-if-it-works pipeline.
+- [[cartel-drone-threat]] — added Guillot's "cartel drones overfly troops all the time" driver for a soldier-following portable C-UAS.
+- [[el-paso-international-airport]], [[directed-energy-weapons]], [[faa]] — clarified the Feb 2026 closure was a DoD laser firing; added the ~April 2026 FAA/DoD high-energy-laser border clearance.
+- [[counter-uas]], [[centcom]] — source backlinks (sandbox / CENTCOM-lessons-import).
+
+**Cross-connections / contradictions flagged:**
+- **The two MITRE sources are a primary + secondary pair** — Burlison's own House press release (May 26) and DefenseScoop's reporting (May 27) on the same records request; cross-linked bidirectionally.
+- **FFRDC accountability is a new structural thread in the vault** — connects the executive-branch [[pursue]] disclosure rollout to a contractor-side congressional records-enforcement vector; the new [[ffrdc]] page ties together previously-isolated mentions in [[mitre]], [[center-for-naval-analyses]], [[jhuapl]], and [[mit-lincoln-laboratory]].
+- **El Paso laser clarification** — the NORTHCOM source states plainly the Feb 2026 El Paso closure was a DoD counter-drone **laser** firing, complementing the existing page's "C-UAS testing miscommunication" framing (compatible: the test was a laser firing).
+
+**Suggested follow-ups:**
+- **MITRE response watch** — Burlison set a 45-day unclassified-records deadline (~early July 2026); whether MITRE produces, certifies a null search, or stonewalls is the next beat.
+- **Other FFRDCs** — Burlison's letter names a broad contractor roster (Lockheed, Northrop, Raytheon, Boeing, etc.); parallel letters to other FFRDCs or to MIT Lincoln Laboratory follow-up are likely.
+- **PURSUE Release 03 watch** — still previewed but not dropped as of May 29; remains the next big ingest cycle.

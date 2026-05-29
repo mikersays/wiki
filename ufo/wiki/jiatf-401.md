@@ -2,7 +2,7 @@
 title: Joint Interagency Task Force 401 (JIATF-401)
 type: entity
 created: 2026-04-29
-updated: 2026-05-22
+updated: 2026-05-29
 ---
 
 # Joint Interagency Task Force 401 (JIATF-401)
@@ -87,9 +87,16 @@ This is the first FY27 dollar-itemized procurement breakdown in the vault — di
 
 Per [[src-jiatf-401-marketplace-romania-2026-04|U.S. Army release]]: the Secretary of the Army and [[romania]]'s Minister of National Defense signed an agreement enabling Romania to procure C-UAS capabilities through the [[jiatf-401-marketplace]]. Romania becomes the second named partner nation after the [[united-kingdom]]. The Army secretary's stated goal is **25 partner nations by end of summer 2026**. Brig. Gen. [[matt-ross]] frames the marketplace as scaling the C-UAS industrial base "from the tactical edge to critical infrastructure protection."
 
+## May 2026 — Southern-border vendor "sandbox"
+
+At SOF Week, [[usnorthcom|NORTHCOM]] commander Gen. [[gregory-guillot]] described JIATF-401 using the U.S. southern border as a counter-drone "sandbox": vendors are invited to demonstrate C-UAS at the border, NORTHCOM trials them operationally, and "if it works... we'll probably buy it... potentially at scale." Guillot said "hundreds of systems or components of systems" are already fielded there and that NORTHCOM imports lessons from [[centcom]] ([[src-northcom-southern-border-counter-drone-sandbox-2026-05]]). The framing operationalizes the marketplace's "tactical edge to critical infrastructure" pitch at the homeland border.
+
 ## Related Pages
 
 - [[counter-uas]]
+- [[gregory-guillot]]
+- [[usnorthcom]]
+- [[src-northcom-southern-border-counter-drone-sandbox-2026-05]]
 - [[lattice-c2]]
 - [[jiatf-401-marketplace]]
 - [[anduril]]
