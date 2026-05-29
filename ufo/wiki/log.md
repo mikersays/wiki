@@ -1247,3 +1247,25 @@ Updated: [[jwst]], [[transmission-spectroscopy]], [[exoplanet-atmosphere-models]
 - **PURSUE Release 03 watch** — still previewed but not dropped as of May 29; remains the next big ingest cycle (carried over from the prior sweep).
 - **WASP-94Ab journal paper** — the *Science* paper (Mukherjee et al., May 21 2026) and the eccentric-hot-Jupiter follow-up program are worth a dedicated primary-source ingest if the abstract/figures become accessible.
 - **Sofia Sheikh corpus** — the "Earth Detecting Earth" study and Sheikh's broader technosignature work (she is a recurring SETI figure) could anchor more entity cross-links.
+
+## [2026-05-29] ingest | UFO news sweep (1 article)
+
+Second /ufo-news sweep of the day (8 parallel search tracks → triage → 1 ingested). The vault remains saturated on the dominant May-2026 stories: nearly all candidates were dropped at triage or fetch as duplicates of existing PURSUE Release 01/02, MITRE/Burlison-records, Buga Sphere, AbSciCon26, and France National Assembly coverage. Of four fetched candidates, three were correctly rejected by the fetch gate: the Sentinel News France piece (duplicate of [[src-france-national-assembly-uap-conference-2026-05]]), an NBC News article (stale — Nov 2024 AARO-report coverage, outside the 30-day window), and an AeroTime piece (PURSUE Release 01 rehash with no new aviation angle). The one survivor is a genuinely new, distinct event.
+
+The Durham University Law School announcement URL was CloudFront-blocked and unarchived; the fetch agent captured the underlying symposium program page (johnemackinstitute.org) verbatim instead, with the substitution noted in the source frontmatter.
+
+New sources: [[src-breaking-the-taboo-uap-contact-symposium-2026-05]]
+New entities: [[michael-bohlander]], [[john-mack]], [[john-mack-institute]], [[center-for-the-impossible]], [[karin-austin]], [[kimberly-engels]], [[matthew-roberts]]
+New concepts: none
+Updated: [[jeffrey-kripal]], [[icer]], [[society-for-uap-studies]], [[alien-abduction-phenomenon]]
+
+**Cross-connections / contradictions flagged:**
+- **Distinct from the France symposium** — this is the July 10 2026 online "Breaking the Taboo" symposium (experiencer/abduction research), NOT the June 29 2026 French National Assembly parliamentary symposium ([[src-france-national-assembly-uap-conference-2026-05]]). Both are 2026 academic UAP events; cross-linked but kept separate.
+- **Extends the academic-stigma thread** — complements [[src-academic-uap-stigma-2026-04]] (Evans/Yingling faculty-stigma surveys) by targeting the most stigmatized subfield: first-person contact/abduction testimony. The John Mack archive transfer to Harvard/Rice is the institutional anchor.
+- **Extends the psychological-framing thread** — [[jeffrey-kripal]]'s Archives of the Impossible and Rice's [[center-for-the-impossible]] now connect the [[psychological-uap-framing]] / [[alien-abduction-phenomenon]] pages to a living institutional program (John Mack Institute).
+- **Military-sensor bridge** — [[matthew-roberts]] (ex-ONI, aboard USS Theodore Roosevelt during Gimbal/Go Fast collection) links the experiencer community directly to the canonical Navy UAP-footage cases.
+
+**Suggested follow-ups:**
+- **PURSUE Release 03 watch** — still previewed but not dropped as of May 29; remains the next big ingest cycle (carried over).
+- **John Mack / Archives of the Impossible** — the 2022 Harvard/Rice archive transfer and Kripal's Archives of the Impossible could anchor a dedicated query or a deeper concept page on "experiencer research" as a distinct academic movement.
+- **ICER / Society for UAP Studies roster** — Tim Murithi and the broader ICER membership are thinly covered; a dedicated entity page for Murithi and an ICER membership map would densify the international-academic cluster.

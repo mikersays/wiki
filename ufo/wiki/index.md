@@ -33,6 +33,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[src-alpha-centauri-a-exoplanet-2026]] — JWST MIRI detects candidate Saturn-like gas giant orbiting Alpha Centauri A, closest habitable-zone exoplanet if confirmed
 - [[src-anduril-army-20b-counter-drone-idiq-2026-03]] — Breaking Defense: Army awards Anduril $87M Lattice C2 task order — first under a new $20B/10-year enterprise IDIQ contract vehicle for JIATF-401 counter-drone mission
 - [[src-breaking-defense-army-1b-counter-drone-2026-05]] — Breaking Defense (Carley Welch, May 15 2026): Army FY27 budget requests $994M for small counter-UAS (~2x FY26's $596M); 8 line items including $414M operational, $132M effectors (800 kinetic, 29 non-kinetic, 24 NGCM/Aerovironment Freedom Eagle-1), $66M directed energy (2 E-HEL systems), and $5M for the FoCUS program
+- [[src-breaking-the-taboo-uap-contact-symposium-2026-05]] — John Mack Institute / Center For The Impossible program page for the July 10 2026 free online "Breaking the Taboo" symposium reviving academic UAP/abduction/experiencer research; co-organized by Bohlander (Durham), Austin, and Engels; Bohlander's "core crimes under international criminal law" contact-ethics thesis, Glick's EXIM instrument, Murithi's Pan-African Ufology, Kripal welcome
 - [[src-army-counter-drone-marketplace-stateside-2026-04]] — DefenseScoop (Drew Lawrence, Apr 16 2026): Army Secretary Driscoll tells House Defense Appropriations that the JIATF-401 marketplace is being leveraged for FIFA World Cup 2026, America 250, and the 2028 LA Olympics; $13M cumulative sales, state/local/federal LE eligibility, 350 police synced at Joint Base Myer-Henderson Hall, $100M committed for FIFA; Karako's "Super Bowl bubbles all year round"; 13,000 Merops at ~$15k/unit vs Shahed
 - [[src-biosignature-gas-flux-inference-2026-04]] — Wogan et al. propose surface-flux inference via photochemical-climate model inversion; ~80% of CH₄ posterior consistent with life on synthetic TRAPPIST-1 e spectrum
 - [[src-brats-radio-technosignatures-2026-05]] — Astrobiology.com (Keith Cowing, May 13 2026) summary of Garrett arXiv 2605.10212 proposing BRaTs (Broadband Radio Technosignatures): hierarchical SKA+VLBI pipeline detecting planetary-scale leakage out to ~100 pc for Kardashev Type I; 5-parameter discriminator (brightness temperature, polarization, spectral non-uniformity, scintillation, astrometric co-motion)
@@ -413,6 +414,8 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[jared-isaacman]] — NASA Administrator; "follow the data" statement on the May 8, 2026 PURSUE release
 - [[jd-vance]] — 50th U.S. Vice President; self-described "obsessed" with UFO files; pledged Area 51 investigation; frames some UAP sightings as "spiritual demons"
 - [[jeffrey-nuccetelli]] — USAF veteran who testified about 2003–2005 UAP incursions near Vandenberg AFB during NRO launches
+- [[john-mack]] — Harvard psychiatrist (1929–2004); pioneering academic researcher of the alien-abduction/experiencer phenomenon; archives transferred to Harvard and Rice in 2022
+- [[john-mack-institute]] — Nonprofit carrying forward John Mack's work; pairs experiencer mental-health support with research; co-sponsor of the 2026 "Breaking the Taboo" symposium
 - [[jennifer-eigenbrode]] — NASA Goddard astrobiologist; SAM instrument team co-lead; co-author 2026 Curiosity TMAH organics paper
 - [[jeremy-corbell]] — Investigative UAP filmmaker/journalist who supplied Congress with file names and locations for requested UAP videos
 - [[jessica-libby-roberts]] — University of Tampa astronomer; co-lead of JWST Cycle 2 GEMS Survey
@@ -432,6 +435,8 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[jordan-flowers]] — Executive Director, [[disclosure-foundation]]; recurring on-record critic of AARO reporting cadence
 - [[jose-arias-restrepo]] — Peanut vendor and metal-detector hobbyist from Buga, Colombia; named in Colombian press as the original finder of the Buga Sphere in March 2025
 - [[joseph-uscinski]] — U. of Miami political scientist; co-author of *American Conspiracy Theories*; skeptical voice on UFO belief and the PURSUE release
+- [[karin-austin]] — Managing Director of the John Mack Institute and Rice's Center For The Impossible; preserved and transferred Mack's archives; co-organizer of the 2026 "Breaking the Taboo" symposium
+- [[kimberly-engels]] — Molloy University philosopher; Research Director of the John Mack Institute; phenomenology-of-contact scholar; co-organizer of the 2026 "Breaking the Taboo" symposium
 - [[keith-cowing]] — Founder/editor of Astrobiology.com and SpaceRef; recurring astrobiology vault byline
 - [[joseph-humire]] — Assistant Secretary of Defense; questioned by Vasquez over Feb 2026 El Paso/Fort Hancock airspace incidents
 - [[joseph-trevithick]] — The War Zone staff writer; recurring skeptical byline on PURSUE / UAP disclosure
@@ -482,12 +487,14 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[matthew-brown]] — Former Pentagon intelligence analyst; first to publicly confirm Immaculate Constellation program
 - [[matthew-gray]] — Catholic priest and former U.S. military chaplain; on-camera UFO crash-retrieval testimony in Sorich's documentary
 - [[matthew-livelsberger]] — Former Green Beret; died Jan 1 2025 in Las Vegas Trump Hotel vehicle detonation; classified manifesto containing alleged UAP/anti-gravitic claims under Pentagon control
+- [[matthew-roberts]] — Former Office of Naval Intelligence cryptologist; experiencer; aboard USS Theodore Roosevelt during Gimbal/Go Fast collection; author of *Initiated*
 - [[matthew-steckman]] — Anduril president and chief business officer; clarified the March 2026 $20B Army IDIQ is an ordering ceiling, not obligated funding
 - [[michelle-l-hill]] — UC Riverside planetary scientist; lead author of the 2026 STEHM lower-size-limit paper
 - [[max-planck-institute-for-astronomy]] — MPIA (Heidelberg); led 2026 JWST Epsilon Indi Ab study; contributed MIRI filter-wheel hardware; Roman partner
 - [[micah-hanks]] — Journalist/editor at The Debrief; *Intelligence Brief* columnist covering AARO (Nov 2024) and the May 8, 2026 PURSUE launch
 - [[mike-wall]] — Senior writer at Space.com; covered May 8 2026 PURSUE Release 01 with a video-supercut framing
 - [[michael-a-garrett]] — Radio astronomer / SETI researcher; lead author of the 2026 BRaTs broadband-technosignature framework
+- [[michael-bohlander]] — Durham University Chair in Global Law and SETI Policy; international criminal-law jurist; argues alien use of force in contact may be a "core crime under international criminal law"; co-organizer of the 2026 "Breaking the Taboo" symposium
 - [[michael-lamb]] — Caltech professor of geology; co-author of 2026 Nature paper identifying the topographic signature of early Martian oceans
 - [[mick-west]] — Independent UAP-skeptic researcher and founder of Metabunk; opened the May 2026 PURSUE Release 01 analysis thread; "more dots, more parallax"
 - [[mike-rogers]] — U.S. Rep. (R-AL); House Armed Services chair; imposed "Four Corners" precondition for UAPDA inclusion in FY2026 NDAA
@@ -697,6 +704,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[arnaud-saint-martin]] — French MP (LFI); lead organizer of the June 29 2026 French National Assembly UAP symposium
 - [[baptiste-friscourt]] — French UAP journalist; bylines Sentinel News
 - [[center-for-naval-analyses]] — FFRDC; hosted Kirkpatrick's April 27 2026 presentation framing early-2023 high-altitude shootdowns as hobbyist-balloon events
+- [[center-for-the-impossible]] — Rice University center for anomalous/"impossible" experience; home (with Harvard) of the John Mack archives; Karin Austin managing director; co-sponsor of the 2026 "Breaking the Taboo" symposium
 - [[cia]] — Central Intelligence Agency; document originator for 1973 Sary Shagan UAP report (PURSUE Release 02) and 1955 Russell sighting (PURSUE Release 01)
 - [[cnes]] — French national space agency; parent of GEIPAN since 1977; supports the June 2026 French National Assembly UAP symposium
 - [[cospar]] — Committee on Space Research; maintains Planetary Protection Policy; 2026 icy-worlds policy update
