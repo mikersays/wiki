@@ -68,5 +68,6 @@ A September 2025 PNAS perspective by [[sara-seager]] et al. ([[src-jwst-biosigna
 - [[high-mean-molecular-weight-atmosphere]]
 - [[toi-5205-b]] — "forbidden" M-dwarf giant; first transiting giant with **sub-stellar atmospheric metallicity**; CH₄ + H₂S detected ([[src-sciencedaily-forbidden-exoplanet-atmosphere-2026-04]]).
 - [[wd-0806b]] — second-coldest directly imaged exoplanet (white-dwarf companion); first observational **altitude-dependent K_zz** in any exoplanet atmosphere ([[src-aas-nova-wd-0806b-atmosphere-2026-04]]).
+- [[wasp-94ab]] — [[hot-jupiter]] where NIRISS limb-resolved transmission spectroscopy revealed the **first confirmed exoplanet daily weather cycle** (cloudy morning / clear evening); corrected blended-limb metallicity bias ([[src-jwst-wasp-94ab-weather-cycle-2026-05]]). See also [[sagnick-mukherjee]], [[david-sing]].
 - [[gems-survey]] — JWST Cycle 2's largest exoplanet program; targets giants around M dwarfs.
 - [[eddy-diffusion]] · [[ben-lew]] · [[shubham-kanodia]] · [[caleb-canas]]

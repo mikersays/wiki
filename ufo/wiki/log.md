@@ -1229,3 +1229,21 @@ Fetched via /ufo-news (no focus topic). Dispatched 8 parallel search tracks; the
 - **MITRE response watch** — Burlison set a 45-day unclassified-records deadline (~early July 2026); whether MITRE produces, certifies a null search, or stonewalls is the next beat.
 - **Other FFRDCs** — Burlison's letter names a broad contractor roster (Lockheed, Northrop, Raytheon, Boeing, etc.); parallel letters to other FFRDCs or to MIT Lincoln Laboratory follow-up are likely.
 - **PURSUE Release 03 watch** — still previewed but not dropped as of May 29; remains the next big ingest cycle.
+
+## [2026-05-29] ingest | UFO news sweep (2 articles)
+
+Fetched via /ufo-news (7 parallel search tracks → triage → 2 ingested). The sweep confirmed the vault is already saturated on the dominant May-2026 stories (PURSUE Release 01/02, Perennial Autonomy $500M, directed-energy 5-base pilot, Barakah nuclear-drone attack, France National Assembly conference, Disclosure Foundation NSA documents, AbSciCon26 tipsheets) — all dropped at triage as duplicates. Two House Oversight "hearing" URLs surfaced by search turned out to point at the **Sept 9 2025** and **Nov 13 2024** hearings (already ingested), so both were correctly SKIPPED — no genuinely new UAP hearing exists. A duplicate WASP-94Ab fetch (Astrobiology Web vs Tech Times, same *Science* paper) was deduped down to the richer Tech Times version.
+
+New sources: [[src-jwst-wasp-94ab-weather-cycle-2026-05]], [[src-seti-detecting-earth-technosignatures-2026-05]]
+New entities: [[wasp-94ab]], [[sagnick-mukherjee]], [[david-sing]], [[sofia-sheikh]], [[simon-steel]]
+New concepts: [[hot-jupiter]]
+Updated: [[jwst]], [[transmission-spectroscopy]], [[exoplanet-atmosphere-models]], [[biosignatures]], [[technosignatures]], [[terrestrial-technosignature]]
+
+**Cross-connections / contradictions flagged:**
+- **WASP-94Ab reinforces the vault's existing "1D-vs-3D / parallel interpretations" thread** — the limb-resolved weather cycle is the most concrete demonstration yet of the transmission-spectroscopy averaging bias that [[src-jwst-biosignature-prospects-2025]] (Seager et al.) flagged abstractly and that [[src-jwst-ice-clouds-exoplanet-2026-04]] (Epsilon Indi Ab ice clouds) showed for direct imaging. Mukherjee/Sing show it for transit spectroscopy with a >4σ metallicity correction.
+- **SETI "Earth Detecting Earth" anchors the terrestrial-technosignature calibration thread** — complements [[src-terrestrial-technosignatures-satellites-2026-04]] (VIIRS night-lights) and [[src-brats-radio-technosignatures-2026-05]] (BRaTs broadband leakage) by quantifying detection ranges (4G LTE ~4 ly). Note: the piece is dated Feb 2025, older than the 30-day window, but fills a genuine gap.
+
+**Suggested follow-ups:**
+- **PURSUE Release 03 watch** — still previewed but not dropped as of May 29; remains the next big ingest cycle (carried over from the prior sweep).
+- **WASP-94Ab journal paper** — the *Science* paper (Mukherjee et al., May 21 2026) and the eccentric-hot-Jupiter follow-up program are worth a dedicated primary-source ingest if the abstract/figures become accessible.
+- **Sofia Sheikh corpus** — the "Earth Detecting Earth" study and Sheikh's broader technosignature work (she is a recurring SETI figure) could anchor more entity cross-links.

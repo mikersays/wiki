@@ -123,3 +123,4 @@ The Orpheus Mars hopper mission proposal ([[src-orpheus-mars-volcanic-hopper-202
 - [[src-alien-biology-detection-method-2026-05]]
 - [[src-abscicon26-media-tips-1-2026-05]]
 - [[src-whoi-invow-ocean-worlds-2026-05]]
+- [[src-jwst-wasp-94ab-weather-cycle-2026-05]] — limb-asymmetric cloud cover (demonstrated on [[hot-jupiter]] [[wasp-94ab]]) can bias full-disc transmission spectra, producing false signals or masked detections; limb separation is a method to reduce this averaging bias for habitable-zone targets. Reinforces the "parallel interpretations" caveat on [[transmission-spectroscopy]].

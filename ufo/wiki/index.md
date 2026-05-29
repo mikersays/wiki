@@ -105,6 +105,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[src-jwst-k2-18b-biosignature-2025]] — JWST detects dimethyl sulfide and dimethyl disulfide (potential biosignatures) in the atmosphere of exoplanet K2-18b
 - [[src-jwst-toi-1130b-atmosphere-2026-05]] — Barat et al. JWST NIRSpec/NIRISS transmission spectrum of mini-Neptune TOI-1130b: H₂O (7.5σ), CO₂, SO₂, tentative CH₄; high mean molecular weight (5.5 amu) atmosphere supports ex-situ formation beyond the water-ice line
 - [[src-jwst-toi-199b-temperate-giant-2026-05]] — JWST detects methane in temperate Saturn-sized exoplanet TOI-199b; first detailed atmosphere study of a temperate giant (Hu et al., Astronomical Journal)
+- [[src-jwst-wasp-94ab-weather-cycle-2026-05]] — Tech Times (Adrian Parham, May 25 2026) on Mukherjee & Sing *Science* (May 21 2026) JWST/NIRISS limb-resolved study of hot Jupiter [[wasp-94ab]]: first confirmed exoplanet daily weather cycle (cloudy morning limb 9σ / clear evening limb 10σ, Mg-silicate clouds), correcting blended-limb O/C from "hundreds of times" to ~5× Jupiter (>4σ); same pattern on WASP-39b/WASP-17b
 - [[src-k2-18b-dms-insufficient-evidence-2025]] — Luque et al. panchromatic JWST reanalysis finds insufficient evidence for DMS/DMDS in K2-18b atmosphere; formally rebuts Madhusudhan biosignature claim
 - [[src-k2-18b-technosignature-null-2026]] — VLA+MeerKAT radio technosignature search of K2-18b returns null result; methodology portable to other hycean worlds
 - [[src-l-98-59-d-sulphur-magma-world-2026-05]] — BBC Sky at Night (Jamie Middleton, May 10 2026) on Oxford-led discovery that L 98-59 d (1.6 R⊕, M-dwarf, 35 ly) is a sulphur-rich global magma-ocean world, proposed as a new small-planet class distinct from rocky / gaseous / water-rich categories
@@ -168,6 +169,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[src-shield-ai-lucas-drone-swarm-2026-05]] — DefenseScoop (Drew F. Lawrence, May 20 2026): Pentagon selects Shield AI Hivemind as swarm/AI-pilot stack for the LUCAS one-way attack drone (Iranian-clone, first CENTCOM combat use during Operation Epic Fury); fall 2026 demo; FY27 request $53.6B autonomy/drones + $21B munitions/C-UAS/CCA; "massive increase" RDT&E for Defense Autonomous Warfare Group
 - [[src-sciencedaily-forbidden-exoplanet-atmosphere-2026-04]] — ScienceDaily (Carnegie press release, Apr 6 2026) on Cañas/Kanodia/Libby-Roberts JWST transmission spectrum of "forbidden" GEMS giant [[toi-5205-b]]: CH₄ + H₂S; atmospheric metallicity below the host star's (first known); interior ~100× more metal-rich than atmosphere; starspot-correction methodology
 - [[src-seti-ai-breakthrough-listen-2025]] — Breakthrough Listen AI system achieves 600x speed improvement in detecting signals from space
+- [[src-seti-detecting-earth-technosignatures-2026-05]] — SETI Institute SETI Live recap (Feb 28 2025) of [[sofia-sheikh]] & [[simon-steel]] on the "Earth Detecting Earth" study: how detectable Earth's own technosignatures are (4G LTE ~4 ly to Proxima; Arecibo-class radar far further; DSN/lasers need proximity); Earth as terrestrial-technosignature calibration target
 - [[src-seti-galactic-center-search-2025-07]] — SETI Institute press release (July 16 2025) on BLIPSS: Cornell + SETI Institute + Breakthrough Listen 4–8 GHz Galactic Center search for periodic spectral signals using the Green Bank Telescope; Suresh et al. paper accepted in the Astronomical Journal
 - [[src-sol-foundation-disclosure-statement-2026-05]] — Sol Foundation joint statement (Gallaudet, Nolan, Skafish) welcoming PURSUE Release 01 and urging passage of the UAP Disclosure Act
 - [[src-space-com-pursue-video-trove-2026-05]] — Space.com (Mike Wall, May 9 2026): PURSUE Release 01 video supercut and walkthrough — CENTCOM Syria DoW-UAP-D32 ball-of-light, INDOPACOM "football-shaped body with three radial projections," 100-sec 2024 windmill-array IR clip; Pentagon non-determination disclaimer
@@ -311,6 +313,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[darrell-evans]] — Purdue researcher; developing temporal aerospace correlation tool linking civilian UAP sightings to Cape Canaveral launches; under peer review at Limina
 - [[david-fravor]] — Retired U.S. Navy Commander; pilot of the 2004 USS Nimitz Tic Tac encounter
 - [[david-grusch]] — Former USAF intelligence officer and most prominent UAP whistleblower; testified to Congress about crash retrieval programs
+- [[david-sing]] — Johns Hopkins Bloomberg Distinguished Professor; PI/senior author on the WASP-94Ab limb-resolved weather-cycle study
 - [[david-velez-el-potro]] — Cali, Colombia UAP enthusiast; cousin of José Arias Restrepo; shareholder in Germany Company; held the Buga Sphere for ~2 months before handing it to Jaime Maussan; source of the 12,560-year C-14 and "drovni" claims
 - [[department-of-energy]] — DOE; named PURSUE participant in the May 2026 DoW UAP files release; oversees Los Alamos and Sandia national labs
 - [[department-of-state]] — U.S. State Department; 8 UAP cables (1952–2025) in May 2026 PURSUE release including the 1994 Tajik Air ET-assessed incident and the 2023 Mexico-Maussan blotter
@@ -576,6 +579,8 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[ronald-reagan]] — 40th U.S. President; reported pre-presidential UFO sightings; 1987 UN "alien threat" remark
 - [[shubham-kanodia]] — Carnegie Science astronomer; JWST GEMS Survey co-lead; 2023 TESS confirmation and 2026 atmosphere paper on TOI-5205 b
 - [[simon-muller]] — University of Zurich; TOI-5205 b interior-model co-author
+- [[simon-steel]] — Deputy Director of the SETI Institute's Carl Sagan Center; co-presenter on the "Earth Detecting Earth" SETI Live
+- [[sofia-sheikh]] — SETI Institute astronomer; lead author of the "Earth Detecting Earth" technosignature-detectability study
 - [[ska]] — Square Kilometre Array; next-generation wide-field radio array; central instrument for BRaTs deep-field leakage surveys
 - [[spitzer-space-telescope]] — NASA infrared space telescope (2003–2020); IRAC discovered WD 0806b in 2011
 - [[sue-gough]] — Pentagon spokesperson; on-record source for the "exceeds 2,000 UAP cases" / "1,000 in Active Archive" AARO figures (Feb 2026)
@@ -590,6 +595,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[sample-analysis-at-mars]] — FY2025 NDAA provision extending limited C-UAS authority to state/local/tribal/territorial law enforcement
 - [[sample-analysis-at-mars]] — Curiosity's SAM instrument suite; performed first wet-chemistry experiment (TMAH) on another planet in 2020
 - [[saturn]] — Sixth planet from the Sun; rotation rate ~10.7 h pinned by Cassini Grand Finale; magnetosphere reshaped by Enceladus plasma
+- [[sagnick-mukherjee]] — Arizona State University postdoc (ex-UC Santa Cruz); lead author of the WASP-94Ab limb-resolved daily-weather-cycle study
 - [[sara-seager]] — MIT astrophysicist; foundational exoplanet-atmosphere theorist; lead author of 2025 PNAS biosignature-prospects perspective
 - [[sandia-national-laboratories]] — DOE national lab; co-author of the 2026 Earth-to-Venus panspermia bolide modeling study
 - [[santiago-vargas]] — Colombian astrophysicist (Observatorio Astronómico, Universidad Nacional); identifies "very terrestrial" optical fibers in the Buga Sphere; calls it a publicity stunt
@@ -678,6 +684,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[will-roper]] — Former Pentagon innovation chief recruited by Perennial Autonomy for the Merops program
 - [[william-neil-mccasland]] — Retired USAF Maj. Gen., former AFRL commander at Wright-Patterson; missing from Albuquerque as of March 2026
 - [[william-zuniga]] — Medellín-based UAP enthusiast and lead of an "international UFO hunters" organization; recovered the Valdías Mountain Range Sphere and delivered it to Jaime Maussan in May 2026
+- [[wasp-94ab]] — Hot Jupiter ~690 ly away; first exoplanet with a confirmed repeating daily weather cycle (cloudy morning limb, clear evening limb)
 - [[wd-0806b]] — Second-coldest directly imaged exoplanet; orbits white dwarf WD 0806-661 at 2,500 AU; JWST 2026 atmosphere retrieval with first altitude-dependent K_zz
 - [[white-dwarf]] — Stellar remnant of low/intermediate-mass stars; host class for WD 0806b
 - [[wladyslaw-krasuski]] — Subject of 1957 FBI interview (PURSUE Release 01) describing a 1944 75–100-yard circular vertically-rising vehicle near a German military compound
@@ -790,6 +797,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[ground-based-air-defence]] — Doctrine and systems for land-based air defense; UK fleet (Sky Sabre + Type 45 + QRA) characterized as "paltry" in 2024 parliamentary debate
 - [[habitable-worlds-catalog]] — PHL-maintained list of exoplanets meeting habitability criteria; ~70 of 5,000+
 - [[high-mean-molecular-weight-atmosphere]] — Atmospheres with μ > primordial H₂/He (~2.3 amu); diagnostic of volatile-rich formation and/or atmospheric escape; TOI-1130b at μ ~5.5 amu
+- [[hot-jupiter]] — Close-orbiting, tidally locked gas giant with extreme dayside/nightside limb contrast and confounding cloud cover; archetype for atmospheric characterization
 - [[hycean-worlds]] — Hypothetical habitable planet class with hydrogen atmosphere over liquid ocean; K2-18b is the archetype
 - [[hexamethylenetetramine]] — Nitrogen-bearing prebiotic organic (HMT) detected in the Murchison meteorite (1969); polymerizes to formaldehyde + ammonia; relevant to amino-acid synthesis pathways
 - [[hydrothermal-activity]] — Heat- and chemistry-driven seafloor exchange; inferred at Enceladus from plume H₂ detection; analog to Earth alkaline-vent origins-of-life chemistry

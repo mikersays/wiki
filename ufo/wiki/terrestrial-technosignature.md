@@ -34,3 +34,4 @@ The motivating idea is that Earth itself is the only confirmed inhabited planet,
 
 - [[src-terrestrial-technosignatures-satellites-2026-04]]
 - [[src-brats-radio-technosignatures-2026-05]]
+- [[src-seti-detecting-earth-technosignatures-2026-05]] — [[sofia-sheikh]]'s "Earth Detecting Earth" study spans all four canonical classes and adds quantitative range anchors (4G LTE ~4 ly; Arecibo-class radar far further; the 1974 Arecibo message has traveled ~50 ly).
