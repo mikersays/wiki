@@ -3,7 +3,7 @@ title: Jeffrey Epstein
 type: entity
 entity_type: person
 created: 2026-05-12
-updated: 2026-05-12
+updated: 2026-05-30
 ---
 
 # Jeffrey Epstein
@@ -16,6 +16,7 @@ updated: 2026-05-12
 - [[donald-trump]]'s "influential social circle once included" Epstein. ([[src-al-jazeera-pursue-uap-files-2026-05]])
 - Critics of [[pursue]] — including Rep. [[thomas-massie]] — frame the UAP file-release directive as a **distraction** from DOJ's handling of Epstein-related files and from Trump's other political controversies.
 - [[lue-elizondo]] in [[src-newsnation-elizondo-pandoras-box-2026-02]] used the Epstein-files document trove as a **volume benchmark**, predicting UAP/UFO holdings could "dwarf the millions of documents in the Epstein files." The actual [[pursue]] Release 01 contained only 162 files — a sharp contrast to that pre-launch expectation.
+- **NBC News** ([[src-nbc-uap-files-apollo-sightings-2026-05]]) makes the parallel **procedural** rather than rhetorical: it reports the Pentagon used a release model "similar to" the DOJ's December Epstein-files dump (rolling releases, a glitchy government site, no government interpretation), a second mainstream-network source for the Epstein nexus beyond Al Jazeera.
 
 ## Related
 
@@ -25,3 +26,4 @@ updated: 2026-05-12
 
 - [[src-al-jazeera-pursue-uap-files-2026-05]] — distraction-narrative framing
 - [[src-newsnation-elizondo-pandoras-box-2026-02]] — Elizondo's Epstein-files volume benchmark
+- [[src-nbc-uap-files-apollo-sightings-2026-05]] — Epstein-files DOJ rolling-release procedural model

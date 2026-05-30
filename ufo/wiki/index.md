@@ -1,6 +1,6 @@
 ---
 title: Index
-updated: 2026-05-29
+updated: 2026-05-30
 ---
 
 # Wiki Index
@@ -90,6 +90,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[src-gizmodo-find-ufos-pentagon-videos-2026-05]] — Gizmodo (Matt Novak, May 8 2026) snark-forward "Where's Waldo" framing of PURSUE Release 01: singles out DOW-UAP-PR38's eight-pointed star, reads Trump's "Have Fun and Enjoy!" as political distraction, flags Jan-1 "date taken" filler-date metadata caveat
 - [[src-gj-887-d-habitability-2026-03]] — Astronomers confirm GJ 887 d, a super-Earth in the habitable zone of an M dwarf 10.7 ly away; 2nd-closest known habitable-zone planet after Proxima b
 - [[src-greer-disclosure-event-npc-2026-05]] — PR Newswire: Steven Greer's "Disclosure Event" at NPC May 8 (25th anniversary of 2001 briefing); three anonymous military witnesses + Jaime Maussan's Buga Sphere; runs same day as Pentagon PURSUE launch; all claims unverified single-source
+- [[src-grusch-disclosure-press-conference-2026-05]] — Washington Times (Mary McCue Bell, May 29 2026) announces a June 9 2026 Capitol Hill UAP disclosure press conference featuring David Grusch, hosted by Leslie Kean and James Fox, with Reps. Burlison, Luna, Burchett, and Moskowitz rallying around the UAP Disclosure Act
 - [[src-hegseth-fy27-posture-testimony-2026-04]] — SecWar Hegseth's April 29, 2026 FY27 DoW posture testimony to House Armed Services: AARO named UAP "focal point," AHI CFT realigned to OUSW(R&E) with ~$3M HAVANA Act payments, drone dominance and autonomous warfare named FY27 priorities, Golden Dome for America launched
 - [[src-immaculate-constellation-whistleblower-2025]] — Matthew Brown publicly confirms classified UAP surveillance program "Immaculate Constellation"
 - [[src-interplanetary-habitable-zone-2026]] — Scharf (NASA Ames) proposes Interplanetary Habitable Zone framework; TRAPPIST-1 civilizations extinct within 45 years due to radiation
@@ -134,6 +135,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[src-nasa-rosalind-franklin-implementation-2026-04]] — NASA approves ROSA implementation phase for ESA's Rosalind Franklin rover: Falcon Heavy launch, MOMA mass spectrometer, braking engines for 2028 Mars life-detection mission
 - [[src-nasa-seven-firms-biosignature-2026-05]] — Thin moneycontrol.com syndicated report on a claimed NASA partnership with seven (unnamed) tech firms for Mars/ocean-worlds biosignature detection; no firms named and no direct quotes
 - [[src-nbc-pursue-firsthand-encounters-2026-05]] — NBC News (Strickler, Long, Goldman, Gains; May 22 2026) first-hand-testimony feature on PURSUE Release 02: senior ODNI officer's late-2025 orange-orb helicopter encounter that "chased" fighter jets ("virtually speechless"), 1970 Los Alamos green-lights letter, 1972 CIA USSR concentric-circles sighting, 2023 Lake Huron downing, and NASA audio (Carpenter's 1962 Mercury "snowflakes", Apollo 12 1969)
+- [[src-nbc-uap-files-apollo-sightings-2026-05]] — NBC News (Siemaszko, Chow, Gains & Strickler, May 8 2026) national-network PURSUE Release 01 wire; distinctive angle is the explicit Epstein-files DOJ rolling-release procedural-model comparison plus the fullest Obama-podcast→Trump-directive backstory; Apollo 11/12/17 and Gemini 7 sightings, 1948 Netherlands debunk, Isaacman X-post
 - [[src-new-uap-whistleblower-scif-2026-05]] — UFOUAP reports House UAP Caucus has a new whistleblower lead and is pursuing SCIF-first classified briefings over public hearings; covers Grusch's Special Advisor role, FY2026 NDAA UAP provisions, and Trump's Feb 2026 disclosure directive
 - [[src-newsnation-elizondo-pandoras-box-2026-02]] — NewsNation/CUOMO (Michael Ramsey, Feb 21 2026): Elizondo calls Trump's Feb 19 disclosure directive a "tremendous undertaking" that could "dwarf the Epstein files" in volume; Coulthart cautions it's review-only, not declassification; Von Rennenkampff "day-after" framing; Loeb on raw-material verification
 - [[src-newsweek-pursue-13-jets-star-object-2026-05]] — Newsweek (Joe Edwards, May 21 2026) on Disclosure Foundation's FOIA release of 300+ NSA UFO intelligence reports, many formerly TOP SECRET UMBRA: 13 fighter jets chased a UFO, star-shaped object at high altitude, disc brighter than the sun; Hunt Willis pledges legal challenges to remaining redactions
@@ -165,6 +167,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[src-pursue-portal-launch-2026-05]] — DoW launches PURSUE portal at war.gov/UFO operationalizing Trump's Feb 19 2026 directive; Release 01 page 1 = 10 FBI PDFs from a single 1947–1968 file series (62-HQ-83894); 17-image evidence carousel; AARO retains resolved-case reporting
 - [[src-raven-ai-tess-exoplanets-2026-05]] — University of Warwick's RAVEN AI pipeline finds 100+ new exoplanets and ~2,000 candidates in four years of TESS data; quantifies the Neptunian desert
 - [[src-religious-republicans-uap-files-2026-05]] — Courthouse News (Benjamin S. Weiss, May 15 2026) on Christian-Republican readings of PURSUE Release 01: Luna's "biblically accurate angel" post (and her on-record denial it was UAP-related), Boebert's Nephilim/fallen-angels/"demonic" framing, Burlison's stick-to-scripture "Christian-worldview" moderation, Burchett's Ezekiel "wheel within a wheel" and Genesis 1:1 reading
+- [[src-sardinia-technosignature-search-2026-05]] — Manunza et al. (Acta Astronautica 2025, arXiv:2410.09288) first high-frequency (6 + 18 GHz) radio technosignature survey with the Sardinia Radio Telescope; 36 hrs on the Galactic Center + 72 TESS targets; null result; ~5×10⁵ stars constrained; EIRP limit 1.8×10¹⁹ W
 - [[src-schumer-rounds-uap-colloquy-2023]] — Primary-source transcript of the Dec 13, 2023 Senate floor colloquy between Majority Leader Schumer and Sen. Mike Rounds on the UAP Disclosure Act: defends the JFK-modeled UAP Records Review Board, names the National-Archives-only outcome of FY2024 NDAA conference, flags rejection of the presidentially-appointed review board and the recovered-material/biological-remains provision, and invokes Harry Reid as Schumer's mentor
 - [[src-sciam-pursue-skeptics-2026-05]] — Scientific American (Adam Kovac) on the May 8 PURSUE release: Kirkpatrick's "playhouse politics theater company" critique, Mick West's "more dots, more parallax," Disclosure Foundation as counterweight, Buzz Aldrin Saturn-V debrief context
 - [[src-shield-ai-lucas-drone-swarm-2026-05]] — DefenseScoop (Drew F. Lawrence, May 20 2026): Pentagon selects Shield AI Hivemind as swarm/AI-pilot stack for the LUCAS one-way attack drone (Iranian-clone, first CENTCOM combat use during Operation Epic Fury); fall 2026 demo; FY27 request $53.6B autonomy/drones + $21B munitions/C-UAS/CCA; "massive increase" RDT&E for Defense Autonomous Warfare Group
@@ -412,6 +415,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[jeffrey-epstein]] — Financier (deceased 2019); scoped narrowly to the disclosure-distraction nexus tying DOJ's Jan 2026 Epstein-files release to PURSUE-as-distraction critique and Elizondo's Epstein-volume benchmark
 - [[jeffrey-kluger]] — TIME senior space/science writer; covered the Curiosity SAM/TMAH organics result with Bennu/Murchison meteorite-delivery context (April 2026)
 - [[jared-isaacman]] — NASA Administrator; "follow the data" statement on the May 8, 2026 PURSUE release
+- [[jared-moskowitz]] — Democratic U.S. Rep. (FL); co-chairs the bipartisan House UAP Caucus with Tim Burchett; participant in the June 9 2026 disclosure press conference
 - [[jd-vance]] — 50th U.S. Vice President; self-described "obsessed" with UFO files; pledged Area 51 investigation; frames some UAP sightings as "spiritual demons"
 - [[jeffrey-nuccetelli]] — USAF veteran who testified about 2003–2005 UAP incursions near Vandenberg AFB during NRO launches
 - [[john-mack]] — Harvard psychiatrist (1929–2004); pioneering academic researcher of the alien-abduction/experiencer phenomenon; archives transferred to Harvard and Rice in 2022
@@ -458,6 +462,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[lauren-boebert]] — R-CO House member; "more spiritual… demonic" UAP framing on Right Wing Watch (May 2026)
 - [[lauren-flor-torres]] — Colombian astrophysicist (Instituto de Física, Universidad de Antioquia); rejects Buga Sphere ET framing on grounds that meteorites would show atmospheric-entry crust
 - [[leonard-david]] — Veteran U.S. space journalist; runs *Inside Outer Space* (leonarddavid.com); covered the May 2026 PURSUE launch
+- [[leslie-kean]] — Investigative journalist; co-author of the Dec 2017 NYT AATIP/Nimitz story; co-host of the June 9 2026 UAP disclosure press conference
 - [[liberation-times]] — Independent UAP-focused news outlet; broke April 2026 DoW/WH coordination story
 - [[library-and-archives-canada]] — Canadian federal archive; holds the NRC's 1967–1995 UAP-report archive (~15,000 pages, ~9,500 digitized)
 - [[limina-journal]] — Double-blind peer-reviewed journal of UAP Studies operated by the Society for UAP Studies
@@ -604,6 +609,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[saturn]] — Sixth planet from the Sun; rotation rate ~10.7 h pinned by Cassini Grand Finale; magnetosphere reshaped by Enceladus plasma
 - [[sagnick-mukherjee]] — Arizona State University postdoc (ex-UC Santa Cruz); lead author of the WASP-94Ab limb-resolved daily-weather-cycle study
 - [[sara-seager]] — MIT astrophysicist; foundational exoplanet-atmosphere theorist; lead author of 2025 PNAS biosignature-prospects perspective
+- [[sardinia-radio-telescope]] — 64-m single-dish radio telescope in Sardinia, Italy (receivers to 115 GHz); site of the first 18 GHz SETI survey
 - [[sandia-national-laboratories]] — DOE national lab; co-author of the 2026 Earth-to-Venus panspermia bolide modeling study
 - [[santiago-vargas]] — Colombian astrophysicist (Observatorio Astronómico, Universidad Nacional); identifies "very terrestrial" optical fibers in the Buga Sphere; calls it a publicity stunt
 - [[saugata-barat]] — Lead author of the 2026 JWST TOI-1130b transmission-spectrum paper
@@ -781,6 +787,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[cryovolcanism]] — Eruption of icy/aqueous volatile material instead of silicate magma; observed at Triton and Enceladus
 - [[drone-incursions]] — Pattern of unexplained sUAS activity over U.S. military bases and critical infrastructure
 - [[eddy-diffusion]] — Vertical-mixing (K_zz) parameter in 1D exoplanet atmosphere models; first observational altitude dependence reported on WD 0806b
+- [[eirp]] — Equivalent Isotropic Radiated Power; standard SETI transmitter-detectability metric used to express survey upper limits
 - [[enceladus-plumes]] — South-polar water-ice plumes containing salts, organic molecules, and molecular hydrogen; sampled directly by Cassini in 2008
 - [[enduring-high-energy-laser]] — E-HEL; Army rapid-prototyping directed-energy counter-UAS line; two systems funded under the FY27 $66M DE budget; IBCS-Maneuver interoperable
 - [[european-uap-day]] — Annual March 20 observance commemorating the 2024 European Parliament UAP meeting; central handle on EU-level UAP advocacy

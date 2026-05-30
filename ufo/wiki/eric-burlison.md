@@ -2,7 +2,7 @@
 title: Eric Burlison
 type: entity
 created: 2026-04-25
-updated: 2026-05-29
+updated: 2026-05-30
 ---
 
 **Rep. Eric Burlison** (R-MO) is a leading UAP legislative figure in the 119th Congress, serving on the House Oversight Committee alongside [[anna-paulina-luna]] and [[tim-burchett]].
@@ -55,9 +55,16 @@ The request builds on a prior Burlison letter to [[mit-lincoln-laboratory|MIT Li
 
 > "This inquiry does not require MITRE to accept any particular conclusion about the origin or nature of UAP. It requires MITRE to tell Congress what it knows, what it holds, what it has held, what it has transferred, what it has destroyed or was directed to destroy, and which federal sponsors or classification authorities control any responsive records."
 
+## June 9, 2026 — Grusch disclosure press conference
+
+Burlison is a slated participant in a Capitol Hill UAP disclosure press conference headlined by [[david-grusch]] and hosted by [[leslie-kean]] and [[james-fox]]. He credited Trump as "the first president to take concrete steps towards transparency on UAP" while warning that "career intelligence officials" may obstruct the directive, and tied the event to passage of the [[uap-disclosure-act]] ([[src-grusch-disclosure-press-conference-2026-05]]).
+
 ## Related Pages
 
 - [[src-uap-transparency-hearing-2026-04]]
+- [[src-grusch-disclosure-press-conference-2026-05]] — June 9 2026 Grusch disclosure press conference
+- [[leslie-kean]]
+- [[jared-moskowitz]]
 - [[anna-paulina-luna]]
 - [[tim-burchett]]
 - [[uap-disclosure]]

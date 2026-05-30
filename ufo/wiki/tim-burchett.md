@@ -2,7 +2,7 @@
 title: Tim Burchett
 type: entity
 created: 2026-04-13
-updated: 2026-05-22
+updated: 2026-05-30
 ---
 
 # Tim Burchett
@@ -43,10 +43,15 @@ In a Capitol-corridor interview with [[courthouse-news-service|Courthouse News S
 
 This is the first in-vault placement of Burchett within the [[theological-uap-framing]] cluster — distinct from Boebert's [[nephilim|Nephilim/demonic]] register and Burlison's stick-to-scripture moderation, more "open cosmology."
 
+## June 9, 2026 — Grusch disclosure press conference
+
+Burchett — who co-chairs the bipartisan [[us-congress-uap-caucus|House UAP Caucus]] with Democrat [[jared-moskowitz]] — is a slated participant in a Capitol Hill UAP disclosure press conference headlined by [[david-grusch]] and hosted by [[leslie-kean]] and [[james-fox]], pushing for passage of the [[uap-disclosure-act]] ([[src-grusch-disclosure-press-conference-2026-05]]).
+
 ## Sources
 
 - [[src-uap-legislation-disclosure-efforts-2025]]
 - [[src-aaro-shutdown-bill-2026]]
+- [[src-grusch-disclosure-press-conference-2026-05]] — June 9 2026 Grusch disclosure press conference
 - [[src-war-department-uap-release-2026-04]]
 - [[src-trump-ufo-files-interesting-2026-04]]
 - [[src-uap-whistleblower-protection-act-2025-09]]

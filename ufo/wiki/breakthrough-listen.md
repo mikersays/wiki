@@ -2,7 +2,7 @@
 title: Breakthrough Listen
 type: entity
 created: 2026-04-13
-updated: 2026-05-18
+updated: 2026-05-30
 ---
 
 # Breakthrough Listen
@@ -44,6 +44,8 @@ This transforms [[seti]] from retrospective analysis into real-time monitoring.
 ## Parallel Efforts
 
 The 2023 VLA + MeerKAT deep-target search on [[k2-18b]] (reported 2026, [[src-k2-18b-technosignature-null-2026]]) is a parallel [[technosignatures]] campaign using different facilities. Its filtering pipeline is portable to Listen's hycean-world targets.
+
+The [[sardinia-radio-telescope|Sardinia Radio Telescope]] high-frequency (6/18 GHz) survey (Manunza et al. 2025, [[src-sardinia-technosignature-search-2026-05]]) extended Listen-style methodology to a new dish and higher frequencies; its author list includes BL-affiliated scientists [[vishal-gajjar]], [[steve-croft]], Andrew Siemion, Matt Lebofsky, and David MacMahon.
 
 ## See Also
 

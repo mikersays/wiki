@@ -2,7 +2,7 @@
 title: Anna Paulina Luna
 type: entity
 created: 2026-04-13
-updated: 2026-05-22
+updated: 2026-05-30
 ---
 
 # Anna Paulina Luna
@@ -77,10 +77,15 @@ This pivots Luna's posture: from adversary to qualified ally of AARO leadership,
 
 Luna chaired a second hearing on April 24, 2026: "Restoring Public Trust Through UAP Transparency and Whistleblower Protection" — the official primary-source record of which is at [[src-uap-transparency-hearing-2026-04]]. Featured additional military witnesses ([[jeffrey-nuccetelli]], [[dylan-borland]], [[alexandro-wiggins]]) and Rep. [[eric-burlison]]'s public release of MQ-9/Yemen orb footage. (Note: analysis agent originally assessed this as the September 9, 2025 hearing; the April 24, 2026 date is from the hearing page URL.)
 
+## June 9, 2026 — Grusch disclosure press conference
+
+Luna is a slated participant in a Capitol Hill UAP disclosure press conference headlined by [[david-grusch]] and hosted by [[leslie-kean]] and [[james-fox]], alongside Reps. [[eric-burlison]], [[tim-burchett]], and [[jared-moskowitz]], pushing for passage of the [[uap-disclosure-act]] ([[src-grusch-disclosure-press-conference-2026-05]]).
+
 ## Sources
 
 - [[src-uap-whistleblower-hearing-2025]]
 - [[src-uap-transparency-hearing-2026-04]] — primary-source committee record
+- [[src-grusch-disclosure-press-conference-2026-05]] — June 9 2026 Grusch disclosure press conference
 - [[src-uap-legislation-disclosure-efforts-2025]]
 - [[src-aaro-shutdown-bill-2026]]
 - [[src-luna-46-uap-videos-demand-2026-03]] — primary source: the March 31 letter

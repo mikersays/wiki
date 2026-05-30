@@ -2,7 +2,7 @@
 title: Technosignatures
 type: concept
 created: 2026-04-16
-updated: 2026-05-22
+updated: 2026-05-30
 ---
 
 **Technosignatures** are observable signs of technology that would indicate the presence of an intelligent civilization — as distinct from [[biosignatures]], which indicate the presence of life without requiring intelligence or technology.
@@ -40,6 +40,7 @@ A modern narrowband technosignature search applies filters like:
 
 - [[breakthrough-listen]] — the most comprehensive ongoing technosignature survey
 - VLA + MeerKAT K2-18b search (2023, results 2026) — broad, deep null result on a single hycean target ([[src-k2-18b-technosignature-null-2026]])
+- [[sardinia-radio-telescope|Sardinia Radio Telescope]] high-frequency survey (Manunza et al. 2025) — first SETI search at **18 GHz** (plus 6 GHz); 36 hrs on the [[galactic-center|Galactic Center]] + 72 [[tess|TESS]] targets; null result; ~5×10⁵ stars constrained at an [[eirp|EIRP]] limit of 1.8×10¹⁹ W. Argues higher frequencies offer a less-congested spectral environment for detection ([[src-sardinia-technosignature-search-2026-05]])
 - Upcoming: [[ska|SKA]] (Square Kilometre Array) and ngVLA (next-generation Very Large Array); SKA + [[vlbi]] is the central platform for [[src-brats-radio-technosignatures-2026-05|BRaTs]] broadband leakage surveys
 
 ## Interpretation of null results
@@ -77,3 +78,4 @@ The second [[abscicon26|AbSciCon26]] media tipsheet ([[src-abscicon26-media-tips
 - [[src-brats-radio-technosignatures-2026-05]]
 - [[src-abscicon26-media-tips-2-2026-05]]
 - [[src-seti-detecting-earth-technosignatures-2026-05]]
+- [[src-sardinia-technosignature-search-2026-05]]

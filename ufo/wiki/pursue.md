@@ -2,7 +2,7 @@
 title: PURSUE — Presidential Unsealing and Reporting System for UAP Encounters
 type: concept
 created: 2026-05-08
-updated: 2026-05-22
+updated: 2026-05-30
 ---
 
 
@@ -57,6 +57,7 @@ Established in response to [[donald-trump]]'s Truth Social directive dated 2026-
   - **Theological framing:** Rep. [[lauren-boebert]] ("more spiritual… demonic") plus [[anna-paulina-luna]]'s Book of Enoch / Watchers references contribute a Christian-eschatological strand to post-PURSUE discourse — see [[theological-uap-framing]] and [[src-newsweek-luna-teases-disclosure-2026-05]].
   - **File-content inventory:** Sunday Guardian ([[src-sunday-guardian-162-files-2026-05]]) — format breakdown ~120 PDFs / 28 videos / ~14 photographs; surfaces a 1967 Chesapeake "transparent craft / undersized creatures" entry inside [[fbi-case-file-62-hq-83894]].
   - **Cover-up framing (UK):** IBTimes UK (Morilla, [[src-pursue-apollo-anomalies-hidden-2026-05]]) reframes Release 01 as a politically convenient "shiny object" that **hides** Apollo-era anomalies; cites the [[apollo-12]] glowing-horizon image and [[apollo-17]] triangular-dots photo as receiving "scant" PURSUE notes; echoes CBS that "cover-up claims are growing." (Note: IBTimes dates Trump's directive to 9 February — likely a reporting error against the wiki's authoritative 19 Feb 2026 date.)
+  - **National network (Epstein-procedural-model framing):** NBC News (Siemaszko, Chow, Gains & Strickler, [[src-nbc-uap-files-apollo-sightings-2026-05]]) — the launch-day wire that most explicitly casts PURSUE as procedurally modeled on the DOJ's December [[jeffrey-epstein|Epstein-files]] dump (rolling cadence, glitchy government site, no White House interpretation); also gives the fullest mainstream account of the [[barack-obama|Obama]]-podcast → Trump-directive backstory. Reinforces [[disclosure-as-distraction]] without endorsing it.
 - Skeptics warn that Trump's prior JFK/RFK/MLK record releases "revealed little beyond what was already known" and that UAP videos are easily misread by non-specialists.
 - AARO's 2024 historical report ([[src-aaro-fy2024-annual-report-2024]]) found no evidence of recovered ET technology or biologics — the institutional baseline against which PURSUE's substantive ceiling will be judged.
 

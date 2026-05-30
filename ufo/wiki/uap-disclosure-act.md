@@ -2,7 +2,7 @@
 title: UAP Disclosure Act
 type: concept
 created: 2026-05-01
-updated: 2026-05-29
+updated: 2026-05-30
 ---
 
 # UAP Disclosure Act
@@ -31,9 +31,14 @@ Per [[src-uap-transparency-stalls-2025-12]], the UAPDA was again excluded from t
 
 At the January 2026 [[varginha-incident]] 30th-anniversary press conference hosted by [[james-fox]], Burlison publicly framed his UAP-disclosure agenda as legislative "marching orders" from witness testimony and called for either bundled or standalone whistleblower protections within the Act. Distinguishes the Burlison-led UAP Disclosure Act of 2025 from the Burchett/Luna [[uap-whistleblower-protections|standalone H.R. 5060]] ([[src-burlison-marching-orders-2026-01]], [[src-uap-whistleblower-protection-act-2025-09]]).
 
+## June 2026 — Grusch press-conference push
+
+A **June 9, 2026** Capitol Hill press conference, hosted by [[leslie-kean]] and [[james-fox]] and headlining whistleblower [[david-grusch]], was organized to rally support for the Act's passage. Reps. [[eric-burlison]], [[anna-paulina-luna]], [[tim-burchett]], and Democrat [[jared-moskowitz]] are slated to participate, framing the moment as moving "from testimony to action" while the executive-branch [[pursue]] releases continue ([[src-grusch-disclosure-press-conference-2026-05]]).
+
 ## Sources
 
 - [[src-schumer-rounds-uap-colloquy-2023]]
+- [[src-grusch-disclosure-press-conference-2026-05]] — June 9 2026 Grusch press conference rallying for passage
 - [[src-gallaudet-house-testimony-2024-11]]
 - [[src-uap-whistleblower-hearing-2025]]
 - [[src-burlison-marching-orders-2026-01]]

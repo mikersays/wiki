@@ -1269,3 +1269,23 @@ Updated: [[jeffrey-kripal]], [[icer]], [[society-for-uap-studies]], [[alien-abdu
 - **PURSUE Release 03 watch** — still previewed but not dropped as of May 29; remains the next big ingest cycle (carried over).
 - **John Mack / Archives of the Impossible** — the 2022 Harvard/Rice archive transfer and Kripal's Archives of the Impossible could anchor a dedicated query or a deeper concept page on "experiencer research" as a distinct academic movement.
 - **ICER / Society for UAP Studies roster** — Tim Murithi and the broader ICER membership are thinly covered; a dedicated entity page for Murithi and an ICER membership map would densify the international-academic cluster.
+
+## [2026-05-30] ingest | UFO news sweep (3 articles)
+
+Fetched via /ufo-news. 7 parallel search tracks → triage → 4 fetched → 3 ingested in parallel. The vault remains saturated through ~May 27, so most surfaced candidates were dropped at triage as duplicates of existing PURSUE Release 01/02, directed-energy-pilot, Perennial $500M, AbSciCon26, BRaTs, France-symposium, and Japan-reaction coverage. One fetch failed: an Avi Loeb Medium piece ("Did 3I/ATLAS Deliver Extrasolar Life to Our Backyard?", May 15) — WebFetch returned only a summary and Playwright hit a Cloudflare challenge; the fetch agent declined to reproduce the full copyrighted article, so it was correctly left unwritten.
+
+New sources: [[src-grusch-disclosure-press-conference-2026-05]], [[src-nbc-uap-files-apollo-sightings-2026-05]], [[src-sardinia-technosignature-search-2026-05]]
+New entities: [[jared-moskowitz]], [[leslie-kean]], [[sardinia-radio-telescope]]
+New concepts: [[eirp]]
+Updated: [[david-grusch]], [[james-fox]], [[us-congress-uap-caucus]], [[uap-disclosure-act]], [[anna-paulina-luna]], [[eric-burlison]], [[tim-burchett]], [[pursue]], [[jeffrey-epstein]], [[disclosure-as-distraction]], [[technosignatures]], [[galactic-center]], [[breakthrough-listen]], [[vishal-gajjar]], [[steve-croft]], [[tess]]
+
+**Cross-connections / contradictions flagged:**
+- **June 9 disclosure press conference is a new node** — [[src-grusch-disclosure-press-conference-2026-05]] marks [[david-grusch]]'s shift back from his behind-the-scenes Special Advisor role ([[src-new-uap-whistleblower-scif-2026-05]]) to a high-profile public push, organized around passage of the [[uap-disclosure-act]]. Introduced the two missing pillars of the congressional disclosure coalition: Democratic caucus co-chair [[jared-moskowitz]] and journalist [[leslie-kean]] (the 2017 NYT/AATIP reporter), now cross-linked to [[james-fox]], [[eric-burlison]], [[anna-paulina-luna]], and [[tim-burchett]].
+- **Distinct from earlier 2026 academic UAP symposia** — June 9 is a Capitol Hill *political* disclosure event, separate from the June 29 French National Assembly parliamentary symposium ([[src-france-national-assembly-uap-conference-2026-05]]) and the July 10 "Breaking the Taboo" experiencer symposium ([[src-breaking-the-taboo-uap-contact-symposium-2026-05]]).
+- **NBC Epstein-procedural-model angle** — [[src-nbc-uap-files-apollo-sightings-2026-05]] is a distinct May 8 release-day wire (Siemaszko byline), NOT the May 22 NBC firsthand-encounters piece ([[src-nbc-pursue-firsthand-encounters-2026-05]]) already in the vault. Its unique contribution is casting PURSUE as procedurally modeled on the DOJ [[jeffrey-epstein|Epstein-files]] dump — a second mainstream-network anchor for the [[disclosure-as-distraction]] thesis (beyond Al Jazeera).
+- **Sardinia survey densifies the technosignature null-result cluster** — [[src-sardinia-technosignature-search-2026-05]] adds the first 18 GHz SETI search to the [[galactic-center|Galactic Center]] survey set alongside BLIPSS ([[src-seti-galactic-center-search-2025-07]]); BL-affiliated co-authors [[vishal-gajjar]] and [[steve-croft]] connect it to [[breakthrough-listen]]. New [[eirp]] concept page now lets EIRP limits be compared across surveys (Sardinia 1.8×10¹⁹ W vs the much tighter FAST 3I/ATLAS constraint).
+
+**Suggested follow-ups:**
+- **PURSUE Release 03 watch** — still previewed (DoW Release 02 press release explicitly named it), not yet dropped as of May 30; remains the next major ingest cycle (carried over).
+- **June 9 2026 follow-through** — worth a return sweep on/after June 9 to ingest the actual press-conference outcome and any Grusch on-record content vs. this advance announcement.
+- **Avi Loeb 3I/ATLAS extrasolar-life piece (May 15)** — failed to fetch (Cloudflare); if the user wants it, an alternate mirror or a manual paste could recover it.

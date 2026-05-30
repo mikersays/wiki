@@ -2,7 +2,7 @@
 title: David Grusch
 type: entity
 created: 2026-04-13
-updated: 2026-05-25
+updated: 2026-05-30
 ---
 
 # David Grusch
@@ -37,6 +37,8 @@ Continued public appearances including an interview on **The Megyn Kelly Show**,
 
 In March 2025, [[eric-burlison]] hired Grusch as **Special Advisor** to the House Oversight Task Force on Declassification, advising on hearings and briefings into 2026. This represents a shift from public testimony to behind-the-scenes advisory work within the congressional UAP infrastructure ([[src-new-uap-whistleblower-scif-2026-05]]).
 
+On **June 9, 2026**, Grusch is scheduled to return to a high-profile public role, headlining a Capitol Hill UAP disclosure press conference hosted by [[leslie-kean]] and [[james-fox]] alongside Reps. [[eric-burlison]], [[anna-paulina-luna]], [[tim-burchett]], and [[jared-moskowitz]]. He framed the event as moving "from testimony to action," urging release of classified [[non-human-intelligence]] evidence and rallying support for the [[uap-disclosure-act]] ([[src-grusch-disclosure-press-conference-2026-05]]).
+
 ## Significance
 
 Grusch's testimony catalyzed the modern UAP disclosure movement and directly influenced legislation including the UAP Disclosure Act and FY2026 NDAA provisions. His claims about [[uap-reverse-engineering]] and [[non-human-intelligence]] materials form the foundation upon which subsequent whistleblowers like [[matthew-brown]] have built.
@@ -53,3 +55,4 @@ Per [[src-uap-reddit-disclosure-conspiracy-2026-05]] (Bastos & Duarte 2026), Gru
 - [[src-catholic-filmmaker-vatican-ufo-2026-04]] — Pius XII / 1933 Milan crash claim
 - [[src-new-uap-whistleblower-scif-2026-05]] — March 2025 Special Advisor appointment
 - [[src-uap-reddit-disclosure-conspiracy-2026-05]] — Academic assessment as pivotal disclosure event
+- [[src-grusch-disclosure-press-conference-2026-05]] — June 9 2026 Capitol Hill press conference
