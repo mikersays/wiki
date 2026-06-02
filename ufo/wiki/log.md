@@ -1289,3 +1289,22 @@ Updated: [[david-grusch]], [[james-fox]], [[us-congress-uap-caucus]], [[uap-disc
 - **PURSUE Release 03 watch** — still previewed (DoW Release 02 press release explicitly named it), not yet dropped as of May 30; remains the next major ingest cycle (carried over).
 - **June 9 2026 follow-through** — worth a return sweep on/after June 9 to ingest the actual press-conference outcome and any Grusch on-record content vs. this advance announcement.
 - **Avi Loeb 3I/ATLAS extrasolar-life piece (May 15)** — failed to fetch (Cloudflare); if the user wants it, an alternate mirror or a manual paste could recover it.
+
+## [2026-06-01] ingest | UFO news sweep (3 articles)
+
+Fetched via /ufo-news. Dispatched 8 parallel search tracks; triaged to 5 surviving candidates; 3 ingested in parallel (2 correctly skipped as 2025-dated dupes — a House Oversight "Luna hearing" page with a misleading May-2026 timestamp but Sep-2025 body, and a Dec-2025 Liberation Times "transparency stalls" piece already in the vault).
+
+New sources: [[src-3i-atlas-heavy-water-2026-05]], [[src-3i-atlas-dual-spacecraft-imaging-2026-05]], [[src-nasa-orbital-biosignature-algae-ai-2026-05]]
+New entities: [[alma]], [[kurt-retherford]], [[michelle-gierach]], [[kelly-luis]]
+New concepts: [[deuterium]]
+Updated: [[3i-atlas]], [[interstellar-objects]], [[southwest-research-institute]], [[juice]], [[europa-clipper]], [[nasa-jpl]], [[noaa]], [[biosignatures]], [[terrestrial-technosignature]], [[american-geophysical-union]], [[keith-cowing]], [[astrobiology-com]]
+
+**Cross-connections / contradictions flagged:**
+- **Two independent 3I/ATLAS science results converge on "interstellar origin confirmed via composition."** [[src-3i-atlas-heavy-water-2026-05]] (isotopic: anomalous [[deuterium|D/H]] ~30× solar-system comets) and [[src-3i-atlas-dual-spacecraft-imaging-2026-05]] (UV: elevated carbon emissions) both use compositional anomalies to corroborate the comet's extrasolar birthplace. Together they give [[3i-atlas]] its first mainstream-astronomy composition data — a counterweight to the speculative [[avi-loeb|Loeb]] "Trojan Horse" framing previously dominant on that page, and distinct from the earlier FAST radio-technosignature null ([[src-fast-3i-atlas-technosignature-search-2026-03]]).
+- **SwRI emerges as a multi-mission hub.** [[southwest-research-institute]] was previously only the [[juno|Juno]]/[[scott-bolton]] home; it now also leads the UVS instruments on both [[juice|JUICE]] and [[europa-clipper|Europa Clipper]] (PI [[kurt-retherford]]), giving those two ocean-worlds missions an unexpected interstellar-object dimension.
+- **"Orbital biosignature recon" extends the Earth-as-calibration thread to BIOsignatures.** [[src-nasa-orbital-biosignature-algae-ai-2026-05]] is the biosignature sibling of the [[terrestrial-technosignature]] VIIRS calibration idea, and a third instance of the AI-in-detection cluster alongside [[src-raven-ai-tess-exoplanets-2026-05]] and [[src-seti-ai-breakthrough-listen-2025]]. Framing kept strictly as an Earth-science analogue — no ET/UAP claim.
+
+**Suggested follow-ups:**
+- **PURSUE Release 03 watch** — still only previewed (DoW Release 02 press release named it); not dropped as of June 1. Remains the next major disclosure-track ingest; recommend a dedicated re-check of war.gov/ufo in a few days.
+- **June 9 2026 Grusch press conference** — return sweep on/after June 9 to ingest the actual outcome vs. the May 29 advance announcement ([[src-grusch-disclosure-press-conference-2026-05]]).
+- **Avi Loeb 3I/ATLAS extrasolar-life piece (May 15)** — still uncaptured from a prior sweep (Cloudflare); a mirror or manual paste could recover it and would pair naturally with the two new 3I/ATLAS composition sources.

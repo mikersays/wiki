@@ -2,7 +2,7 @@
 title: Terrestrial Technosignature
 type: concept
 created: 2026-05-10
-updated: 2026-05-14
+updated: 2026-06-01
 ---
 
 # Terrestrial Technosignature
@@ -19,6 +19,8 @@ A **terrestrial technosignature** is an observable signature of human industrial
 ## Calibration role
 
 The motivating idea is that Earth itself is the only confirmed inhabited planet, so its emitted technosignature pattern serves as a calibration target for exoplanet [[direct-imaging]] and atmospheric retrieval. If a technosignature class is undetectable for present-day Earth at proposed instrument sensitivities, it is unlikely to detect comparable civilizations elsewhere.
+
+The same calibration logic has a **biosignature** sibling: Earth-observation remote sensing of biological signals (chlorophyll / phytoplankton blooms) ground-truths orbital life-detection on the only confirmed inhabited planet. [[nasa-jpl|NASA JPL]]'s self-supervised-ML harmful-algal-bloom detector ([[src-nasa-orbital-biosignature-algae-ai-2026-05]]) is the biosignature counterpart to the VIIRS nighttime-lights technosignature work. See [[biosignatures]].
 
 ## Mission relevance
 

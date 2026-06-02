@@ -1,6 +1,6 @@
 ---
 title: Index
-updated: 2026-05-30
+updated: 2026-06-01
 ---
 
 # Wiki Index
@@ -15,6 +15,8 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[src-aaro-kosloski-testimony-2024]] — New AARO director Kosloski acknowledges "very anomalous objects" in Senate testimony
 - [[src-aaro-shutdown-bill-2026]] — Rep. Burchett introduces H.R. 8197 to terminate AARO within 60 days
 - [[src-abc-pursue-release-2026-05]] — ABC News (Luis Martinez & Steve Beynon, May 8 2026) broadcast-network launch-day wire on PURSUE Release 01: military-operations geographic-clustering thesis, 2023 western-U.S. "most compelling" orb case, 2025 FBI helicopter-pursuit orb, Aldrin's Apollo 11 "possible laser" line, FBI ellipsoid-bronze composite sketch; Hegseth, Kirkpatrick "playhouse politics theater company," Trump
+- [[src-3i-atlas-dual-spacecraft-imaging-2026-05]] — Phys.org/SwRI (May 13 2026): SwRI-led UVS instruments on ESA JUICE and NASA Europa Clipper simultaneously imaged both hemispheres of interstellar comet 3I/ATLAS in Nov 2025; H/O/C emissions over ~5M km, elevated carbon corroborating interstellar origin; PI Kurt Retherford
+- [[src-3i-atlas-heavy-water-2026-05]] — ScienceDaily/U-Michigan (May 8 2026) on a *Nature Astronomy* study finding interstellar comet 3I/ATLAS holds anomalously deuterium-rich water (D/H ~30× solar-system comets, ~40× Earth's oceans), implying a far colder birthplace; first deuterated-water analysis of an interstellar object via MDM Observatory + ALMA
 - [[src-60-minutes-drone-swarms-2025]] — CBS 60 Minutes investigation of the Dec 2023 Langley drone swarm and multi-year pattern of sUAS incursions over U.S. military and nuclear sites
 - [[src-aaro-uap-data-collection-whitepaper-2026-03]] — AARO whitepaper from Aug 2025 AUI workshop on narrative-data standards, corpus-vs-narrative analysis, and witness-report field recommendations
 - [[src-abscicon26-media-tips-1-2026-05]] — Astrobiology.com (Keith Cowing, May 18 2026) reproduces AGU's first AbSciCon26 media tipsheet (Madison WI, May 17–22 2026; ~900 contributions) — assembly theory, magnetotactic-bacteria biosignatures, IR-photosynthesis red edge, Rimmer hycean early Earth, Brazelton subseafloor microbes, Sharpe humpback "missed NHI signals"
@@ -132,6 +134,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[src-metabunk-pursue-analysis-2026-05]] — Mick West's Metabunk thread on PURSUE Release 01: Reaper-UAS IR-and-parallax dominance (flarkey), PR-19 already leaked by Corbell (Ferriter), PR-48 = offshore wind turbines / lens artifacts / sensor floaters (Giddierone, John J.), "area of contrast" terminology (Jack), Apollo-era repackaging concerns (Harabeck)
 - [[src-mineral-false-positives-biosignatures-2026-05]] — Parkinson, Kaltenegger, Biller, Lach & McMahon (Cornell/Edinburgh, Astrobiology.com May 13 2026): sulfide minerals, tectosilicates, and potassium ferrocyanide reproduce the ~700 nm photosynthesis red edge, introducing a surface-mineral false-positive class for HWO biopigment searches
 - [[src-missing-witness-disclosure-analysis-2026-05]] — Fliegerfaust analysis linking Luna's SCIF claims, Trump's file-release promises, Pentagon deadline misses, and the Sullivan/McCasland missing-witness pattern
+- [[src-nasa-orbital-biosignature-algae-ai-2026-05]] — Astrobiology.com (Keith Cowing, May 25 2026) on a NASA JPL self-supervised-ML tool (Gierach, Luis, LaHaye) fusing five satellite missions/instruments (PACE, TROPOMI) to detect harmful algal blooms off Florida/California (AGU *Earth and Space Science*); Earth-observation remote-sensing analogue for biosignature-detection methodology
 - [[src-nasa-rosalind-franklin-implementation-2026-04]] — NASA approves ROSA implementation phase for ESA's Rosalind Franklin rover: Falcon Heavy launch, MOMA mass spectrometer, braking engines for 2028 Mars life-detection mission
 - [[src-nasa-seven-firms-biosignature-2026-05]] — Thin moneycontrol.com syndicated report on a claimed NASA partnership with seven (unnamed) tech firms for Mars/ocean-worlds biosignature detection; no firms named and no direct quotes
 - [[src-nbc-pursue-firsthand-encounters-2026-05]] — NBC News (Strickler, Long, Goldman, Gains; May 22 2026) first-hand-testimony feature on PURSUE Release 02: senior ODNI officer's late-2025 orange-orb helicopter encounter that "chased" fighter jets ("virtually speechless"), 1970 Los Alamos green-lights letter, 1972 CIA USSR concentric-circles sighting, 2023 Lake Huron downing, and NASA audio (Carpenter's 1962 Mercury "snowflakes", Apollo 12 1969)
@@ -244,6 +247,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[astrobiology-com]] — Astrobiology news aggregator edited by Keith Cowing; recurring vault source for press-release republication and conference coverage
 - [[akrotiri-and-dhekelia]] — UK Sovereign Base Areas in Cyprus; within range of Iranian ballistic missiles per 2024 parliamentary debate
 - [[alexandro-wiggins]] — Active-duty Navy SCPO; first active-duty Navy official to testify publicly before Congress about UAP; reported 2023 USS Jackson Tic Tac incident
+- [[alma]] — Atacama Large Millimeter/submillimeter Array; Chilean submillimeter interferometer able to distinguish deuterated from ordinary water; measured 3I/ATLAS's D/H ratio
 - [[alpha-centauri]] — Nearest stellar system to Earth (~4 ly); triple star with Alpha Cen A, B, and Proxima
 - [[alpha-centauri-a]] — Closest Sun-like star to Earth; host of a 2025 JWST gas giant candidate in its habitable zone
 - [[amy-williams]] — University of Florida geologist; lead author of the 2026 Curiosity TMAH organics paper; member of Curiosity and Perseverance science teams
@@ -442,6 +446,8 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[karin-austin]] — Managing Director of the John Mack Institute and Rice's Center For The Impossible; preserved and transferred Mack's archives; co-organizer of the 2026 "Breaking the Taboo" symposium
 - [[kimberly-engels]] — Molloy University philosopher; Research Director of the John Mack Institute; phenomenology-of-contact scholar; co-organizer of the 2026 "Breaking the Taboo" symposium
 - [[keith-cowing]] — Founder/editor of Astrobiology.com and SpaceRef; recurring astrobiology vault byline
+- [[kelly-luis]] — NASA JPL scientist; co-author on the orbital harmful-algal-bloom detection ML tool
+- [[kurt-retherford]] — SwRI principal investigator of the UVS instruments on JUICE and Europa Clipper; led the dual-spacecraft 3I/ATLAS UV observations
 - [[joseph-humire]] — Assistant Secretary of Defense; questioned by Vasquez over Feb 2026 El Paso/Fort Hancock airspace incidents
 - [[joseph-trevithick]] — The War Zone staff writer; recurring skeptical byline on PURSUE / UAP disclosure
 - [[jtf-ncr]] — Joint Task Force National Capital Region; DoD command for NCR homeland defense; partnered with JIATF-401 on the April 2026 Bumblebee exercise
@@ -494,6 +500,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[matthew-livelsberger]] — Former Green Beret; died Jan 1 2025 in Las Vegas Trump Hotel vehicle detonation; classified manifesto containing alleged UAP/anti-gravitic claims under Pentagon control
 - [[matthew-roberts]] — Former Office of Naval Intelligence cryptologist; experiencer; aboard USS Theodore Roosevelt during Gimbal/Go Fast collection; author of *Initiated*
 - [[matthew-steckman]] — Anduril president and chief business officer; clarified the March 2026 $20B Army IDIQ is an ordering ceiling, not obligated funding
+- [[michelle-gierach]] — NASA JPL scientist; led the self-supervised-ML satellite-fusion harmful-algal-bloom detection tool
 - [[michelle-l-hill]] — UC Riverside planetary scientist; lead author of the 2026 STEHM lower-size-limit paper
 - [[max-planck-institute-for-astronomy]] — MPIA (Heidelberg); led 2026 JWST Epsilon Indi Ab study; contributed MIRI filter-wheel hardware; Roman partner
 - [[micah-hanks]] — Journalist/editor at The Debrief; *Intelligence Brief* columnist covering AARO (Nov 2024) and the May 8, 2026 PURSUE launch
@@ -778,6 +785,7 @@ A catalog of all pages in this wiki, organized by type. Updated on every ingest.
 - [[coyote-interceptor]] — Raytheon kinetic counter-drone interceptor; primary CENTCOM hard-kill effector
 - [[crash-retrieval-programs]] — Alleged classified U.S. government programs to recover crashed craft of non-human origin
 - [[deinococcus-radiodurans]] — Polyextremophile bacterium tolerating ~2 GPa transient pressures and interplanetary radiation/cold/desiccation; canonical panspermia exemplar
+- [[deuterium]] — Hydrogen isotope and the D/H (heavy-water) ratio used as a chemical fingerprint of an icy body's formation temperature/environment
 - [[directed-energy-weapons]] — High-energy lasers and high-powered microwaves for C-UAS; basis for the May 2026 JIATF-401 5-base pilot
 - [[directed-panspermia]] — Deliberate seeding of exoplanet habitable zones via interstellar-object-carried capsules; Loeb's 3I/ATLAS proposal
 - [[disclosure-as-distraction]] — Thesis that PURSUE releases serve as political misdirection from Iran war, Epstein files, and other accountability pressures (Massie, Novak/Gizmodo, Neelakandan/Swarajya)

@@ -2,7 +2,7 @@
 title: Biosignatures
 type: concept
 created: 2026-04-13
-updated: 2026-05-25
+updated: 2026-06-01
 ---
 
 # Biosignatures
@@ -102,6 +102,10 @@ The 2026 NASA [[invow|Investigating Ocean Worlds]] project (PI [[chris-german]],
 
 The Orpheus Mars hopper mission proposal ([[src-orpheus-mars-volcanic-hopper-2026-04]]) targets Cerberus Fossae volcanic vents — specifically "Vent #5" on Cerberus Tholus 1 — as extant-life biosignature sites. [[connor-bunn]] and [[pascal-lee]] ([[seti-institute]]) argue vents provide sustained heat and volatile circulation (including water vapor), making them superior to lava-tube skylights for astrobiology. See also [[mars-caves]].
 
+## Earth-observation remote-sensing analogue
+
+Detecting a known biological signal on the one confirmed inhabited planet is a ground-truthable proxy for remote life-detection. [[nasa-jpl|NASA JPL]] scientists [[michelle-gierach]] and [[kelly-luis]] used self-supervised machine learning to fuse multi-satellite ocean-color data (PACE, TROPOMI) and detect harmful algal blooms off Florida and California — the same fuse-heterogeneous-data-plus-ML problem faced when interpreting exoplanet and [[ocean-worlds|ocean-world]] datasets ([[src-nasa-orbital-biosignature-algae-ai-2026-05]]). This is the biosignature counterpart to the [[terrestrial-technosignature]] calibration idea, and a third instance of the AI-in-detection thread alongside [[src-raven-ai-tess-exoplanets-2026-05]] and [[src-seti-ai-breakthrough-listen-2025]]. (Framing is strictly an Earth-science analogue — no ET claim.)
+
 ## See Also
 
 - [[astrobiology]]
@@ -123,4 +127,5 @@ The Orpheus Mars hopper mission proposal ([[src-orpheus-mars-volcanic-hopper-202
 - [[src-alien-biology-detection-method-2026-05]]
 - [[src-abscicon26-media-tips-1-2026-05]]
 - [[src-whoi-invow-ocean-worlds-2026-05]]
+- [[src-nasa-orbital-biosignature-algae-ai-2026-05]] — Earth-observation HAB-detection ML as a remote biosignature-detection analogue
 - [[src-jwst-wasp-94ab-weather-cycle-2026-05]] — limb-asymmetric cloud cover (demonstrated on [[hot-jupiter]] [[wasp-94ab]]) can bias full-disc transmission spectra, producing false signals or masked detections; limb separation is a method to reduce this averaging bias for habitable-zone targets. Reinforces the "parallel interpretations" caveat on [[transmission-spectroscopy]].
